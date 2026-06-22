@@ -6,24 +6,28 @@ dst = Path("fragments_html")
 
 dst.mkdir(exist_ok=True)
 
-for f in src.iterdir():
+links = []
+
+for f in sorted(src.iterdir()):
     if not f.is_file():
         continue
 
     text = f.read_text(encoding="utf-8", errors="ignore")
+    title = f.name
+    output_file = dst / f"{f.name}.html"
 
     html = f"""<!doctype html>
 <html lang="sv">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{f.name}</title>
+  <title>{escape(title)}</title>
   <link rel="stylesheet" href="../style.css">
 </head>
 <body>
   <main>
     <header class="site-header">
-      <h1>{f.name}</h1>
+      <h1>{escape(title)}</h1>
     </header>
 
     <section>
@@ -38,6 +42,44 @@ for f in src.iterdir():
 </html>
 """
 
-    (dst / f"{f.name}.html").write_text(html, encoding="utf-8")
+    output_file.write_text(html, encoding="utf-8")
+    links.append(f'        <li><a href="fragments_html/{f.name}.html">{escape(title)}</a></li>')
 
-print(f"Generated {len(list(src.iterdir()))} HTML files in {dst}")
+library_html = f"""<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Library of Fragments</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <header class="site-header">
+      <p class="label">fragment archive / source material</p>
+      <h1>Library of Fragments</h1>
+      <p class="lead">
+        En samling av textfragment som utgör byggstenarna i verket.
+      </p>
+    </header>
+
+    <section aria-labelledby="fragments">
+      <h2 id="fragments">Fragments</h2>
+
+      <ul class="links">
+{chr(10).join(links)}
+      </ul>
+    </section>
+
+    <section aria-labelledby="home">
+      <h2 id="home">Back</h2>
+      <p><a href="index.html">Tillbaka till Anomalierna</a></p>
+    </section>
+  </main>
+</body>
+</html>
+"""
+
+Path("library.html").write_text(library_html, encoding="utf-8")
+
+print(f"Generated {len(links)} fragment HTML files and library.html")
