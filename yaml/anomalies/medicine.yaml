@@ -1,0 +1,9 @@
+---
+id: medicine
+title: Medicine
+status: placeholder
+description: Medical observations, functional levels, and conditions that are not easily explained by prevailing categories.
+examples: []
+questions:
+  - When does function contradict prognosis?
+  - Which diagnoses describe suffering but miss variation?

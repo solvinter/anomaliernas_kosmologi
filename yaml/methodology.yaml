@@ -1,0 +1,13 @@
+---
+id: methodology
+title: Methodology
+status: placeholder
+principles:
+  - observations_before_conclusions
+  - preserve_questions
+  - distinguish_description_from_interpretation
+  - keep_material_readable_for_humans_and_machines
+format:
+  source: YAML
+  license: TBD
+  versioning: git

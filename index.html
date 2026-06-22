@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Anomalierna is an open YAML-based archive for observations that do not easily fit established models." />
+  <title>anomalierna.solvinter.io</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <header class="site-header" aria-labelledby="title">
+      <p class="label">open archive / yaml-based documentation</p>
+      <h1 id="title">Anomalierna</h1>
+      <p class="lead">
+        Anomalierna is an open project for documenting and investigating
+        observations that do not easily fit established models of human beings,
+        society, and nature.
+      </p>
+
+      <aside class="status" aria-labelledby="status-title">
+        <h2 id="status-title">Status</h2>
+        <dl>
+          <div>
+            <dt>Source</dt>
+            <dd>YAML</dd>
+          </div>
+          <div>
+            <dt>Format</dt>
+            <dd>Open</dd>
+          </div>
+          <div>
+            <dt>License</dt>
+            <dd>TBD</dd>
+          </div>
+        </dl>
+        <p>This website is a rendered view of the underlying archive.</p>
+      </aside>
+    </header>
+
+    <section aria-labelledby="project">
+      <h2 id="project">What is the project?</h2>
+      <p>
+        An anomaly does not have to be supernatural or inexplicable. In science,
+        many discoveries begin as anomalies: observations that do not match
+        prevailing theories or expectations.
+      </p>
+      <p>
+        Anomalies can be found in scientific data, medical observations,
+        technology, culture, or individual human cases.
+      </p>
+    </section>
+
+    <section aria-labelledby="definition">
+      <h2 id="definition">What counts as an anomaly?</h2>
+      <p>
+        A person who demonstrates high function despite a diagnosis that would
+        normally imply significant limitation can constitute an anomaly. An
+        experimental result that recurs even though it does not fit the
+        established model can be another. The same applies to social phenomena
+        that appear repeatedly without being easily explained.
+      </p>
+      <p>
+        The purpose of the project is not to establish final answers, but to
+        preserve questions.
+      </p>
+      <p>
+        To document anomalies is to acknowledge that our understanding of the
+        world is always incomplete. Historically, many of science's most
+        important advances began when someone took a deviation seriously instead
+        of dismissing it.
+      </p>
+      <p>
+        Anomalierna is therefore an archive of things that deserve closer
+        examination.
+      </p>
+      <p>Not because every anomaly will change our worldview.</p>
+      <p>But because some of them can.</p>
+    </section>
+
+    <section aria-labelledby="method">
+      <h2 id="method">Method</h2>
+      <p>
+        All information in Anomalierna is stored in open YAML files.
+      </p>
+      <p>
+        YAML functions as the project's raw material: observations, categories,
+        relations, and comments are stored in a format readable by both humans
+        and machines.
+      </p>
+      <p>The material can later be processed and rendered into different forms:</p>
+      <ul>
+        <li>websites</li>
+        <li>reports</li>
+        <li>books</li>
+        <li>visualisations</li>
+        <li>knowledge graphs</li>
+        <li>research notes</li>
+      </ul>
+      <p>
+        The published material is therefore not a finished product, but a living
+        knowledge base.
+      </p>
+    </section>
+
+    <section aria-labelledby="yaml-source">
+      <h2 id="yaml-source">YAML as source material</h2>
+      <p>
+        The website is only one possible view of the archive. The same source
+        material can be versioned, reviewed, restructured, and rendered in other
+        formats without rewriting the observations.
+      </p>
+      <pre><code>source: yaml
+principle: observations_before_conclusions
+renderings:
+  - web
+  - reports
+  - books
+  - visualisations
+  - knowledge_graphs</code></pre>
+    </section>
+
+    <section aria-labelledby="repository">
+      <h2 id="repository">Repository structure</h2>
+      <details open>
+        <summary>Show structure</summary>
+        <pre><code>anomalierna/
+│
+├── README.md
+├── methodology.yaml
+│
+├── anomalies/
+│   ├── perception.yaml
+│   ├── medicine.yaml
+│   ├── society.yaml
+│   └── science.yaml
+│
+├── relations/
+│   └── relations.yaml
+│
+├── categories/
+│   └── categories.yaml
+│
+└── output/
+    ├── web/
+    ├── reports/
+    └── books/</code></pre>
+      </details>
+    </section>
+
+    <section aria-labelledby="archive-links">
+      <h2 id="archive-links">Archive links</h2>
+      <ul class="links">
+        <li><a href="yaml/methodology.yaml">methodology.yaml</a></li>
+        <li><a href="yaml/anomalies/perception.yaml">anomalies/perception.yaml</a></li>
+        <li><a href="yaml/anomalies/medicine.yaml">anomalies/medicine.yaml</a></li>
+        <li><a href="yaml/anomalies/society.yaml">anomalies/society.yaml</a></li>
+        <li><a href="yaml/anomalies/science.yaml">anomalies/science.yaml</a></li>
+        <li><a href="yaml/relations/relations.yaml">relations/relations.yaml</a></li>
+        <li><a href="yaml/categories/categories.yaml">categories/categories.yaml</a></li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
