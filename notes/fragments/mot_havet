@@ -1,5 +1,138 @@
 
-
+---
+id: mot_havet
+title: Mot havet
+type: fragment
+part:
+  - del_i_avslutning
+timeline:
+  - efter_tunneln
+  - fore_farjan
+  - fore_del_ii
+themes:
+  - overgang
+  - riktning
+  - overlamnande
+  - gransen_mellan_varldar
+  - tillit
+  - stillhet
+  - geografi_som_psykologi
+motifs:
+  - havet
+  - farjan
+  - hamnen
+  - kajen
+  - klipporna
+  - ljuset
+  - regnet
+  - bilen
+  - vagen
+characters:
+  - protagonisten
+places:
+  - stromstad
+  - hamnen
+  - kajen
+  - havet
+  - farjeleden
+functions:
+  - avslutar_en_tidigare_livsfas
+  - forbereder_passagen_till_norge
+  - later_landskapet_overta_berattelsen
+  - minskar_jagets_kontroll
+  - etablerar_havet_som_liminalt_rum
+symbols:
+  havet:
+    meaning:
+      - overgang
+      - det_okanda
+      - transformation
+      - det_som_inte_later_sig_kontrolleras
+  farjan:
+    meaning:
+      - passage
+      - irreversibilitet
+      - forflyttning_mellan_identiteter
+  hamnen:
+    meaning:
+      - troskel
+      - vantan
+      - sista_fastlandet
+  klipporna:
+    meaning:
+      - geologisk_tid
+      - nagot_aldre_an_manskliga_berattelser
+      - stabilitet
+  den_morka_spegeln:
+    meaning:
+      - reflektion
+      - sjalvobservation
+      - osaker_grans_mellan_inre_och_yttre
+  den_lilla_baten:
+    meaning:
+      - fortsatt_narvaro
+      - andning
+      - livstecken
+core_questions:
+  - vart_ar_jag_pa_vag
+  - vad_lamnar_jag_bakom_mig
+  - ar_resan_framat_eller_bort
+  - nar_blir_en_geografisk_rorelse_en_existentiell_rorelse
+psychological_state:
+  - utmattad
+  - accepterande
+  - mindre_kampande
+  - mellan_identiteter
+  - mottaglig_for_forandring
+fragmentation_level:
+  value: high
+  reason: >
+    Fragmentet utspelar sig i ett liminalt tillstand.
+    Korta stycken och ⁂ markerar att protagonisten
+    inte langre upplever resan som en sammanhangande
+    handelsekedja utan som en serie overgangar.
+style:
+  - poetisk
+  - meditativ
+  - sensorisk
+  - geografisk
+  - overgangsprosa
+references:
+  - liminalitet
+  - overfarter
+  - nordiskt_kustlandskap
+  - orfeus
+  - tarkovskij
+connections:
+  linked_fragments:
+    - tunneln
+    - farjan
+    - hotellet
+    - aterkomsten
+  recurring_motifs:
+    - vatten
+    - passage
+    - ljus
+    - transportmedel
+closing_image:
+  scene: |
+    Han sitter kvar i bilen vid kajen.
+    Havet ligger stilla framför honom.
+    Färjan väntar.
+    Han vet ännu inte om han reser mot något
+    eller bort från något.
+closing_meaning:
+  - beslutet_ar_redan_fattat
+  - resan_har_borjat_innan_farjan_avgatt
+  - det_forflutna_har_forlorat_sitt_grepp
+transition_to:
+  - farjan
+  - norge
+  - hotellet
+  - del_ii
+final_line_candidate: >
+  Eller om den bara skulle hjälpa mig att lämna något bakom mig.
+---
 Mot havet
 
 När jag passerade de sista tunnlarna innan Strömstad
