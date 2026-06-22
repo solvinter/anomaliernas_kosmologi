@@ -7,11 +7,13 @@
   <title>anomalierna.solvinter.io</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
   <main>
     <header class="site-header" aria-labelledby="title">
       <p class="label">open archive / yaml-based documentation</p>
       <h1 id="title">Anomalierna</h1>
+
       <p class="lead">
         Anomalierna is an open project for documenting and investigating
         observations that do not easily fit established models of human beings,
@@ -85,8 +87,8 @@
       </p>
       <p>
         YAML functions as the project's raw material: observations, categories,
-        relations, and comments are stored in a format readable by both humans
-        and machines.
+        relations, comments, and fragments are stored in a format readable by
+        both humans and machines.
       </p>
       <p>The material can later be processed and rendered into different forms:</p>
       <ul>
@@ -96,6 +98,7 @@
         <li>visualisations</li>
         <li>knowledge graphs</li>
         <li>research notes</li>
+        <li>fragment libraries</li>
       </ul>
       <p>
         The published material is therefore not a finished product, but a living
@@ -110,6 +113,7 @@
         material can be versioned, reviewed, restructured, and rendered in other
         formats without rewriting the observations.
       </p>
+
       <pre><code>source: yaml
 principle: observations_before_conclusions
 renderings:
@@ -117,7 +121,8 @@ renderings:
   - reports
   - books
   - visualisations
-  - knowledge_graphs</code></pre>
+  - knowledge_graphs
+  - fragmented_library</code></pre>
     </section>
 
     <section aria-labelledby="repository">
@@ -141,6 +146,9 @@ renderings:
 ├── categories/
 │   └── categories.yaml
 │
+├── fragmented-library/
+│   └── fragments.yaml
+│
 └── output/
     ├── web/
     ├── reports/
@@ -158,6 +166,7 @@ renderings:
         <li><a href="yaml/anomalies/science.yaml">anomalies/science.yaml</a></li>
         <li><a href="yaml/relations/relations.yaml">relations/relations.yaml</a></li>
         <li><a href="yaml/categories/categories.yaml">categories/categories.yaml</a></li>
+        <li><a href="library.html">fragmented-library</a></li>
       </ul>
     </section>
   </main>
