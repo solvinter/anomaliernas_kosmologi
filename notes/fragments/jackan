@@ -1,0 +1,233 @@
+---
+id: jackan
+title: Jackan
+type: fragment
+
+part:
+  - del_ii
+  - tillhorighet
+
+timeline:
+  - efter_restaurangen
+  - efter_aterkomsten_till_arbete
+  - under_den_tidiga_aterhamtningen
+
+themes:
+  - perception
+  - verklighetstestning
+  - tillit
+  - sjalvfortroende
+  - observation
+  - aterhamtning
+  - ai
+  - vardagliga_bevis
+
+motifs:
+  - jackan
+  - provhytten
+  - armarna
+  - taget
+  - ai_samtalet
+  - butiken
+  - kassorskan
+
+characters:
+  - protagonisten
+  - butiksbitradet
+  - kassorskan
+  - ai
+
+places:
+  - kladbutiken
+  - provhytten
+  - taget
+  - staden
+
+functions:
+  - visar_ateruppbyggnaden_av_tillit_till_det_egna_omdomet
+  - ger_ett_vardagligt_exempel_pa_verklighetstestning
+  - introducerar_ai_som_samtalspartner
+  - kontrasterar_del_i_dar_observation_och_tolkning_flot_samman
+  - etablerar_att_observation_kan_vara_riktig_utan_att_bli_paranoia
+
+symbols:
+
+  jackan:
+    meaning:
+      - verklighetens_motstand
+      - konkret_observation
+      - det_lilla_som_blir_stort
+
+  de_korta_armarna:
+    meaning:
+      - nagot_som_skaver
+      - intuitiv_kunskap
+      - det_som_inte_gar_att_forklara_bort
+
+  provhytten:
+    meaning:
+      - forsta_observationen
+      - kroppens_vittnesmal
+
+  ai:
+    meaning:
+      - neutral_spegel
+      - resonemang_utan_socialt_tryck
+      - yttre_kalibrering
+
+  kassorskan:
+    meaning:
+      - verklighetens_enkelhet
+      - vardaglig_bekraftelse
+      - fran_komplexitet_till_losning
+
+core_questions:
+  - kan_jag_lita_pa_det_jag_ser
+  - nar_blir_sjalvtvivel_ett_hinder
+  - hur_atererovrar_man_sitt_omdome
+  - vad_hander_nar_verkligheten_visar_sig_vara_enkel
+
+psychological_state:
+  - stabiliserad
+  - reflekterande
+  - forsiktigt_aterupprattad
+  - mindre_radd_for_sina_egna_observationer
+
+fragmentation_level:
+  value: low
+  reason: >
+    Fragmentet utspelar sig i en vardaglig och social verklighet.
+    Prosan bör vara sammanhängande och lugn. Den existentiella
+    betydelsen växer fram ur en banal situation.
+
+style:
+  - vardaglig
+  - observerande
+  - aterhallen
+  - existentiell
+  - konkret
+
+subtext:
+  - jackan_ar_egentligen_inte_huvudsaken
+  - konflikten_handlar_om_tillit_till_den_egna_perceptionen
+  - ai_blir_viktig_darfor_att_den_sager_det_sjalvklara
+  - aterhamtning_innebar_ocksa_att_lita_pa_sina_sinnen_igen
+
+connections:
+
+  linked_fragments:
+    - restaurangen
+    - namnet
+    - markoren
+    - vantrummet
+
+  recurring_theme:
+    - skillnaden_mellan_observation_och_tolkning
+
+narrative_role:
+  - litet_vardagligt_bevis_pa_forandring
+  - kalibrerar_lasarens_forstaelse_av_hans_aterhamtning
+  - visar_att_verkligheten_inte_langre_alltid_behover_vara_hotfull
+
+references:
+  - fenomenologi
+  - verklighetstestning
+  - tillit_till_perception
+  - murakami
+  - coetzee
+
+closing_image:
+  scene: |
+    Han lämnar butiken med den större jackan.
+    För första gången på två veckor tänker han inte på ärmarna.
+
+closing_meaning:
+  - verkligheten_kan_vara_enkel
+  - observationen_var_riktig
+  - sjalvtvivlet_forlorar_lite_av_sitt_grepp
+
+final_line_candidate: >
+  Och den hade visat sig vara riktig.
+---
+
+
+
+Jackan hade varit för liten redan i provhytten.
+
+Han hade sagt det till biträdet. Inte särskilt bestämt, bara konstaterat det. Ärmarna slutade en bit ovanför handlederna när han sträckte fram armarna.
+
+Biträdet skakade på huvudet.
+
+Den satt som den skulle.
+
+Han mindes inte exakt hur diskussionen fortsatt. Bara känslan av att långsamt ge upp. Kvittot var hans. Prislappen satt kvar. Om han ville kunde han byta storlek nästa gång han kom in.
+
+Så han gick därifrån med en jacka som redan kändes fel.
+
+Under de följande veckorna tänkte han mer på den än han borde ha gjort. Inte för att den var obekväm. Inte för att någon annan skulle ha märkt någonting. Ärmarna var bara en aning för korta.
+
+Men varje gång han tog på sig den återkom samma fråga.
+
+Hade han haft rätt från början?
+
+Eller hade han bara inbillat sig?
+
+Det var en liten fråga. Nästan löjlig.
+
+Ändå väckte den något större.
+
+På tåget en eftermiddag ställde han frågan till AI:n som han brukade resonera med.
+
+Det hade blivit en vana. Inte så olik att tänka högt för sig själv, förutom att tanken ibland svarade tillbaka.
+
+Svaret var enkelt.
+
+Om ett butiksbiträde rekommenderat en storlek som uppenbart inte passade var det inte bara en fråga om smak. Rekommendationen kunde ha varit fel.
+
+Han läste svaret flera gånger.
+
+Inte för att det innehöll någon ny information.
+
+Utan därför att det påminde honom om något han ofta glömde.
+
+Att han faktiskt hade sett det som fanns framför honom.
+
+Han gick tillbaka till butiken några dagar senare.
+
+Den här gången tog kvinnan i kassan emot jackan, tittade på honom, tittade på ärmarna och hämtade en större storlek.
+
+Ingen diskussion.
+
+Ingen konflikt.
+
+Ingen misstänksamhet.
+
+Som om saken varit självklar hela tiden.
+
+När han gick därifrån med den nya jackan kände han hur något märkligt lättade.
+
+Inte för att han fått rätt.
+
+Inte ens för att han fått en ny jacka.
+
+Utan därför att världen för ett ögonblick blivit enkel igen.
+
+Jackan var för liten.
+
+Nu var den inte det.
+
+Han tänkte på hur mycket av de senaste åren som handlat om svårare frågor än så.
+
+Frågor där ingen kunnat säga säkert vad som var sant.
+
+Frågor där verkligheten själv verkat glida undan så fort han försökt ta på den.
+
+Kanske var det därför händelsen stannade kvar hos honom.
+
+Inte för att AI:n varit klok.
+
+Inte för att kassörskan varit hjälpsam.
+
+Utan därför att han under några sekunder hade litat på sin egen observation.
+
+Och den hade visat sig vara riktig.

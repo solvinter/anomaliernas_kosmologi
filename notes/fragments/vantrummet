@@ -1,0 +1,209 @@
+---
+id: vantrummet
+title: Väntrummet
+type: fragment
+
+part:
+  - del_ii
+  - tillhorighet
+
+timeline:
+  - efter_samtalet
+  - efter_aterkomsten_till_vardcentralen
+  - fore_fordjupad_patientroll
+
+themes:
+  - ansvar
+  - omsorg
+  - professionella_granser
+  - tillit
+  - skam
+  - valdets_efterklang
+  - aterintrade_i_samhallet
+  - relationell_reparation
+
+motifs:
+  - vantrummet
+  - luckan_i_schemat
+  - journalsystemet
+  - broschyren
+  - blamarket
+  - den_olasta_dorren
+  - rattintyget
+  - skarmen_som_vittne
+
+characters:
+  - protagonisten
+  - kvinnan
+  - skoterskan
+  - den_vantande_patienten
+
+places:
+  - vardcentralen
+  - vantrummet
+  - lakarrummet
+  - korridoren
+
+functions:
+  - fortsatter_samtalet_fran_tidigare_fragment
+  - visar_att_hon_aterkommer_trots_avbrottet
+  - forvandlar_skuld_till_handling
+  - visar_protagonisten_i_en_mer_integrerad_lakarroll
+  - etablerar_en_tillitsfull_men_skar_grans_mellan_dem
+  - visar_hur_institutionen_bade_skyddar_och_begransar
+
+symbols:
+
+  vantrummet:
+    meaning:
+      - mellanrum_mellan_liv_och_vard
+      - plats_for_utsatthet
+      - socialt_offentlig_skam
+
+  luckan_i_schemat:
+    meaning:
+      - beredskap
+      - dold_omsorg
+      - plats_gjord_for_den_som_kanske_inte_kommer
+
+  blamarket:
+    meaning:
+      - valdets_synliga_spår
+      - sanningen_som_inte_langre_gommer_sig
+      - kroppens_vittnesmal
+
+  den_olasta_dorren:
+    meaning:
+      - professionell_forsiktighet
+      - gammalt_overlevnadsmönster
+      - grans_mellan_trygghet_och_instangdhet
+
+  journalsystemet:
+    meaning:
+      - institutionens_blick
+      - dokumentation
+      - det_tredje_vittnet_i_rummet
+
+  rattintyget:
+    meaning:
+      - overgangen_fran_berattelse_till_bevis
+      - kroppens_oversattning_till_systemets_sprak
+      - mojlighet_till_upprattelse
+
+core_questions:
+  - vad_ar_det_att_hjalpa_utan_att_ta_over
+  - hur_ser_omsorg_ut_nar_den_maste_ga_genom_en_institution
+  - kan_han_vara_lakare_utan_att_forlora_sin_mansklighet
+  - kan_hon_beratta_utan_att_forlora_kontroll
+  - nar_blir_dokumentation_en_form_av_vittnesmal
+
+psychological_state:
+  protagonist:
+    - mer_samlad_an_i_samtalet
+    - skuld_omvandlad_till_handlingsberedskap
+    - professionellt_narvarande
+    - kroppsligt_drabbad
+    - forsiktig_med_egna_granser
+
+  kvinnan:
+    - skadad
+    - ambivalent
+    - skamsen_men_sokande
+    - vill_bli_sedd_utan_att_bli_forhort
+    - provar_om_tillit_fortfarande_ar_mojlig
+
+fragmentation_level:
+  value: low
+  reason: >
+    Scenen utspelar sig i ett socialt och professionellt sammanhang där
+    protagonisten har återfått viss struktur. Prosastyckena bör vara
+    sammanhängande och återhållna. Fragmentering kan användas sparsamt vid
+    kroppsliga reaktioner eller tystnader.
+
+style:
+  - sammanhallen_prosa
+  - aterhallen
+  - etiskt_spand
+  - kroppsligt_konkret
+  - dialogdriven
+  - lagmalt_intim
+
+ethical_tension:
+  - han_vill_hjalpa_utan_att_radda
+  - hon_vill_bli_mottagen_utan_att_forlora_sin_autonomi
+  - institutionen_erbjuder_skydd_men_kraver_form
+  - journalen_gor_berattelsen_verklig_men_ocksa_officiell
+
+narrative_risk:
+  - undvik_att_gora_henne_till_enbart_offer
+  - undvik_att_gora_honom_till_hjalte
+  - lat_spanningen_ligga_i_aterhallsamhet_och_granser
+  - valdet_ska_finnas_som_efterklang_snare_an_sensation
+
+revision_notes:
+  - bevara_den_lagmalt_etiska_tonen
+  - hall_kvar_blicken_pa_rummet_och_kropparna
+  - lat_blamarket_och_blanketten_bara_scenens_tyngd
+  - overforklara_inte_deras_gemensamma_historia
+  - frasen_jag_har_sett_dig_sadan_forut_bor_sta_kvar
+
+references:
+  - vardetik
+  - vittnesmal
+  - trauma
+  - coetzee
+  - den_goda_handlingen_som_forsoker_bli_tillracklig
+
+closing_image:
+  scene: |
+    Hon ser länge på blanketten.
+    Sedan nickar hon nästan omärkligt.
+    Han börjar skriva.
+
+closing_meaning:
+  - tystnad_blir_dokumentation
+  - skuld_blir_handling
+  - deras_relation_flyttas_in_i_systemets_form
+  - omsorgen_far_en_konkret_men_begransad_gestalt
+
+transition_to:
+  - rattintyget
+  - patientmoten
+  - lakarrollen
+  - fragment_om_dokumentation_och_vittnesmal
+
+final_line_candidate: >
+  Sedan nickade hon, knappt märkbart, och han började skriva.
+---
+
+har vi skrivit yaml för Väntrummet
+Hon kom inte den dagen.
+Han hade lämnat en lucka i schemat, sagt till sköterskan att flytta nästa patient en kvart om hon hörde av sig. Klockan blev fyra. Sedan fem. Han satt med journalsystemet öppet på en helt annan patient, en man med förhöjt blodtryck och oro för sin pension, och försökte hålla kvar koncentrationen där den skulle vara.
+Han ringde inte själv. Det hade han lärt sig, om inget annat under de år som gått: att ringa tillbaka var hans behov, inte hennes. Hennes tystnad fick vara hennes.
+Tre dagar senare stod hon i väntrummet utan att ha bokat.
+Samma jacka. Ett blåmärke under vänster öga som hon inte täckt med smink, som om hon velat att det skulle synas, eller inte bytt om att det gjorde det. Hon satt i ett av stolarna mot fönstret och bläddrade i en broschyr om influensavaccin utan att läsa den.
+Sköterskan kom in till honom mellan två patienter. "Hon som ringde. Hon är här nu."
+Han kände hur kroppen reagerade innan tanken hann. En tyngd i bröstet, inte obehaglig, mer som när man äntligen sätter ner något man burit för länge.
+Han klämde in henne mellan de bokade, bad den väntande mannen om ursäkt för förseningen.
+De satte sig i hans rum. Han stängde dörren men lät den stå olåst — ett gammalt mönster han aldrig riktigt skakat av sig, att aldrig stänga in sig själv helt med en annan människa, oavsett rummets syfte.
+"Jag ville inte att du skulle se mig sådan," sa hon. "Förra gången. På telefon."
+Han förstod inte direkt vilken gång hon menade. Det fanns flera "förra gången" mellan dem nu, lager på lager, och han var inte säker på vilket hon syftade på. Sedan förstod han: hon menade rösten, inte ansiktet. Att han hört henne gråta utan att se henne.
+"Jag har sett dig sådan förut," sa han.
+Han menade inte blåmärket. Han menade något äldre, från natten på bordet i den rökiga lägenheten, det andra ljuset hon burit då. Han visste inte om hon förstod referensen, eller om hon trodde han talade om någon helt annan gång, någon annan skada.
+Hon såg på honom som om hon väntade på fortsättningen.
+Han gav henne ingen. Vissa meningar var färdiga som de var.
+Hon vred på sig i stolen, drog jackan tätare om sig trots värmen i rummet. "Jag vet inte varför jag kom hit istället för akuten."
+"Du behöver inte veta det."
+"Du tror jag borde gå dit."
+"Jag tror du borde göra det som gör att du orkar imorgon. Om det är akuten, är det akuten. Om det är att sitta här en stund först, är det det."
+Hon log, ett kort, trött leende som inte nådde ögonen. "Du pratar fortfarande som en doktor."
+"Jag är fortfarande en doktor."
+"Det var inte vad jag menade."
+Han väntade.
+"Jag menade att du pratar som någon som vet vad det kostar att gå till akuten och säga allt högt. Inte bara som någon som läst om det."
+Han sa ingenting på det. Det var inte hans plats att bekräfta vad hon antydde, inte här, inte i det rummet, med journalen öppen på skärmen mellan dem som ett tredje vittne.
+Istället tog han fram blanketten för rättsintyg, vände den så hon kunde se den utan att behöva sträcka sig.
+"Vi kan börja med det här," sa han. "Bara om du vill. Inget annat behöver bestämmas idag."
+Hon såg på pappret länge. Längre än han väntat sig.
+Sedan nickade hon, knappt märkbart, och han började skriva.
+

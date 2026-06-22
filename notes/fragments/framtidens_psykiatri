@@ -1,0 +1,149 @@
+
+
+
+
+⸻
+
+id: framtidens_psykiatri
+title: Framtidens psykiatri
+type: future_reflection
+status: active
+importance: cornerstone
+
+timeline:
+
+* efter_ai_revolutionen
+* forskarkarriaren
+* retrospektiv_fran_2100_talet
+
+themes:
+
+* psykiatri
+* eeg
+* neurologi
+* ai
+* forskning
+* information
+* nosologi
+* medvetande
+* biologiska_signaturer
+
+motifs:
+
+* eeg_kurvor
+* databaser
+* journaler
+* signaler
+* havet
+* handledaren
+* monster_av_data
+
+characters:
+
+* protagonisten
+* neurologhandledaren
+* framtida_forskare
+
+places:
+
+* neurologkliniken
+* forskningsmiljon
+* stranden
+
+related_fragments:
+
+* diagnoser_och_information
+* tokens_i_natten
+* samvaro
+* sjalvets_karna
+* mellan_olika_verkligheter
+* psykos_och_de_andra
+
+functions:
+
+* etablerar_forskningskarriaren
+* binder_ihop_ai_och_psykiatri
+* introducerar_eeg_som_aterkommande_tema
+* problematiserar_symptombaserad_nosologi
+* ger_hopp_om_vetenskapliga_framsteg
+
+style:
+
+* framtidshistorisk
+* vetenskaplig
+* filosofisk
+* reflekterande
+
+symbols:
+eeg:
+meaning:
+- hjarnans_sprak
+- dold_information
+- signal_bakom_symptom
+
+databaserna:
+meaning:
+- kollektivt_minne
+- oupptackt_kunskap
+- historiens_spor
+
+havet:
+meaning:
+- det_okanda
+- kontinuitet
+- framtiden
+
+core_questions:
+
+* hur_mycket_information_har_vi_missat
+* kan_psykiatriska_tillstand_delas_in_pa_nya_satt
+* vad_hander_nar_ai_far_tillgang_till_medicinens_historia
+* hur_ska_hjarnans_funktion_matas
+
+voice:
+
+* framtida_berattare
+* forskaren
+
+codex_notes: >
+This fragment should feel like a retrospective from the early decades of
+AI-assisted medicine. The narrator is not claiming that EEG solved
+psychiatry, but that new analytical methods revealed patterns hidden in
+historical clinical data. The emotional tone is curiosity rather than
+certainty. The fragment serves as a bridge between the protagonist’s lived
+experience and his later scientific work.
+
+placement:
+suggested_section:
+- del_iii
+- epilog
+- framtidskapitel
+
+---
+v   
+
+Det hade börjat under randningen på neurologkliniken. En av handledarna hade tagit sig an honom och uppmuntrat hans nyfikenhet kring EEG och signalanalys. Medan många såg registreringarna som tekniska kurvor att snabbt tolka och sedan lägga åt sidan fascinerades han av att de representerade någonting mer fundamentalt: aktivitet i själva det organ som producerade tankar, minnen och upplevelser.
+
+Det var i början av AI-revolutionen.
+
+Under de första decennierna hade de största framstegen inte kommit från nya mätinstrument utan från nya sätt att förstå den information som redan fanns. Journaler, röntgenbilder, laboratorievärden och fysiologiska registreringar låg lagrade i enorma databaser. Mycket av materialet hade samlats in under årtionden utan att någon egentligen haft möjlighet att överblicka helheten.
+
+När de nya modellerna började analysera historiska patientdata uppstod oväntade samband.
+
+Mönster som tidigare varit osynliga framträdde mellan symptom, livsförlopp, hjärnavbildning och de sporadiska EEG-undersökningar som utförts genom åren. Det var sällan fråga om enkla svar. Snarare framträdde sannolikheter, nätverk av samband och biologiska signaturer som ingen tidigare kunnat se.
+
+Han hade ofta tänkt på det där.
+
+Under större delen av nittonhundratalet och början av tvåtusentalet hade psykiatrin huvudsakligen klassificerat människor utifrån beteenden, upplevelser och berättelser. Samtidigt var det märkligt hur sällan man faktiskt mätte hjärnans funktion direkt.
+
+Det var som om kardiologin skulle ha utvecklats utan EKG.
+
+Eller neurologin utan nervledningsundersökningar.
+
+Ingen trodde längre att EEG ensam kunde förklara människans lidande. Men många började misstänka att man under årtionden hade lämnat betydande mängder information outnyttjad.
+
+Kanske hade vissa tillstånd som betraktats som lika i själva verket varit biologiskt olika.
+
+Kanske hade olika vägar genom lidandet blandats samman därför att de såg likadana ut från utsidan.
+
+Och kanske, tänkte han ibland när han såg ut över havet, hade framtidens psykiatri börjat i de data som redan funnits där hela tiden. vill du skriva yaml
