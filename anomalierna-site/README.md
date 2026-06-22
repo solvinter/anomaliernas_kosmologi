@@ -24,3 +24,7 @@ anomalierna-site/
 ```
 
 Open `index.html` directly in a browser for local review.
+
+## Public URL
+
+The intended public host is `anomalierna.solvinter.io`.
