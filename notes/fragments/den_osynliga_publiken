@@ -1,0 +1,240 @@
+---
+id: den_osynliga_publiken
+title: Den osynliga publiken
+type: fragment
+status: draft
+
+part:
+  - del_2
+  - fältet
+
+timeline:
+  - efter_avdelningen
+  - tidig_tid_på_platsen
+  - före_marcus_fördjupas
+
+location:
+  - platsen
+  - lägenheten
+  - köket
+  - sängen
+
+themes:
+  - dysfunktion
+  - neurodivergens
+  - självmedicinering
+  - återhämtning
+  - perspektivskifte
+  - skam
+  - internaliserad_blick
+  - frihet
+  - identitet
+
+motifs:
+  - gatans_farmaceuter
+  - sängen
+  - mörkret_bakom_ögonlocken
+  - lakanen
+  - disken
+  - tvätten
+  - tv-programmet
+  - händerna
+  - den_osynliga_domstolen
+
+functions:
+  - visar_hur_läkemedelsfrågan_blir_existentiell
+  - konkretiserar_första_fungerande_dagen_på_platsen
+  - markerar_det_första_stora_inre_perspektivskiftet
+  - binder_samman_neurodivergens_och_självbild
+  - visar_att_han_börjar_lämna_andras_berättelse_om_honom
+
+symbols:
+  mörkret:
+    meaning:
+      - belöningssystemets_tystnad
+      - förlorad_riktning
+      - rädsla_att_inte_återvända
+
+  lakanen:
+    meaning:
+      - återtagande_av_vardagen
+      - kroppens_värdighet
+      - enkel_ordning
+
+  händerna:
+    meaning:
+      - självigenkänning
+      - handlingsförmåga
+      - återkomst_till_kroppen
+
+  den_osynliga_publiken:
+    meaning:
+      - internaliserade_bedömare
+      - ungdomens_sociala_domstol
+      - livet_som_recension
+      - falsk_spegel
+
+core_sentences:
+  - Han ville bara kunna resa sig ur sängen.
+  - När han slöt ögonen fanns inget ljus kvar.
+  - Det var inte lyckan. Inte euforin. Bara möjligheten att göra det som tidigare varit omöjligt.
+  - Det var som om någon vridit kameran.
+  - Han hade burit dem inom sig som en osynlig domstol.
+  - För första gången på många år skrattade han åt sig själv. Inte hånfullt. Ömt.
+
+style:
+  - prosastycken_som_andas
+  - lösa_rader_vid_vändpunkter
+  - psykologisk_realism
+  - konkret_vardag_före_reflektion
+  - ingen_moraliserande_ton
+
+principles:
+  - läkemedlet_är_katalysator_inte_budskap
+  - skriv_inifrån_funktionen_inte_utifrån_normen
+  - censurera_inte_det_konkreta
+  - romantisera_inte_illegaliteten
+  - låt_perspektivskiftet_bära_kapitlet
+
+connections:
+  previous:
+    - avdelningen
+    - ordningen
+    - platsen
+
+  next:
+    - marcus_pipa
+    - tobaksfältet
+    - natten
+    - förrådet
+
+notes: >
+  Fragmentet ska visa att det dramatiska inte är att protagonisten
+  använder en substans utanför vårdens ordning, utan att han för första
+  gången på länge får tillgång till funktion nog att se sitt eget liv
+  från sidan. Den verkliga händelsen är perspektivskiftet: han genomskådar
+  den osynliga publik som följt honom sedan ungdomen och börjar förstå att
+  han levt som om ett fåtal människor från en tidigare miljö fortfarande
+  hade rätt att recensera hans existens.
+---
+Skrev du yaml till detta Han visste att han inte borde göra det.
+
+Ändå gjorde han det.
+
+Det fanns människor på Platsen som visste hur man fick tag i nästan vad som helst. De kallades skämtsamt gatans farmaceuter, som om ordet gjorde verksamheten mindre farlig.
+
+Han frågade inte mycket.
+
+Han hade inte ork till moraliska resonemang längre.
+
+Han ville bara kunna resa sig ur sängen.
+
+De senaste veckorna hade kroppen blivit tyngre för varje morgon.
+
+Inte sorg.
+
+Inte ångest.
+
+Något annat.
+
+Som om själva viljan att röra sig hade monterats ned.
+
+Han kunde ligga i timmar och titta mot taket utan att ens orka hämta posten.
+
+När han slöt ögonen fanns inget ljus kvar.
+
+Bara ett kompakt mörker.
+
+Inte drömmar.
+
+Inte bilder.
+
+Bara frånvaron av allt.
+
+Han började undra om människor verkligen kunde komma tillbaka från ett sådant mörker.
+
+…
+
+Några timmar senare stod han och bytte lakan.
+
+Han tvättade.
+
+Diskade.
+
+Lagade mat.
+
+Såg ett helt tv-program från början till slut.
+
+Det var nästan komiskt.
+
+Inte lyckan.
+
+Inte euforin.
+
+Bara möjligheten att göra det som tidigare varit omöjligt.
+
+Han satte sig på sängen.
+
+Såg sina händer.
+
+Och det var då något märkligt hände.
+
+Inte ute i världen.
+
+Inuti.
+
+Det var som om någon vridit kameran.
+
+Han såg plötsligt sitt eget liv utifrån.
+
+Inte genom ögonen.
+
+Genom perspektivet.
+
+En tanke steg fram med en sådan självklarhet att han först skrattade.
+
+Vänta nu.
+
+Lever jag verkligen mitt liv som om jag fortfarande blir bedömd av människor från högstadiet?
+
+Han försökte formulera frågan en gång till.
+
+Långsammare.
+
+Av nästan åtta miljarder människor på jorden…
+
+…är det ett trettiotal människor från en liten stad som fortfarande avgör mitt värde?
+
+Han såg hur absurt det var.
+
+Människor han knappt längre kände.
+
+Människor han inte ens var säker på att han själv skulle söka deras uppskattning om han mötte dem idag.
+
+Ändå hade deras tänkta blick följt honom genom universitetet.
+
+Genom läkarutbildningen.
+
+Genom arbetet.
+
+Genom sammanbrottet.
+
+Genom ensamheten.
+
+Han hade burit dem inom sig som en osynlig domstol.
+
+Ingen hade bett honom göra det.
+
+De flesta tänkte sannolikt inte på honom alls.
+
+Ändå levde han som om varje beslut fortfarande skulle recenseras av dem.
+
+Han lutade sig tillbaka.
+
+Och för första gången på många år skrattade han åt sig själv.
+
+Inte hånfullt.
+
+Ömt.
+
+Som man skrattar åt ett barn som gått vilse därför att ingen visat vägen.

@@ -1,0 +1,77 @@
+id: notering_omarbetning_del_III
+
+status: utvecklingsanteckning
+
+gäller:
+  - periferin
+  - fältets_valuta
+  - den_osynliga_ekonomin
+  - växthusets_skymning_I
+  - växthusets_skymning_II
+  - proof_of_vitality
+  - arkitekturen_och_rytmen
+  - resonansens_etik
+  - hemmet_vid_gränsen
+
+observation:
+  nuvarande_versioner_innehåller_många_av_bokens_centrala_idéer
+  men_idéerna_är_ibland_mer_synliga_än_människorna
+
+problem:
+  - för_hög_abstraktionsnivå
+  - för_många_förklarande_dialoger
+  - framtidsvärlden_presenteras_före_att_den_upplevs
+  - filosofin_bär_scenen_istället_för_karaktärerna
+  - läsaren_ser_författarens_tankar_snarare_än_personernas_liv
+
+inspirationsriktning:
+
+  coetzee:
+    - låt_idéer_uppstå_ur_observation
+    - konkreta_människor_före_teori
+    - moraliska_frågor_genom_situationer
+    - återhållsam_prosa
+
+  murakami:
+    - vardag_före_metafysik
+    - stilla_samtal
+    - märklighet_som_smyger_sig_in
+    - symbolik_som_inte_förklaras
+
+  knausgaard:
+    - detaljerad_närvaro
+    - kroppslighet
+    - vardagliga_iakttagelser
+    - tankar_som_växer_fram_ur_händelser
+
+  oryx_and_crake:
+    - framtidsvärlden_visas_genom_fragment
+    - teknik_i_bakgrunden
+    - samhällsförändringar_anas_snarare_än_förklaras
+    - världsbygge_genom_konsekvenser
+
+princip:
+  låt_läsaren_upptäcka_världen
+  istället_för_att_världen_förklarar_sig_själv
+
+målsättning:
+  mindre_manifest
+  mer_roman
+
+kom_ihåg:
+  de_bästa_delarna_i_del_I_är_inte_idéerna_i_sig
+  utan_människorna_som_bär_dem
+
+arbetsstrategi:
+  - behåll_kärnidéer
+  - komprimera_teori
+  - öka_observation
+  - öka_friktion
+  - öka_mänsklig_närvaro
+  - låt_dialoger_innehålla_mer_osäkerhet
+  - låt_världen_visa_sig_genom_händelser
+
+bedömning:
+  materialet_bör_inte_kastas
+  materialet_bör_betraktas_som_apokryfiskt_råmaterial
+  för_en_senare_mer_litterär_omarbetning

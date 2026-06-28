@@ -1,0 +1,184 @@
+---
+id: andra_sidan
+title: Andra sidan
+type: fragment
+
+part:
+  - del_i_avslutning
+
+timeline:
+  - efter_tunneln
+  - efter_betelskeppet
+  - fore_del_ii
+
+themes:
+  - omtolkning
+  - aterkomst
+  - nad
+  - perception
+  - tillhorighet
+  - lakning
+  - forsoning
+
+motifs:
+  - skeppet
+  - bron
+  - ljuset
+  - muggen
+  - andningen
+  - rytmen
+  - andra_sidan
+
+characters:
+  - protagonisten
+  - skeppets_besokare
+
+places:
+  - betelskeppet
+  - kajen
+  - andra_sidan_av_alven
+
+functions:
+  - omtolkar_skeppets_betydelse
+  - avslutar_del_i
+  - visar_att_observatoren_forandrats
+  - forbereder_del_ii
+  - introducerar_nad_som_tema
+
+symbols:
+
+  skeppet:
+    meaning:
+      - exil
+      - tillflykt
+      - liminalitet
+      - gemenskap
+
+  bron:
+    meaning:
+      - passage
+      - transformation
+      - perspektivskifte
+
+  muggarna:
+    meaning:
+      - vardaglig_nad
+      - enkel_gemenskap
+      - manniskovarde
+
+  ljuset:
+    meaning:
+      - ny_perception
+      - forsoning
+      - aterkomst
+
+  andra_sidan:
+    meaning:
+      - nytt_perspektiv
+      - efter_psykosen
+      - efter_exilen
+
+core_questions:
+  - har_skeppet_forandrats_eller_jag
+  - vad_hander_nar_lidandet_omtolkas
+  - kan_en_plats_fa_en_ny_betydelse
+  - var_finns_lakningen
+
+psychological_state:
+  - lugnare
+  - mindre_fragmenterad
+  - mottaglig
+  - forsonande
+  - observerande
+
+fragmentation_level:
+  value: medium_to_high
+  reason: >
+    Fragmentet ligger fortfarande i ett liminalt rum men
+    innehaller mer sammanhang an tidigare skeppsscener.
+    Perspektivet har stabiliserats.
+
+style:
+  - meditativ
+  - kontemplativ
+  - poetisk
+  - sensorisk
+  - forsonande
+
+subtext:
+  - skeppet_har_alltid_haft_bada_sidorna
+  - det_var_protagonisten_som_inte_kunde_se_den_ena
+  - lakning_borjar_i_perceptionen
+  - nad_kan_finnas_i_de_mest_ansprakslosa_miljoerna
+
+references:
+  - liminalitet
+  - kristen_nad
+  - aterkomstmotiv
+  - murakami
+  - coetzee
+
+closing_image:
+  scene: |
+    Han står kvar på kajen.
+    Skeppet ligger stilla.
+    Han känner inget behov av att gå ombord.
+
+closing_meaning:
+  - skeppet_har_fullgjort_sin_funktion
+  - protagonisten_behover_inte_langre_raddas
+  - platsen_forvandlas_fran_exil_till_vila
+
+transition_to:
+  - mot_havet
+  - farjan
+  - del_ii
+
+final_line_candidate: >
+  Jag förundrades över det. Och över att jag kände mig mindre främmande här än jag gjort någon annanstans.
+---
+
+Kapitel 9 – Andra sidan
+Jag stod kvar vid kajen länge. Skeppet låg där, stilla i vattnet,
+men världen omkring det hade förändrats. Eller kanske var
+det jag som hade gjort det.
+Rörelserna på däck var desamma som förut, men jag såg dem
+annorlunda nu. De där kropparna som en gång verkat
+trasiga, förlorade i väntan eller rastlöshet – de bar plötsligt en
+annan rytm.
+Jag tänkte att Betelskeppet alltid haft två sidor. En som sög
+ner människor i mörkret. Och en som, mot alla odds, lyfte
+upp några av dem igen.
+Kanske var det det jag såg nu – en stillsam ordning i det till
+synes kaotiska. En tyst puls som höll ihop allt, trots allt.
+Människorna som rörde sig där inne verkade ha glidit utanför
+själva samhällsstrukturen. Utanför skola, arbete, hem. De
+hade ingen vardag att gå till, inget schema som höll dagen i
+form.
+De var helt beroende av små medel, av bidrag, tillfälliga jobb,
+pengar som räckte till kaffe, jobb, pengar till hyran för en
+sängplats.
+
+Och ändå fanns där något. Något jag inte mindes från
+skeppet på andra sidan bron.
+Det var som om deras tillvaro nu, trots all brist, var
+innesluten i ett högre medvetande. Inte samhällets, inte
+myndigheternas – men ett annat.
+En stillhet som inte var resignation, utan något slags ödmjuk
+klarhet. Som om själva skeppet, i all sin rost och lukt av
+soppa, bar dem i en större väv.
+Att deras liv, som sett ut att vara spillror, ändå var samlade i
+en rytm som hölls ihop av något jag inte kunde sätta ord på.
+Och jag tänkte: Kanske är det just här, på den andra sidan,
+som världen börjar läka.
+Inte i systemen. Inte i teorierna. Utan i de stilla andetagen
+hos dem som redan släppt taget.
+Jag såg på deras ansikten. Några log, några satt tysta med
+händerna runt sina muggar. Ljuset föll mjukt över deras hår,
+över deras rörelser, över deras stillhet.
+Jag kände inget behov av att gå ombord. Det räckte att se.
+Att förstå att skeppet inte längre var en plats av förlust, utan
+av vila. En plats som hörde både till världen – och till något
+bortom den.
+Jag förundrades över det. Och över att jag kände mig mindre
+främmande här än jag gjort någon annanstans.

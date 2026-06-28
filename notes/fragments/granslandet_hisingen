@@ -1,0 +1,171 @@
+id: granslandet_hisingen
+
+title: Gränslandet
+
+status: fragment
+
+type: transition
+
+part:
+  - del_2
+
+placement:
+  before:
+    - platsen
+  after:
+    - avdelningen
+
+function:
+  - markerar_overgangen_fran_stad_till_falt
+  - later_lasaren_andas
+  - introducerar_faltet_genom_landskapet
+  - etablerar_marginalen_som_plats
+  - antyder_solvinters_framvaxt
+
+themes:
+  - overgang
+  - periferi
+  - landskap
+  - marginal
+  - ljus
+  - tillhorighet
+  - goteborg
+  - natur_och_stad
+
+motifs:
+  - saab_95
+  - hisingen
+  - hamnen
+  - industrier
+  - akrar
+  - hastar
+  - grusvagen
+  - havsluften
+  - det_andra_ljuset
+
+symbols:
+
+  hisingen:
+    meaning:
+      - overgangszon
+      - mellan_stad_och_land
+      - mellan_det_gamla_och_det_nya
+
+  grusvagen:
+    meaning:
+      - passage
+      - initiation
+      - ny_riktning
+
+  ljuset:
+    meaning:
+      - igenkanning
+      - framtid
+      - harmoni
+      - platsens_inre_varde
+
+style:
+  - sammanhangande_prosa
+  - observerande
+  - coetzee
+  - murakami
+  - visa_inte_forklara
+
+principle:
+  - landskapet_bar_berattelsen
+  - inga_stora_ideer_uttalas
+  - ljuset_far_forbli_ett_mysterium
+  - marginalen_blir_romanens_centrum
+
+connections:
+  - platsen
+  - tobaksfaltet
+  - windy_bay
+  - ghana
+  - framtida_solvinter
+
+core_image: >
+  Han kör genom ett Göteborg som långsamt upplöses.
+  Industrin blir åkrar.
+  Vägen blir grus.
+  Och innan han möter människorna möter han ett ljus
+  som inte verkar höra hemma där.
+
+rendering_notes: >
+  Fragmentet kan användas som inledning till "Platsen",
+  men fungerar också självständigt som en återkommande
+  övergång mellan civilisation och periferi.
+  Ljuset ska aldrig förklaras.
+  Läsaren ska först långt senare förstå varför
+  protagonisten reagerade på just denna plats.
+  ---
+
+  Han körde västerut genom Hisingen.
+
+Staden tog inte slut på en gång. Den löstes upp.
+
+Först industrierna. Lagerlokalerna. Verkstäderna. De breda vägarna där långtradarna fortfarande rörde sig som om hamnen låg kvar mitt i staden.
+
+Sedan blev husen lägre.
+
+Mellan dem öppnade sig fält.
+
+Hästhagar.
+
+Lador.
+
+Röda gårdar med vita knutar.
+
+Han hade alltid tyckt att den delen av Göteborg var märklig. Man kunde köra i tjugo minuter och plötsligt befinna sig i ett landskap som lika gärna kunnat ligga flera mil från närmaste stad. Ändå låg centrum fortfarande bakom honom. Bussarna gick hit, men sällan. Ville man ta sig in fick man planera dagen efter tidtabellen eller gå den långa vägen till hållplatsen.
+
+Han tänkte att det var hit samhället skickade människor som inte längre passade in.
+
+Inte långt bort.
+
+Bara tillräckligt långt bort.
+
+Så att de fortfarande fanns kvar, men inte längre syntes.
+
+Han passerade ett stall.
+
+En flicka ledde en häst över gårdsplanen.
+
+Längre bort stod en äldre man lutad mot ett staket och såg ut över åkern utan att göra någonting särskilt.
+
+Det fanns en långsamhet här som inte liknade den på Betelskeppet.
+
+Den var inte uppgiven.
+
+Den bara fanns.
+
+Han svängde av mot grusvägen.
+
+Då förändrades ljuset.
+
+Det var märkligt.
+
+Han skulle långt senare försöka beskriva det, men aldrig riktigt lyckas.
+
+Det var inte starkare.
+
+Inte varmare.
+
+Inte klarare.
+
+Bara annorlunda.
+
+Som om luften själv bar på ett annat sätt att se.
+
+Han hade mött samma ljus några få gånger tidigare i livet.
+
+I ett kloster.
+
+På en gammal gård i Ghana.
+
+En tidig morgon vid havet.
+
+Det hörde egentligen inte hemma här.
+
+Inte vid ett kommunalt boende för människor som samhället slutat tro på.
+
+Ändå låg det över byggnaden som om platsen väntade på att någon skulle upptäcka vad den egentligen var. kanske den här vägen på hisingen som eget fragment med yaml 

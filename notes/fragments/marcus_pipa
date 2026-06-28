@@ -1,0 +1,305 @@
+id: marcus_pipa
+
+
+title: Markus_pipa
+
+
+status: fragment
+
+type: chapter
+
+part:
+  - del_2
+
+placement:
+  after:
+    - platsen
+  before:
+    - periferin
+
+function:
+  - introducerar_maiko
+  - visar_faltets_forsta_levande_rytm
+  - etablerar_att_manniskor_bar_berattelsen
+  - planterar_iden_om_en_annan_samhallsmodell
+
+themes:
+  - arbete
+  - vardighet
+  - periferi
+  - frihet
+  - hantverk
+  - natur
+  - aterhamtning
+  - tid
+
+motifs:
+  - pipan
+  - egentobak
+  - dimman
+  - grasmattan
+  - bunker
+  - promenaden
+  - blommorna
+  - handens_arbete
+  - roken
+
+characters:
+  - protagonisten
+  - maiko
+
+maiko:
+
+  role:
+    - mentor_utan_att_veta_det
+    - platsens_forsta_rost
+    - foregangare
+
+  traits:
+    - stillsam
+    - praktisk
+    - rastlos_i_rorelse
+    - omtanksam
+    - humoristisk
+    - barsk
+
+symbols:
+
+  pipan:
+    meaning:
+      - eftertanke
+      - rytm
+      - hantverk
+
+  tobaken:
+    meaning:
+      - eget_arbete
+      - kultur
+      - foradling
+      - tid
+
+  dimman:
+    meaning:
+      - overgang
+      - osakerhet
+      - ny_borjan
+
+  bunkern:
+    meaning:
+      - historiens_lager
+      - det_overgivna
+      - civilisationens_spor
+
+core_questions:
+  - vad_ar_ett_vardigt_liv
+  - hur_ser_arbete_ut_nar_lonearbete_inte_langre_ar_sjalvklart
+  - kan_periferin_bli_framtidens_centrum
+
+style:
+  - sammanhangande_prosa
+  - observation_fore_teori
+  - dialog_som_vardag
+  - murakami
+  - coetzee
+
+principles:
+  - maiko_predikar_aldrig
+  - filosofin_vaxer_fram_ur_det_vardagliga
+  - lasaren_ska_upptacka_maikos_betydelse_langsamt
+  - tobaken_och_roken_ar_aterkommande_motiv
+
+connections:
+  - platsen
+  - periferin
+  - atriumet
+  - faltet
+  - windy_bay
+  - framtida_solvinter
+
+notes: >
+  Kapitlet introducerar Maiko som den första människa
+  protagonisten verkligen möter på Fältet. Han framstår inte
+  som visionär utan som någon som redan lever på ett sätt
+  som senare visar sig ligga närmare Solvinters framtida
+  ideal än samtidens samhälle. Läsaren ska först långt senare
+  förstå att hans långsamhet inte är passivitet utan en annan
+  rytm.
+  ---
+
+  Kapitel 13 – Tobaksfältet
+
+Det var en stilla förmiddag när han första gången stod tillsammans med Marcus på gräsmattan bakom huset.
+
+Dimman låg fortfarande kvar över fältet. Den vilade lågt över gräset och gjorde att allting längre bort såg ut att höra till en annan värld. Jorden doftade regn fast det inte hade regnat på flera dagar. Någonstans hördes en traktor. Ljudet kom och försvann med vinden.
+
+Marcus höll en liten plåtburk i handen. Den var repig och bucklig, en sådan som en gång innehållit karameller. Han skruvade av locket och räckte fram den utan ett ord.
+
+“Ingen köpetobak,” sa han till slut.
+
+“Bara min.”
+
+Arkitekten lutade sig fram.
+
+Bladen var mörka, nästan sammetsbruna. Doften var sötare än han väntat sig. Inte tung. Mer som hö, jord och något svagt kryddigt som han inte kunde sätta namn på.
+
+Marcus packade pipan långsamt.
+
+Varje rörelse verkade inövad sedan många år.
+
+“Den möglade lite under torkningen.”
+
+Han log snett.
+
+“Det gjorde den bara bättre.”
+
+Sedan tände han pipan.
+
+Röken steg långsamt upp genom dimman tills de båda blev omöjliga att skilja åt.
+
+De stod tysta.
+
+Det var en annan sorts tystnad än den på Betelskeppet.
+
+Där hade tystnaden varit fylld av uppgivenhet.
+
+Här verkade den bara vara en del av morgonen.
+
+Efter en stund pekade Marcus ut över fältet.
+
+Långt borta löpte en smal stig längs åkerkanten innan den försvann in mellan träden.
+
+“Jag går där nästan varje dag.”
+
+“Pensionär?”
+
+Marcus skrattade.
+
+“Nej.”
+
+Han tog ett bloss till.
+
+“Det finns en gammal bunker där inne. Eller en radarstation. Ingen verkar riktigt veta.”
+
+Han ryckte på axlarna.
+
+“Jag tycker om platser där människorna lämnat saker efter sig.”
+
+Arkitekten såg ut mot skogsbrynet.
+
+Han tänkte att Marcus ofta talade på det sättet.
+
+Inte som någon som försökte säga något viktigt.
+
+Mer som någon som tänkte högt.
+
+Orden behövde inte komma fram.
+
+Det räckte att de fick finnas.
+
+Marcus bodde i det lilla röda torpet en bit från huvudbyggnaden.
+
+Han arbetade inte här.
+
+Han var inte personal.
+
+Inte patient heller.
+
+Han bara levde här.
+
+Han odlade sin tobak.
+
+Planterade blommor.
+
+Lagade sådant som gått sönder.
+
+Gick sina långa promenader.
+
+Varje dag såg nästan likadan ut.
+
+Och ändå verkade han aldrig ha tråkigt.
+
+En eftermiddag frågade Arkitekten varför.
+
+Varför han stannat.
+
+Marcus svarade inte genast.
+
+Han såg länge ut över åkrarna.
+
+Till slut nickade han nästan omärkligt, som om frågan egentligen ställts till någon annan.
+
+“Jag hade ett liv innan.”
+
+Han berättade om gården.
+
+Om kampsporten.
+
+Om brodern.
+
+Om dagen då allting förändrades.
+
+Han berättade utan bitterhet.
+
+Som om han beskrev vädret.
+
+När han tystnade låg pipan fortfarande varm i handen.
+
+“Sedan gick det inte att komma tillbaka.”
+
+Mer sade han inte.
+
+Arkitekten såg på honom.
+
+Han försökte föreställa sig hur kort vägen egentligen kunde vara mellan ett vanligt liv och ett liv i utkanten.
+
+Kortare än de flesta ville tro.
+
+De stod kvar länge.
+
+Solen började lösa upp dimman.
+
+Ljusstrimmorna föll över gräset och över de små rabatterna som Marcus anlagt intill huset.
+
+Det slog Arkitekten att nästan ingenting här producerade vinst.
+
+Ändå skapades värde överallt.
+
+Någon reparerade ett staket.
+
+Någon planterade ringblommor.
+
+Någon bakade bröd.
+
+Någon satt bara på en bänk och lyssnade när en annan människa berättade om sitt liv.
+
+Han tänkte att världen utanför kanske skulle kalla det sysslolöshet.
+
+Men det såg inte ut som sysslolöshet.
+
+Det såg ut som civilisation.
+
+Inte den civilisation han lämnat.
+
+En annan.
+
+En som ännu inte fått något namn.
+
+När de gick tillbaka mot byggnaden vände sig Marcus om en sista gång.
+
+“Du vet…”
+
+Han knackade askan ur pipan.
+
+“De flesta tror att frihet handlar om att kunna göra vad man vill.”
+
+Han log.
+
+“Jag tror mest att den handlar om att slippa skynda sig.”
+
+Arkitekten svarade inte.
+
+Han såg ut över fältet.
+
+Och för första gången sedan han lämnat sjukhuset fick han den märkliga känslan att han inte kommit till samhällets utkant.
+
+Utan till början av något.

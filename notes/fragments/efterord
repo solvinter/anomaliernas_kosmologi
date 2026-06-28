@@ -1,0 +1,64 @@
+id: efterord_2100
+
+status: möjlig_epilog
+
+typ:
+  - efterord
+  - arkivfragment
+  - framtida_anteckning
+
+placering:
+  - efter_sista_kapitlet
+  - före_apokryfiskt_material
+
+funktion:
+  - sammanfatta_solvinter
+  - ge_läsaren_eftertanke
+  - knyta_ihop_del_1_och_del_3
+
+text: |
+  Efterord 2100 – Ur Aethersum-arkivets anteckningar
+
+  "Vi fann inte teknologin.
+  Vi fann rytmen.
+
+  Och rytmen fann oss."
+
+  — ur Arkitektens personliga notater,
+  Luleå Tekniska Arkiv (2085–2099)
+
+tolkning:
+  rytmen:
+    - relation
+    - samhällskontrakt
+    - mänsklig_närvaro
+    - naturens_logik
+
+  teknologin:
+    - verktyg
+    - inte_målet
+
+styrka:
+  - kort
+  - minnesvärd
+  - pretenderar_inte_att_förklara_allt
+  - lämnar_läsaren_med_en_känsla
+
+litterär_inspiration:
+  - coetzee
+  - le_guin
+  - atwood
+  - sena_notiser_i_arkiv
+
+bedömning:
+  betydligt_starkare_som_efterord_än_som_del_av_berättande_kapitel
+
+  ---
+  Efterord 2100 – Ur Aethersum-arkivets
+anteckningar
+
+“Vi fann inte teknologin.
+Vi fann rytmen.
+Och rytmen fann oss.”
+— ur Arkitektens personliga notater, Luleå Tekniska Arkiv
+(2085–2099)
