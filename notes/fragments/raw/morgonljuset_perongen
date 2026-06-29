@@ -1,0 +1,142 @@
+---
+id: morgonljuset
+
+status: raw
+
+source:
+  type: journal_fragment
+  manuscript: del2
+
+processing:
+  stage: imported
+  literary_revision: false
+  narrative_revision: false
+
+editorial_notes:
+  state: strong_raw_material
+  assessment:
+    - central_overgang_fran_utanforskap_till_riktning
+    - bygger_pa_sjalvupplevda_handelser
+    - fungerar_som_dagboksanteckning_med_litterar_potential
+    - bor_behalla_den_lagmalda_tonen
+    - undvik_overforklaring_av_psykologi
+    - lat_foremal_och_miljo_bara_berattelsen
+
+function:
+  - markerar_borjan_pa_aterkomsten
+  - visar_hur_skam_forlorar_sitt_grepp
+  - etablerar_riktning_snarare_an_arbete
+  - binder_samman_framtid_ghana_och_det_vardagliga
+  - introducerar_morgonljuset_som_aterkommande_motiv
+
+timeline:
+  placement:
+    - del2
+  occurs_after:
+    - bron
+    - tunneln
+    - nyckeln
+  occurs_before:
+    - resan_till_ghana
+    - faltet
+
+personer:
+  - protagonisten
+  - gymnasieforalskelsen
+  - tagvarden
+
+platser:
+  - goteborg_central
+  - espresso_house
+  - taget
+  - kopenhamn
+  - ghananska_ambassaden
+
+teman:
+  - aterkomst
+  - morgonljus
+  - skam
+  - vardighet
+  - riktning
+  - minne
+  - alternativa_liv
+  - resa
+  - identitet
+
+motiv:
+  - american_express_kortet
+  - metallkort
+  - perrongen
+  - morgonljuset
+  - tag
+  - kontaktledningarna
+  - framtiden
+  - minnet_av_falkenberg
+
+princip:
+  - visa_inte_forklara
+  - konkreta_foremal_bar_filosofin
+  - filosofin_ska_ligga_under_texten
+  - lat_små_handelser_bara_den_inre_forandringen
+
+rewrite_strategy:
+  - skriv_som_en_sen_dagboksanteckning
+  - minska_abstrakta_resonemang
+  - ge_plats_at_tystnad
+  - bevara_den_lugna_observerande_rosten
+  - gor_morgonljuset_till_bokens_symbol_for_aterkomst
+
+connections:
+  relates_to:
+    - bron
+    - tunneln
+    - resonansen
+    - sjon
+    - resan_till_ghana
+    - medvetandets_konstruktivitet
+
+taggar:
+  - del2
+  - journal
+  - realism
+  - aterkomst
+  - morgonljus
+  - biografiskt
+---
+
+
+Jag hade inte varit främmande för morgonljuset. Jag hade bara levt så länge på avstånd från det att jag nästan slutat tro att det var till för mig.
+
+Jag hade fortfarande inget arbete att gå till. Men jag hade en riktning. Det visade sig vara en större skillnad än jag tidigare förstått.
+
+Pengar hade jag nästan inga. I fickan låg ett American Express Platinum som jag lånat av familjen. Metall mot tyg. Det slog mig hur ett enda föremål kunde bära så många föreställningar om människovärde. Samma människa. Samma kropp. Ett annat kort i fickan, och världen såg plötsligt annorlunda på henne.
+
+På bussen pratade några ungdomar om sina mammor. Orden hakade i varandra och fortsatte en stund i mitt huvud efter att de tystnat. Jag hade slutat bli rädd för sådant. Allt behövde inte betyda något.
+
+Skammen gick bredvid mig den morgonen. Den försökte inte längre gömma sig. Jag såg den tydligt, nästan vänskapligt. Den fick följa med, men den fick inte längre bestämma riktningen.
+
+Jag skulle till den ghananska ambassaden i Köpenhamn.
+
+Det lät fortfarande osannolikt när jag tänkte det.
+
+På bussen satt en kvinna några rader framför mig. Hon påminde mig inte om någon särskild människa. Snarare om en plats. Om Falkenberg. Om ett liv som en gång verkat möjligt. Det märkliga var att minnet inte gjorde ont längre. Det lade sig bara bredvid de andra.
+
+På Centralstationen stod tågen där de alltid stått. Ovanför dem den tunna sången från kontaktledningarna. Varm metall när ett tåg bromsade in. Människor som rörde sig med resväskor, kaffe och morgonbrådska.
+
+Under flera år hade jag gått omkring på samma perronger utan att egentligen vara på väg någonstans.
+
+Nu hade jag en biljett.
+
+Det var kanske den största skillnaden.
+
+Jag tänkte på henne från gymnasiet. På morgonen i hennes föräldrars sovrum. Ljuset hade fallit över gardinen på ett sätt jag aldrig glömt. Jag grät den morgonen, men jag visste inte varför. Kanske var det inte sorg. Kanske var det en framtid som redan då försökte säga mig att inget liv bara blir ett enda.
+
+Tågvärden bad mig vänligt att flytta mig.
+
+För några år sedan hade en sådan liten avvisning kunnat följa mig resten av dagen. Nu reste jag mig bara, log och gick vidare.
+
+Morgonljuset låg fortfarande kvar över perrongen.
+
+Det slog mig att världen inte blivit vänligare.
+
+Det var jag som långsamt höll på att återvända till den.

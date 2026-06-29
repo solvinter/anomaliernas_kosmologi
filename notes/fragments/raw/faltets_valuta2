@@ -1,0 +1,169 @@
+---
+id: faltets_valuta
+
+status: raw
+
+source:
+  type: notion_manuscript
+  manuscript: del3
+  section: samhallskontraktet_monolit
+
+processing:
+  stage: imported
+  literary_revision: false
+  narrative_revision: false
+
+del: 3
+
+sektion:
+  - samhallskontraktet
+
+funktion:
+  - introducerar_faltets_valuta
+  - introducerar_vitalitetsekonomi
+  - etablerar_vaxthuset_som_prototyp
+  - utvecklar_samhallskontraktet
+  - forbereder_proof_of_vitality
+
+personer:
+  - arkitekten
+  - eli
+  - doktorander
+  - kommunen
+  - boende
+
+platser:
+  - faltet
+  - vaxthuset
+  - modulerna
+  - serverrummet
+
+objekt:
+  - solpaneler
+  - sensorer
+  - server
+  - laptop
+  - energimatning
+  - faltets_valuta
+
+begrepp:
+  introducerar:
+    - faltets_valuta
+    - resonant_ekonomi
+    - ekonomisk_organism
+    - deltagande_som_varde
+  utvecklar:
+    - vitalitetsindex
+    - natverk
+    - metabolism
+    - energi
+    - rytm
+  refererar:
+    - samhallskontrakt
+    - solenergi
+    - kreativitet
+    - omsorg
+
+graf:
+  personer:
+    - arkitekten
+    - eli
+  platser:
+    - faltet
+    - vaxthuset
+  objekt:
+    - solpaneler
+    - sensorer
+    - server
+  motiv:
+    - energi
+    - sol
+    - natverk
+    - tomatplantor
+    - elektronik
+    - rytm
+
+teman:
+  - ekonomi
+  - energi
+  - gemenskap
+  - deltagande
+  - decentralisering
+  - tillit
+  - teknik
+  - solvinter
+
+kunskapsskifte:
+  fran:
+    - bidrag
+    - kostnad
+    - forsorjningsstod
+  till:
+    - deltagande
+    - energifloden
+    - vardeskapande
+    - resonant_ekonomi
+
+emotionell_rorelse:
+  start:
+    - experiment
+  mitt:
+    - upptackt
+    - nyfikenhet
+  slut:
+    - framtidstro
+    - legitimitet
+
+beroenden:
+  krav:
+    - periferin
+
+leder_till:
+  - faltets_valuta_2
+  - proof_of_vitality
+
+versioner:
+  - raw_notion_manuscript
+
+taggar:
+  - del3
+  - ekonomi
+  - faltets_valuta
+  - vitalitetsindex
+  - resonant_ekonomi
+  - natverk
+  - solpaneler
+  - vaxthus
+---
+
+Det började som ett experiment. Kommunen kallade det  för “Centrum för Återhämtning”. De som bodde där kallade det bara och enkelt för *fältet*. Ingen visste längre vem som ägde platsen – det var som om marken, byggnaderna, till och med luften, hade tagit över sig själva.
+Lägenheterna var inte längre bostäder i vanlig mening. De hade blivit moduler. Människor kom och gick. Några stannade i månader, andra bara veckor. De var registrerade som biståndstagare, men ordet hade förlorat sin betydelse. Bidraget – tvåtusen kronor i månaden – kom som alltid i början, men det var inte längre pengar. Det var rytm. Bränsle. En puls i systemet. 
+Barndomsvännen, som de börjat kalla *arkitekten*, var den första som såg mönstret. Han satt först hemma, sedan i växthuset, följde dataflödena från platsen. Solpanelerna på taken gav mer el än de behövde. Sensorer han byggt själv registrerade temperatur, luftfuktighet, rörelser. En server i källaren samlade allt.
+
+När han visualiserade datan såg han det direkt. Odlingarna, värmen, rörelserna mellan byggnaderna, de digitala spåren från telefonerna, musik som delades mellan noder, konst som laddades upp. Det var redan ett nätverk – en metabolism.
+
+Han började räkna på det. Om varje individ genererade värme, el, rörelse eller kreativitet, kunde det mätas som energi. Det spelade ingen roll om någon målade, odlade eller bara satt i samtal. Allt var en form av arbete.
+
+Så skapade han *fältets valuta*. Inte ett mynt, inte en kryptotoken i vanlig mening, utan en mätning av deltagande. Varje handling, varje närvaro, registrerades som värde i nätverket. Och eftersom elen kom från solen, var valutan bokstavligen solbaserad.
+
+I början var det bara en modell i en gammal laptop. Men när han visade den för Eli och några av doktoranderna från universitetet såg de genast vad det var. Ett självförsörjande ekosystem. En ekonomisk organism.
+
+Eli beskrev det som *en resonant ekonomi*:
+
+> “När varje nod bidrar med sin rytm – energi, kreativitet, omsorg – uppstår ett fält.
+> 
+
+> Det är samma princip som i biologin. När mätningen är rättvis uppstår värde utan skuld.”
+> 
+
+De byggde vidare. Varje modul i byggnaden fick sin egen energimätning, sina egna sensorer. Konstverket som skapades i verkstaden laddades upp som en digital tillgång. En annan boende streamade sina nattliga spelsessioner, och en del av intäkterna flödade in i systemet.
+
+Efter ett halvår hade något förändrats. Kommunens kostnader minskade. Människorna började handla med varandra. De bytte tjänster, te, reparationer, musiklektioner. Energin och värdet cirkulerade. Fältet, som en gång varit ett härbärge, hade blivit en prototyp för ett nytt samhällskontrakt.
+
+När kommunen kom på inspektion stod de i växthuset bland tomatplantor och elektronik. De såg människor arbeta, meditera, undervisa. En av tjänstemännen viskade:
+
+“Men… vem styr det här egentligen?”
+
+Arkitekten log.
+
+“Det gör nätverket,” sa han. “Vi följer bara dess rytm.”

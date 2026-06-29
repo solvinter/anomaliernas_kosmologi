@@ -1,0 +1,139 @@
+---
+id: sjon
+status: draft
+del: 2
+
+sektion:
+  - varldsbilden_forandras
+
+ordning:
+  foreslagen:
+    efter: den_inre_astronomin
+    fore: resonansen
+
+funktion:
+  - konkretiserar_interferens_genom_naturen
+  - overfor_kosmologi_till_vardaglig_erfarenhet
+  - forankrar_abstrakta_begrepp_i_kroppslig_observation
+  - utvecklar_relationen_mellan_protagonisten_och_eli
+  - forbereder_resonansen
+  - etablerar_sjon_som_atervandande_symbol
+
+personer:
+  - protagonisten
+  - eli
+
+platser:
+  - sjon
+  - brygga
+  - stig
+
+objekt:
+  - sten
+  - termos
+  - pappmugg
+  - kaffe
+
+begrepp:
+  introducerar:
+    - overlagring
+  utvecklar:
+    - interferens
+    - epicykel
+    - resonans
+    - vagor
+    - relation
+  refererar:
+    - kosmologi
+    - galaxer
+    - universum
+
+graf:
+  personer:
+    - eli
+    - protagonisten
+  platser:
+    - sjon
+    - brygga
+  objekt:
+    - sten
+    - vatten
+    - termos
+  motiv:
+    - ringar_pa_vatten
+    - spegling
+    - skymning
+    - stjarnor
+    - kaffe
+    - tystnad
+
+teman:
+  - natur
+  - relation
+  - kosmologi
+  - medvetande
+  - erfarenhet
+  - stillhet
+  - resonans
+
+kunskapsskifte:
+  fran:
+    - teori
+    - modeller
+    - abstraktion
+  till:
+    - direkt_erfarenhet
+    - observation
+    - kroppslig_forstaelse
+
+emotionell_rorelse:
+  start:
+    - stillhet
+    - narvaro
+  mitt:
+    - igenkanning
+    - samhorighet
+  slut:
+    - enhet
+    - frid
+    - forundran
+
+beroenden:
+  krav:
+    - den_inre_astronomin
+
+leder_till:
+  - resonansen
+
+versioner:
+  - full_dialog
+  - kort_dialog
+  - fokus_natur
+  - fokus_relation
+  - fokus_interferens
+
+taggar:
+  - del2
+  - sjon
+  - interferens
+  - resonans
+  - natur
+  - eli
+  - kosmologi
+  - relation
+---
+De möttes i skymningen. Luften var stilla, nästan tyngdlös. Solen hade just sjunkit bakom trädlinjen, och sjön låg som en spegel av koppar och grått. Hon bar sin mörkblå kappa, håret uppsatt, händerna djupt i fickorna. Han hade med sig termos och två koppar. De sa inte mycket när de började gå längs stigen.
+
+När de nådde vattnet stannade hon, böjde sig ner och plockade upp en sten. Den var rund, slät, ljusgrå. Hon höll den i handen som något heligt. “Det var det här jag menade,” sa hon lågt. Sedan kastade hon stenen ut över ytan.
+
+Den slog ner med ett dämpat ljud, och ringarna började breda ut sig – långsamma, perfekta, tysta. “Se,” viskade hon. “En enda impuls. Men den fortsätter, påverkar hela ytan. Och dropparna bildar epicykler. Och när du kastar en till—” Hon tog upp en ny sten, kastade den åt ett annat håll. “—då möts ringarna, formar något som ingen av dem bär ensam.”
+
+De stod tysta och såg hur vågorna korsade varandra. Nya mönster uppstod, rörde sig, försvann, kom tillbaka. “Så här tänker jag att universum fungerar,” sa hon. “Så här tänker jag att vi fungerar. Allt är överlagringar. Varje möte, varje tanke, varje människa – nya vågor på samma vattenyta.”
+
+Han nickade långsamt. “Det är som om hela verkligheten är ett eko,” sa han. “Ja,” svarade hon, “ett eko som aldrig tystnar. Det bara förändras.”
+
+De satte sig på bryggan och drack kaffe ur pappmuggar. Himlen mörknade, och stjärnorna började tändas en efter en. Han tänkte att någonstans där, i det oändliga, rörde sig galaxerna fortfarande i sina banor – epicykler i den största av rytmer.
+
+Och här, på jorden, satt en kvinna och en man som just delat tystnaden, kastat två stenar i samma vatten, och sett deras ringar mötas.
+
+---

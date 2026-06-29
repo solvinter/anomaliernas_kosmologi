@@ -1,0 +1,126 @@
+---
+id: kartor
+
+status: raw
+
+source:
+  type: notion_manuscript
+  manuscript: del3
+  section: samhallskontraktet_monolit
+
+processing:
+  stage: imported
+  literary_revision: false
+  narrative_revision: false
+
+del: 3
+
+sektion:
+  - filosofi
+
+funktion:
+  - utvecklar_kartan_som_metafor
+  - kopplar_vetenskap_till_kartografi
+  - introducerar_paradigm_som_kartor
+  - utvecklar_identitet_som_forflyttning_mellan_kartor
+  - forbereder_tinget_i_sig
+
+personer:
+  - protagonisten
+
+platser:
+  - universitetet
+  - alven
+  - biblioteket
+
+objekt:
+  - karta
+  - atlas
+  - bok
+  - flod
+  - stjarnhimmel
+
+begrepp:
+  introducerar:
+    - kartor
+  utvecklar:
+    - paradigm
+    - vetenskap
+    - kuhn
+    - identitet
+    - minne
+    - tid
+  refererar:
+    - fenomenologi
+    - psykosen
+    - varden
+
+graf:
+  personer:
+    - protagonisten
+  platser:
+    - universitetet
+    - alven
+  objekt:
+    - karta
+    - atlas
+  motiv:
+    - ljus
+    - vatten
+    - stjarnor
+    - floder
+    - gränser
+    - rörelse
+
+teman:
+  - kartografi
+  - vetenskap
+  - filosofi
+  - identitet
+  - minne
+  - paradigm
+  - tid
+  - perception
+
+kunskapsskifte:
+  fran:
+    - kartan_som_verklighet
+    - fasta_granser
+  till:
+    - kartan_som_modell
+    - rorelse
+    - paradigm
+    - levande_verklighet
+
+emotionell_rorelse:
+  start:
+    - nyfikenhet
+  mitt:
+    - tvivel
+    - igenkanning
+  slut:
+    - overlamnande
+    - stillhet
+
+beroenden:
+  krav:
+    - epicykler
+    - den_inre_astronomin
+
+leder_till:
+  - tinget_i_sig
+
+versioner:
+  - raw_notion_manuscript
+
+taggar:
+  - del3
+  - kartor
+  - filosofi
+  - kuhn
+  - paradigm
+  - vetenskap
+  - fenomenologi
+---
+
+Vi ritade världen för att förstå den, men varje karta är också en förlust. För att beskriva något måste man stänga det, dra en linje där det egentligen inte finns någon. Kartan är vår trygghet, men också vår begränsning. Vi börjar tro att världen är så som vi ritat den, att linjerna är verklighet, att gränserna är naturliga. Jag tänker ofta på den första kartan jag såg som barn – en värld med färger och namn, som om länderna själva var organismer, levande och stilla på samma gång. Jag brukade följa gränserna med fingret, låta ögonen röra sig längs floderna, över haven, tills jag kände att jag själv försvann därinne. Kanske var det redan då jag anade att världen inte låg utanför – den låg i hur vi ritade den. När jag blev äldre kom andra kartor: människokroppen i genomskärning, sociologins strukturer, nervsystemets vägar, matematikens axlar och kurvor. Varje disciplin försökte skapa sin egen ordning. Som om människan inte kunde vila förrän hon satt sitt namn på varje del av verkligheten. Men de flesta kartor är bara ögonblicksbilder av något i rörelse. De är gjorda för att ge oss riktning, inte för att förstå själva rörelsen. Det var där, tror jag, som jag började ana hur mycket av vår vetenskap egentligen är ett försök att stilla oro. Kartan säger: världen är under kontroll. Men mellan linjerna drar något annat, som vind över vatten, eller tanken innan den blir till språk. På universitetet lärde jag mig att även teorier har sina koordinater. Kuhn talade om paradigm – inte bara som idéer, utan som epoker i tänkandet, där själva frågorna förändras. När jag läste honom kände jag igen rörelsen. Inte från biblioteket, utan från livet. Kanske är varje människa också ett paradigm: en samling av sätt att förstå, en karta som till slut spricker när världen blir större. Det var då jag började se min egen historia så, inte som en linjär berättelse, utan som kartor som ersatt varandra. Vården. Psykosen. Namnet. Varje gång en karta sprack växte en ny under den, som om tiden själv försökte visa mig sin anatomi. Ibland tänker jag att vetenskapen är vår tids mest avancerade mytologi. Inte för att den är falsk, utan för att den försöker skapa mening i det obegripliga. Det är vackert, egentligen – att vi gång på gång ritar om världen, fast vi vet att den kommer att förändras igen. Kanske är det där vår mänsklighet bor: i själva försöket. När jag återvände till älven en kväll såg jag kartorna i mitt huvud som ljus över vattnet. De rörde sig, bleknade, flöt isär. Det fanns ingen yta längre – bara rörelse. Jag tänkte: kanske är det så tid känns när man inte längre försöker hålla fast den. Inte som ett mått, utan som ett fält av samband. Jag stod där länge. Vattnet rörde sig inte, eller så gjorde det det, men på en nivå jag inte längre kunde mäta. Jag tänkte på stjärnorna, på hur varje punkt på himlen är en historia om avstånd och fördröjning. Kanske är även minnet en sorts ljusförskjutning – det vi ser nu är det som redan lämnat oss. Jag visste inte längre om det jag mindes var mitt eget liv eller någon annans karta. Men jag visste att något höll på att förändras. Jag kunde känna det i rytmen i min andning, som om världen, för första gången på länge, började rita mig tillbaka.

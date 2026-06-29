@@ -1,0 +1,175 @@
+---
+id: tinget_i_sig
+
+status: raw
+
+source:
+  type: notion_manuscript
+  manuscript: del2
+  section: universitetet
+
+processing:
+  stage: imported
+  literary_revision: false
+  narrative_revision: false
+
+editorial_notes:
+  state: exploratory
+  assessment:
+    - dialogen_bar_filosofin_direkt
+    - resonemangen_kan_senare_fordelas_over_flera_scener
+    - matematikprofessorn_bor_forbli_sokande_snarare_an_orakel
+    - kant_bor_fungera_som_understrom_snara_an_forelasning
+    - relationen_mellan_protagonisten_och_matematikprofessorn_fordjupas
+  preserve:
+    - das_ding_an_sich
+    - tillit_som_centralt_begrepp
+    - varde_som_relation
+    - matematik_och_filosofi_i_dialog
+  rewrite_strategy:
+    - visa_mer_an_forklara
+    - fler_pauser_och_tystnader
+    - lat_filosofin_vaxa_fram_ur_motet
+    - reducera_programmatiska_formuleringar
+
+del: 2
+
+sektion:
+  - universitetet
+
+funktion:
+  - utvecklar_relationen_mellan_protagonisten_och_matematikprofessorn
+  - introducerar_das_ding_an_sich
+  - utvecklar_tillit_som_filosofiskt_tema
+  - kopplar_kant_till_natverk_och_ekonomi
+  - forbereder_tinget_i_sig_ii
+
+personer:
+  - protagonisten
+  - matematikprofessorn
+
+platser:
+  - universitetet
+  - aulan
+  - campus
+
+objekt:
+  - trappa
+  - glasfasad
+  - campusljus
+
+begrepp:
+  introducerar:
+    - das_ding_an_sich
+    - fenomen
+  utvecklar:
+    - tillit
+    - relationellt_varde
+    - kryptografi
+    - kryptovalutor
+    - sanning
+  refererar:
+    - kant
+    - natverksteori
+    - abundantia
+
+graf:
+  personer:
+    - protagonisten
+    - matematikprofessorn
+  platser:
+    - universitetet
+  motiv:
+    - skymning
+    - ljus
+    - promenad
+    - dialog
+    - tillit
+
+teman:
+  - filosofi
+  - vetenskap
+  - matematik
+  - kant
+  - tillit
+  - ekonomi
+  - relationer
+
+kunskapsskifte:
+  fran:
+    - objektivt_varde
+    - materia
+  till:
+    - relationellt_varde
+    - tillit
+    - fenomen
+
+emotionell_rorelse:
+  start:
+    - nyfikenhet
+  mitt:
+    - gemensamt_utforskande
+  slut:
+    - stilla_insikt
+
+beroenden:
+  krav:
+    - abundantia
+
+leder_till:
+  - tinget_i_sig_ii
+
+versioner:
+  - raw_notion_manuscript
+
+taggar:
+  - del2
+  - universitetet
+  - kant
+  - das_ding_an_sich
+  - matematikprofessorn
+  - tillit
+  - filosofi
+---
+
+De hade gått ut från aulan tillsammans. Kvällen låg kylig över universitetsområdet, men ljuset från fönstren var varmt. Hon gick långsamt, händerna djupt i fickorna, blicken halvt vänd mot marken. Han följde henne några steg bakom, fortfarande uppfylld av föreläsningen.
+
+“Det du sa om nätverken,” började han, “att värdet inte längre är bundet till materia utan till relationer… det fick mig att tänka på något.”
+
+Hon såg upp, halvt leende. “Filosofi?”
+
+Han nickade. “Kanske. På Kant, egentligen. På *das Ding an sich* ¹ – allt det som existerar oberoende av hur vi uppfattar det.”
+
+Hon stannade, lutade sig mot räcket vid trappan. “Ja,” sa hon långsamt. “Och ändå — hela vår ekonomi verkar bygga på motsatsen. På att något får sitt värde först när vi tror på det.”
+
+Hon såg mot ljusen över campus, där studenter korsade gångarna som lysande punkter. “Det är nästan ironiskt,” fortsatte hon. “Kedjorna vi byggt för att säkra sanning gör det genom tro. Allt det där kodspråket, all den kryptografi — och ändå vilar allt på förtroende. Inte för guldet, inte för staten, utan för varandra.”
+
+Han lutade sig bredvid henne. “Så förtroendet är alltså vår tids ting i sig?”
+
+Hon log. “Eller vår tids illusion om det. Kanske finns det inget ‘i sig’ längre. Kanske är värdet alltid redan relation.”
+
+De stod tysta en stund. Luften luktade svagt av metall och regn. Han såg på hennes profil, hur ljuset från lyktstolpen ritade en tunn kontur längs kinden.
+
+“Men om allt är relation,” sa han till slut, “hur vet vi då att någonting är sant? Om till och med värdet bara är en överenskommelse.”
+
+Hon drog långsamt handen genom håret. “Kanske är sanning samma sak som hållbar relation,” sa hon. “Det som fortsätter över tid, trots förändring. Som en frekvens som inte bryts, även när brus uppstår.”
+
+Hon log igen, lite trött men varm. “Vet du, ibland tänker jag att matematikens elegans inte handlar om exakthet, utan om uthållighet. En formel som överlever tusen år är en slags sanning. Inte för att den är objektiv, utan för att världen fortsätter svara på den.”
+
+Han såg på henne. “Som ett nätverk som håller, oavsett vem som loggar in.”
+
+Hon nickade. “Precis. Det är därför kryptovalutor fascinerar mig. Inte för pengarnas skull, utan för metafysiken. De är som levande hypoteser — förtroende manifesterat i kod.”
+
+Han kände en märklig lättnad, som om något i honom fallit på plats. “Så själva värdet,” sa han, “är inte siffran på skärmen, utan förtroendet som bär den.”
+
+“Ja,” svarade hon. “Förtroendet är tingen i sig. Det är det vi inte kan röra, men som ändå bär allt vi rör vid.”
+
+De gick vidare längs gångvägen. Bakom dem lyste aulans glasfasad som en stilla våg av ljus. Hon vände sig om en sista gång och sa:
+
+“Vi tror att vi uppfann kedjan för att säkra sanningen.
+
+Men kanske uppfann vi den för att minnas vad tillit är.”
+
+---
+
+¹ Immanuel Kant, *Kritik av det rena förnuftet.* Riga: Johann Friedrich Hartknoch, 1781.

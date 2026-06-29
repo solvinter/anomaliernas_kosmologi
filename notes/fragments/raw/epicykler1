@@ -1,0 +1,238 @@
+id: epicykler
+
+status: draft
+
+del: 2
+
+sektion:
+  - varldsbilden_forandras
+
+ordning:
+  foreslagen:
+    efter: fageltornet
+    fore: cirklar_i_himlen
+
+funktion:
+  - introducerar_epicykeln_som_huvudmetafor
+  - vidareutvecklar_kuhn
+  - binder_kosmologi_till_psykiatri
+  - binder_kosmologi_till_manniskans_medvetande
+  - etablerar_rorelse_som_bokens_grundmodell
+  - overgar_fran_vetenskapsteori_till_kosmologi
+  - fordjupar_relationen_med_eli
+
+platser:
+  - lagenheten
+  - kok
+  - institution
+  - lunchrum
+  - bil
+  - kustvag
+
+personer:
+  - protagonisten
+  - eli
+
+objekt:
+  - telefon
+  - karta
+  - traningsprogram
+  - servett
+  - penna
+  - whiteboard
+  - saab_9_5_aero
+
+teman:
+  - epicykler
+  - kosmologi
+  - vetenskapshistoria
+  - kuhn
+  - paradigmskifte
+  - rorelse
+  - relationer
+  - medvetande
+  - vetenskap
+  - historia
+  - intelligens
+
+filosofiska_teman:
+  - kartor_och_verklighet
+  - modeller_som_overlever_sig_sjalva
+  - komplexitet
+  - framvaxt
+  - medvetande_som_relation
+  - kosmos_som_process
+  - epistemologi
+
+referenser:
+  bakat:
+    - fageltornet
+    - forradet
+    - natten
+
+  framat:
+    - cirklar_i_himlen
+    - den_inre_astronomin
+    - sjon
+    - resonansen
+    - anomaliernas_kosmologi
+
+dialogfunktion:
+  eli:
+    - introducerar_epicykeln_som_modern_metafor
+    - binder_astrofysik_till_filosofi
+    - oppnar_for_panpsykistisk_tolkning
+
+  protagonisten:
+    - kopplar_epicykler_till_psykiatri
+    - kopplar_epicykler_till_skeppet
+    - internaliserar_rorelse_som_varldsmodell
+
+kunskapsskifte:
+  fran:
+    - paradigmskifte
+    - anomalier
+
+  till:
+    - rorelse
+    - relation
+    - kosmologisk_modell
+    - process_istallet_for_tillstand
+
+emotionell_rorelse:
+  start:
+    - vardag
+    - nyfikenhet
+
+  mitt:
+    - intellektuell_upptackt
+
+  slut:
+    - forundran
+    - enhet
+    - stillhet
+
+centrala_pastaenden:
+  - modeller_bevaras_langre_an_de_borde
+  - epicykler_ar_en_generell_struktur
+  - manniskan_soker_ordning_genom_rorelse
+  - kosmologi_och_medvetande_kan_beskrivas_med_samma_sprak
+
+karaktarsutveckling:
+  protagonisten:
+    - borjar_se_rorelse_som_grundprincip
+    - omtolkar_tidigare_erfarenheter
+    - forbereds_for_anomaliernas_kosmologi
+
+  eli:
+    - etableras_som_kosmologisk_vagvisare
+    - utvecklar_den_filosofiska_dialogen
+
+aterkommande_symboler:
+  - cirkel
+  - spiral
+  - servett
+  - karta
+  - puls
+  - omlopp
+  - hav
+  - horisont
+
+motiv:
+  - cirklar
+  - rorelse
+  - andning
+  - galaxer
+  - vagor
+  - kaffekopp
+  - kvallsljus
+
+leder_till:
+  - cirklar_i_himlen
+
+beroenden:
+  krav:
+    - fageltornet
+    - kuhn
+
+versioner:
+  - full_dialog
+  - kort_dialog
+  - fokus_epicykler
+  - fokus_kosmologi
+  - fokus_relation
+
+begrepp:
+  introduceras:
+    - epicykel
+    - ptolemaios
+    - almagest
+
+taggar:
+  - del2
+  - epicykler
+  - kuhn
+  - kosmologi
+  - vetenskapsteori
+  - medvetande
+  - eli
+  ---
+  Han satt vid köksbordet med fönstret på glänt. Kvällsluften var mild, fylld av doften av gräs och salt. På bänken stod påsen från närbutiken, halvt urplockad. Brödet låg kvar, en kant hårdnad, lätt seg. Han hade inte orkat diska ännu.
+
+På skärmen framför honom låg ett öppet fönster – en karta över området, projicerad som ett rutnät i ett träningsprogram han ibland använde. Han hade börjat rita upp fälten som en improviserad bana, markerat små punkter för varje gångväg, varje stig. Hans bror brukade skicka sina data från sina egna rundor, längre norrut. De tävlade inte längre om tider, utan om rytm: vem som höll jämnaste puls, vem som höll sig i zon tre utan att bryta flödet.
+
+Han tänkte att det kanske var deras sätt att hålla kontakt. En slags långsam dialog mellan kroppar som ännu försökte bevara form. Longevity utan ambition — bara fortsatt rörelse.
+
+Telefonen blinkade till.
+
+Ett meddelande från Eli:
+
+*Jag tänkte på samtalet idag. Det där om anomalierna. Vi kanske är inne i en epicykel.*
+
+Han log när han läste ordet.
+
+Han skrev: *Du menar som Ptolemaios?*
+
+Hon svarade snabbt: *Ja. Världen försöker rädda sin egen modell.* [¹]
+
+Han lutade sig bakåt, såg upp i taket. Ptolemaios hade kanske haft fel om jordens plats i kosmos — men hans cirklar, hans skikt på skikt av rörelser, var ändå vackra. Det fanns en mänsklig desperation i det, tänkte han. Att hellre böja himlen än erkänna att man inte längre är centrum.
+
+När de sågs igen några dagar senare, på hennes institution, tog hon upp tråden direkt. De satt i lunchrummet, en vägg täckt av whiteboards med ekvationer som såg ut som teckningar av rörelse. Hon höll en kaffemugg mellan händerna, såg på honom med det där lugna, analytiska, nästan ömma uttrycket.
+
+”Vet du,” sa hon, ”epicyklerna finns fortfarande kvar. Bara inte i samma mening.”
+
+Han såg frågande på henne.
+
+”Vi använder termen när vi beskriver galaxernas rörelser. Spiralvågorna som snurrar, gungar, återkommer. Som om hela universum andas i epicykler.”
+
+Hon tog en penna och ritade snabbt på servetten: en cirkel, en mindre cirkel ovanpå, sedan en spiral som slingrade sig runt dem båda.
+
+”Det här är inte fel,” sa hon. ”Det är bara komplexitet. Cirklar inom cirklar. Precis som våra liv.”
+
+Han såg på servetten.
+
+”Så Ptolemaios hade rätt – men på fel sätt.”
+
+Hon log. ”Eller kanske bara i fel epok.”
+
+De satt tysta en stund. Han mindes sin natt på fältet – cirklarna han sett i drömmen, det där ljuset som ordnade sig utan ord.
+
+”Jag drömmer om det ibland,” sa han. ”Om rörelser som inte går att förklara, men som känns sanna. Som om världen försöker tänka genom mig.”
+
+Hon såg på honom länge, inte skeptiskt – tvärtom, med en sällsynt öppenhet.
+
+”Kanske gör den det,” sa hon. ”Kanske är medvetandet inte bara en punkt i universum, utan en del av dess struktur. Som epicykler i en större intelligens.”
+
+Han tänkte på Skeppet, på mannen som sagt att stjärnorna tänker. Kanske var det inte galenskap. Kanske var det en sorts tidig kosmologi, poetisk men inte osann.
+
+”Det finns något tröstande i det,” sa han. ”Att världen tänker i mönster, även när vi inte gör det.”
+
+Hon lutade hakan i handen och log. ”Det är det jag älskar med kosmologi,” sa hon. ”Det handlar inte bara om materia. Det handlar om rörelse. Om relationer. Allt är i omlopp. Även vi.”
+
+När han körde hem senare den kvällen låg havet stilla, som en metallisk hinna mot horisonten. Han tänkte på servetten i fickan, på cirklarna, på hennes hand när hon ritade. Och han tänkte att kanske var allt det där — kärleken, förlusten, vansinnet, vetenskapen — bara olika former av samma rörelse.
+
+Cirklar inom cirklar. Epicykler.
+
+---
+
+[¹] *Claudius Ptolemaios (ca 100–170 e.Kr.), författare till Almagest, såg inte bara himlakropparnas rörelser som geometri utan som uttryck för ett ordnat kosmos — en spegling av förnuftet självt. Hans epicykler, cirklar på cirklar, var försök att bevara harmonin mellan himlens rörelse och människans förståelse. I efterhand har de ofta tolkats som fel, men kanske var de snarare en föraning: att medvetandet alltid söker sitt centrum i världen, och världen sitt centrum i medvetandet.*

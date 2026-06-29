@@ -1,0 +1,72 @@
+---
+id: faltets_valuta_ursprung
+
+status: concept
+
+funktion:
+  - bevarar_tidig_ide
+  - introducerar_faltets_valuta
+  - aterintrade_i_ekonomin
+  - utvecklar_varde_och_tillit
+
+editorial_notes:
+  state: early_concept
+  assessment:
+    - teknik_ar_inte_huvudtemat
+    - fokus_ska_ligga_pa_manniskor
+    - kryptografi_och_blockkedjor_ska_bara_namnas_om_de_hjalper_lasaren
+    - en_lasare_utan_tekniskt_intresse_ska_kunna_forsta_fragmentet
+    - valutan_ar_ett_socialt_och_manskligt_verktyg_fore_tekniskt_system
+  preserve:
+    - ekonomisk_delaktighet
+    - aterupprattat_fortroende
+    - stolthet
+    - ansvar
+    - deltagande
+    - faltet_som_prototyp
+    - overgang_till_solvinter_i_ghana
+  rewrite_strategy:
+    - utga_fran_konkreta_manniskor
+    - visa_hur_vardet_anvands_i_vardagen
+    - forklaringar_ska_bygga_pa_vardagliga_metaforer
+    - undvik_teknisk_jargong
+
+teman:
+  - tillit
+  - ekonomi
+  - vardighet
+  - gemenskap
+  - deltagande
+  - abundantia
+
+leder_till:
+  - faltets_valuta
+  - resonant_ekonomi
+  - solvinter
+---
+
+Någon på fältet hade börjat bygga något.
+
+Ingen verkade riktigt veta vad det var. Först såg det ut som ännu ett av de där projekten som människor startade när de äntligen fått tid att tänka färdigt sina tankar. Några gamla datorer. En server. Några sensorer. En skärm där siffror långsamt förändrades.
+
+De pratade om värde.
+
+Inte pengar.
+
+Värde.
+
+Han förstod efter hand att idén inte var att skapa ännu en valuta. Idén var att skapa en väg tillbaka in i ekonomin för människor som redan ställts utanför den.
+
+Många hade skulder. Några kunde inte få bankkonto. Några hade aldrig haft ett bankkort. De levde i ett samhälle där nästan allt byggde på ekonomiskt förtroende, men de hade förlorat möjligheten att delta.
+
+Den nya valutan skulle därför inte börja med teknik.
+
+Den skulle börja med tillit.
+
+Den skulle göra det möjligt att odla, reparera, undervisa, spela musik, programmera eller hjälpa en granne och få något tillbaka. Inte bara ersättning, utan en känsla av att åter bära värde.
+
+Det var först långt senare som han förstod att projektet aldrig handlat om pengar.
+
+Det handlade om värdighet.
+
+Kanske började Solvinter där.

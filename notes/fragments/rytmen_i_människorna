@@ -1,0 +1,193 @@
+---
+id: rytmen_i_manniskorna
+
+status: raw
+
+source:
+  type: notion_manuscript
+  manuscript: del3
+  section: samhallskontraktet_monolit
+
+processing:
+  stage: imported
+  literary_revision: false
+  narrative_revision: false
+
+del: 3
+
+sektion:
+  - samhallskontraktet
+
+funktion:
+  - visar_platsen_som_levande_system
+  - utvecklar_social_rytm
+  - introducerar_arkitektur_som_process
+  - konkretiserar_kollektiv_intelligens
+  - utvecklar_solvinter
+
+personer:
+  - arkitekten
+  - marcus
+  - linnea
+  - spelaren
+  - lelo
+  - chalmersstudenter
+  - boende
+
+platser:
+  - vaxthuset
+  - verkstaden
+  - modulerna
+
+objekt:
+  - hydroponik
+  - vattentankar
+  - gangbroar
+  - solpaneler
+  - sensorer
+  - simulator
+  - ai
+
+begrepp:
+  introducerar:
+    - kollektiv_intelligens
+    - social_rytm
+  utvecklar:
+    - levande_arkitektur
+    - konduktivitet
+    - deltagande
+    - solvinter
+  refererar:
+    - resonant_ekonomi
+    - proof_of_vitality
+    - levande_kedjan
+
+graf:
+  personer:
+    - arkitekten
+    - marcus
+    - linnea
+    - spelaren
+    - lelo
+  platser:
+    - vaxthuset
+    - verkstaden
+  objekt:
+    - hydroponik
+    - ai
+    - sensorer
+  motiv:
+    - ljus
+    - vatten
+    - fotosyntes
+    - seminarier
+    - byggande
+    - rytm
+    - andning
+
+teman:
+  - gemenskap
+  - arkitektur
+  - utbildning
+  - natur
+  - teknik
+  - ai
+  - ekologi
+  - civilisation
+
+kunskapsskifte:
+  fran:
+    - individuellt_arbete
+    - institution
+  till:
+    - kollektivt_larande
+    - levande_system
+    - distribuerad_kunskap
+
+emotionell_rorelse:
+  start:
+    - vardag
+  mitt:
+    - gemenskap
+    - tillit
+  slut:
+    - framtidstro
+    - kontinuitet
+
+beroenden:
+  krav:
+    - i_vaxthusets_skymning
+    - den_levande_kedjan
+
+leder_till:
+  - natverkens_varld
+  - abundantia
+
+versioner:
+  - raw_notion_manuscript
+
+taggar:
+  - del3
+  - vaxthus
+  - rytm
+  - arkitektur
+  - kollektiv_intelligens
+  - ai
+  - solvinter
+---
+
+När vintern gick över i vår förändrades växthuset nästan omärkligt.
+
+Ljuset blev mjukare. Luften bar doften av fuktig jord och basilika. Ingen kallade längre platsen för enheten eller fältet. Efter en tid hade den bara blivit platsen.
+
+Han gick långsamt mellan odlingsraderna.
+
+Rötterna hängde i sina genomskinliga rör. Näringslösningen rörde sig långsamt genom systemet. Pumparnas låga surr blandades med fåglarna utanför glaset.
+
+Några byggde en ny gång mellan två moduler.
+
+En annan stod böjd över ett kretskort.
+
+Längre bort satt spelaren framför sin skärm. Han arbetade fortfarande med sina simuleringar. Men figurerna som rörde sig över skärmen följde inte längre bara spelregler. De följde platsens rytm. Växterna, energin, människorna och sensorerna ingick i samma modell.
+
+När han frågade vad han gjorde svarade spelaren:
+
+“Jag försöker lära den att lyssna.”
+
+Han frågade inte vad den skulle lyssna på.
+
+Det verkade redan självklart.
+
+På kvällarna samlades de ibland mellan växthusen.
+
+Någon visade hur man ympade tomater.
+
+Någon annan förklarade hur ljuset förändrades under året.
+
+En student ritade energiflöden på en plywoodskiva. En äldre man rev den i bitar och byggde en arbetsbänk av den i stället.
+
+Ingen verkade tycka att de motsade varandra.
+
+Arkitekten stod ofta en bit ifrån de andra.
+
+Han betraktade byggnaderna på samma sätt som en trädgårdsmästare betraktar ett träd. Inte för att kontrollera dess form, utan för att se om det fortfarande växte.
+
+En kväll lade han handen mot glaset.
+
+“Det märkliga”, sade han, “är inte att vi byggde ett växthus.”
+
+Han blev tyst.
+
+“Det märkliga är att det började förändra oss.”
+
+Ingen svarade.
+
+När mörkret föll tändes lamporna mellan modulerna.
+
+Ljuset pulserade långsamt genom glasgångarna. Inte rytmiskt nog för att någon skulle kalla det musik. Men tillräckligt långsamt för att människorna skulle börja anpassa sina steg efter det.
+
+Han stod kvar en stund innan han gick.
+
+För första gången slog det honom att en byggnad kanske inte främst är ett skydd mot väder.
+
+Kanske är den ett sätt att lära människor en gemensam rytm.

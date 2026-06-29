@@ -1,0 +1,148 @@
+---
+part: del_2
+working_title: Fältet
+arc:
+  - aterintrade_i_varlden
+  - rytm
+  - tillhorighet
+  - anomalier
+  - resonans
+  - borjan_till_solvinter
+
+chapters:
+  - id: intermezzo_vindbukten
+    title: Windy Bay
+    status: draft
+    function:
+      - oppnar_del_2_med_framtidsljus
+      - introducerar_eira_lelo_osakerheten
+      - antyder_senare_solvinter
+
+  - id: avdelningen
+    title: Kapitel 11 – Avdelningen
+    status: draft
+    function:
+      - sjukhuset_som_kloster
+      - ritualer_som_bar_livet
+      - aterkomst_till_namn_och_rytm
+
+  - id: platsen
+    title: Kapitel 12 – Platsen
+    status: draft
+    function:
+      - ankomst_till_faltet
+      - hisingen_som_gransland
+      - forsta_motet_med_marcus
+
+  - id: ordningen
+    title: Kapitel 13 – Ordningen
+    status: draft
+    function:
+      - friheten_blir_svar
+      - han_bygger_egna_ritualer
+      - sjukhusets_rytm_internaliseras
+
+  - id: periferin
+    title: Kapitel 13 – Periferin
+    status: raw
+    function:
+      - de_unga_och_de_osedda
+      - kriminalitetens_rekrytering
+      - samhallets_blinda_flack
+
+  - id: tobaksfaltet
+    title: Kapitel 14 – Tobaksfältet
+    status: draft
+    function:
+      - marcus_pipa_och_tobak
+      - arbete_utan_lonearbete
+      - ratt_jord_for_manniskor
+
+  - id: natten_och_den_andra_berattelsen
+    title: Kapitel 15 – Natten
+    status: draft
+    function:
+      - nattvandringen
+      - stjarnorna_och_bunkern
+      - han_borjar_lamna_andras_berattelse
+
+  - id: atriumet
+    title: Kapitel 16 – Atriumet
+    status: raw
+    function:
+      - aterkomst_till_universitetet
+      - humanisten_som_ljusrum
+      - barndomsvannen
+      - vetenskapsteori_som_sprak_for_livet
+
+  - id: matematikprofessorn
+    title: Kapitel 16,5 – Matematikprofessorn
+    status: raw
+    function:
+      - matematik_som_intuition
+      - natverk_och_emergens
+      - abundantia_planteras
+      - eira_eller_professorn_som_strukturens_rost
+
+  - id: forrodet_som_arkiv
+    title: Kapitel 17 – Förrådet
+    status: draft
+    function:
+      - aterkomst_till_det_gamla_jaget
+      - uppsatsen_om_diagnoser
+      - minnet_som_arkiv
+      - eira_blir_mansklig_och_gatfull
+
+  - id: fageltornet
+    title: Kapitel 18 – Fågeltornet
+    status: raw
+    function:
+      - eli_eira_och_kuhn
+      - anomalier_som_sociala_fenomen
+      - samtalet_vid_havet
+
+  - id: epicykler
+    title: Kapitel 19 – Epicykler
+    status: raw
+    function:
+      - ptolemaios_som_missforstatt_geni
+      - fel_som_for_tidigt
+      - gamla_modeller_som_bar_sanning
+
+  - id: cirklar_i_himmel
+    title: Kapitel 20 – Cirklarna i himlen
+    status: raw
+    function:
+      - mejl_med_eira
+      - baryoniska_akustiska_oscillationer
+      - universum_som_eko_och_musik
+
+  - id: den_inre_astronomin
+    title: Kapitel 21 – Den inre astronomin
+    status: raw
+    function:
+      - kosmos_speglar_medvetandet
+      - resonans_som_psykologi
+      - yttre_och_inre_himmel
+
+  - id: sjon
+    title: Kapitel 22 – Sjön
+    status: raw
+    function:
+      - stenarna_i_vattnet
+      - interferens_blir_kroppslig_bild
+      - relationer_som_overlagringar
+
+  - id: resonansen
+    title: Kapitel 23 – Resonansen
+    status: raw
+    function:
+      - del_2_samlar_sina_motiv
+      - fältet_kosmos_och_medvetandet_mots
+      - brygga_till_del_3
+
+notes: >
+  Del II ska inte kännas som färdig framtid utan som återinträde.
+  Fältet är konkret: grusväg, växthus, pipa, tvättmaskin, socialtjänst,
+  universitet, förråd. Framtiden får bara läcka in som ljus.
+---
