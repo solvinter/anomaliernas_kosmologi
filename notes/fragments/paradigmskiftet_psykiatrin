@@ -1,0 +1,157 @@
+---
+id: paradigmskiftet_psykiatrin
+title: Paradigmskiftet
+type: fragment
+
+part:
+  - del_ii
+  - övergången
+
+timeline:
+  - nära_framtid
+  - efter_tunneln
+
+characters:
+  - protagonisten
+  - berättaren
+
+places:
+  - diagnostikcentrum
+  - psykiatrin
+  - fältet
+
+themes:
+  - paradigmskifte
+  - psykiatri
+  - beroende
+  - diagnostik
+  - biologiska_mekanismer
+  - medicinhistoria
+  - rättvisa
+  - människovärde
+  - vetenskapsteori
+
+motifs:
+  - anomalier
+  - hypoteser
+  - biologisk_karta
+  - diagnostikcentrum
+  - patientberättelsen
+  - ai
+  - fältet
+  - övergång
+
+functions:
+  - introducerar_den_nya_psykiatrin
+  - visar_paradigmskiftet_utan_att_predika
+  - förklarar_varför_fältet_finns
+  - skiljer_symtom_från_etiologi
+  - binder_samman_del_ett_och_del_två
+  - etablerar_medicinens_nya_självbild
+  - förbereder_samtalen_i_del_tre
+
+symbols:
+
+  diagnostikcentrum:
+    meaning:
+      - ny_syn_på_lidande
+      - systematisk_nyfikenhet
+      - medicinskt_paradigmskifte
+
+  beroende:
+    meaning:
+      - syndrom
+      - ingångssymtom
+      - inte_slutdiagnos
+
+  biologisk_karta:
+    meaning:
+      - helhet
+      - komplexitet
+      - individens_unika_mekanismer
+
+  hypotes:
+    meaning:
+      - ödmjukhet
+      - vetenskap
+      - ständig_omprövning
+
+  fältet:
+    meaning:
+      - återhämtning
+      - rehabilitering
+      - mänsklig_rytm
+
+core_questions:
+  - vad_händer_när_psykiatrin_blir_mekanismbaserad
+  - hur_förändras_synen_på_beroende
+  - vad_är_skillnaden_mellan_symtom_och_sjukdom
+  - kan_medicinen_lära_sig_att_se_det_den_tidigare_missat
+  - hur_förändras_samhället_när_modellen_förändras
+
+notable_lines:
+  - det_första_som_försvann_var_beroendemottagningarna
+  - ingen_enskild_analys_avgjorde_någonting
+  - dominerande_patofysiologiska_hypoteser
+  - den_längsta_undersökningen_var_fortfarande_samtalet
+  - psykiatrin_hade_slutat_acceptera_att_stora_grupper_skulle_lida_utan_förklaring
+  - det_hade_inte_blivit_någon_utopi
+  - de_hade_inte_saknat_motivation_de_hade_saknat_rätt_behandling
+  - världen_hade_förändrats_mindre_än_modellen_som_beskrev_den
+
+connections:
+  - tunneln
+  - avdelningen
+  - platsen
+  - fältet
+  - matematikprofessorn
+  - anomalier
+  - epicykler
+  - den_osynliga_ekonomin
+  - samtal_med_dottern
+  - abundantia
+
+positioning:
+  preferred_position:
+    - direkt_efter_tunneln
+    - inledning_till_del_ii
+
+  alternative_position:
+    - längre_intermezzo
+    - essä_mellan_del_i_och_del_ii
+
+narrative_role:
+  perspective: retrospektiv
+  tone:
+    - saklig
+    - medicinsk
+    - filosofisk
+    - lågmält_hoppfull
+
+  purpose: >
+    Öppnar den nya verkligheten efter tunneln. Fragmentet beskriver inte en
+    teknisk utopi utan ett medicinskt paradigmskifte där beroende inte längre
+    förstås som en slutdiagnos utan som ett syndrom med många möjliga
+    bakomliggande mekanismer. Det fungerar som en bro mellan Betelskeppets
+    erfarenheter och Fältet, där läsaren därefter får uppleva hur denna nya
+    verklighet faktiskt ser ut genom människorna som lever i den.
+---
+Det hade inte blivit någon utopi.
+
+Det fanns fortfarande människor som inte ville leva inom samhällets ramar. Människor som valde kriminalitet, våld eller ett liv utanför de gemensamma institutionerna. Psykiatrin hade aldrig haft som uppgift att lösa alla mänskliga konflikter.
+
+Det som förändrats var något annat.
+
+Under början av 2000-talet betraktades stora grupper människor som återkommande sökte beroendevård genom ett raster där deras liv ofta tolkades som uttryck för bristande karaktär, bristande motivation eller ett aktivt val att ställa sig utanför samhället. Även när sådana omdömen aldrig uttalades öppet fanns de ofta närvarande i organisationen, i lagstiftningen och i allmänhetens föreställningar.
+
+Vid seklets slut såg man samma människor på ett annat sätt.
+
+Inte därför att deras liv blivit enklare, utan därför att psykiatrin lärt sig skilja mellan sociala konsekvenser och biologiska sjukdomsprocesser.
+
+Det visade sig att en stor del av de människor som tidigare betraktats som kroniskt behandlingsresistenta i själva verket levde med identifierbara och behandlingsbara psykiatriska tillstånd. När dessa tillstånd diagnostiserades korrekt blev det också uppenbart att de flesta inte saknade motivation. De hade saknat en behandling som motsvarade deras sjukdom.
+
+Den kanske största samhällsförändringen låg därför inte i att färre människor levde i utanförskap.
+
+Den låg i att samhället äntligen kunde skilja mellan dem som av olika skäl valde ett liv utanför de gemensamma normerna och dem som under generationer hade betraktats som ovilliga, när de i själva verket varit sjuka.
+
+Först när den skillnaden blev tydlig kunde både vården och rättsstaten behandla människor mer rättvist.

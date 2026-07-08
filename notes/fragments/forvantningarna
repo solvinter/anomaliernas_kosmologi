@@ -1,0 +1,114 @@
+---
+id: forvantningarna
+title: Förväntningarna
+type: archive_fragment
+
+part:
+  - del_ii
+
+position:
+  - efter_biologisk_kartlaggning
+  - avslutning_diagnostikcentrum
+  - tröskel_till_fältet
+
+timeline:
+  - år_2050
+  - paradigmskifte
+
+document_type:
+  - medicinsk_reflektion
+  - utbildningsmanual
+  - historisk_översikt
+
+voice:
+  - essäistisk
+  - institutionell
+  - medicinhistorisk
+
+themes:
+  - psykiatri
+  - vetenskapsteori
+  - behandling
+  - människosyn
+  - förväntningar
+  - hopp
+  - precision_medicine
+
+motifs:
+  - hypotesen
+  - omprövningen
+  - nyfikenheten
+  - berättelsen
+
+functions:
+  - avslutar_diagnostikcentrum
+  - markerar_paradigmskiftet
+  - förklarar_varför_fältet_blir_möjligt
+  - binder_samman_medicin_och_filosofi
+
+symbols:
+
+  förväntningarna:
+    meaning:
+      - vetenskaplig_kultur
+      - hopp
+      - ansvar
+
+  biologisk_nyfikenhet:
+    meaning:
+      - ödmjukhet
+      - fortsatt_sökande
+      - människan_framför_etiketten
+
+core_questions:
+  - vad_händer_när_psykiatrin_slutar_acceptera_okunskap
+  - hur_förändras_vården_när_hypoteser_ersätter_etiketter
+  - vad_betyder_hopp_i_medicinen
+
+notable_lines:
+  - den_biologiska_precisionen_löste_inte_allt
+  - det_var_inte_tekniken_som_förändrades
+  - det_var_förväntningarna
+  - psykiatrin_hade_slutat_acceptera_att_människor_skulle_leva_och_dö_utan_att_någon_visste_varför_de_led
+
+connections:
+  previous:
+    - diagnostikcentrum
+    - biologisk_kartlaggning
+    - mellanvarden
+
+  next:
+    - fältet
+    - platsen
+    - ordningen
+
+notes: >
+  Avslutar den medicinska introduktionen till del II. Fragmentet
+  handlar mindre om ny teknik än om ett förändrat vetenskapligt
+  förhållningssätt. Paradigmskiftet består inte i att alla patienter
+  botas, utan i att psykiatrin slutar acceptera okända orsaker som
+  permanenta tillstånd och fortsätter söka behandlingsbara mekanismer.
+---
+Den biologiska precisionen löste inte allt.
+
+Även när etiologin kunde beskrivas med en detaljrikedom som tidigare varit otänkbar återstod fortfarande den svåraste variabeln i all medicin: människan.
+
+Patienter avstod fortfarande från behandling. Motivation växlade. Relationer gick sönder. Missbruk återkom. Psykologiska försvarsmekanismer försvann inte därför att laboratorierna blivit bättre.
+
+Skillnaden var en annan.
+
+När en behandling misslyckades betraktades det inte längre som ett misslyckande för patienten. Inte heller som ett bevis för att sjukdomen var obotlig. I stället återvände man till den biologiska modellen, omprövade hypoteserna och justerade behandlingen på samma sätt som man sedan länge gjort inom onkologin och infektionsmedicinen.
+
+Under de följande decennierna förändrades därför också allmänhetens förtroende för psykiatrin.
+
+Inte därför att varje patient blev frisk.
+
+Utan därför att psykiatrin gång på gång visade att tillstånd som tidigare betraktats som kroniska sociala öden i själva verket var identifierbara och behandlingsbara sjukdomsprocesser.
+
+Det som under början av 2000-talet ofta beskrevs som livsstilsproblem, social utsatthet eller bristande motivation betraktades nu med samma medicinska nyfikenhet som en okänd tumör eller en sällsynt autoimmun sjukdom. Ingen förnekade de sociala faktorernas betydelse, men de sågs inte längre som den yttersta förklaringen.
+
+Det kanske viktigaste som förändrades var därför inte tekniken.
+
+Det var förväntningarna.
+
+Psykiatrin hade slutat acceptera att stora grupper människor skulle leva och dö utan att någon visste varför de led.
