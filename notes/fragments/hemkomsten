@@ -1,0 +1,196 @@
+---
+id: hemkomsten
+title: Hemkomsten
+type: fragment
+
+part:
+  - del_ii
+  - återkomsten
+
+timeline:
+  - efter_läkarutbildningen
+  - efter_utlandet
+  - före_fältet
+
+characters:
+  - protagonisten
+  - modern
+  - patienterna
+
+places:
+  - göteborg
+  - förorten
+  - skogen
+  - vårdcentralen
+
+themes:
+  - identitet
+  - klass
+  - tillhörighet
+  - utanförskap
+  - medicin
+  - beroende
+  - samhällsstrukturer
+  - uppväxt
+  - återkomst
+  - människovärde
+
+motifs:
+  - skogen
+  - sjön
+  - betongen
+  - modern
+  - hemkomsten
+  - distributionskedjan
+  - smärta
+  - två_städer
+
+functions:
+  - etablerar_protagonistens_sociala_bakgrund
+  - visar_moderns_betydelse
+  - introducerar_dubbel_identitet
+  - binder_samman_läkarrollen_med_patienterna
+  - planterar_bokens_huvudfråga_om_beroende
+  - förbereder_paradigmskiftet
+
+symbols:
+
+  skogen:
+    meaning:
+      - frihet
+      - läkande
+      - barndom
+
+  betongen:
+    meaning:
+      - socialt_tryck
+      - våld
+      - struktur
+
+  modern:
+    meaning:
+      - intuition
+      - omsorg
+      - riktning
+
+  hemkomsten:
+    meaning:
+      - identitet
+      - kollektivt_minne
+      - återigenkännande
+
+  smärtlindring:
+    meaning:
+      - mänskligt_lidande
+      - medicin
+      - beroende
+
+core_questions:
+  - vem_avgör_var_en_människa_hör_hemma
+  - hur_formar_uppväxten_människans_bana
+  - varför_tolkas_samma_lidande_olika
+  - vad_skiljer_vårdens_och_den_kriminella_marknadens_farmakologi
+  - hur_påverkar_samhällets_berättelser_vår_identitet
+
+notable_lines:
+  - hon_bar_dem_över_staden
+  - det_var_kanske_den_viktigaste_behandling_han_någonsin_fick
+  - den_skrevs_aldrig_in_i_någon_journal
+  - hemmet_hade_också_ett_minne
+  - samhället_försökte_passa_in_honom_i_en_berättelse
+  - lidandet_var_detsamma
+  - det_var_bara_distributionskedjan_som_såg_annorlunda_ut
+
+connections:
+  - platsen
+  - periferin
+  - tobaksfältet
+  - avdelningen
+  - fältet
+  - diagnostikcentrum
+  - paradigmskiftet_psykiatrin
+  - den_osynliga_ekonomin
+  - samtal_med_dottern_om_sjukdom
+
+positioning:
+  preferred_position:
+    - före_fältet
+    - efter_återkomsten_till_göteborg
+
+  alternative_position:
+    - retrospektivt_fragment_i_del_ii
+
+narrative_role:
+  perspective: nära_tredje_person
+
+  tone:
+    - reflekterande
+    - lågmäld
+    - sociologisk
+    - självbiografisk
+
+  purpose: >
+    Fragmentet beskriver hur protagonistens uppväxt mellan två sociala världar
+    formar hans blick på samhället. Moderns intuitiva beslut att lämna den
+    våldsamma miljön blir en tyst läkande handling. När han senare återvänder
+    som läkare upptäcker han att samhället fortfarande försöker placera honom i
+    samma berättelse som han en gång lämnat. Genom mötet med patienterna väcks
+    insikten att samma mänskliga lidande kan tolkas helt olika beroende på
+    vilken institution som möter det. Fragmentet fungerar som en brygga mellan
+    protagonistens biografi och romanens större tema om hur samhällen
+    klassificerar människor.
+
+meta:
+  central_idea: >
+    Samhällets kategorier beskriver ofta människors plats bättre än människorna
+    själva. Lidandet förändras inte när det byter institution – bara språket
+    omkring det gör det.
+
+  narrative_weight:
+    - identitet
+    - sociologi
+    - medicin
+    - ursprung
+---
+
+Han kom därifrån.
+
+Från den del av Göteborg som senare skulle förknippas med skjutningar, gäng och polisens kartor. Men när han var barn var det bara platsen där hans mor insåg att de måste därifrån.
+
+Hon bar dem över staden.
+
+Inte långt i tid, men långt i landskap.
+
+Betongen blev skog. Parkeringsplatser blev stigar. Sjöar ersatte trafikleder. När han hade spring i benen fanns träd att klättra i i stället för köpcentrum att driva omkring i. När han blev arg fanns skogen. När han blev rastlös fanns vattnet.
+
+Det var kanske den viktigaste behandlingen han någonsin fick.
+
+Den skrevs aldrig in i någon journal.
+
+Åren utomlands gjorde sedan sitt. När han återvände som läkare trodde han att han kommit hem.
+
+I stället upptäckte han att hemmet också hade ett minne.
+
+Han såg ut som en av dem.
+
+Han talade ibland som en av dem.
+
+Och när hans eget liv senare började falla sönder placerades han åter i samma kategori som människor han egentligen bara råkat växa upp bredvid.
+
+Han förstod långsamt att samhället hela tiden försökte passa in honom i en berättelse.
+
+Men berättelsen passade aldrig riktigt.
+
+Det märkliga var att det inte längre bekymrade honom lika mycket.
+
+Det som bekymrade honom var något annat.
+
+När han arbetade på vårdcentralen mötte han människor som sökte smärtlindring.
+
+Samma människor sökte senare samma lindring hos gängens farmaceuter.
+
+Lidandet var detsamma.
+
+Det var bara distributionskedjan som såg annorlunda ut.
+
+Och någonstans där började han misstänka att samhället ibland lade mer kraft på att avgöra vem som fick skriva ut läkemedlet än på att förstå varför människan framför dem led.

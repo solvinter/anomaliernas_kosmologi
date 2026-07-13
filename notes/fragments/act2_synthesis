@@ -1,0 +1,130 @@
+id: act2_synthesis
+title: Solvinter växer fram
+type: structural-arc
+status: core
+
+purpose: >
+  Definierar andra aktens egentliga berättelse. Solvinter uppstår inte genom
+  protagonistens vision ensam utan genom syntesen av flera människors olika
+  perspektiv, erfarenheter och kunskaper.
+
+core_theme:
+  - Emergens
+  - Paradigmskifte
+  - Kunskap som gemensamt projekt
+  - Etik före teknik
+  - Civilisation byggs av relationer
+
+characters:
+
+  protagonist:
+    archetype: Läkaren
+    represents:
+      - etik
+      - medicin
+      - mänskligt lidande
+      - fenomenologi
+      - ansvar
+    limitation: >
+      Tänker fortfarande i institutioner, yrken och nationella system.
+      Förstår inte ännu informationssamhällets möjligheter.
+
+  architect:
+    archetype: Kodaren
+    represents:
+      - programmering
+      - kryptografi
+      - distribuerade system
+      - digitalt värde
+      - open source
+    role: >
+      Visar att kunskap kan skapa frihet utan att passera traditionella
+      institutioner.
+    symbol: Digitalt guld
+
+  mathematics_professor:
+    archetype: Matematikern
+    represents:
+      - nätverk
+      - emergens
+      - komplexitet
+      - civilisation
+      - intuition
+    role: >
+      Ger den matematiska modellen som senare används för att förstå både
+      samhällen och medvetanden.
+
+  lelo:
+    archetype: Kosmologen
+    represents:
+      - universum
+      - tid
+      - mörk materia
+      - perspektiv
+      - abundantia
+    role: >
+      Förbinder människans utveckling med kosmologin och öppnar romanens
+      filosofiska dimension.
+
+  cousin:
+    archetype: Street-smart entreprenör
+    represents:
+      - Lagos
+      - Brixton
+      - Accra
+      - diaspora
+      - praktisk överlevnad
+    role: >
+      Förstår människor, handel och informella nätverk bättre än någon annan.
+      Bygger broar mellan kontinenter.
+
+  peta:
+    archetype: Muraren
+    represents:
+      - lojalitet
+      - kristen etik
+      - hantverk
+      - tålamod
+      - tillförlitlighet
+    role: >
+      Ger idéerna fysisk form.
+      Påminner gruppen om att civilisation alltid måste byggas sten för sten.
+
+emergence:
+
+  description: >
+    Ingen av personerna grundar Solvinter.
+    Rörelsen uppstår gradvis när deras olika kartor börjar överlappa.
+    Protagonisten inser först långt senare att han själv varit en del av
+    syntesen.
+
+organization:
+
+  early_name: Black Rocks
+  later_name: Saxa Recentia
+
+mission:
+  - Bygga lokala noder
+  - Sprida kunskap
+  - Producera energi
+  - Tillgängliggöra AI
+  - Dokumentera allt öppet
+  - Göra varje plats friare än när de kom
+
+recurring_symbol:
+  - sten
+  - sol
+  - nätverk
+  - kod
+  - tillit
+
+relationship_to_part3:
+  description: >
+    När protagonisten blivit gammal akademiker kan han och dottern
+    reflektera över hur Solvinter egentligen uppstod.
+    Inte som resultatet av ett geni utan av människor som såg olika delar
+    av verkligheten och valde att bygga tillsammans.
+
+    ---
+
+    Arkitektens som sitter på kunskaper om digitalt guld, kod. Matemstikproffessorn som har det stora globala perspektivet. Kusinen som vuxit upp på gatorna i lagos och 70-talets Brixton i London bland jamaicaner och återvänt till Accras och är streetsmart. Peta som är den trogne knristne lågmälda lojala och pålitliga muraren. Lelo/eira som ser kosmos. Andra akten innehåller nya människor med protagonisten som råkar vara bland dem och utan att det märks gör syntesen Solvinter. Det är en ärlig och etisk rörelse där pop pets står för människorna som blir saxa recentia. Ekonomi och utveckling kan reflekteras över med lelo, abundantia och nätverk. Det fortsätter i del 3 med dottern när han är akademiker 

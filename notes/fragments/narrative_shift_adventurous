@@ -1,0 +1,332 @@
+id: narrative_shift_adventure
+title: Från idéroman till äventyrsroman
+type: meta
+status: exploratory
+
+purpose: >
+  Beskriver ett alternativt berättargrepp där Anomaliernas kosmologi
+  behåller sina filosofiska teman men låter dem bäras av en klassisk
+  äventyrsroman snarare än av essäistiska resonemang.
+
+inspiration:
+
+  primary:
+    - Greven av Monte Cristo
+    - Shantaram
+    - Ondskan
+    - Arn
+
+  secondary:
+    - Murakami
+    - Coetzee
+    - Borges
+
+central_shift: >
+
+  Romanens motor blir inte längre de filosofiska idéerna i sig.
+
+  Motorn blir protagonistens resa från förlust till frihet.
+
+  Filosofin växer organiskt fram genom människor, platser och projekt.
+
+core_arc:
+
+  act_1:
+    title: Förlusten
+
+    themes:
+      - Betelskeppet
+      - utanförskap
+      - psykiatri
+      - misshandeln
+      - hemlöshet
+      - vägskälet
+
+    emotional_state:
+      - instängd
+      - hopplös
+      - osäker
+
+  act_2:
+    title: Skatten
+
+    themes:
+      - huset i Accra
+      - programmering
+      - AI
+      - kryptografi
+      - Black Rocks
+      - nya vänner
+      - Solvinter
+
+    emotional_state:
+      - nyfikenhet
+      - upptäckarglädje
+      - expansion
+
+  act_3:
+    title: Återkomsten
+
+    themes:
+      - Saxa Recentia
+      - noder
+      - akademin
+      - dottern
+      - frihet
+      - civilisation
+
+    emotional_state:
+      - mognad
+      - ansvar
+      - generositet
+
+the_treasure:
+
+  description: >
+
+    Skatten är inte pengar.
+
+    Den består av flera lager.
+
+    Först framstår den som den bortglömda byggnaden i Accra.
+
+    Därefter visar den sig vara programmering, distribuerad
+    beräkningskraft och den nya informationsekonomin.
+
+    Till slut inser både protagonisten och läsaren att den verkliga
+    skatten är förmågan att skapa värde tillsammans med andra människor.
+
+the_house:
+
+  description: >
+
+    Protagonisten har känt till byggnaden i över tjugo år.
+
+    Han har sett hur den gradvis tappat betydelse inom familjen.
+
+    Fadern lämnar huset för strandhuset vid kusten.
+
+    Farbröderna bygger moderna villor kring Osu.
+
+    Kusinerna saknar intresse för den gamla fastigheten.
+
+    Byggnaden förändras nästan inte alls.
+
+    Det är världen omkring den som förändras.
+
+    Därför blir huset plötsligt en skatt utan att någon först märker det.
+
+programming:
+
+  metaphor:
+
+    preferred:
+      - biokemi
+      - cellbiologi
+      - systembiologi
+      - emergens
+
+    avoid:
+      - anatomi
+
+    rationale: >
+
+      Programmering liknar biologiska processer där enkla regler,
+      signalvägar och återkopplingsmekanismer tillsammans skapar
+      komplexa funktioner.
+
+companions:
+
+  protagonist:
+    medicine
+    ethics
+
+  architect:
+    code
+    cryptography
+    digital economy
+
+  mathematics_professor:
+    mathematics
+    emergence
+
+  lelo:
+    cosmology
+    abundance
+
+  cousin:
+    lagos
+    brixton
+    accra
+    entrepreneurship
+
+  peta:
+    craftsmanship
+    faith
+    loyalty
+
+narrative_effect: >
+
+  Läsaren drivs framåt av upptäckten av nya platser,
+  människor och möjligheter.
+
+  Filosofin ligger under berättelsen snarare än ovanpå den.
+
+comparison:
+
+  previous_version: >
+
+    Idéerna drev handlingen.
+
+  revised_version: >
+
+    Handlingen driver idéerna.
+
+author_note: >
+
+  Målet är inte att skriva mindre filosofiskt.
+
+  Målet är att låta läsaren uppleva filosofin genom äventyr,
+  vänskap, skapande och återupprättelse, på samma sätt som
+  Greven av Monte Cristo använder skattjakten för att berätta
+  om frihet, identitet och människans förvandling.
+  ---
+  Fragment – Skatten
+
+Det märkliga var att skatten hela tiden hade stått där.
+
+Inte nedgrävd.
+
+Inte gömd.
+
+Inte ens bortglömd.
+
+Den hade bara aldrig tidigare varit värdefull.
+
+Huset låg kvar i Accra, några kvarter från de stora handelsgatorna. Fyra längor runt en sval innergård där en fontän fortfarande porlade, trots att nästan ingen längre bodde där. Fastern gick fortfarande sina långsamma rundor mellan rummen som om hon vaktade någonting ingen längre visste fanns. På utsidan hyrdes små butiker ut mot gatan. Där såldes telefoner, ris, tyg, reservdelar och sådant som människor alltid behövde.
+
+Han hade sett huset hela sitt liv.
+
+Men först nu såg han möjligheten.
+
+Inte huset.
+
+Platsen.
+
+När han var ung hade rikedom alltid betytt samma sak.
+
+Pengar.
+
+Lön.
+
+Karriär.
+
+Fastigheter.
+
+Nu började världen tala ett annat språk.
+
+Beräkningskraft.
+
+Energi.
+
+Information.
+
+Tillit.
+
+Han började lära sig programmera av Arkitekten.
+
+Inte för att bli programmerare.
+
+Utan därför att han plötsligt förstod att kod liknade anatomi. Små regler som tillsammans skapade något levande. Ju längre han kom desto märkligare blev känslan. Han hade tillbringat ett helt yrkesliv med att försöka förstå människans nervsystem. Nu satt han om nätterna och försökte förstå ett annat.
+
+Internet.
+
+Arkitekten log när han såg honom kämpa.
+
+“Du försöker fortfarande memorera.”
+
+“Vad ska jag göra istället?”
+
+“Tänka.”
+
+“Det gör jag.”
+
+“Nej.”
+
+Arkitekten pekade på skärmen.
+
+“Du tänker fortfarande som läkare.”
+
+“Vad betyder det?”
+
+“Att du tror att världen består av diagnoser.”
+
+Han ritade några punkter på ett papper.
+
+Sedan drog han streck mellan dem.
+
+“Den består av nätverk.”
+
+⸻
+
+En kväll satt de på taket till huset.
+
+Elen hade försvunnit igen.
+
+Ingen verkade särskilt bekymrad.
+
+Längs gatan fortsatte människorna att prata, laga mat och sälja varor i skenet från batterilampor och motorcyklar.
+
+“Vet du vad den största missuppfattningen är?” frågade Arkitekten.
+
+“Om kryptovalutor?”
+
+“Nej.”
+
+“Om pengar.”
+
+Han tittade ut över staden.
+
+“Folk tror att man bryter digitalt guld.”
+
+Han skrattade.
+
+“Det gör man inte.”
+
+“Vad bryter man då?”
+
+Arkitekten pekade mot himlen.
+
+“Ingenting.”
+
+Sedan pekade han mot solen.
+
+“Man omvandlar energi till förtroende.”
+
+⸻
+
+Han förstod inte riktigt vad Arkitekten menade då.
+
+Flera år senare skulle han inse att det där samtalet varit början på Solvinter.
+
+Inte företaget.
+
+Inte rörelsen.
+
+Tanken.
+
+Att civilisation alltid byggts av människor som lyckats omvandla en form av energi till en annan.
+
+Ved.
+
+Kol.
+
+Olja.
+
+Elektricitet.
+
+Information.
+
+Och kanske, till slut…
+
+…tillit.
