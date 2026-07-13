@@ -1,0 +1,115 @@
+---
+id: bumbi
+title: Bumbi
+status: character
+type:
+  - principal_character
+first_appearance:
+  - saab_9_5
+estimated_age:
+  late_teens
+role:
+  - katalysator
+  - spegel_for_protagonisten
+  - anomalin_som_systemet_aldrig_sag
+background:
+  education:
+    aldrig_fullbordad_grundskola
+  childhood:
+    tidig_social_utsatthet
+  recruitment:
+    uppvaktad_av_kriminella_redan_i_tidiga_tonaren
+  environment:
+    gatukultur
+    kriminalitet
+    tillfalliga_gemenskaper
+appearance:
+  physique:
+    liten
+    gracil
+    atletisk
+  neck:
+    ovanligt_gracil
+  skin:
+    genomskinlig
+    lyster_som_tycks_komma_inifran
+  hair:
+    langt
+    dolt_under_hoodie
+  clothing:
+    - kamouflagebyxor
+    - kamouflagevast
+    - hoodie
+  accessories:
+    - sma_orhangen
+  possible_objects:
+    - kniv
+voice:
+  volume:
+    lag
+  tempo:
+    snabbt
+  humour:
+    torr
+  emotional_expression:
+    aterhallsam
+behaviour:
+  observation:
+    mycket_hog
+  courage:
+    hog
+  impulsivity:
+    hog
+  loyalty:
+    selektiv
+  violence:
+    normaliserad
+    aldrig_romantiserad
+psychology:
+  strengths:
+    - laser_manniskor_snabbt
+    - intuitiv
+    - social_intelligens
+    - overlevnadsformaga
+  weaknesses:
+    - misstror_auktoriteter
+    - kort_tidshorisont
+    - svar_att_lita_pa_andra
+hidden_traits:
+  - hog_kognitiv_formaga
+  - estetisk_kanslighet
+  - stark_integritet
+protagonists_first_impression:
+  remembers:
+    - halsen
+    - huden
+    - ljuset
+    - kamouflagemonstren
+  not:
+    - kriminaliteten
+symbols:
+  camouflage:
+    meaning:
+      - skydd
+      - osynlighet
+      - overlevnad
+  translucent_skin:
+    meaning:
+      - sarbarhet
+      - livskraft
+      - manniskan_bakom_rollen
+core_questions:
+  - vem_hade_hon_blivit_i_ett_annat_samhalle
+  - vad_ar_en_begavning_som_ingen_efterfragar
+  - nar_borjar_en_rekrytering_egentligen
+future_connections:
+  - skateboardbutiken
+  - faltet
+  - anomaliernas_kosmologi
+writing_notes: >
+  Bumbi ska aldrig reduceras till "kriminell". Läsaren ska först
+  fascineras av hennes närvaro och personlighet. Hennes bakgrund
+  upptäcks gradvis. Varje scen med henne ska innehålla minst ett
+  ögonblick där hennes intelligens eller människokännedom blir
+  tydligare än hennes sociala status.
+---
