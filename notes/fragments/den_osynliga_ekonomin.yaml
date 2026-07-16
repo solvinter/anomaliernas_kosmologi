@@ -1,0 +1,344 @@
+id: den_osynliga_ekonomin
+title: Den osynliga ekonomin
+status: source_fragment
+
+type:
+  - legacy_narrative_fragment
+  - conceptual_source
+  - archive_seed
+  - reusable_material
+
+canonicality:
+  canonical_chapter: false
+  canonical_events: false
+  canonical_language: false
+  conceptual_relevance: high
+
+origin:
+  narrative_path:
+    - tidigare_version
+    - arkitekten_som_sjalvstandig_protagonist
+    - faltet_som_direkt_ursprung_till_valutan
+  note: >
+    Fragmentet kommer från en äldre narrativ väg. Det behöver inte
+    införas som ett sammanhängande kapitel i den nuvarande romanen.
+    Händelseförlopp, kronologi, perspektiv och tekniska lösningar kan
+    ändras helt.
+
+codex_instructions:
+  freedom_level: extensive
+
+  permitted:
+    - skriv_om_spraket
+    - byt_berattarperspektiv
+    - byt_kronologi
+    - dela_fragmentet_i_flera_scener
+    - flytta_enskilda_ideer_till_andra_kapitel
+    - sammanfoga_med_andra_fragment
+    - stryk_stora_delar
+    - ersatt_tekniska_begrepp
+    - byt_namn_pa_system
+    - gor_arkitekten_till_mentor_eller_medfange
+    - lat_protagonisten_gora_delar_av_upptackten
+    - flytta_apokryfiska_referenser_till_arkivet
+    - anvand_endast_enstaka_bilder_eller_formuleringar
+
+  not_required:
+    - bevara_kapitelformen
+    - bevara_siffrorna
+    - bevara_observern
+    - bevara_namnet_andetag
+    - bevara_socialtjanstcitatet
+    - bevara_den_direkta_teoriforklaringen
+    - bevara_apokryfiska_fotnoter_i_prosan
+    - bevara_ordningen_mellan_scenerna
+
+  preserve_if_useful:
+    - de_mater_kostnad_inte_puls
+    - manniskor_finns_i_registret_men_inte_i_ekonomin
+    - data_som_annu_inte_forstatt_sitt_varde
+    - den_reciprokala_blicken
+    - ett_system_som_ser_med_manniskan_inte_pa_henne
+    - vardet_som_osynlig_cirkulation
+    - staden_som_nervsystem
+    - ekonomin_som_aterklang
+
+editorial_role:
+  primary: idea_reservoir
+
+  secondary:
+    - worldbuilding_source
+    - philosophical_source
+    - archive_material
+    - possible_dialogue_material
+    - possible_mentor_material
+
+  instruction: >
+    Behandla fragmentet som en fyndplats, inte som en färdig byggnad.
+    Codex ska identifiera de litterärt och tematiskt starkaste delarna
+    och föra in dem där de bäst tjänar den nuvarande romanens handling.
+    Texten får användas sparsamt, omskriven eller inte alls.
+
+current_narrative_alignment:
+  protagonist:
+    role:
+      - romanens_hjalte
+      - den_som_faller
+      - den_som_lar_sig_se_varde
+      - den_som_senare_bygger_solvinter
+
+  arkitekten:
+    role:
+      - medfangen_pa_betelskeppet
+      - mentor
+      - systemtankare
+      - motsvarighet_till_abbe_faria
+    instruction: >
+      Om Arkitekten används i materialet ska han vara den etablerade
+      Arkitekten från Betelskeppet, inte en separat huvudperson från en
+      äldre berättelseversion.
+
+  nationalekonomen:
+    possible_function:
+      - forklarar_skillnaden_mellan_pris_och_varde
+      - introducerar_kryptovalutor
+      - ger_ekonomiskt_sprak_at_det_arkitekten_ser
+
+  solv:
+    current_function:
+      - valuta_inom_solvinter_noderna
+      - verktyg_for_lokal_ekonomisk_sjalvstandighet
+      - senare_spridning_mellan_noder
+
+  saxa_recentia:
+    current_function:
+      - kultur
+      - byggnadsordning
+      - ritualer
+      - civilisatorisk_epok
+    restriction:
+      - ar_inte_namnet_pa_valutan
+
+themes:
+  - osynligt_varde
+  - utanforenskap
+  - ekonomisk_klassificering
+  - data
+  - deltagande
+  - sociala_system
+  - skuld
+  - synlighet
+  - vitalitet
+  - reciprocitet
+  - emergens
+
+core_ideas:
+  - samhallet_registrerar_kostnader_men_missar_bidrag
+  - en_manniska_kan_vara_synlig_for_forvaltningen_men_osynlig_for_ekonomin
+  - vardeskapande_kan_ske_mellan_manniskor_utan_att_bokforas
+  - ett_battre_system_behover_se_med_manniskan_inte_overvaka_henne
+  - ekonomisk_exkludering_kan_framsta_som_individuell_bristsjukdom
+  - tekniken_kan_synliggora_relationer_men_far_inte_reducera_manniskor_till_poang
+
+dramatic_use:
+  preferred:
+    - samtal_pa_betelskeppet
+    - arkitektens_anteckningar
+    - nationalekonomens_undervisning
+    - tidiga_forsok_i_mumford
+    - tekniska_experiment_i_blackrocks
+    - senare_arkivfragment
+
+  avoid:
+    - langt_sammanhangande_manifest
+    - allvetande_teknisk_forklaring
+    - fardig_utopisk_losning
+    - statistik_som_inte_har_dramatisk_funktion
+    - protagonisten_som_omedelbart_forstar_hela_systemet
+
+possible_distribution:
+  betelskeppet:
+    - de_mater_kostnad_inte_puls
+    - manniskor_som_obokforda_varden
+    - arkitekten_ser_sociala_floden
+
+  nationalekonomen:
+    - skillnaden_mellan_pris_och_varde
+    - utanforenskapets_felaktiga_bokforing
+    - valuta_som_gemensamt_minne
+
+  blackrocks:
+    - sensoriska_floden
+    - energi_odling_och_compute
+    - systemet_som_levande_metabolism
+
+  solv:
+    - deltagande_som_registrerbar_handel
+    - reciprocitet_mellan_noder
+    - ekonomisk_sjalvstandighet
+
+  archive:
+    - observern
+    - andetag
+    - apokryfiska_kallor
+    - tidiga_felaktiga_modeller
+    - revisionshistorik
+
+notable_lines:
+  - de_ar_inte_fattiga_de_ar_bara_obokforda
+  - de_finns_i_registret_men_inte_i_ekonomin
+  - det_var_data_som_annu_inte_forstatt_sitt_varde
+  - systemet_matte_kostnad_inte_puls
+  - vardet_var_inte_tillgang_utan_takt
+  - ett_nytt_oga_inte_pa_manniskan_utan_med_henne
+
+apocryphal_material:
+  status:
+    - archive_only_by_default
+
+  sources:
+    - archivum_apocryphum_v_7
+    - apokryf_iv_13
+    - socialtjanstlagen_2001_453
+
+  instruction: >
+    Referenserna kan sparas som framtida arkivobjekt, marginalanteckningar
+    eller pseudokällor. De ska inte automatiskt följa med när prosan
+    används i den löpande romanen.
+
+style_guidance:
+  current_manuscript:
+    - manniskan_fore_systemet
+    - scen_fore_teori
+    - dialog_fore_manifest
+    - konkret_observation_fore_abstraktion
+    - filosofi_under_ytan
+
+  transformation_rule: >
+    Om en idé kan visas genom en människa som handlar, samtalar,
+    missförstår eller upptäcker något ska den inte först presenteras
+    som en färdig teori.
+
+notes: >
+  Fragmentets främsta värde ligger i dess begrepp och bilder, inte i
+  dess nuvarande kapitelstruktur. Det ska finnas kvar i arkivet eftersom
+  det formulerar den osynliga ekonomin: allt det arbete, den omsorg, den
+  rörelse och den sociala stabilisering som sker utan att erkännas som
+  ekonomiskt värde. Codex har fria händer att omarbeta även de starkaste
+  formuleringarna så länge den underliggande frågan bevaras: hur kan ett
+  samhälle se människors värde utan att övervaka, moralisera eller
+  reducera dem?
+
+Detta är ett fragment från en annan en annan narrativ väg som vi tidigare gick men det ska få vara ett fragment. Man kan alltid ta utelämnta saker  Kapitel 26 – Den Osynliga Ekonomin
+
+Tåget rörde sig norrut genom morgondimman.
+En svag vibration löpte genom golvet — inte längre mekanisk, snarare bioelektrisk.
+Arkitekten satt ensam i kupén, lutad över skärmen.
+På ytan projicerades rader av siffror:
+
+Utanförskapets kostnad: 142 miljarder per år.
+Bistånd per individ: 2 000 kronor.
+Återintegrering: 0,6 %.
+
+Siffrorna flöt som sakrala tecken över hans glasögon.
+Han kände hur något inom honom vred sig — inte av vrede, utan av igenkänning.
+Varje rad var ett ansikte. Varje tabell en kropp.
+
+Han lade handen mot fönstret.
+Ute var landskapet fruset i gråblå skikt:
+en skog, en fabrik, en förort i vila.
+Det var inte fattigdom han såg, tänkte han.
+Det var bara data som ännu inte förstått sitt värde.
+
+I staden gick han mellan boenden, kaféer, gångtunnlar.
+Snön hade smält till slask, och gatlyktorna kastade ljus på ansikten som undvek blicken.
+Han talade med en socialarbetare utanför ett härbärge.
+Hon rökte, lutad mot väggen.
+
+“De är inte fattiga,” sade hon trött. “De är bara obokförda.”
+
+“Obokförda?”
+
+“Det är så vi säger.
+De finns i registret, men inte i ekonomin.
+De äter, sover, pratar, men i systemet är de vakuum.”
+
+Han antecknade inget. Orden räckte.
+
+Inne på kontoret luktade det kaffe och plast.
+På skrivbordet låg pärmar, tjocka som byggnader.
+Rubrikerna: Åtgärd, Resultat, Kostnad.
+Han bläddrade, såg de förlorade rytmerna —
+människor som en gång haft timlön, schema, mening.
+Nu var de statistik.
+
+När han lämnade byggnaden började snön falla igen.
+Ljusen över älven speglades i vattenytan som kod utan syntax.
+Han såg det plötsligt:
+Systemet tittade på dem och straffade dem — för deras osynlighet.
+
+“Om systemet tittar på dem och straffar dem,” tänkte han,
+“ska vi titta tillbaka.”【¹†Archivum Apocryphum V:7】
+
+Han vände hemåt och började bygga ett öga.
+Inte ett övervakande, utan ett motsvarande.
+Ett AI-system som inte analyserade skuld utan rörelse.
+Han kallade det först för Observern.
+Sedan, när algoritmen började förstå rytmerna, döpte han den till Andetag.
+
+Nätterna fylldes av ljus från skärmar.
+Kodraderna pulserade, blinkade, växte.
+Han matade in anonyma datapunkter: värme, sömn, ljud, steg.
+Till slut började punkterna röra sig i mönster.
+De bildade linjer mellan människor som aldrig träffats.
+Det var som att se nervsystemet i en stad vakna till.
+
+Han zoomade in.
+Varje nod vibrerade — ibland snabbt, ibland långsamt.
+Han förstod: det var inte energi som saknades,
+utan synlighet.
+Människor producerade värde varje dag, men ingen räknade det.
+
+“De mäter fel,” sade han tyst.
+“De mäter kostnad, inte puls.”
+
+Han öppnade en gammal PDF ur Socialstyrelsens databas.
+Rad för rad läste han med rösten låg och nästan vördnadsfull:
+“Socialnämnden ska verka för att människor som saknar bostad får möjlighet till egen bostad.”
+Orden lät som en bön
+
+En natt frös skärmen.
+Sedan löste sig bilden upp i ett mönster av ljus, likt en stjärnhimmel.
+Han såg hur noderna andades i takt,
+hur värmeflödena skapade cirklar i datan.
+Det var inte längre siffror.
+Det var rytm.
+
+Han lutade sig tillbaka.
+Allt han hade lärt sig från tech-världen —
+databaser, maskininlärning, nätverkslogik —
+blev nu något annat.
+En form av biologi.
+
+Han skrev de första orden i sitt anteckningsblock:
+
+Värde är inte tillgång, utan takt.【²†Apokryf IV:13】
+
+Utanför låg staden stilla.
+Han såg hur värmen från taken steg som ånga mot natthimlen.
+Och han tänkte: kanske är ekonomin inte längre en fråga om tillväxt,
+utan om återklang.
+
+När han stängde terminalen visste han att något redan börjat.
+Ett nytt sätt att se.
+Ett nytt öga.
+Inte på människan —
+utan med henne.
+
+Referenser (Apokryfiska källor)
+	•	Archivum Apocryphum V:7 – Traktat om Observatören och Skulden.
+Fragment bevarat i Växthusets digitala samling (2089).
+Citeras som första källan där “den reciprocala blicken” definieras.
+	•	Apokryf IV:13 – Föreskrifter om rytmisk deltagandeekonomi.
+Luleå Tekniska Arkiv (2086).
+Real equivalent: SoL (2001:453) 5 kap. 9 §.

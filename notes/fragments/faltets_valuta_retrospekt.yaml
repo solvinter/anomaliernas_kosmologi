@@ -1,0 +1,263 @@
+id: faltets_valuta_retrospekt
+
+title: Fältets valuta (retrospekt)
+
+status: fragment
+
+type:
+  - chapter_fragment
+  - mentor_dialogue
+  - retrospective
+  - archive_seed
+
+part:
+  - del_iii
+  - abundantia
+  - arkitektens_berattelse
+
+placement:
+  after:
+    - hemmet_vid_gransen
+  before:
+    - samtalen_med_flickan
+
+function:
+  - later_arkitekten_beratta_hur_solv_vaxte_fram
+  - visar_att_faltet_var_solvinters_verkliga_ursprung
+  - etablerar_den_virtuella_golfrundan_som_aterkommande_ritual
+  - planterar_arkivets_apokryfiska_kallor
+  - visar_att_solv_upptacktes_snarare_an_uppfanns
+
+characters:
+  - protagonisten
+  - arkitekten
+
+character_roles:
+  arkitekten:
+    role:
+      - mentor
+      - systemarkitekt
+      - medfangen
+    narrative_function:
+      - motsvarigheten_till_abbe_faria
+      - forklarar_systemet_utan_att_predika
+      - visar_monster_som_andra_missat
+
+locations:
+  - virtuella_golfbanan
+  - faltet
+  - vaxthuset
+
+themes:
+  - resonans
+  - varde
+  - rytm
+  - ekonomi
+  - gemenskap
+  - minne
+  - arkiv
+
+motifs:
+  - golf
+  - dimma
+  - ljusband
+  - virtuella_rum
+  - nodkarta
+  - faltet
+
+symbols:
+  golfbanan:
+    meaning:
+      - gemensamt_tankarum
+      - ritual
+      - filosofiskt_samtal
+
+  faltet:
+    meaning:
+      - civilisationens_frö
+      - periferins_centrum
+
+  solv:
+    meaning:
+      - upptackt_varde
+      - resonant_ekonomi
+
+archive_connections:
+  introduces:
+    - apokryf_iv_13
+    - proof_of_vitality
+    - apokryf_v_2
+
+style:
+  - lagmald
+  - dialogdriven
+  - retrospektiv
+  - litterar
+  - observation_fore_teori
+
+notes: >
+  Fragmentet fungerar som romanens motsvarighet till samtalen mellan
+  Edmond Dantès och Abbé Faria. Arkitekten avslöjar inte hela systemet
+  utan visar gradvis hur Solv växte fram ur observationer av människors
+  samarbete på Fältet. Den virtuella golfrundan blir en återkommande
+  ritual där de äldre gestalterna tänker tillsammans. De apokryfiska
+  referenserna hör i första hand hemma i Arkivet och bör bara anas i
+  prosan.
+
+# Fältets valuta (retrospekt)
+
+De möttes fortfarande ibland i de virtuella rummen.
+
+Inte därför att de behövde dem.
+
+Kanske därför att vissa samtal alltid söker samma landskap.
+
+Golfbanan hade aldrig funnits. Ändå kände de igen varje kulle, varje vindriktning, varje grusgång. Någon hade en gång byggt den av minnen från kustlinjer, gamla linksbanor och ett ljus som inte hörde hemma någonstans på jorden.
+
+De gick sida vid sida.
+
+Bollarna färdades långsamt genom luften, nästan viktlösa.
+
+Arkitekten slog ut först.
+
+Han följde bollens bana länge innan han talade.
+
+"Det började egentligen inte i Ghana."
+
+Vännen såg på honom.
+
+"Nej?"
+
+"Det började på fältet."
+
+De fortsatte gå.
+
+"Kommunen kallade det Centrum för återhämtning. De som bodde där sade bara fältet."
+
+Han log svagt.
+
+"Jag tror inte någon längre visste vem som ägde platsen."
+
+Lägenheterna var små.
+
+Växthusen enkla.
+
+Solpanelerna gav mer elektricitet än byggnaderna förbrukade större delen av året.
+
+På kvällarna satt människor tillsammans mellan odlingslådorna.
+
+Någon spelade gitarr.
+
+Någon lagade cyklar.
+
+Någon undervisade en granne i matematik.
+
+Någon lagade mat åt människor hon knappt kände.
+
+"Jag började följa sensorerna."
+
+"Jag minns."
+
+"Först av nyfikenhet."
+
+Han stannade.
+
+"Sedan såg jag något märkligt."
+
+På avstånd slog vännen sin boll.
+
+Den rullade långsamt över den artificiella fairwayen.
+
+"Vad såg du?"
+
+"Att platsen redan fungerade som en ekonomi."
+
+Han sade det nästan för sig själv.
+
+"Inte därför att pengar cirkulerade."
+
+"Utan därför att värde gjorde det."
+
+De fortsatte gå.
+
+"Varje gång någon reparerade något blev nästa människa friare."
+
+"Varje gång någon undervisade någon annan ökade platsens möjligheter."
+
+"Varje gång någon tog ett nattpass kunde någon annan sova."
+
+Han log.
+
+"Det märkliga var att ingen av dessa handlingar egentligen fanns."
+
+"De fanns mellan människorna."
+
+Vännen nickade.
+
+"Och där började Solv."
+
+Arkitekten skakade på huvudet.
+
+"Nej."
+
+"Solv började inte där."
+
+"Det var där vi upptäckte att det redan fanns."
+
+En lång tystnad följde.
+
+Golfbanan löstes sakta upp.
+
+Fairwayen blev till ett nät av ljuspunkter.
+
+Noder.
+
+Förbindelser.
+
+Rytmer.
+
+"Sedan kom Ghana."
+
+"Ja."
+
+"Där kunde vi bygga det."
+
+"Fältet visade vad människor kunde göra."
+
+"Blackrocks gjorde det möjligt att låta världen se det."
+
+De stod en stund vid kanten av en spegelblank damm som inte existerade.
+
+"Tror du fortfarande att vi byggde systemet?"
+
+Arkitekten log.
+
+"Nej."
+
+"Vi byggde bara instrumenten."
+
+"Det var människorna som spelade musiken."
+
+Rummet började lösas upp.
+
+Ljuset över havet försvann.
+
+När han öppnade ögonen stod han åter i huset vid tundran.
+
+Magnolian hade slagit ut.
+
+Hon stod lutad mot stammen och såg på honom.
+
+"Du var borta länge."
+
+"Jag gick en runda."
+
+"Med honom?"
+
+Han nickade.
+
+"Vad talade ni om?"
+
+Han såg ut genom glaset mot de stilla växthusen.
+
+"Om hur civilisationer ibland börjar som ett växthus ingen riktigt lägger märke till."

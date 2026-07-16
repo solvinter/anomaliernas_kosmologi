@@ -1,0 +1,60 @@
+id: abundantia
+title: Abundantia
+status: fragment
+
+type:
+  - chapter_fragment
+  - philosophical_dialogue
+  - future_world
+
+part:
+  - del_iii
+  - abundantia
+  - universitetet
+
+placement:
+  after:
+    - saxa_recentia
+    - solv
+  before:
+    - samtalen_med_flickan
+    - resonansens_etik
+
+function:
+  - introducerar_abundantia_som_civilisation
+  - visar_overgangen_fran_ekonomi_till_resonans
+  - introducerar_professorn
+  - binder_samman_nationalekonomi_och_filosofi
+  - planterar_begreppet_abundantia
+
+themes:
+  - overflod
+  - resonans
+  - ekonomi
+  - medvetande
+  - relationer
+  - frihet
+  - civilisation
+  - framtid
+
+characters:
+  - protagonisten
+  - professorn
+
+locations:
+  - universitetet
+  - korridoren
+  - campus
+
+style:
+  - lagmald
+  - filosofisk
+  - dialogdriven
+  - litterar
+  - observation_fore_teori
+
+notes: >
+  Fragmentet ska introducera Abundantia som ett civilisatoriskt tillstånd
+  snarare än en ekonomisk modell. Dialogen ska kännas mänsklig och
+  lågmäld. Resonemangen ska växa fram genom samtalet snarare än genom
+  föreläsningar. Professorn fungerar som mentor snarare än auktoritet.

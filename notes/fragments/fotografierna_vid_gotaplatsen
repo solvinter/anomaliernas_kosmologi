@@ -1,0 +1,301 @@
+id: fotografierna_vid_gotaplatsen
+
+title: Fotografierna vid Götaplatsen
+
+status: fragment
+
+type: chapter_fragment
+
+part:
+
+* del_ii
+* arkivets_ursprung
+* karlekslinjen
+
+placement:
+after:
+- den_stora_foralskelsen
+- fotograferingen
+before:
+- kallaren_i_majorna
+- arkivets_ursprung
+- sabotage_mot_relationen
+
+function:
+
+* introducerar_fotografiet_som_grans_mellan_varld_och_medvetande
+* gestaltar_foralskelsen_utan_att_objektivt_faststalla_hennes_skonhet
+* later_kameran_kemin_och_betraktaren_dela_pa_bildens_tillkomst
+* planterar_frågan_om_observationen_bidrar_till_verkligheten
+* gor_fotografierna_till_senare_arkivmaterial
+* skapar_ett_fysiskt_bevis_som_inte_upploser_osakerheten
+* binder_samman_psykedelisk_perception_karlek_minnet_och_arkivet
+
+themes:
+
+* medvetande
+* perception
+* karlek
+* minne
+* verklighet
+* observation
+* osakerhet
+* fotografi
+* kemi
+* skönhet
+* arkiv
+* tid
+
+motifs:
+
+* kuverten
+* fotobutiken_vid_gotaplatsen
+* negativen
+* papperskopiorna
+* kemikalielukten
+* koksbordet
+* ljuset
+* huden
+* de_sokande_ogonen
+* den_frammande_blicken
+* bilder_som_inte_bleknar
+* frågan_som_inte_bleknar
+
+symbols:
+
+negativet:
+meaning:
+- fysisk_registrering
+- omvand_verklighet
+- latent_bild
+- bevis_som_kraver_tolkning
+
+papperskopian:
+meaning:
+- den_framkallade_verkligheten
+- minnet_som_objekt
+- det_som_kan_sorteras_i_ett_arkiv
+
+kemin:
+meaning:
+- den_materiella_processen
+- verklighetens_opersonliga_lager
+- forvandling_utan_avsikt
+
+kameran:
+meaning:
+- mekaniskt_ogon
+- vittne_utan_medvetande
+- grans_mellan_betraktare_och_varld
+
+ljuset:
+meaning:
+- fysisk_information
+- karlekens_perception
+- det_som_inte_helt_later_sig_matras
+
+hennes_hud:
+meaning:
+- inre_ljus
+- sarbarhet
+- kropp_som_tycks_overskrida_bilden
+
+hennes_ogon:
+meaning:
+- nyfikenhet
+- spontanitet
+- sokande_medvetande
+- framtid_som_annu_inte_bestamt_sig
+
+koksbordet:
+meaning:
+- vardaglig_undersokningsplats
+- privat_arkivbord
+- platsen_dar_karlek_blir_material
+
+fotografierna:
+meaning:
+- bevarad_narvaro
+- omojligt_bevis
+- gransen_mellan_person_och_fantasi
+- arkivets_forsta_bilder
+
+psykedelikan:
+meaning:
+- oppnad_perception
+- osaker_observator
+- forhojd_kanslighet
+- mojlig_forskjutning_av_verkligheten
+
+core_questions:
+
+* avbildar_ett_fotografi_en_person_eller_relationen_mellan_personen_och_fotografen
+* kan_en_bild_innehalla_mer_an_det_ljus_som_nadde_filmen
+* var_slutar_den_fysiska_bilden_och_var_borjar_betraktaren
+* kan_ett_forandrat_medvetande_forandra_det_som_bevaras_utan_att_forandra_kemin
+* vad_betyder_objektivt_bevis_nar_betraktandet_alltid_ar_subjektivt
+* kan_en_manniska_ha_funnits_sadan_som_hon_finns_i_ett_fotografi
+* ar_det_bilden_eller_minnet_som_forandras_med_tiden
+* kan_karlek_gora_en_observation_sann_utan_att_gora_den_objektiv
+
+notable_lines:
+
+* det_var_forst_nar_kuverten_kom_som_han_forstod_att_nagot_markligt_hade_hant
+* psykedelikan_hade_inte_bara_forandrat_vad_han_sag
+* den_verkade_ha_forandrat_hur_han_sag
+* han_hade_vantat_sig_att_fotografierna_skulle_avsloja_illusionen
+* huden_verkade_bara_sitt_eget_ljus
+* forsokte_se_dem_som_en_framling
+* det_gick_inte
+* kameran_kemin_och_hans_eget_medvetande
+* hade_skapat_nagon_som_aldrig_funnits
+* fotografierna_bleknade_inte
+* fragan_gjorde_det_inte_heller
+
+connections:
+
+previous:
+- den_stora_foralskelsen
+- balerinan
+- den_oppna_perceptionen
+- gotaplatsen
+
+next:
+- kallaren_i_majorna
+- arkivets_ursprung
+- de_sorterade_fotografierna
+- sabotage_mot_relationen
+- den_osynliga_publiken
+
+thematic:
+- medvetandet_bidrar_till_verkligheten
+- symbol_och_betydelsenatverk
+- minnet_som_kvantifierad_upplevelse
+- kameran_som_ofullstandigt_vittne
+- observation_och_tolkning
+- anomalier
+
+characters:
+
+* protagonisten
+* balerinan
+
+objects:
+
+* analog_kamera
+* fotografisk_film
+* negativremsor
+* papperskopior
+* framkallningskuvert
+
+locations:
+
+* fotobutiken_vid_gotaplatsen
+* koket
+* majorna
+
+sensory_register:
+smell:
+- framkallningskemikalier
+light:
+- ansiktets_oforklarliga_ljus
+- negativen_mot_fonstret
+touch:
+- svagt_bojda_papperskopior
+- tunna_negativremsor
+
+philosophical_layer:
+explicit: false
+
+latent_questions:
+- om_medvetandet_ar_en_del_av_varje_observation
+- om_bilden_uppstar_i_filmen_eller_i_betraktandet
+- om_verkligheten_ar_ett_samarbete_mellan_varld_och_medvetande
+
+rule:
+- inga_explicita_utlaggningar_om_kvantmekanik
+- ingen_slutgiltig_forklaring
+- fragan_ska_baras_av_fotografiernas_omojliga_narvaro
+
+archive_function:
+material_status:
+- fotografierna_bevaras
+- negativen_kan_senare_katalogiseras
+- kuverten_kan_bara_datum_eller_butiksmarkeringar
+
+later_revelation:
+- bilderna_hittas_i_kallaren_i_majorna
+- fotografierna_sorteras_vid_arkivets_tillkomst
+- bildserien_far_en_arkivreferens
+- senare_betraktare_forsoker_avgora_vad_de_bevisar
+
+ambiguity:
+- fotografierna_bekraftar_hennes_narvaro
+- fotografierna_bekraftar_inte_hans_tolkning
+- skönheten_kan_inte_skildras_fran_blicken_som_ser_den
+
+style:
+
+* analog
+* sensorisk
+* lågmäld
+* foralskad
+* osaker
+* filosofisk_utan_att_skyltas
+* observation_fore_teori
+* materiell_mystik
+
+notes: >
+Fragmentet ska utgå från den konkreta erfarenheten av analogt fotografi:
+kuvertet, negativremsorna, papperskopiornas lukt och bilderna på
+köksbordet. Den filosofiska frågan får aldrig presenteras som en
+utläggning om medvetande eller kvantfysik. Den ska uppstå ur
+protagonistens oförmåga att avgöra om fotografierna avslöjade en
+illusion eller bevarade något som hans vanliga perception inte hade
+kunnat se. Fotografierna fungerar senare som centralt material i
+arkivet som skapas när anteckningar, bilder och andra spår sorteras i
+källaren i Majorna. De visar att kvinnan fanns men kan aldrig avgöra
+om hon verkligen var sådan som han såg henne. Därmed blir de både
+bevis och fortsatt anomali.
+---
+
+
+Det var först när kuverten kom från fotobutiken vid Götaplatsen som han förstod att något märkligt hade hänt.
+
+Negativen låg i sina tunna remsor.
+
+Papperskopiorna luktade fortfarande svagt av kemikalier.
+
+Han lade ut dem över köksbordet.
+
+Han hade tagit bilderna under några dagar då hans medvetande varit ovanligt öppet. Psykedelikan hade inte bara förändrat vad han såg. Den verkade ha förändrat hur han såg.
+
+Han hade väntat sig att fotografierna skulle avslöja illusionen.
+
+Att de skulle visa en vanlig ung kvinna.
+
+I stället blev det tvärtom.
+
+Varje bild verkade nästan overklig.
+
+Ljuset föll över hennes ansikte på ett sätt han inte kunde förklara.
+
+Huden verkade bära sitt eget ljus.
+
+Ögonen sökte fortfarande världen, som om de ännu inte bestämt sig för vad de ville finna.
+
+Han vände och vred på bilderna.
+
+Försökte se dem som en främling.
+
+Det gick inte.
+
+Ibland undrade han om hon verkligen hade sett ut så.
+
+Eller om kameran, kemin och hans eget medvetande tillsammans hade skapat någon som aldrig funnits.
+
+Åren gick.
+
+Fotografierna bleknade inte.
+
+Frågan gjorde det inte heller.
