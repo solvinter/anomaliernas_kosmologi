@@ -1,0 +1,258 @@
+id: fadern_blackrocks
+
+title: Fadern i Blackrocks
+
+status: fragment
+
+type:
+  - chapter_fragment
+  - character_fragment
+  - place_origin
+  - blackrocks_origin
+
+part:
+  - del_ii
+  - ghana
+  - fore_solvinter
+
+placement:
+  after:
+    - huset_i_accra
+    - london
+  before:
+    - blackrocks
+    - cow_lane
+    - solvinter_expansion
+
+function:
+  - ger_blackrocks_emotionell_historia_fore_tekniken
+  - visar_faderns_motsagelsefulla_karaktar
+  - utforskar_sonens_karlek_och_skam
+  - introducerar_kustbyarna_kring_blackrocks
+  - visar_vardagen_som_senare_solvinter_forsoker_stodja
+  - later_noden_vaxa_ur_en_observation_snare_an_en_affarside
+
+canonicality:
+  canonical_scene: possible
+  language_editable: true
+
+characters:
+
+  fadern:
+    role:
+      - far
+      - tidigare_generation
+      - symbol_for_gamla_ghana
+      - motsagelsefull_arvbarare
+
+    characteristics:
+      - stolt
+      - varm
+      - dominant
+      - gammaldags_statusmedveten
+      - humoristisk
+      - beroende_av_andra
+      - aldrande
+
+    narrative_function:
+      - visar_konflikten_mellan_gammal_och_ny_varld
+      - gor_ghana_personligt_for_protagonisten
+      - visar_att_omsorg_kan_innehalla_bade_karlek_och_frustration
+
+  protagonisten:
+    role:
+      - son
+      - lakare
+      - observator
+      - framtida_byggare
+
+    inner_conflict:
+      - alskar_sin_far
+      - skams_for_sin_far
+      - vill_hjalpa
+      - vill_fly
+
+  flickan:
+    role:
+      - barn_i_byarna
+      - forsta_signal_om_laxhjalp
+      - framtida_anledning_till_nod_2
+
+    characteristics:
+      - begavad
+      - nyfiken
+      - begransad_av_miljon_inte_formaga
+
+locations:
+
+  blackrocks:
+    function:
+      - faderns_plats
+      - framtida_solvinternod
+      - overgang_mellan_gammalt_och_nytt
+
+  kustbyn:
+    location:
+      - nara_blackrocks
+      - bakom_bukten_med_svarta_klippor
+
+    characteristics:
+      - fiskeby
+      - begransad_infrastruktur
+      - stark_social_gemenskap
+      - beroende_av_havet
+
+themes:
+  - familj
+  - arv
+  - skam
+  - karlek
+  - utveckling
+  - utbildning
+  - energi
+  - vardag
+  - teknik_utan_manniskoforakt
+  - periferin
+
+motifs:
+  - havet
+  - vita_sanden_med_morka_strak
+  - kokosnotter
+  - terassen
+  - katetern
+  - fiskebatarna
+  - repet
+  - rytmen
+  - skolboken
+  - mobiltelefonen
+
+symbols:
+
+  havet:
+    meaning:
+      - tid
+      - kontinuitet
+      - nagot_storre_an_manniskan
+
+  fadern:
+    meaning:
+      - gammal_varlds_ordning
+      - stolthet
+      - ofullkomligt_arv
+
+  fiskarnas_rytm:
+    meaning:
+      - kollektiv_intelligens
+      - arbete_utan_formell_teknik
+      - kunskap_i_kroppen
+
+  skolboken:
+    meaning:
+      - framtida_mojlighet
+      - kunskap_som_behover_infrastruktur
+
+core_questions:
+
+  - kan_man_alska_nagon_man_samtidigt_skamms_for
+  - vad_ar_skillnaden_mellan_status_och_vardighet
+  - hur_ser_begavning_ut_nar_verktygen_saknas
+  - vilka_system_missar_manniskor_som_redan_fungerar
+  - nar_blir_hjalp_en_form_av_partnerskap
+
+events:
+
+  faderns_kateter:
+    function:
+      - aterfor_sonen_till_lakarrollen
+      - visar_konkret_omsorg
+      - bryter_mellan_ideologi_och_kropp
+
+  flickans_algebra:
+    function:
+      - introducerar_laxhjalpsbehov
+      - planterar_ideen_till_nod_2
+      - binder_ihop_energi_internet_och_utbildning
+
+  fisket:
+    function:
+      - visar_lokal_kunskap
+      - visar_kroppslig_intelligens
+      - kontrasterar_mot_modern_teknik
+
+future_connections:
+
+  node_2:
+    origin:
+      - barn_behover_ladda_telefon
+      - skoluppgifter_kraver_internet
+      - cow_lane_kan_bidra_med_uppkoppling
+      - protagonisten_ser_en_mojlighet
+
+  solvinter:
+    principle:
+      - borjar_med_ett_konkret_behov
+      - teknik_som_svarar_pa_manniskors_vardag
+      - inte_teknik_som_soker_ett_problem
+
+style:
+  - tat_romanprosa
+  - kroppslig
+  - sensorisk
+  - familjar
+  - observation_fore_teori
+  - ingen_misarpornografi
+
+codex_instructions:
+  preserve:
+    - fadern_ar_inte_en_skurk
+    - byn_ar_inte_bara_fattigdom
+    - barnets_begavning_ar_central
+    - losningen_ska_vaxa_fram_ur_vardagen
+
+  avoid:
+    - exotisering
+    - fattigdom_som_estetik
+    - teknik_som_fralsare
+    - att_blackrocks_redan_ar_solvinter
+
+notes: >
+  Fragmentet ska föregå Solvinter. Det visar världen innan lösningen
+  finns. Faderns hus är en plats av motsägelser: rikedom, stolthet,
+  beroende och omsorg. Kustbyn visar en annan typ av rikedom: kroppslig
+  kunskap, gemenskap och rytm, men också brist på verktyg.
+
+  Den första impulsen till en ny nod ska inte komma från en affärsplan.
+  Den ska uppstå när protagonisten ser ett konkret problem: ett barn med
+  potential som saknar elektricitet, internet eller någon som kan hjälpa
+  henne förstå matematiken.
+---
+kodex önskar fragment enligt . Fadern i BlackRocks
+Inte Solvinter. Bara fadern i paradiset han har tagit över. Havet, frukten, kokosnötterna, den vita sanden med mörka stråk, hans kropp, hans stolthet, sonens ilska och skam över ilskan. Gärna en kort dialog där ingenting löses.
+2. Byn nära stranden
+Barn, läxor, dåligt ljus, svag uppkoppling, någon lärare, någon förälder, någon som är begåvad men utan verktyg. Inte misärporr. Bara exakt vardag: vad saknas, vad finns, vad skrattar de åt?
+3. Första impulsen till nod 2
+Inte “vi ska bygga ännu en nod”, utan en liten händelse: ett barn behöver ladda en telefon för att göra skolarbete, någon använder Cow Lane-kontakt för internet, någon frågar om hjälp med matematik. Där kan läxhjälpen födas. för att driva narrativet. Jag har skrivit: 
+Fadern ringde när jag var vid cow lane och var in en diskussion med kusinen om hur mycket solpanelernas el kostade jämnfört med elnätet och hur människor skulle kunna kombinera de två. Han sa: hey son som vanligt. Som om allt var bra och med värme i rösten. Han berättade att han fått stopp i katetern igen och att man på sjukhuset inte lyckats få in en ny kateter. Jag satte mig i land cruizern och körde de 2-3 timmar läng kusten till honom vid blackrocks. Det var alltid som att komma till ett lugn någon gång efter winneba. Luften var klarare och grönskan bytte ut panoramat som annars kring ackra var tätt bebyggt med myller av människor, människor som sålde iron rods, människor som sålde möbler, polytankts: på vägen som löper genom Ghana längs kusten i periferin av accra kan man hitta precis vad som helst - allt från byggmaterial till små mobilaffärer och reparatörer till apotek. Jag hade med mig min läkarväska. När jag tagit av från huvudvägen (det måste vara en av väsaftikas viktigast evägar som läper längs kusten från nigeria, till togo, benin Ghana och elfenbenskusten (tacksma för källkontroll och korrigering.))
+Han låt och vilade i sin säg i i katgeterpåsen var det inte den gula blodtillblandade färgen utan det var tjockt mörkt rött med koagler. 
+Vi gick till badrummet och jag tog på förkläde och handdskar. Jag passerade en ny kateter på första försökte och det kom klar vätska i katetern. 
+Thanks son sa han. Jag hade många gånger sagt att jag hatade min far men samtidigt älskade jag honom och jag anser mig inte egentligen förmögen till att känna hat.
+Hjälpte honom till sängen igen och han vilade. Jag gick ut och satte mig på terassen som egentligen var lika stor till ytan som resten av huset. Läste en bok om matematik och nätverksteori. 
+Längre bort på egendomen fanns ett hus där faderns uppasseskor levde. Eller tjänstefolk, eller vårdgivare. Svårt att definiera och jag var förvånad över att det var samma moder som var där som senast. 
+Med sitt tempreament avvekrade han ca 2 eller ibland 3 kvinnor som kom för att hjälpa honom med matlagning och tvätt men som helt enkelt inte klarade av hans attidtyd.
+Han var uppvuxen med tjänstefolk och ansåg sig vara av högre status än de flesta. Det hade inte varit något stort problem i Ghana tidigare eftersom det var kultur. I London hade det varit svårt.
+Det var svårt även nu när han började bli glömsk och helt medvetet laggt sig till med vanor som vissa gamla gör: retas med att låtsas vara svagare än man är, lågsas inte höra, svänga med käppen på köpcentrat så att andra flyttade på sig. 
+Han låg på en daybed när kvinnan ropade hans hamn sir/landloard/master/please – jag minns inte och vet inte hur de tilltalar mig och hur jag ska förhålla mig till det. (bytter från han till jag av misstag)
+Yes sa jag och gick för att möta henne. Hon hade med sig sin dotter som var 8 år gammal och en sliten bok som snarare var ett häfte. Det var grundläggande algebra. 
+Han bläddrade igenom det och förstod att flickan gjorde ganska bra ifrån sig med uppgifterna som hon kunde från skolan men att hon fastnade med att modern inte kunde förklara. 
+
+Hon var inte från mumford deär det från skolor utan hade sin familj i den lilla by som låg på stranden lite närmare blackrocks bakom en bukt av den svarta lavastenen
+Det var ett folk norrifrån som sökt sig till kusten för att leva på fiske och det hade varit gynsamt. De handlade med Mumford. Men de spenderade mest dagarna. med att paddla ut de tunga enorma träbåtarna som för protagonisten såg un som enorma kanoter. 
+Han hade varit med dem ute en gång när de bjöd med honom och imponerades av kraften som de framkallade. De hade ingen motor. Starka män paddlade tyrrmiskt båten fram ut och bröt mot vågorna. Sedan lade de ut nät.
+När näten skjlle plockas upp hade tog de fast i de långa rep som löpte från stranden ut mot näten. De stod 7 - 11 eller ibland fler på rad längs repet. Barn sprang omkring dem och lekte, De förlitrade sig på rytmen och på sin kroppstyngd. De forserade inte utan i takt med en ledsångare lutade de sig tillbaka med repet och lät kroppstyngderna göra sit innan det anvancerade och tog nytt tag i repet. 
+En gång hade han velat vara med bara på skoj men efter fem minuter var yttrrel lagren av hans händer helt borta och det tog dagar att åternhämta sig förhonom. 
+När de fåt upp nätet spenderade de tiden på stranden. Det var liksom en picknick och kvinnorna hade med mat som de tillagade på stranden. Fångsten sorterades och bars bort på toppen av hjässan på de upprätta starka kropparna. 
+
+Progonisten tänkte på att de inte hade någon elektricitet där i byn. Byn bestod av lerhyddor med stråtak som återupprättades om och om igen. Det fanns ingen infrastruktur. Han undrade hur de laddade sina telefoner. 
+Han undrade ifall de fick mottagning för internet genom 4 g masten som var närmare byn. 
+
+Han tänkte på att kvinnan inte var ensam om att försöka ha sitt barn i skolan samtidigt som hon själv inte kunde läsa eller skrivaa. 

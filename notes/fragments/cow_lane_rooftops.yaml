@@ -1,0 +1,357 @@
+id: cow_lane_rooftops
+title: Taken över Cow Lane
+status: fragment
+
+type:
+  - chapter_fragment
+  - organization_fragment
+  - energy_expansion_fragment
+  - urban_node_fragment
+
+part:
+  - del_ii
+  - cow_lane
+  - solvinter
+  - saxa_recentia
+
+placement:
+  after:
+    - cow_lane_grundas
+    - compute_noden
+    - den_forsta_solvinter_noden
+  before:
+    - accra_rooftop_network
+    - solv_expanderar
+    - blackrocks
+    - saxa_recentia_formaliseras
+
+function:
+  - visar_cow_lane_som_den_forsta_solvinter_noden
+  - etablerar_att_noden_behover_mer_solenergi_for_compute
+  - introducerar_taknatverket_som_losning
+  - visar_att_hushallens_elbehov_alltid_prioriteras
+  - later_en_larling_se_det_de_aldre_har_missat
+  - visar_hur_solvinter_vaxer_genom_grannskap_i_stallet_for_markkop
+  - planterar_den_distribuerade_energimodellen_i_accra
+  - binder_samman_energi_compute_och_lokal_tillhorighet
+
+canonicality:
+  canonical_scene: true
+  canonical_location: true
+  canonical_concept: true
+  language_editable: true
+
+current_narrative_alignment:
+  cow_lane:
+    role:
+      - forsta_solvinter_noden
+      - tidig_compute_och_energinod
+      - platsen_dar_rooftop_modellen_fods
+    restriction: >
+      Cow Lane är den första noden. Blackrocks har ännu inte byggts eller
+      expanderats när denna scen utspelar sig.
+
+  blackrocks:
+    role:
+      - senare_storskalig_nod
+      - abundantia
+      - plats_med_egen_mark_och_storre_solyta
+    restriction: >
+      Blackrocks ska inte beskrivas som redan färdig eller operativ i
+      denna scen. Platsen kan högst finnas som en senare möjlighet.
+
+  compute:
+    priority:
+      - secondary_load
+      - interruptible_work
+    rule: >
+      Compute får endast använda el som återstår efter hushållens behov,
+      batteriladdning och kritiska lokala funktioner.
+
+characters:
+  - muraren
+  - elektrikern
+  - programmeraren
+  - den_yngre_larlingen
+  - ovriga_larlingar
+  - solvinterradet
+
+character_roles:
+  muraren:
+    role:
+      - stabilitet
+      - hederlighet
+      - praktiskt_omdome
+      - kulturell_auktoritet
+    function:
+      - formulerar_att_noden_tillhor_grannskapet
+      - hindrar_att_expansionen_blir_ren_affarslogik
+      - sammanfattar_beslutets_manskliga_innebord
+
+  elektrikern:
+    role:
+      - energisystem
+      - installation
+      - sakerhet
+      - handledning_av_larlingar
+    function:
+      - visar_nodens_energibegransning
+      - oversatter_ideen_till_praktisk_infrastruktur
+
+  programmeraren:
+    role:
+      - energistyrning
+      - compute
+      - nodmodellering
+      - distribuerade_system
+    function:
+      - visualiserar_flaskhalsen
+      - formulerar_prioriteringen_mellan_hushall_och_compute
+      - bygger_modellen_for_taknatverket
+
+  den_yngre_larlingen:
+    background:
+      - tidigare_elektriker_i_tema
+      - fa_ord_pa_moten
+      - praktiskt_monsterseende
+    function:
+      - ser_att_taken_ar_den_outnyttjade_resursen
+      - introducerar_grannarna_som_del_av_noden
+      - visar_att_larlingarna_kan_bli_tekniska_innovatorer
+
+organization:
+  name: saxa_recentia
+
+  current_form:
+    - framvaxande_byggnadsordning
+    - arbetsgemenskap
+    - rad_kring_noderna
+    - annu_inte_fullt_formaliserad_institution
+
+  meeting_culture:
+    - beslut_fods_mellan_manniskor
+    - verkstaden_fore_konferensrummet
+    - praktisk_kunskap_vager_tungt
+    - larlingar_far_tala
+    - ingen_rostar_nar_principen_ar_sjalvklar
+
+  note: >
+    Saxa Recentia har i denna fas börjat fungera som en organisation,
+    men är fortfarande främst en kultur och byggnadspraktik kring
+    Solvinter-noden.
+
+location:
+  primary:
+    - cow_lane
+    - accra
+
+  meeting_place:
+    - verkstaden_bakom_vaxthuset
+
+  surrounding_environment:
+    - tata_plattak
+    - korrugerade_plattak
+    - betongtak
+    - granger
+    - oregelbundna_elledningar
+    - grannhushall
+
+energy_model:
+  problem:
+    - otillracklig_solyta_pa_cow_lane
+    - compute_uppdrag_maste_koas
+    - processorer_finns_men_energin_racker_inte
+    - urban_mark_ar_dyr
+
+  proposed_solution:
+    - solpaneler_pa_grannarnas_tak
+    - batterier_i_deltagande_hushall
+    - gemensam_smart_energistyrning
+    - distribuerad_produktion
+    - noden_vaxer_utan_markkop
+
+  priority_order:
+    - hushallets_elbehov
+    - batteriladdning
+    - kritiska_gemensamma_funktioner
+    - compute
+
+  household_offer:
+    - stabil_el_vid_light_out
+    - lagre_sarbarhet_for_natavbrott
+    - installation_utan_stor_forhandskostnad
+    - lokal_service_och_underhall
+    - mojlighet_att_bli_del_av_noden
+
+  principle:
+    - manniskan_fore_maskinen
+    - compute_anvander_endast_overskott
+    - takagaren_ska_fa_mer_varde_an_den_avstar
+    - noden_ska_upplevas_som_gemensam_infrastruktur
+
+business_model:
+  early_stage:
+    - solvinter_finansierar_installation
+    - hushallet_upplater_takyta
+    - hushallet_far_prioriterad_el
+    - overskottsel_driver_compute
+    - compute_intakter_finansierar_drift_och_expansion
+
+  later_scaling:
+    - fler_tak_i_cow_lane
+    - angransande_kvarter
+    - virtuellt_kraftverk
+    - lokala_tekniker_och_larlingar
+    - standardiserade_fasten_och_styrsystem
+
+  ethical_constraint: >
+    Affärsmodellen får aldrig bygga på att Solvinter tar elektricitet från
+    hushållen för att driva compute. Den kommersiella intäkten ska komma
+    efter lokal energisäkerhet.
+
+themes:
+  - energi
+  - grannskap
+  - tillhorighet
+  - skalning
+  - compute
+  - lokal_infrastruktur
+  - larande
+  - praktisk_intelligens
+  - etik_fore_vinst
+  - distribuerade_system
+  - stadens_tak
+
+motifs:
+  - verkstaden
+  - ritningarna
+  - fuktig_jord
+  - energidiagrammen
+  - kartan
+  - taken
+  - solen_over_cow_lane
+  - processorer_som_vantar
+  - larlingens_finger_mot_fonstret
+  - murarens_hand_over_kartan
+
+symbols:
+  taken:
+    meaning:
+      - outnyttjad_infrastruktur
+      - lokal_sjalvstandighet
+      - gemensam_himmel
+      - expansion_utan_markrov
+
+  kartan:
+    meaning:
+      - teknisk_plan
+      - ny_syn_pa_staden
+      - grannskapet_som_nod
+
+  verkstaden:
+    meaning:
+      - arbete_fore_byrakrati
+      - kunskap_som_skapa_tillsammans
+      - saxarecentias_tidiga_radssal
+
+  larlingen:
+    meaning:
+      - talang_utan_formell_status
+      - omvant_kunskapsflode
+      - den_som_ser_det_sjalvklara
+
+  muraren:
+    meaning:
+      - hederlighet
+      - stabilitet
+      - materiens_och_gemenskapens_varde
+
+core_questions:
+  - kan_en_kommersiell_energinod_gora_grannarna_mer_sjalvstandiga
+  - hur_skalar_man_compute_utan_att_konkurrera_med_manniskors_elbehov
+  - kan_stadens_befintliga_tak_bli_gemensam_infrastruktur
+  - nar_blir_en_kund_en_deltagare_i_en_nod
+  - vem_ser_losningen_nar_de_formellt_utbildade_ser_begransningen
+  - hur_vaxer_en_organisation_utan_att_forlora_sin_etik
+
+notable_lines:
+  - vi_har_natt_gransen
+  - inte_for_att_vi_saknar_arbete_utan_for_att_vi_saknar_tak
+  - vi_tittar_at_fel_hall
+  - vi_behover_inte_mer_mark
+  - vi_behover_mer_himmel
+  - hushallet_far_alltid_elektricitet_forst
+  - compute_anvander_bara_overskottet
+  - de_kommer_att_upptacka_att_noden_ocksa_ar_deras
+  - vi_bygger_inte_ett_kraftverk
+  - vi_bygger_ett_grannskap
+
+connections:
+  previous:
+    - cow_lane_grundas
+    - muraren
+    - elektrikern_och_larlingarna
+    - compute_noden
+    - vaxthuset
+
+  next:
+    - accra_rooftop_network
+    - solv
+    - fler_noder_langs_kusten
+    - blackrocks
+    - abundantia
+
+style:
+  - tat_romanprosa
+  - naturliga_stycken
+  - dialogdriven
+  - konkret
+  - lagmald
+  - observation_fore_teori
+  - praktisk_framtidsrealism
+
+prose_rules:
+  - undvik_en_mening_per_stycke
+  - anvand_fria_rader_endast_vid_verkliga_scen_eller_rytmskiften
+  - samla_dialog_och_berattande_i_naturliga_stycken
+  - lat_karaktarerna_bara_ideerna
+  - undvik_manifestton
+
+codex_instructions:
+  freedom_level: moderate
+
+  permitted:
+    - justera_dialog
+    - fortata_prosan
+    - flytta_repliker_mellan_karaktarer
+    - utveckla_larlingens_bakgrund
+    - konkretisera_energisystemet
+    - lagga_till_motstand_fran_grannar_eller_myndigheter
+    - dela_scenens_beslut_och_genomforande_i_tva_fragment
+
+  preserve:
+    - cow_lane_ar_forsta_noden
+    - energibristen_galler_compute_inte_hushallsel
+    - taken_ar_losningen
+    - hushallet_prioriteras_fore_compute
+    - larlingen_ser_losningen
+    - muraren_formulerar_den_sociala_principen
+    - blackrocks_ligger_senare_i_kronologin
+
+  avoid:
+    - att_blackrocks_redan_ar_byggt
+    - att_saxa_recentia_redan_ar_en_global_institution
+    - att_grannarna_bara_blir_passiva_takuthyrare
+    - att_compute_prioriteras_fore_lokal_el
+    - forelasningsdialog
+    - enradiga_stycken_utan_litterar_funktion
+
+notes: >
+  Fragmentet visar den första verkliga skalningsfrågan för Cow Lane.
+  Noden har processorer och efterfrågan på compute men saknar tillräcklig
+  solyta. Lösningen kommer inte från ledningen utan från en yngre lärling
+  som ser taken i grannskapet som ett distribuerat energisystem.
+  Affärsmodellen föds tillsammans med en etisk regel: hushållen får
+  stabil elektricitet först och compute använder endast överskottet.
+  Scenen bör göra tydligt att Solvinter inte bara expanderar över staden
+  utan gör grannarna till deltagare i samma infrastruktur.
