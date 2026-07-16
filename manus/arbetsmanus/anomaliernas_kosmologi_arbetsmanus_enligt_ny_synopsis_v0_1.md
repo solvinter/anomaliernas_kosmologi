@@ -21,19 +21,17 @@ _Källa: `notes/fragments/forslag_inledning_del3`_
 
 När jag skriver detta har mer än ett sekel passerat sedan de händelser som förändrade mitt liv.
 
-Det finns en mening av Steve Jobs som följt mig längre än någon annan.
+Det finns en mening av Steve Jobs som följt mig längre när jag tänkt kring livet och det utanför.
 
-Han sade att döden är livets bästa uppfinning.
+Han sade att döden är livets bästa uppfinning. Jag tror inte längre att han bara talade om biologin.
 
-Jag tror inte längre att han bara talade om biologin.
-
-Under vissa perioder av mitt liv upplevde jag något märkligt. Tiden kunde bli så långsam att den nästan upphörde. Atmosfären blev tät, som om luften gick att ta på. Minuter kunde kännas oändliga.
+Några avgränsade gånger under en period av mitt liv upplevde jag något märkligt. Tiden kunde bli så långsam att den nästan upphörde. Atmosfären blev tät, som om luften gick att ta på. Minuter kunde kännas oändliga.
 
 Det var ingen behaglig erfarenhet.
 
 Ändå har jag senare undrat om den lärde mig något som annars hade förblivit dolt.
 
-Vi människor har länge drömt om att överleva oss själva. Att förlänga livet, bevara medvetandet, undkomma döden. Men varje gång jag tänker på den drömmen hör jag samma fråga återvända.
+Vi människor har länge drömt om att överleva oss själva. Att förlänga livet, bevara medvetandet, undkomma döden. Men varje gång jag tänker på den drömmen hör jag samma Qeueen ställa frågan – who wants to live forever?
 
 Who wants to live forever?
 
@@ -73,7 +71,7 @@ Min bror brukade skämta om att vi delat upp världen mellan oss.
 
 Han skulle försöka förbättra den i makroperspektiv.
 
-Jag skulle göra det i mötet med den enskilda människan.
+Jag skulle göra det på mikronivå.
 
 Ingen av oss hade förstått att livet ibland väljer en tredje väg.
 
@@ -81,7 +79,7 @@ Den väg som först ser ut som en förlust.
 
 Men som långt senare visar sig vara en omväg till något större.
 
-Om jag inte förlorat den bana jag trodde var min, hade jag aldrig kommit till Fältet.
+Om jag inte förlorat den bana jag trodde var min, hade jag aldrig kommit till Betelskeppet.
 
 Aldrig seglat mot Ghana.
 
@@ -135,7 +133,7 @@ Han såg ut som en av dem.
 
 Han talade ibland som en av dem.
 
-Och när hans eget liv senare började falla sönder placerades han åter i samma kategori som människor han egentligen bara råkat växa upp bredvid.
+Och när hans eget liv senare började falla sönder placerades han åter i samma kategori som människor han egentligen råkat växa upp bredvid för att de alla avvek – på den tiden spelade det ingen större roll på vilket sätt man avvek.
 
 Han förstod långsamt att samhället hela tiden försökte passa in honom i en berättelse.
 
