@@ -1,0 +1,255 @@
+
+---
+
+id: de_forsta_anomalierna
+
+title: De första anomalierna
+
+status: fragment
+
+type:
+
+  - chapter_fragment
+
+  - migration_fragment
+
+  - community_origin
+
+part:
+
+  - del_ii
+
+  - ghana
+
+  - solvinter
+
+placement:
+
+  after:
+
+    - solv
+
+    - mumford
+
+    - blackrocks_grundas
+
+  before:
+
+    - blackrocks_expanderar
+
+    - svenska_noder
+
+    - saxa_recentia
+
+function:
+
+  - for_manniskor_fran_betelskeppets_varld_till_ghana
+
+  - visar_att_miljobytet_inte_ar_en_mirakelkur
+
+  - gestaltar_anomalin_som_praktisk_formaga
+
+  - later_kulturellt_utbyte_uppsta_genom_konflikt_och_gemensamt_arbete
+
+  - visar_hur_solv_far_betydelse_i_en_verklig_kris
+
+  - binder_samman_sverige_mumford_och_blackrocks
+
+themes:
+
+  - anomalier
+
+  - migration
+
+  - arbete
+
+  - vardighet
+
+  - kulturellt_utbyte
+
+  - tillhorighet
+
+  - trauma
+
+  - beroende
+
+  - praktisk_intelligens
+
+  - ekonomisk_sjalvstandighet
+
+motifs:
+
+  - bagaget
+
+  - solpanelerna
+
+  - naringslosningen
+
+  - pumparnas_ljud
+
+  - kylsystemet
+
+  - nattarbetet
+
+  - den_roda_kepsen
+
+  - saldot_i_koket
+
+symbols:
+
+  resan_till_ghana:
+
+    meaning:
+
+      - overgang
+
+      - ny_miljo
+
+      - provning_utan_lofte_om_bot
+
+  mumford:
+
+    meaning:
+
+      - forsta_motet
+
+      - social_forankring
+
+      - lokal_kunskap
+
+      - overgang_mellan_varldar
+
+  blackrocks:
+
+    meaning:
+
+      - byggplats
+
+      - praktiskt_experiment
+
+      - den_forsta_noden
+
+  kylsystemet:
+
+    meaning:
+
+      - gemensam_kris
+
+      - prov_pa_samarbete
+
+      - teknik_som_kraver_manniskor
+
+  den_roda_kepsen:
+
+    meaning:
+
+      - ofullstandig_identitet
+
+      - bidrag_utan_meritforteckning
+
+      - manniskan_som_inte_maste_katalogiseras_fullstandigt
+
+core_questions:
+
+  - vad_hander_nar_fragen_andras_fran_fel_till_formaga
+
+  - kan_en_ny_miljo_gora_en_dold_kompetens_synlig
+
+  - hur_mycket_maste_ett_system_veta_om_en_manniska
+
+  - kan_ekonomisk_precision_forenas_med_mansklig_ofullstandighet
+
+  - vad_ar_skillnaden_mellan_behandling_och_mojlighet
+
+notable_lines:
+
+  - de_kom_inte_till_ghana_som_volontarer
+
+  - protagonisten_vagrade_det_ordet
+
+  - ingen_av_dem_blev_botad_av_ghana
+
+  - platsen_forandrade_fraagan
+
+  - vad_kan_du_se_som_vi_andra_missar
+
+  - alla_argument_forsvann
+
+  - en_ekonomi_kunde_vara_exakt_utan_att_vara_fullstandig
+
+connections:
+
+  previous:
+
+    - betelskeppet
+
+    - solv
+
+    - den_tredje_vagen
+
+    - london
+
+    - mumford
+
+  next:
+
+    - blackrocks
+
+    - svenska_noder
+
+    - abundantia
+
+    - saxa_recentia
+
+characters:
+
+  - protagonisten
+
+  - programmeraren_fran_kumasi
+
+  - fore_detta_elektrikern
+
+  - kvinnan_vid_naringslosningen
+
+  - mannen_som_hor_pumparna
+
+  - mannen_med_rod_keps
+
+locations:
+
+  - mumford
+
+  - blackrocks
+
+  - ghana
+
+  - sverige
+
+style:
+
+  - kollektivt_perspektiv
+
+  - lagmald
+
+  - konkret
+
+  - icke_utopisk
+
+  - handling_fore_forklaring
+
+notes: >
+
+  Ghana får inte fungera som exotisk läkning eller enkel frälsning.
+
+  Fragmentet ska visa att svårigheterna följer med människorna, men att
+
+  en annan miljö kan synliggöra förmågor som tidigare bara registrerats
+
+  som problem. Mumford är den levande byn och den första sociala
+
+  förankringen. Blackrocks är den närliggande plats där Solvinter-noden
+
+  byggs och där deras kunskaper blir praktiskt nödvändiga.
+
+---
+

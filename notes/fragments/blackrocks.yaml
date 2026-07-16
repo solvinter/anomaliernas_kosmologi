@@ -1,0 +1,315 @@
+
+---
+
+id: blackrocks
+
+title: Blackrocks
+
+status: fragment
+
+type:
+
+  - chapter_fragment
+
+  - place_fragment
+
+  - node_origin
+
+part:
+
+  - del_ii
+
+  - ghana
+
+  - solvinter
+
+placement:
+
+  after:
+
+    - mumford
+
+    - den_tredje_vagen
+
+    - huset_i_accra
+
+  before:
+
+    - solv
+
+    - de_forsta_anomalierna
+
+    - saxa_recentia
+
+function:
+
+  - etablerar_blackrocks_som_den_forsta_fullskaliga_solvinter_noden
+
+  - skiljer_blackrocks_fran_byn_mumford
+
+  - visar_att_estetik_och_skugga_byggs_fore_compute
+
+  - gestaltar_solvinter_som_samverkan_mellan_flera_system
+
+  - introducerar_ritualerna_som_senare_kallas_saxa_recentia
+
+  - later_den_verkliga_bekraftelsen_komma_genom_larande_inte_investering
+
+themes:
+
+  - byggande
+
+  - skugga
+
+  - estetik
+
+  - funktion
+
+  - energi
+
+  - mat
+
+  - compute
+
+  - utbildning
+
+  - kulturellt_utbyte
+
+  - varde
+
+  - lokal_autonomi
+
+motifs:
+
+  - svart_sten
+
+  - sand
+
+  - halvfardigt_tak
+
+  - kablar
+
+  - skugga
+
+  - mald_vagg
+
+  - hydroponiska_ror
+
+  - solpaneler
+
+  - batterier
+
+  - spillvarme
+
+  - lodkolv
+
+  - gemensam_maltid
+
+symbols:
+
+  blackrocks:
+
+    meaning:
+
+      - forsta_noden
+
+      - proof_of_concept
+
+      - platsen_dar_tanke_blir_form
+
+      - ursprung_till_saxa_recentia
+
+  mumford:
+
+    meaning:
+
+      - levande_by
+
+      - lokal_kultur
+
+      - social_forankring
+
+      - kunskap_som_fanns_fore_solvinter
+
+  skuggan:
+
+    meaning:
+
+      - omsorg_fore_produktion
+
+      - klimatisk_intelligens
+
+      - estetisk_funktion
+
+  den_malade_vaggen:
+
+    meaning:
+
+      - vardighet
+
+      - skonhet_fore_fardigstallande
+
+      - arbete_som_redan_tas_pa_allvar
+
+  hydroponiken:
+
+    meaning:
+
+      - biologisk_produktion
+
+      - cirkulation
+
+      - lokal_matsakerhet
+
+  compute_hallen:
+
+    meaning:
+
+      - global_intakt
+
+      - teknisk_infrastruktur
+
+      - arbete_som_kan_utforas_fran_periferin
+
+  lodningen:
+
+    meaning:
+
+      - omvand_kunskapsoverforing
+
+      - kulturellt_utbyte
+
+      - praktik_fore_hierarki
+
+core_questions:
+
+  - vad_maste_byggas_fore_produktionen_kan_borja
+
+  - kan_en_nod_vara_bade_estetisk_och_ekonomiskt_funktionell
+
+  - hur_kan_energi_mat_compute_och_utbildning_dela_samma_infrastruktur
+
+  - nar_blir_en_byggplats_en_kultur
+
+  - vad_ar_den_verkliga_bekraftelsen_pa_att_nagot_fungerar
+
+notable_lines:
+
+  - det_forsta_de_byggde_var_inte_berakningshallen
+
+  - det_var_skuggan
+
+  - manniskor_arbetar_battre_nar_platsen_antyder_att_deras_arbete_ar_vart_nagot
+
+  - det_var_ett_forsok_att_lata_flera_system_dela_samma_plats
+
+  - solen_gav_elektricitet
+
+  - maskinerna_gav_berakningar_och_varme
+
+  - vattnet_gav_mat
+
+  - manniskorna_gav_riktning
+
+  - langt_senare_skulle_historikerna_kalla_den_saxa_recentia
+
+  - da_var_den_bara_blackrocks
+
+connections:
+
+  previous:
+
+    - mumford
+
+    - huset_i_accra
+
+    - london
+
+    - den_tredje_vagen
+
+  next:
+
+    - solv
+
+    - de_forsta_anomalierna
+
+    - svenska_noder
+
+    - saxa_recentia
+
+    - abundantia
+
+locations:
+
+  - blackrocks
+
+  - mumford
+
+  - ghana
+
+infrastructure:
+
+  - solar_power
+
+  - battery_storage
+
+  - hydroponics
+
+  - compute_hall
+
+  - local_cooling
+
+  - heat_recovery
+
+  - community_kitchen
+
+  - workshop
+
+  - learning_space
+
+saxa_recentia:
+
+  early_rituals:
+
+    - bygg_skugga_fore_maskiner
+
+    - gor_platsen_vacker_innan_den_ar_fardig
+
+    - reparera_med_lokalt_tillgangliga_delar
+
+    - dela_maltider
+
+    - lat_kunskap_fardas_i_bada_riktningar
+
+    - behandla_estetik_som_funktion
+
+style:
+
+  - materiell
+
+  - byggande
+
+  - lagmald
+
+  - framtidsrealistisk
+
+  - observation_fore_manifest
+
+  - estetisk_funktionalism
+
+notes: >
+
+  Blackrocks är platsen för den första fullskaliga Solvinter-noden.
+
+  Mumford är den närliggande byn och den levande sociala miljö som
+
+  föregår och formar noden. Saxa Recentia är ännu inget uttalat program.
+
+  Den växer fram genom återkommande byggpraktiker, estetiska beslut,
+
+  gemensamma måltider och respekt för både lokal och inflyttad kunskap.
+
+  Först långt senare får denna ordning sitt historiska namn.
+
+---
+

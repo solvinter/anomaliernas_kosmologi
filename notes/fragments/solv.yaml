@@ -1,0 +1,257 @@
+
+---
+
+id: solv
+
+title: Solv
+
+status: fragment
+
+type:
+
+  - chapter_fragment
+
+  - worldbuilding_fragment
+
+  - economic_origin
+
+part:
+
+  - del_ii
+
+  - solvinter
+
+  - blackrocks
+
+placement:
+
+  after:
+
+    - blackrocks_grundas
+
+    - hydroponiken
+
+    - compute_hallen
+
+  before:
+
+    - de_forsta_anomalierna
+
+    - solv_till_sverige
+
+    - saxa_recentia
+
+function:
+
+  - visar_hur_solv_vaxer_fram_ur_ett_praktiskt_problem
+
+  - skiljer_valutan_fran_saxa_recentia
+
+  - introducerar_ghananska_programmeraren
+
+  - gestaltar_varde_som_nagot_pengarna_inte_alltid_registrerar
+
+  - binder_samman_compute_odling_omsorg_och_lokal_ekonomi
+
+  - later_en_ny_ekonomi_vaxa_fram_utan_manifest
+
+themes:
+
+  - varde
+
+  - pengar
+
+  - minne
+
+  - distribuerad_tillit
+
+  - arbete
+
+  - omsorg
+
+  - ekonomi
+
+  - teknologi
+
+  - ghana
+
+  - solvinter
+
+motifs:
+
+  - pumparna
+
+  - hydroponiken
+
+  - datorn_i_knat
+
+  - nattarbete
+
+  - handelser_utan_saldo
+
+  - reparerad_pump
+
+  - undervisning
+
+  - nattpass
+
+  - lanat_rum
+
+symbols:
+
+  solv:
+
+    meaning:
+
+      - lokal_utbytesenhet
+
+      - registrerat_bidrag
+
+      - ekonomisk_sjalvstandighet
+
+      - verktyg_inom_solvinter
+
+  kedjan:
+
+    meaning:
+
+      - gemensamt_minne
+
+      - distribuerad_tillit
+
+      - historia_som_inte_kan_agas_av_en_enskild_institution
+
+  hydroponiken:
+
+    meaning:
+
+      - liv
+
+      - cirkulation
+
+      - konkret_produktion
+
+      - biologiskt_system
+
+  compute_hallen:
+
+    meaning:
+
+      - osynligt_arbete
+
+      - global_ekonomi
+
+      - teknisk_infrastruktur
+
+  programmeraren:
+
+    meaning:
+
+      - lokalt_geni
+
+      - kunskap_utan_formell_bekraftelse
+
+      - den_som_ger_systemet_sprak
+
+core_questions:
+
+  - vad_glommer_pengarna
+
+  - kan_en_ekonomi_registrera_varde_utan_att_bedomma_manniskors_moral
+
+  - hur_kan_lokala_handlingar_fa_ekonomisk_kontinuitet
+
+  - kan_tillit_distribueras_utan_att_manniskan_reduceras_till_en_poang
+
+  - vad_ar_skillnaden_mellan_narvaro_och_vitalitet
+
+notable_lines:
+
+  - det_borjade_med_att_betalningarna_inte_fungerade
+
+  - pengarna_visste_inte_vad_som_hade_hant
+
+  - ett_satt_att_minnas
+
+  - det_ar_vad_pengarna_glommer
+
+  - en_kropp_kan_vara_narvarande_och_anda_inte_leva
+
+  - sedan_blev_det_en_ekonomi
+
+  - de_kallade_enheten_solv
+
+connections:
+
+  previous:
+
+    - blackrocks
+
+    - mumford
+
+    - den_tredje_vagen
+
+  next:
+
+    - de_forsta_anomalierna
+
+    - svenska_noder
+
+    - saxa_recentia
+
+    - abundantia
+
+characters:
+
+  - protagonisten
+
+  - programmeraren_fran_kumasi
+
+locations:
+
+  - blackrocks
+
+  - ghana
+
+technologies:
+
+  - blockchain
+
+  - proof_of_presence
+
+  - proof_of_vitality
+
+  - distributed_compute
+
+  - hydroponics
+
+style:
+
+  - lagmald
+
+  - teknisk_utan_forelasning
+
+  - dialogdriven
+
+  - observation_fore_teori
+
+  - framtidsrealistisk
+
+notes: >
+
+  Fragmentet ska tydligt skilja Solv från Saxa Recentia. Solv är ett
+
+  ekonomiskt verktyg som växer fram inom Solvinter-noderna. Saxa Recentia
+
+  är den kulturella och civilisatoriska ordning som senare växer fram
+
+  kring noderna, deras estetik, ritualer och sätt att organisera arbete.
+
+  Systemet får inte framställas som en färdig utopisk valuta. Det börjar
+
+  som ett konkret svar på att vanliga pengar inte registrerar många av
+
+  de handlingar som håller en plats och dess människor vid liv.
+
+---
+

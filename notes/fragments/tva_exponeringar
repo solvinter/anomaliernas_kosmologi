@@ -1,0 +1,177 @@
+---
+id: tva_exponeringar
+title: Två exponeringar
+status: fragment
+type: chapter_fragment
+part:
+  - del_ii
+  - kärlekslinjen
+  - perception
+placement:
+  after:
+    - fotograferingen
+  before:
+    - kallaren_i_majorna
+    - arkivets_ursprung
+function:
+  - introducerar_fotografiet_som_filosofiskt_objekt
+  - planterar_bokens_syn_pa_observation
+  - later_karleken_bli_en_epistemologisk_fraga
+  - gor_fotografierna_till_framtida_arkivmaterial
+  - binder_samman_fysik_kemi_och_medvetande_utan_att_forklara
+themes:
+  - perception
+  - medvetande
+  - observation
+  - fotografi
+  - analog_teknik
+  - kärlek
+  - verklighet
+  - minne
+  - tid
+  - arkiv
+motifs:
+  - framkallningskuvertet
+  - mörkrum
+  - kemikalier
+  - negativremsor
+  - silver
+  - fönsterljus
+  - två_exponeringar
+  - oförändrade_fotografier
+  - den_förändrade_betraktaren
+symbols:
+  kuvertet:
+    meaning:
+      - återkomsten
+      - framkallad_tid
+      - början_på_frågan
+  fotografiet:
+    meaning:
+      - fruset_ögonblick
+      - materiellt_minne
+      - mötet_mellan_ljus_och_medvetande
+  negativet:
+    meaning:
+      - latent_verklighet
+      - omvänd_information
+      - det_som_finns_innan_tolkningen
+  silver:
+    meaning:
+      - kemins_objektivitet
+      - världens_avtryck
+  två_exponeringar:
+    meaning:
+      - världen
+      - betraktaren
+      - den_dubbla_tillkomsten_av_varje_upplevelse
+  ljuset:
+    meaning:
+      - fysisk_information
+      - det_som_når_filmen
+      - det_som_aldrig_räcker
+core_questions:
+  - räcker_ljuset_för_att_skapa_en_bild
+  - består_varje_observation_av_två_exponeringar
+  - kan_en_bild_vara_objektiv_om_den_alltid_betraktas
+  - förändras_fotografiet_eller_betraktaren
+  - kan_ett_minne_fördjupa_en_bild_utan_att_ändra_den
+notable_lines:
+  - hon_såg_omöjlig_ut
+  - hon_verkade_bära_mer_ljus_än_filmen_rimligen_borde_ha_kunnat_fånga
+  - ljuset_hade_träffat_silvret
+  - kemin_hade_gjort_sitt
+  - varje_fotografi_bestod_av_två_exponeringar
+  - den_ena_kom_från_världen
+  - den_andra_från_den_som_såg_den
+  - bilderna_förändrades_inte
+  - eller_betraktaren
+connections:
+  previous:
+    - balerinan
+    - den_stora_förälskelsen
+    - den_öppna_perceptionen
+  next:
+    - kallaren_i_majorna
+    - arkivets_ursprung
+    - fotografierna_sorteras
+    - medvetandet_bidrar_till_verkligheten
+philosophical_layer:
+  explicit:
+    false
+  latent:
+    - fenomenologi
+    - perception_som_medskapande
+    - minnet_som_andra_exponering
+    - observation_är_inte_passiv
+  recurring_idea:
+    verkligheten_är_inte_bara_det_som_registreras_utan_också_det_som_integreras
+archive_function:
+  evidence:
+    - negativ
+    - papperskopior
+    - framkallningskuvert
+  future_role:
+    - katalogiseras_i_arkivet
+    - blir_objekt_för_senare_tolkning
+    - kan_inte_avgöra_vad_som_var_verkligt
+style:
+  - lågmäld
+  - analog
+  - sensuell
+  - fenomenologisk
+  - poetisk
+  - observation_före_tolkning
+notes: >
+  Fragmentet ska läsas som en konkret scen om analog fotografering.
+  Den filosofiska idén får aldrig uttalas direkt. Begreppet "två
+  exponeringar" fungerar både fotografiskt och existentiellt.
+  Läsaren ska först uppfatta det som en tanke om fotografi, men
+  senare förstå att samma struktur återkommer genom hela romanen:
+  varje människa, varje minne och varje arkiv består av ett avtryck
+  från världen och ett avtryck från den som betraktar världen.
+---
+
+och yaml till Det var först när kuverten kom från den lilla fotobutiken vid Götaplatsen som han började tvivla.
+
+Papperskopiorna låg fortfarande svagt böjda efter torkningen. De luktade kemikalier och mörkrum.
+
+Han hade väntat sig att fotografierna skulle avslöja honom.
+
+Att de skulle visa en vanlig ung kvinna och ett medvetande som under några dygn sett världen genom ett ovanligt öppet fönster.
+
+Men bilderna gjorde motsatsen.
+
+Hon såg omöjlig ut.
+
+Inte därför att hon var perfekt.
+
+Utan därför att hon verkade bära mer ljus än filmen rimligen borde ha kunnat fånga.
+
+Han lade fotografierna bredvid varandra.
+
+Sedan negativen.
+
+Han höll remsorna mot fönstret.
+
+Ljuset hade träffat silvret.
+
+Kemin hade gjort sitt.
+
+Allt borde ha varit enkelt.
+
+Ändå kunde han inte frigöra sig från känslan att varje fotografi alltid bestod av två exponeringar.
+
+Den ena kom från världen.
+
+Den andra från den som såg den.
+
+Åren gick.
+
+Bilderna förändrades inte.
+
+Men varje gång han tog fram dem verkade de ändå ha blivit en aning annorlunda.
+
+Han visste aldrig om det var fotografierna som förändrades.
+
+Eller betraktaren.
