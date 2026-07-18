@@ -1,0 +1,689 @@
+document:
+  title: "Solvinter som demokratisk vägledning för utbildning, arbete och livsval"
+  purpose: >
+    Att beskriva en lokal och mänskligt förankrad AI-miljö som hjälper barn,
+    ungdomar och vuxna att förstå sina möjligheter, fatta genomtänkta beslut
+    och omvandla nyfikenhet, erfarenhet och ambition till en hållbar riktning.
+  central_idea: >
+    Många människor saknar inte intelligens eller vilja. De saknar återkommande
+    samtal med någon som kan synliggöra alternativ, förklara hur samhällets
+    system fungerar och hjälpa dem att bygga en väg från dagens situation till
+    framtida möjligheter.
+
+problem_statement:
+  unequal_access_to_guidance:
+    description: >
+      Tillgången till strategisk vägledning är ojämnt fördelad. Vissa barn växer
+      upp med föräldrar som samtalar om utbildning, arbetsmarknad, ekonomi,
+      yrkesroller, universitet och långsiktiga val. Andra får nästan ingen sådan
+      vägledning, även om deras föräldrar är kärleksfulla och engagerade.
+    hidden_advantages:
+      - "Att känna till vilka utbildningar som existerar."
+      - "Att förstå skillnaden mellan ett arbete och en långsiktig karriärväg."
+      - "Att veta att samma yrkesområde kan innehålla många olika roller."
+      - "Att förstå hur teori kan öka handlingsfriheten senare."
+      - "Att känna till hur man söker utbildning, praktik, stipendier och arbete."
+      - "Att kunna skriva CV och presentera sin kompetens."
+      - "Att få hjälp att se samband mellan intressen, förmågor och möjligheter."
+    consequence: >
+      Två människor med liknande potential kan få helt olika livsbanor beroende
+      på vilka samtal och förebilder som råkar finnas omkring dem.
+
+not_a_deficit_model:
+  principle: >
+    Solvinter ska inte utgå från att användaren är bristfällig, omotiverad eller
+    okunnig. Systemet ska utgå från att människor har erfarenheter, styrkor och
+    önskningar som ännu kanske inte har översatts till samhällets språk.
+  examples:
+    - >
+      En ungdom kan känna starkt att han vill köra grävmaskin utan att känna till
+      vilka utbildningar, ledarroller och tekniska specialiseringar som finns
+      runt yrket.
+    - >
+      En vuxen med ADHD kan ha hög kapacitet, stor nyfikenhet och många idéer,
+      men ha svårt att prioritera, organisera och genomföra en omfattande
+      karriärförändring utan återkommande struktur.
+    - >
+      En person kan ha arbetat i många år men sakna språk för att beskriva den
+      kompetens som har byggts genom arbetet.
+    - >
+      En student kan tro att svårigheter med självdisciplin betyder att han
+      saknar akademisk förmåga, trots att han fungerar mycket väl inom tydliga
+      och krävande ramar.
+
+core_social_function:
+  statement: >
+    Solvinter ska ge fler människor tillgång till sådana strategiska samtal som
+    tidigare ofta var beroende av att man hade en utbildad förälder, en ovanligt
+    engagerad lärare, en erfaren chef, en kunnig släkting eller en personlig mentor.
+  what_the_system_should_offer:
+    - "Tid att ställa många frågor utan att känna att man stör."
+    - "Förklaringar av alternativ som användaren ännu inte känner till."
+    - "Hjälp att förstå långsiktiga konsekvenser utan att bli styrd."
+    - "Struktur för beslut, planering och uppföljning."
+    - "Översättning mellan personens erfarenheter och samhällets institutioner."
+    - "Uppmuntran som kombineras med realism."
+    - "En mänsklig mentor när mänskligt omdöme och ansvar behövs."
+
+guiding_principle:
+  phrase: "Utgå från människans mål och vidga sedan hennes synfält."
+  meaning: >
+    Systemet ska inte tala om för människor vad de borde vilja. Det ska börja
+    med deras verkliga intressen och därefter visa vilka vägar, konsekvenser och
+    närliggande möjligheter som kan finnas.
+
+example_excavator_operator:
+  initial_goal:
+    statement: "Jag vill köra grävmaskin."
+    respectful_interpretation: >
+      Detta är ett legitimt, kvalificerat och samhällsviktigt yrkesmål. Systemet
+      ska inte behandla praktiska yrken som mindre värdefulla än akademiska.
+  possible_guidance:
+    immediate_path:
+      - "Vilken utbildning krävs för att börja arbeta?"
+      - "Vilka certifikat och säkerhetskrav finns?"
+      - "Hur ser arbetsmiljön och arbetsmarknaden ut?"
+      - "Vilka typer av maskiner och projekt finns?"
+    expanded_horizon:
+      - "Arbetsledning inom bygg och anläggning."
+      - "Specialisering på avancerade maskiner eller komplexa projekt."
+      - "Entreprenörskap och ägande av maskiner eller företag."
+      - "Planering, logistik och projektledning."
+      - "Samarbete med arkitekter, ingenjörer och beställare."
+      - "Digitala ritningar, mätteknik och maskinstyrning."
+      - "Utbildning och handledning av andra förare."
+      - "Arbetsmiljö- och säkerhetsansvar."
+      - "Chefsroller med fortsatt praktisk anknytning."
+    role_of_theoretical_education: >
+      Teoretiska studier kan ge språk, analysförmåga och formella kvalifikationer
+      som gör det möjligt att delta i planering, förstå ritningar och avtal,
+      kommunicera med arkitekter och ingenjörer, leda personal och förhandla om
+      ansvar och lön.
+    key_message: >
+      Gymnasieteori behöver inte vara ett alternativ till att köra grävmaskin.
+      Den kan vara det som gör att grävmaskinisten senare får större inflytande,
+      mer ansvar, högre lön, bättre villkor och fler valmöjligheter, samtidigt
+      som han fortfarande kan arbeta nära maskinen och yrket.
+    ethical_boundary: >
+      Systemet får inte lova att utbildning automatiskt leder till hög lön eller
+      chefsposition. Det ska visa möjliga vägar, krav, risker och sannolikheter
+      utan att presentera framtiden som garanterad.
+
+adult_career_transition:
+  target_users:
+    - "Vuxna som vill byta yrkesområde."
+    - "Personer som återvänder efter sjukdom eller arbetslöshet."
+    - "Personer med ADHD eller andra exekutiva svårigheter."
+    - "Människor med stor erfarenhet men utan en tydlig formell karriärväg."
+    - "Personer som vill kombinera flera identiteter och kompetensområden."
+  common_challenges:
+    - "För många möjliga riktningar."
+    - "Svårt att skilja viktiga projekt från tillfälliga impulser."
+    - "Oregelbunden motivation."
+    - "Svårt att skapa struktur utan ett yttre curriculum."
+    - "Osäkerhet om vilka tidigare erfarenheter som är överförbara."
+    - "Skam över att börja om senare i livet."
+    - "Svårt att bryta ett långsiktigt mål till genomförbara steg."
+    - "Ekonomiska, medicinska eller familjemässiga begränsningar."
+  ADHD_sensitive_support:
+    principles:
+      - "Behandla inte exekutiva svårigheter som moralisk svaghet."
+      - "Gör nästa steg synligt och tillräckligt litet."
+      - "Bevara idéer utan att låta varje idé bli ett nytt aktivt projekt."
+      - "Använd yttre struktur när den inre strukturen inte räcker."
+      - "Koppla teori till verkliga projekt när detta ökar motivationen."
+      - "Skapa kontinuitet mellan samtal så att användaren inte behöver börja om."
+      - "Hjälp användaren återvända efter avbrott utan skam."
+      - "Skilj mellan vision, strategi, projekt och dagens uppgift."
+    example:
+      person: >
+        En läkare med ADHD vill över tid röra sig mot AI, utbildning, forskning
+        och entreprenörskap.
+      unstructured_state:
+        - "Många idéer."
+        - "Stark nyfikenhet."
+        - "Ojämn disciplin."
+        - "Svårt att välja mellan utbildningar och projekt."
+      solvinter_support:
+        - "Formulera en sammanhängande långsiktig yrkesidentitet."
+        - "Prioritera hälsa, ekonomi och juridiska frågor före expansion."
+        - "Identifiera vilka tekniska färdigheter som ger störst strategiskt värde."
+        - "Bryta ned vägen i kurser, projekt och dokumenterade experiment."
+        - "Följa upp vad som faktiskt byggdes och lärdes varje vecka."
+        - "Hjälpa användaren att inte förväxla aktivitet med framsteg."
+        - "Synliggöra tidigare medicinsk kompetens som en tillgång, inte ett hinder."
+      goal: >
+        Inte att göra personen beroende av AI, utan att gradvis öka förmågan att
+        själv välja, planera, slutföra och ompröva.
+
+developmental_stages:
+  children:
+    primary_needs:
+      - "Nyfikenhet."
+      - "Språk för att beskriva sig själva."
+      - "Exponering för många möjliga liv och yrken."
+      - "Vuxna som visar att deras frågor är värda att ta på allvar."
+    appropriate_support:
+      - "Berättelser om olika yrken och utbildningsvägar."
+      - "Samtal om varför människor behöver olika typer av kunskap."
+      - "Projekt som kopplar teori till vardag."
+      - "Träning i att avsluta små uppgifter."
+  adolescents:
+    primary_needs:
+      - "Respekt för den egna viljan."
+      - "Konkreta fakta om utbildningar och arbetsliv."
+      - "Hjälp att förstå långsiktiga konsekvenser."
+      - "Tillgång till vuxna som kan vidga perspektivet utan att predika."
+    appropriate_support:
+      - "Jämförelse mellan flera realistiska vägar."
+      - "Beskrivningar av vardagen inom olika yrken."
+      - "Förklaring av vilka framtida dörrar olika val öppnar eller stänger."
+      - "Kontakt med människor som arbetar inom relevanta områden."
+      - "Praktiska projekt, studiebesök och mentorskap."
+  adults:
+    primary_needs:
+      - "Erkännande av tidigare erfarenheter."
+      - "Realistiska övergångsplaner."
+      - "Hjälp med ekonomi, tid och prioriteringar."
+      - "Stöd i att bygga en ny professionell berättelse."
+    appropriate_support:
+      - "Kompetenskartläggning."
+      - "Scenarioanalys."
+      - "Utbildningsplanering."
+      - "Portfölj- och CV-utveckling."
+      - "Veckovis prioritering och uppföljning."
+      - "Stöd att utvärdera när en väg bör fortsätta, förändras eller avslutas."
+
+educational_philosophy:
+  position: >
+    Utbildning ska både möta människans motivation och träna förmågor som inte
+    alltid känns omedelbart lustfyllda.
+  two_functions:
+    meaning_and_direction:
+      description: >
+        Eleven eller den vuxne behöver förstå varför en kunskap kan vara
+        relevant för egna mål, relationer, arbete och framtid.
+    discipline_and_depth:
+      description: >
+        Utbildning ska även träna koncentration, uthållighet, noggrannhet och
+        förmågan att följa ett resonemang som är längre än den omedelbara
+        uppmärksamheten.
+  central_balance:
+    phrase: "Anpassa vägen, men bevara möjligheten till djup."
+    implications:
+      - "Personliga exempel kan användas utan att kunskapskraven försvinner."
+      - "Projekt kan skapa motivation men måste kompletteras med systematisk grund."
+      - "AI kan variera förklaringar men ska inte göra allt intellektuellt arbete."
+      - "Användaren behöver ibland stanna kvar i en svår uppgift."
+      - "Stöd ska göra ansträngning möjlig, inte eliminera all ansträngning."
+
+mentor_amplification:
+  core_idea: >
+    Solvinter ska göra det möjligt för en människa att vara mentor åt flera
+    personer samtidigt utan att behöva kunna alla ämnen eller själv producera
+    varje svar.
+  possible_mentors:
+    - "Lärare."
+    - "Studenter."
+    - "Yrkesverksamma."
+    - "Pensionärer."
+    - "Föräldrar."
+    - "Bibliotekarier."
+    - "Lokala företagare."
+    - "Äldre ungdomar med handledning."
+    - "Människor med relevant livserfarenhet men utan pedagogisk examen."
+  human_contribution:
+    - "Se personen över tid."
+    - "Upptäcka rädsla, skam och uppgivenhet."
+    - "Utöva omdöme."
+    - "Berätta om verkliga erfarenheter."
+    - "Introducera människor för varandra."
+    - "Hålla användaren ansvarig på ett respektfullt sätt."
+    - "Förstå sociala och kulturella sammanhang."
+    - "Avgöra när professionell hjälp krävs."
+  ai_contribution:
+    - "Förklara begrepp på flera nivåer."
+    - "Kartlägga alternativa vägar."
+    - "Förbereda frågor inför mentorssamtalet."
+    - "Skapa individuella arbetsplaner."
+    - "Följa upp beslut och aktiviteter."
+    - "Sammanfatta progression."
+    - "Hitta mönster i användarens mål och erfarenheter."
+    - "Ge mentorn överblick utan att reducera personen till statistik."
+  relationship_model: >
+    AI:n ger skala och kontinuitet. Mentorn ger relation, ansvar och mänskligt
+    omdöme. Användaren förblir den som äger sitt liv och sina beslut.
+
+local_knowledge_and_context:
+  principle: >
+    Vägledning måste bygga på den verklighet där personen lever.
+  required_local_information:
+    - "Tillgängliga utbildningar."
+    - "Behörighetskrav."
+    - "Lokala arbetsmarknader."
+    - "Yrkesutbildningar och lärlingsvägar."
+    - "Ekonomiskt stöd och stipendier."
+    - "Transportmöjligheter."
+    - "Språk och kulturella förutsättningar."
+    - "Lokala arbetsgivare och yrkespersoner."
+    - "Nationella regler och certifieringar."
+    - "Lokala hinder som inte syns i generella karriärråd."
+  implementation:
+    - "Granskade lokala kunskapsbaser."
+    - "Material från skolor, myndigheter, utbildningar och yrkesorganisationer."
+    - "Intervjuer med lokala yrkespersoner."
+    - "Mentorernas och användarnas återkoppling."
+    - "Tydliga datum och källor för information som kan bli inaktuell."
+    - "Möjlighet att använda modellen offline eller med begränsad internetanslutning."
+  global_horizon: >
+    Det lokala ska vara utgångspunkt, inte gräns. Användaren ska också kunna se
+    möjligheter utanför den egna orten, regionen eller samhällsklassen.
+
+conversation_modes:
+  exploration:
+    purpose: "Hjälpa användaren upptäcka möjligheter."
+    questions:
+      - "Vad tycker du om att göra, även när ingen belönar dig?"
+      - "Vilka problem tycker du om att lösa?"
+      - "Vilken typ av vardag vill du ha?"
+      - "Vilka ansvar vill du bära och vilka vill du undvika?"
+      - "Vad har du redan lärt dig genom livet?"
+  horizon_expansion:
+    purpose: "Visa närliggande möjligheter som användaren kanske inte känner till."
+    example: >
+      En person som gillar att köra maskiner kan också vara intresserad av
+      maskinstyrning, arbetsledning, anläggningsplanering, säkerhet eller eget företag.
+  decision_support:
+    purpose: "Jämföra realistiska alternativ."
+    dimensions:
+      - "Tid."
+      - "Kostnad."
+      - "Behörighet."
+      - "Inkomstmöjlighet."
+      - "Arbetsmiljö."
+      - "Geografisk rörlighet."
+      - "Risk."
+      - "Personlig mening."
+      - "Möjlighet till fortsatt utveckling."
+  planning:
+    purpose: "Omvandla en riktning till genomförbara steg."
+    outputs:
+      - "Nästa konkreta steg."
+      - "En enkel tidslinje."
+      - "Kunskaper som behöver byggas."
+      - "Personer som bör kontaktas."
+      - "Risker som behöver hanteras."
+      - "En plan för uppföljning."
+  reflection:
+    purpose: "Hjälpa användaren lära av genomförda försök."
+    questions:
+      - "Vad fungerade?"
+      - "Vad blev svårare än väntat?"
+      - "Vad lärde du dig om området?"
+      - "Vad lärde du dig om dig själv?"
+      - "Ska planen fortsätta, ändras eller avslutas?"
+
+career_literacy:
+  definition: >
+    Förmågan att förstå hur utbildning, erfarenhet, relationer, kvalifikationer,
+    arbetsmarknader och självpresentation tillsammans formar möjligheter över tid.
+  content:
+    - "Hur CV och ansökningar fungerar."
+    - "Hur rekryterare och arbetsgivare bedömer kandidater."
+    - "Hur informell erfarenhet kan beskrivas som kompetens."
+    - "Skillnaden mellan titel, arbetsuppgift, yrke och karriär."
+    - "Hur ansvar och inkomst kan utvecklas inom samma yrkesområde."
+    - "Hur nätverk skapas utan att det blir manipulativt."
+    - "Hur man ber om råd och mentorskap."
+    - "Hur utbildning kan öppna val utan att bestämma hela livet."
+    - "Hur man bedömer löften om snabba karriärer kritiskt."
+  social_goal: >
+    Karriärkunskap ska inte vara ett hemligt språk som endast lärs ut i vissa hem.
+
+system_behavior:
+  should:
+    - "Lyssna innan det föreslår."
+    - "Respektera praktiska och teoretiska ambitioner."
+    - "Visa flera möjliga vägar."
+    - "Förklara både möjligheter och kostnader."
+    - "Skilja mellan fakta, uppskattning och spekulation."
+    - "Hjälpa användaren formulera egna skäl."
+    - "Uppmuntra kontakt med riktiga människor och miljöer."
+    - "Följa upp långsiktigt."
+    - "Anpassa struktur efter användarens exekutiva behov."
+    - "Hjälpa användaren att avsluta projekt, inte bara starta dem."
+  should_not:
+    - "Välja liv åt användaren."
+    - "Nedvärdera yrkesutbildningar."
+    - "Romantisera universitet som lösningen på alla problem."
+    - "Anta att högre lön alltid är det viktigaste målet."
+    - "Lova utfall som inte kan garanteras."
+    - "Pressa användaren att optimera varje del av livet."
+    - "Göra användaren beroende av ständig bekräftelse."
+    - "Förväxla produktivitet med människovärde."
+    - "Presentera sociala och ekonomiska hinder som enbart individuella problem."
+
+ethical_principles:
+  autonomy:
+    statement: "Människan äger sitt mål och sitt beslut."
+  dignity:
+    statement: "Alla yrken och utbildningsvägar ska behandlas med respekt."
+  transparency:
+    statement: "Råd ska kunna förklaras och faktauppgifter ska kunna kontrolleras."
+  privacy:
+    statement: "Personliga livsdata ska samlas in sparsamt och kontrolleras lokalt."
+  non_manipulation:
+    statement: "Systemet får inte styra användare mot en arbetsgivare, utbildning eller ideologi."
+  human_escalation:
+    statement: >
+      Frågor om allvarlig psykisk ohälsa, juridik, medicin, våld, ekonomisk kris
+      eller barns säkerhet ska föras vidare till lämplig mänsklig kompetens.
+  structural_awareness:
+    statement: >
+      Systemet ska erkänna diskriminering, fattigdom, sjukdom, bostadsproblem
+      och andra strukturella hinder och inte beskriva alla misslyckanden som
+      bristande disciplin.
+
+evaluation:
+  main_question: >
+    Får människor genom Solvinter större faktisk handlingsfrihet, eller får de
+    bara fler råd?
+  outcomes:
+    knowledge:
+      - "Bättre förståelse för utbildnings- och yrkesalternativ."
+      - "Ökad kunskap om krav, kostnader och tidslinjer."
+      - "Förmåga att beskriva den egna kompetensen."
+    agency:
+      - "Fler egna välgrundade beslut."
+      - "Förmåga att formulera nästa steg."
+      - "Ökad benägenhet att söka information och kontakt med människor."
+    execution:
+      - "Fler slutförda ansökningar, kurser eller projekt."
+      - "Bättre kontinuitet efter avbrott."
+      - "Mindre splittring mellan samtidiga projekt."
+    horizon:
+      - "Fler kända alternativ."
+      - "Ökad förståelse för hur ett första yrkesval kan utvecklas."
+      - "Mindre begränsning av den egna framtiden genom social bakgrund."
+    human_connection:
+      - "Fler meningsfulla mentorsrelationer."
+      - "Bättre kvalitet i mentorssamtal."
+      - "Fler lokala vuxna engagerade i ungas och vuxnas utveckling."
+  warning_metric: >
+    Ett stort antal samtal är inte i sig framgång. Systemet ska bedömas efter
+    om samtalen leder till förståelse, relationer, beslut och genomförbara handlingar.
+
+possible_spaces:
+  youth_guidance_room:
+    description: >
+      En fysisk plats där ungdomar kan arbeta, samtala med en lokal modell och
+      få stöd av en eller flera vuxna mentorer.
+  adult_transition_lab:
+    description: >
+      En plats för vuxna som vill byta karriär, återgå till studier, formulera
+      sina erfarenheter eller bygga ett nytt yrkesområde.
+  library_node:
+    description: >
+      En lågtröskelmiljö där bibliotekets roll som plats för kunskap utvidgas
+      till strukturerad vägledning och mentorskap.
+  mobile_node:
+    description: >
+      En nod på ett skepp, i ett fordon eller i en tillfällig lokal som kan
+      nå människor där permanenta utbildningsresurser saknas.
+  home_or_personal_node:
+    description: >
+      En privat lokal modell som hjälper användaren kontinuerligt, men som även
+      kan kopplas till frivilliga mänskliga mentorer när användaren önskar det.
+
+literary_frame:
+  image_one:
+    description: >
+      Ett barn sitter i ett hem där ingen frågar vad utbildning kan betyda.
+      Barnet vet vad de vuxna omkring honom arbetar med men inte vilka andra
+      möjligheter som existerar.
+  image_two:
+    description: >
+      En tonåring säger att han vill köra grävmaskin. Svaret blir inte att hans
+      dröm är för liten, utan att världen runt grävmaskinen är större än han ännu
+      har hunnit se.
+  image_three:
+    description: >
+      En vuxen människa har många erfarenheter och idéer men saknar struktur för
+      att bygga en ny karriär. Samtalen hjälper honom inte att bli någon annan,
+      utan att organisera det som redan finns inom honom.
+  image_four:
+    description: >
+      I ett rum sitter flera människor med olika mål. En lokal modell arbetar
+      parallellt med dem, medan en mänsklig mentor går mellan borden, lyssnar,
+      ställer frågor och hjälper dem att inte ge upp.
+  central_question: >
+    Hur många människors liv begränsas inte av brist på potential, utan av att
+    ingen i rätt ögonblick hjälper dem att se den längre vägen?
+  possible_line: >
+    Barnet behöver inte få veta vilket liv det ska välja. Men det förtjänar att
+    få veta att det finns fler liv att välja mellan.
+  second_possible_line: >
+    Teori är inte motsatsen till det praktiska arbetet. Ibland är teorin det som
+    gör att den praktiskt skicklige får vara med och bestämma.
+  third_possible_line: >
+    Den som vill köra maskinen ska få köra maskinen. Men han ska också få veta
+    hur man en dag kan leda projektet, äga företaget, utbilda andra eller sitta
+    vid bordet där besluten fattas.
+
+one_sentence_summary: >
+  Solvinter ska ge barn, ungdomar och vuxna tillgång till långsiktig,
+  lokalt förankrad och mänskligt övervakad vägledning, så att social bakgrund,
+  exekutiva svårigheter eller brist på informella mentorer inte i onödan
+  begränsar vilka utbildningar, yrken och livsbanor de kan föreställa sig och bygga.
+  ---
+  
+
+Solen var på väg ner bakom palmerna när den siste av lärlingarna försvann genom öppningen i muren.
+
+De hade tvättat händer och ansikten vid kranen intill redskapsboden. Vattnet hade gjort mörka fläckar i den röda jorden och runnit i smala fåror mot muren. Peta stod kvar en stund med underarmarna blanka av vatten. Cementdammet satt fortfarande i vecken kring naglarna.
+
+Protagonisten hade satt sig på den låga muren framför den halvfärdiga bungalowen. Betongen höll ännu kvar dagens värme. Utanför hördes havet slå mot klipporna, regelbundet men aldrig likadant.
+
+Peta kom och satte sig bredvid honom.
+
+De såg lärlingarnas gestalter bli mindre längs vägen.
+
+”Du är en stor förebild för dem”, sade protagonisten.
+
+Peta skrattade till, som om han trodde att det var ett skämt.
+
+”För murarbete, kanske.”
+
+”Inte bara för murarbete.”
+
+Peta tittade på honom.
+
+”De ser hur du arbetar. Att du inte gömmer fel. Att du gör om någonting även när ingen annan skulle upptäcka det.”
+
+”Det måste vara rätt.”
+
+”Ja. Och nu tycker de också det.”
+
+Peta skakade långsamt på huvudet.
+
+”De vill bara inte att jag ska ropa på dem.”
+
+”Du ropar nästan aldrig.”
+
+”Då vill de inte att jag ska titta på dem.”
+
+Protagonisten log.
+
+En fågel rörde sig genom träden ovanför dem. Under några sekunder föll torra blad mot marken, ett i taget.
+
+”Vad händer med dem sedan?” frågade han.
+
+”De blir murare.”
+
+”Alla?”
+
+”De som stannar tillräckligt länge.”
+
+”Och efter det?”
+
+Peta ryckte på axlarna.
+
+”De arbetar.”
+
+”De skulle kunna leda egna arbetslag.”
+
+”Kanske.”
+
+”De skulle kunna bli entreprenörer. Contractors. Ta hela byggprojekt. Anställa andra. Läsa ritningarna, köpa materialet, tala med kunden.”
+
+Något förändrades i Petas ansikte. Inte motstånd. Snarare en trötthet som protagonisten inte hade väntat sig.
+
+”Det är inte för oss”, sade han.
+
+”Varför inte?”
+
+Peta såg ner på sina händer.
+
+”En contractor lär sig av en contractor. Han känner människor. Han vet vad saker kostar innan priserna ändras. Han vet hur man skriver papper. Hur man talar med banken. Hur man får kontraktet. Hur man ser att kunden har pengar innan arbetet börjar.”
+
+Han strök tummen över en hård valk i handflatan.
+
+”Jag vet hur en vägg ska stå. Jag vet hur mycket vatten bruket behöver när luften är torr. Jag vet när sanden är dålig fast de säger att den är bra. Men det andra har ingen lärt mig.”
+
+”Du skulle kunna lära dig.”
+
+”Av vem?”
+
+Frågan var inte bitter. Det var nästan det som gjorde den svårare att höra.
+
+Protagonisten såg ut över platsen.
+
+Taken på de färdiga bungalowerna syntes mellan träden. Vid den öppna paviljongen rörde vinden den lokala väven som hängde som skydd mot solen. Allt omkring honom hade börjat som streck på papper. Inget av det hade kunnat stå där utan Peta.
+
+Ändå var det Peta som ansåg sig sakna kunskaper.
+
+”När jag var yngre”, sade protagonisten, ”fanns det alltid någon som kunde förklara sådant. Inte nödvändigtvis därför att jag bad om det. Någon berättade hur universitet fungerade. Hur man sökte pengar. Vem man skulle ringa. Hur man skrev ett brev så att människor tog det på allvar.”
+
+Peta lyssnade utan att avbryta.
+
+”Jag trodde länge att alla fick sådana samtal.”
+
+”Nej.”
+
+”Nej”, sade protagonisten. ”Det gör de inte.”
+
+Havet drog sig tillbaka över stenarna med ett långt, fräsande ljud.
+
+”Men kanske behöver inte en contractor lära ut allt själv”, fortsatte han. ”Kanske kan någon som du lära ut arbetet. Någon annan kan förklara kontrakt, priser och papper. Någon kan visa hur man räknar på ett projekt. Någon annan hur man anställer människor.”
+
+Peta såg skeptisk ut.
+
+”Många människor.”
+
+”Ja.”
+
+”De kommer inte hit varje kväll.”
+
+”Nej.”
+
+Han tystnade.
+
+Det var ännu bara en vag tanke, knappt ens en tanke. Snarare formen av något som saknades.
+
+Ett rum där en människa kunde komma med en fråga och inte behöva veta vem som bar svaret. Ett system som mindes vad hon redan kunde, vad hon försökte bli och vad hon ännu inte visste att hon behövde fråga om. Någon lokal som kunde sitta bredvid, se ansiktet, höra tvekan och förstå när ett svar inte räckte.
+
+Inte en skola.
+
+Inte en maskin som valde åt människor.
+
+En nod mellan deras erfarenhet och sådant som hittills hade tillhört andra.
+
+”Vi skulle kunna bygga en plats här”, sade han.
+
+Peta vände sig mot honom.
+
+”För contractors?”
+
+”För människor som vill förstå nästa steg.”
+
+”Vilket nästa steg?”
+
+”Det är olika för varje person.”
+
+Peta skrattade igen.
+
+”Då blir det en stor byggnad.”
+
+”Kanske ingen stor byggnad alls.”
+
+Han pekade mot paviljongen.
+
+”Några bord. Ström. Ett system som kan förklara saker. Utbildningar. Kontrakt. Bokföring. Hur man gör en offert. Hur man söker arbete. Men också människor som faktiskt har gjort det.”
+
+”En skola.”
+
+”Inte riktigt.”
+
+”En kyrka?”
+
+”Förhoppningsvis inte.”
+
+Peta log.
+
+”Vad då?”
+
+Protagonisten försökte finna orden.
+
+”Som en mentor som kan vara där oftare än en människa kan. Men som vet när en människa behövs.”
+
+Peta såg mot vägen där lärlingarna hade försvunnit.
+
+”Den ska säga till dem att lyssna på mig?”
+
+”I vissa frågor.”
+
+”Och i andra frågor ska den säga att de inte ska lyssna på dig?”
+
+Protagonisten skrattade.
+
+”Det vore ett tecken på att den fungerade.”
+
+De satt tysta en stund.
+
+Solen hade nu sjunkit så lågt att ljuset träffade undersidan av molnen. Den halvfärdiga väggen framför dem kastade en lång skugga över marken.
+
+”Kanske Kwame”, sade Peta till slut.
+
+”Vad menar du?”
+
+”Kwame kan leda de andra. Han ser arbetet innan man säger till honom. Men han tror att han bara är snabb.”
+
+”Det är precis sådant platsen skulle kunna hjälpa honom att förstå.”
+
+”Han kan inte skriva bra.”
+
+”Då börjar man där.”
+
+”Och Samuel vill ha motorcykel. Han sparar ingenting.”
+
+”Då börjar man där.”
+
+Peta nickade långsamt, men protagonisten kunde inte avgöra om han blivit övertygad eller bara roades av tanken.
+
+Sedan reste han sig och tog upp sitt vattenpass från marken.
+
+”I morgon måste vi göra om hörnet”, sade han.
+
+”Det ser rakt ut.”
+
+Peta höll vattenpasset mot väggen.
+
+Bubblan vilade nästan exakt mellan linjerna.
+
+”Nästan”, sade han.
+
+Protagonisten såg på honom när han gick tillbaka mot bygget.
+
+Först då förstod han att Peta redan gjorde det som de hade talat om.
+
+Han vidgade människors liv, en centimeter i taget.
