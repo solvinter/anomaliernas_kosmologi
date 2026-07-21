@@ -1,0 +1,391 @@
+fragment:
+  id: "ateruppbyggnad_02"
+  title: "Vetenskap, men inte evangelium"
+  working_title_alternatives:
+    - "Den moraliska gränsen"
+    - "Rätten att bära risken"
+    - "Inte en metod för andra"
+
+  narrative_position:
+    preferred_placement: >
+      Efter att återtagandeprogrammet etablerats men innan läsaren har fått
+      se dess fulla resultat.
+
+    alternative_placement: >
+      Kan infogas som en reflekterande passage när han för första gången
+      överväger en intervention som ligger utanför etablerad behandling.
+
+  narrative_function:
+    primary: >
+      Låta honom formulera den etiska skillnaden mellan tidigare missbruk
+      och det nuvarande, kontrollerade risktagandet utan att låta romanen
+      avgöra frågan åt läsaren.
+
+    secondary:
+      - "erkänna att hans resonemang kan vara självbedrägeri"
+      - "visa att han tar kritiken på allvar"
+      - "förhindra att förvandlingen blir reklam"
+      - "gestalta filosofiskt tänkande som praktisk moralisk metod"
+      - "skilja personlig autonomi från allmän rekommendation"
+
+  opening_provocation:
+    line: >
+      Det han gjorde var, sett från nästan varje etablerad ordning,
+      fullständigt förkastligt.
+
+    function: >
+      Meningen uttrycker den tänkta domen från samhället och hans egen
+      medvetenhet om den, inte en objektiv författardom.
+
+    possible_softening: >
+      Om formuleringen blir för kategorisk kan den ändras till:
+      Det han gjorde skulle av många betraktas som fullständigt förkastligt.
+
+  accusations_he_considers:
+    - "dopning"
+    - "fusk"
+    - "missbruk"
+    - "kriminalitet"
+    - "att ersätta en underkastelse med en annan"
+    - "att klä ett tvång i vetenskapligt språk"
+    - "att använda medicinsk bildning för att legitimera en drift"
+
+  autobiographical_weight:
+    past:
+      - "missbruk"
+      - "olagliga handlingar"
+      - "lögner"
+      - "lindring som fortsatte efter att den slutat lindra"
+      - "argument som konstruerades efter impulsen"
+
+    insight: >
+      Han hade egen erfarenhet av hur ett tvång först handlar och därefter
+      uppfinner ett rationellt försvar.
+
+    unresolved_risk: >
+      Han kunde därför aldrig helt bevisa för sig själv att samma mekanism
+      inte arbetade i honom igen.
+
+  ethical_distinctions:
+    controlled_risk_vs_compulsion:
+      controlled_risk:
+        - "mål formulerat i förväg"
+        - "tidsbegränsning"
+        - "dokumentation"
+        - "förmåga att avbryta"
+        - "acceptans av negativa resultat"
+        - "ingen successiv doseskalering för sin egen skull"
+
+      compulsion:
+        - "målet flyttas efter varje resultat"
+        - "risker förnekas"
+        - "mätningar ignoreras"
+        - "försämring tolkas som behov av mer"
+        - "argumenten uppstår först efter handlingen"
+
+    treatment_prevention_optimization:
+      treatment: >
+        Att korrigera sjukdom eller tydlig funktionsnedsättning.
+
+      prevention: >
+        Att minska sannolikheten för framtida sjukdom och förlust av funktion.
+
+      optimization: >
+        Att försöka överskrida den nivå som betraktas som tillräckligt normal.
+
+      ambiguity: >
+        I hans kropp låg dessa områden över varandra.
+        Att återvinna förlorad muskelmassa kunde vara rehabilitering.
+        Att återställa hormonell funktion kunde vara behandling.
+        Att sikta mot en tidigare, ovanligt hög kapacitet kunde vara optimering.
+        Samma åtgärd kunde byta moralisk kategori beroende på syfte och omfattning.
+
+    medicine_vs_performance_enhancement:
+      question: >
+        Är något moraliskt annorlunda enbart för att det förbättrar prestation?
+
+      contextual_answer: >
+        I tävlingsidrott kan förbättringen innebära orättvisa mot andra.
+        I hans fall fanns ingen motståndare, inget pris och ingen gemensamt
+        accepterad regel som hans kroppsliga återkomst kunde förfalska.
+
+      unresolved_counterpoint: >
+        Frånvaron av en tävling gjorde inte interventionen säker,
+        klok eller laglig. Den avlägsnade bara ett av de moraliska argumenten.
+
+  philosophical_method:
+    approach: >
+      Han sökte inte ett citat från en filosof som kunde frikänna honom.
+      Han försökte identifiera vilka värden som stod mot varandra.
+
+    values_in_conflict:
+      - "autonomi"
+      - "icke-skada"
+      - "rättslig ordning"
+      - "medicinsk försiktighet"
+      - "kunskapssökande"
+      - "personligt ansvar"
+      - "risken att inspirera andra"
+      - "rätten till kroppslig självbestämning"
+
+    central_question: >
+      Var handlingen fel därför att den skapade konkret skada,
+      eller därför att den liknade andra handlingar som ofta gjorde det?
+
+    pragmatic_conclusion: >
+      Kategorier var viktiga som varningssystem, men de befriade honom inte
+      från skyldigheten att undersöka det enskilda fallet.
+
+  terminology:
+    rejected:
+      doping:
+        reason: >
+          Ordet hämtade sin huvudsakliga moraliska laddning från tävling,
+          regelbrott och orättvisa fördelar.
+
+      biohacking:
+        reason: >
+          Ordet fick kroppen att låta som en enkel maskin och experimentet
+          som en lek utan historia, lidande eller ansvar.
+
+    preferred_description:
+      options:
+        - "medicinsk självrekonstruktion"
+        - "ett tidsbegränsat återtagandeprogram"
+        - "experimentell rehabilitering"
+        - "medicin under belägring"
+
+      caution: >
+        Ingen beteckning får helt lösa den moraliska osäkerheten.
+
+  epistemic_position:
+    claim: >
+      Kemiska ämnen följer biologiska mekanismer, inte administrativa kategorier.
+
+    necessary_correction: >
+      Att kategorier är administrativt skapade innebär inte att de är
+      betydelselösa. De kan bära samlad erfarenhet av risk, missbruk,
+      exploatering och skada.
+
+    mature_position: >
+      Han vägrar både blind lydnad och blind trots.
+      Han försöker förstå varför en gräns finns innan han avgör om den
+      är relevant för den handling han överväger.
+
+  personal_rules:
+    governing_statement: >
+      Detta fick vara vetenskap, men aldrig evangelium.
+
+    commitments:
+      - "dokumentera även misslyckanden"
+      - "redovisa kostnader tillsammans med vinster"
+      - "inte bygga en rörelse"
+      - "inte sälja en metod"
+      - "inte rekommendera andra att imitera honom"
+      - "inte visa kroppen som bevis utan att visa osäkerheten"
+      - "avbryta vid förutbestämda varningssignaler"
+      - "aldrig låta styrka eller ungdomlighet bli ett argument i sig"
+
+    discretion:
+      motive: >
+        Diskretionen kommer inte främst ur skam utan ur insikten att
+        berättelser om förvandling gör människor blinda för priset.
+
+      literary_effect: >
+        Läsaren får förstå att något ovanligt har skett men lämnas utan
+        ett färdigt recept eller en heroiserad genväg.
+
+  relation_to_legality:
+    position: >
+      Han anser inte att laglighet ensam avgör moralisk riktighet.
+
+    limitation: >
+      Han anser inte heller att personlig övertygelse upphäver lag,
+      konsekvenser eller ansvar.
+
+    conflict: >
+      Han är beredd att bära följderna av sina val men vägrar låta
+      myndighetskategorier ersätta den moraliska analysen.
+
+  core_goal:
+    not_longevity: >
+      Han är inte i första hand intresserad av att förlänga livet.
+
+    desired_quality:
+      - "närvaro"
+      - "minnets bärighet"
+      - "förmågan att fullfölja en tanke"
+      - "fysisk rörelse utan hinder"
+      - "vakenhet utan förföljelsekänsla"
+      - "lugn utan bedövning"
+
+    key_line: >
+      Han försökte inte lura biologin.
+      Han försökte förstå den tillräckligt väl för att omförhandla sina villkor.
+
+  ending:
+    central_claim: >
+      Hans gränsöverskridande bestod inte i att han trodde sig stå över riskerna.
+
+    final_line: >
+      Det bestod i att han ansåg sig ha rätt att bära dem själv.
+
+    retained_ambiguity: >
+      Romanen ska inte helt bekräfta att han har rätt.
+      Läsaren ska kunna se både integriteten och övermodet i samma hållning.
+
+  overlap_with_other_fragments:
+    with_ateruppbyggnad_01: >
+      Fragment 01 beskriver programmet som ett praktiskt och medicinskt projekt.
+      Detta fragment förhindrar att projektet framstår som självklart legitimt.
+
+    with_ateruppbyggnad_03: >
+      Fragment 03 visar ett djupt positivt resultat.
+      Detta fragment måste finnas för att resultatet inte ska fungera som
+      ett automatiskt moraliskt frikännande av alla metoder.
+
+    with_ateruppbyggnad_04: >
+      I fiskarfragmentet undanhåller han den mest riskfyllda delen när han
+      blir tillfrågad. Denna diskretion följer direkt ur principen här:
+      han vill inte göra sin egen förvandling till råd för andra.
+
+  productive_tensions:
+    - >
+      Han är läkare och försöksperson samtidigt, vilket ger både kunskap
+      och en allvarlig risk för bristande distans.
+    - >
+      Han dokumenterar för att minska självbedrägeri men kan också använda
+      dokumentationen för att ge tvånget en vetenskaplig form.
+    - >
+      Han försvarar autonomi men vet att hans berättelse kan påverka andra.
+    - >
+      Han avvisar blind moralism men riskerar att underskatta den historiska
+      erfarenhet som moraliska normer ofta bygger på.
+
+  avoid:
+    - "att framställa alla läkemedelskategorier som godtyckliga"
+    - "att likställa lagligt med ofarligt eller olagligt med irrationellt"
+    - "att låta hans medicinska utbildning fungera som fullständig garanti"
+    - "att låta goda resultat retroaktivt göra alla risker försvarliga"
+    - "att göra monologen till ett manifest för självmedicinering"
+    - "att lösa den moraliska frågan helt"
+
+  tone:
+    - "självkritisk"
+    - "filosofisk"
+    - "provokativ men inte triumferande"
+    - "analytisk"
+    - "moraliskt osäker"
+    - "personligt ansvarstagande"
+    ---
+    Vetenskap, men inte evangelium
+
+Det han gjorde skulle av många betraktas som fullständigt förkastligt.
+
+Kanske hade de rätt.
+
+Orden låg redan färdiga.
+
+Dopning.
+
+Missbruk.
+
+Kriminalitet.
+
+Fusk.
+
+Biohacking.
+
+Han hade själv använt flera av dem om någon annan kommit till honom med samma berättelse.
+
+Det gjorde frågan svårare, inte lättare.
+
+Han visste hur ett beroende fungerade. Han hade levt tillräckligt nära det för att känna igen dess språk. Först kom handlingen. Sedan kom argumenten. Till slut mindes man knappt vilket som varit vilket.
+
+Han hade ljugit.
+
+Inte bara för andra.
+
+Framför allt för sig själv.
+
+Han hade kallat flykt för lindring. Tvång för frihet. Begär för nödvändighet. Det var kanske den farligaste insikten av alla: människan kunde bli oerhört intelligent när hon försvarade det hon redan bestämt sig för att göra.
+
+Därför litade han inte längre på sin övertygelse.
+
+Övertygelser var billiga.
+
+Det var begränsningar som kostade.
+
+Om han skulle beträda mark där etablerad medicin blev osäker måste reglerna vara skrivna innan första steget togs. Målet skulle formuleras i förväg. Tidsgränsen skulle vara bestämd. Blodprover, mätningar och journalanteckningar skulle dokumentera även sådant han helst inte ville se. Förutbestämda varningssignaler skulle avsluta försöket, oavsett hur övertygad han då kände sig.
+
+Om reglerna började flytta sig var experimentet över.
+
+Då var det inte längre vetenskap.
+
+Då var det något annat.
+
+Han sökte inget citat som kunde frikänna honom. Inte Aristoteles. Inte Kant. Inte Mill. Filosoferna kunde inte bära risken åt honom. De kunde bara hjälpa honom att se vilka värden som stod mot varandra.
+
+Autonomi.
+
+Försiktighet.
+
+Kunskap.
+
+Ansvar.
+
+Lydnad.
+
+Omsorg.
+
+De var sällan helt förenliga.
+
+En fråga återkom ständigt.
+
+Var en handling fel därför att den faktiskt skapade skada?
+
+Eller därför att den liknade handlingar som ofta gjorde det?
+
+Han visste att kategorier hade ett värde. De bar på generationers erfarenhet av människor som skadat sig själva och andra. De var inte godtyckliga.
+
+Men de var inte heller naturkrafter.
+
+De var mänskliga försök att ordna en komplicerad verklighet.
+
+Kemiska ämnen brydde sig inte om juridiska kategorier.
+
+De följde biologins lagar.
+
+Det betydde inte att lagen var oviktig.
+
+Det betydde bara att moral inte kunde reduceras till administration.
+
+Han frågade sig gång på gång om han höll på att ersätta en underkastelse med en annan. Om han bara hade klätt ett gammalt tvång i ett nytt språk. Om den medicinska bildningen höll på att bli ett sätt att legitimera en drift.
+
+Den möjligheten kunde han aldrig helt avfärda.
+
+Kanske var det därför han aldrig talade om metoden som en väg för andra.
+
+Han ville inte bygga en rörelse.
+
+Inte sälja en idé.
+
+Inte bli ännu en man som lovade människor en ny kropp.
+
+Om hans väg visade sig vara fel skulle det vara hans misstag.
+
+Om den visade sig fungera skulle det fortfarande inte göra den allmängiltig.
+
+Det enda han ansåg sig ha rätt till var att undersöka sin egen kropp med samma allvar som han en gång undersökt sina patienters.
+
+Han försökte inte lura biologin.
+
+Han försökte förstå den tillräckligt väl för att omförhandla sina egna villkor.
+
+Om det var högmod eller ansvar visste han fortfarande inte.
+
+Men han visste en sak.
+
+Detta fick vara vetenskap.
+
+Men aldrig evangelium.

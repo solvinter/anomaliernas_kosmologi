@@ -1,0 +1,445 @@
+Och så fragment:
+  id: "ateruppbyggnad_04"
+  title: "Resultaten fick finnas i rörelserna"
+  working_title_alternatives:
+    - "Bland fiskarna"
+    - "Kraft utan brådska"
+    - "Ett språk han åter talade"
+
+  narrative_position:
+    placement: >
+      Senare i romanen, efter återuppbyggnaden, när handlingen redan gått vidare
+      och läsaren inte längre förväntar sig ett formellt resultatkapitel.
+
+    temporal_distance: >
+      Tillräckligt långt efter programmet för att förändringen ska kännas
+      integrerad snarare än ny och demonstrativ.
+
+  narrative_function:
+    primary: >
+      Låta läsaren förstå resultatet genom vardagliga handlingar,
+      utan en sammanfattning av vad han uppnått.
+
+    secondary:
+      - "visa fysisk styrka utan exhibitionism"
+      - "visa kognitiv återhämtning genom närvaro och minne"
+      - "visa lugn utan passivitet"
+      - "placera kroppen i ett socialt och praktiskt sammanhang"
+      - "bekräfta att kroppen åter blivit ett hem"
+      - "hålla de farmakologiska detaljerna i bakgrunden"
+
+  governing_rule:
+    statement: >
+      Resultaten ska synas i det han gör när ingen utvärderar honom.
+
+    contrast: >
+      Han visar inga före-och-efter-bilder, citerar inga provsvar
+      och berättar inte om programmet.
+
+  opening:
+    social_observation: >
+      Människor som känt honom tidigare kan ibland bli tysta när de ser honom,
+      som om de försöker förena två bilder.
+
+    his_response:
+      - "han hjälper dem inte"
+      - "han förklarar inte"
+      - "han visar inga fotografier"
+      - "han nämner inga mätvärden"
+
+    key_line: >
+      Resultaten fick finnas i rörelserna.
+
+  primary_scene:
+    location:
+      - "under ett tak vid den gamla landningsplatsen"
+      - "nära havet"
+      - "bland fiskare, äldre män och barn"
+
+    social_activity: >
+      En fiskare berättar om en båt som försvann under en storm.
+
+    dominic_initially:
+      - "står bland de andra"
+      - "lyssnar"
+      - "söker ingen central plats"
+
+  embodied_details:
+    climbing_to_wall:
+      action: >
+        Han sätter en fot mot en låg betongkant,
+        griper en takbjälke och lyfter sig upp utan ansats.
+
+      result: >
+        Han sitter snart barfota och korslagd på muren,
+        som om kroppen själv valt platsen.
+
+      meaning:
+        - "dragstyrka"
+        - "koordination"
+        - "rörlighet"
+        - "avsaknad av självmedveten demonstration"
+
+    listening:
+      details:
+        - "blicken går inte till telefonen"
+        - "han väntar inte på sin tur att tala"
+        - "han fyller inte pauser"
+        - "han låter mannen hitta nästa mening"
+        - "kroppen är stilla utan att vara spänd"
+
+      narrative_importance: >
+        Sättet han lyssnar på är viktigare än den synliga fysiken.
+        Det visar att kognitiv kraft och lugn existerar samtidigt.
+
+    thrown_object:
+      action: >
+        En pojke kastar en tygbit mot honom.
+        Han fångar den med ena handen utan att bryta samtalets rytm.
+
+      function:
+        - "reaktionsförmåga"
+        - "lekfullhet"
+        - "delad uppmärksamhet"
+        - "frånvaro av överdriven vaksamhet"
+
+    dropped_cane:
+      action: >
+        När en äldre man tappar sin käpp är Dominic nere från muren,
+        plockar upp den och räcker tillbaka den utan att göra händelsen stor.
+
+      function:
+        - "snabbhet"
+        - "omsorg"
+        - "kroppslig tillgänglighet"
+        - "styrka underställd det sociala"
+
+    squat:
+      posture: >
+        Han sätter sig på huk med hälarna i marken
+        och kan stanna där utan ansträngning.
+
+      dialogue:
+        older_man: "Du sitter som en pojke."
+        dominic: "Jag satt nog aldrig så när jag var pojke."
+
+      philosophical_meaning: >
+        Han har inte återgått till en tidigare ungdom.
+        Han har blivit kroppsligt friare än han var även då.
+
+  comparison_with_fishermen:
+    observed_quality: >
+      De unga fiskarnas styrka existerar som en del av arbete,
+      balans, skämt och vardag snarare än som ett utseendeprojekt.
+
+    dominic_similarity: >
+      Han har fått samma självklara förhållande till tyngd och rörelse.
+
+    key_metaphor: >
+      Kroppen hade åter blivit ett språk han talade flytande.
+
+    important_difference: >
+      Han ska inte beskrivas som överlägsen fiskarna,
+      utan som någon vars kropp åter kan delta i deras värld.
+
+  work_scenes:
+    possible_details:
+      - "tar emot rep utan att fråga var han ska stå"
+      - "hoppar mellan båtar"
+      - "hjälper till att dra nät"
+      - "bär en tung del tillsammans med andra"
+      - "balanserar på ojämn sand"
+      - "minns instruktioner som bara sagts en gång"
+
+    social_integration:
+      early: >
+        De andra bevakar honom som en besökare som kan skada sig.
+
+      later: >
+        Efter några veckor slutar de titta.
+        Han blir bara ännu en kropp i arbetet.
+
+  running_scene:
+    participants: "pojkarna på vägen från stranden"
+
+    dynamic:
+      - "de börjar springa utan förvarning"
+      - "han låter dem få ett försprång"
+      - "han följer ibland efter"
+      - "han vinner inte alltid"
+      - "det är viktigt att han inte behöver vinna"
+
+    observed_form:
+      - "längre steg"
+      - "lugna armar"
+      - "avslappnat ansikte"
+      - "andning som snabbt återgår"
+
+    key_line: >
+      Det fanns ingen vrede i rörelsen.
+      Bara hastighet.
+
+  disclosure_scene:
+    question: "Vad tar du?"
+
+    his_answer: >
+      Sömn. Mat. Träning. Och mer tålamod än jag hade i din ålder.
+
+    truth_status: >
+      Svaret är sant men ofullständigt.
+
+    ethical_function: >
+      Han ger vidare den del av metoden som är allmängiltig och relativt säker,
+      men undanhåller det som skulle kunna förvandlas till farlig imitation.
+
+    connection_to_ateruppbyggnad_02: >
+      Diskretionen är inte feghet eller skam.
+      Den följer hans princip att den egna erfarenheten inte får bli evangelium.
+
+  pharmacological_presence:
+    visibility: "nästan helt implicit"
+
+    permitted_indications:
+      - "låsta anteckningsböcker"
+      - "regelbundna blodprover"
+      - "en formulering om medicinsk hjälp"
+      - "att hela sanningen inte går att ge vidare"
+      - "att vissa delar av programmet tillhör honom ensam"
+
+    preferred_formulation: >
+      Resten tillhörde anteckningarna, proverna och de beslut
+      han inte tänkte göra till någon annans metod.
+
+    avoid:
+      - "uppräkning av hormoner"
+      - "namngivna peptider"
+      - "påståenden om extrema biokemiska effekter"
+      - "att pojkens fråga blir en öppning för en farmakologisk föreläsning"
+
+  later_recurring_signs:
+    physical:
+      - "bär något tungt utan att kommentera det"
+      - "sätter sig på golvet eller huk utan besvär"
+      - "reser sig i en sammanhängande rörelse"
+      - "balanserar naturligt på en båt"
+      - "tar trappor snabbt men utan att skynda"
+      - "fångar något som faller"
+
+    cognitive:
+      - "minns namn efter ett enda möte"
+      - "återger en exakt formulering långt senare"
+      - "håller flera delar av en plan i huvudet"
+      - "avslutar det han påbörjar"
+      - "märker en motsägelse utan att genast avbryta"
+
+    emotional:
+      - "låter andra tala färdigt"
+      - "reagerar inte på varje provokation"
+      - "kan vara tyst utan att försvinna"
+      - "är uppmärksam utan att vara hypervaksam"
+      - "är lugn utan att vara dämpad"
+
+    social:
+      - "hjälper utan att göra hjälpen till en demonstration"
+      - "anpassar sin styrka till uppgiften"
+      - "leker med barn utan att försöka imponera"
+      - "arbetar tillsammans med andra i stället för att överta"
+
+  ending:
+    sensory_grounding:
+      - "värmen från marken genom fotsulorna"
+      - "vinden från havet"
+      - "den egna kroppens tyngd"
+      - "rösterna runt honom"
+
+    meaning: >
+      Kroppens tyngd upplevs inte längre som en börda
+      utan som förankring i världen.
+
+    final_action: >
+      När fiskaren fortsätter berättelsen lyfter Dominic blicken och lyssnar.
+
+    final_word: "lyssnade"
+
+    reason: >
+      Slutet bekräftar att den djupaste förändringen inte är fysisk dominans
+      utan närvaro.
+
+  overlap_with_other_fragments:
+    with_ateruppbyggnad_01: >
+      Fragment 01 visar projektets metod, mätningar och avsikt.
+      Här ska inget av detta förklaras på nytt.
+      Resultatet blir trovärdigt genom att läsaren redan känner till arbetet.
+
+    with_ateruppbyggnad_02: >
+      Frågan Vad tar du? aktiverar den moraliska problematiken utan att upprepa den.
+      Hans ofullständiga men sanna svar visar hur han omsätter sin princip i praktiken.
+
+    with_ateruppbyggnad_03: >
+      Fragment 03 säger att han är hemma i kroppen.
+      Detta fragment visar hur hemmastaddheten ser ut inför andra:
+      han klättrar, lyssnar, arbetar, leker och vilar utan friktion.
+
+  division_of_labor_between_fragments:
+    ateruppbyggnad_01: "hur återtagandet genomförs"
+    ateruppbyggnad_02: "hur han moraliskt prövar det"
+    ateruppbyggnad_03: "hur förändringen känns inifrån"
+    ateruppbyggnad_04: "hur förändringen märks utifrån"
+
+  avoid:
+    - "att omgivningen hyllar honom"
+    - "att alla blir chockade av hans kropp"
+    - "att han vinner varje fysisk tävling"
+    - "att styrkan gör honom dominant"
+    - "att scenen förklarar hela programmet"
+    - "att farmakologin blir scenens egentliga ämne"
+    - "att fiskarna används enbart som dekor eller jämförelseobjekt"
+
+  tone:
+    - "gestaltande"
+    - "varm"
+    - "jordad"
+    - "social"
+    - "lekfull"
+    - "lågmält imponerande"
+    - "utan självförhärligande"
+    ---
+    Resultaten fick finnas i rörelserna
+
+Människor som känt honom tidigare blev ibland tysta när de såg honom.
+
+Inte därför att han såg yngre ut.
+
+Snarare därför att de försökte förena två bilder av samma människa.
+
+Han hjälpte dem inte.
+
+Han visade inga fotografier.
+
+Han nämnde inga laboratorievärden.
+
+Han berättade inte om året.
+
+Resultaten fick finnas i rörelserna.
+
+En eftermiddag satt de under plåttaket vid den gamla landningsplatsen. Havet slog långsamt mot båtarna medan en äldre fiskare berättade om en storm många år tidigare, då två båtar aldrig kom tillbaka.
+
+Dominic stod tillsammans med de andra och lyssnade.
+
+När solen flyttade sig satte han ena foten mot den låga betongkanten, grep en bjälke med handen och drog sig upp på muren i en enda sammanhängande rörelse. Han satte sig barfota med benen i kors och lutade ryggen mot en stolpe.
+
+Ingen kommenterade det.
+
+Det var bara en kropp som hade valt en annan plats.
+
+Han lyssnade fortfarande.
+
+Blicken vandrade inte mot någon telefon.
+
+Han väntade inte på sin tur att tala.
+
+När fiskaren stannade mitt i en mening lät Dominic tystnaden vara kvar tills mannen själv hittade tillbaka till berättelsen.
+
+En pojke kastade en hopvikt tygtrasa mot honom.
+
+Dominic fångade den med ena handen utan att avbryta ögonkontakten med den gamle mannen. Han log mot pojken och kastade tillbaka den lika obekymrat.
+
+Samtalet fortsatte.
+
+En stund senare tappade en av de äldre sin käpp. Innan någon hunnit reagera hade Dominic redan hoppat ned från muren, plockat upp den och räckt tillbaka den med ett kort leende, som om händelsen inte var värd någon uppmärksamhet.
+
+Det var just därför den blev det.
+
+När arbetet började frågade ingen längre var han skulle stå.
+
+Han tog emot repet när det räcktes mot honom.
+
+Hjälpte till att dra båten högre upp på stranden.
+
+Flyttade undan lådor när de var i vägen.
+
+Bar sin del av tyngden och inget mer.
+
+De första dagarna hade de andra följt honom med blicken, beredda att ingripa om den främmande läkaren skulle halka eller lyfta fel.
+
+Efter några veckor slutade de titta.
+
+Han blev bara ännu en kropp i arbetet.
+
+Ibland satte han sig på huk med hälarna mot marken medan de lagade nät.
+
+Han kunde sitta kvar länge.
+
+En äldre man skrattade.
+
+– Du sitter som en pojke.
+
+Dominic log.
+
+– Jag satt nog aldrig så när jag var pojke.
+
+De skrattade tillsammans och fortsatte knyta maskorna.
+
+På vägen hem från stranden började barnen ibland springa utan förvarning.
+
+Han lät dem få ett försprång.
+
+Ibland sprang han efter.
+
+Ibland hann han ikapp.
+
+Ibland gjorde han det inte.
+
+Det spelade ingen roll.
+
+Det fanns ingen vrede i rörelsen.
+
+Bara hastighet.
+
+En kväll frågade en av de yngre männen:
+
+– Vad tar du egentligen?
+
+Dominic drog handen genom håret och såg ut över havet.
+
+– Sömn. Mat. Träning. Och mer tålamod än jag hade i din ålder.
+
+Svaret var sant.
+
+Bara inte hela sanningen.
+
+Resten tillhörde anteckningsböckerna, blodproverna och de beslut han aldrig tänkte göra till någon annans metod.
+
+När han senare arbetade med programmering, analyser, distanspatienter eller långa filosofiska texter kunde timmarna fyllas av en enda obruten tanke.
+
+Inte därför att kroppen försvann.
+
+Tvärtom.
+
+Flera gånger varje timme reste han sig medvetet från stolen.
+
+Han sträckte ut ryggen.
+
+Böjde höfterna.
+
+Hängde några sekunder i en dörrkarm.
+
+Gjorde några långsamma knäböj eller armhävningar.
+
+Ibland tog han på sig VR-headsetet i fem minuter och lät ett spel engagera hela kroppen innan han drack ett glas vatten och återvände till arbetet.
+
+Han hade lärt sig att rörelse inte avbröt tänkandet.
+
+Den höll det levande.
+
+Kroppen hade blivit något han samarbetade med i stället för något han måste övervinna.
+
+När fiskaren fortsatte sin berättelse lät Dominic handen vila mot den varma betongen.
+
+Han kände vinden från havet.
+
+Tyngden genom fotsulorna.
+
+Rösterna omkring sig.
+
+Sedan lyfte han blicken och lyssnade.

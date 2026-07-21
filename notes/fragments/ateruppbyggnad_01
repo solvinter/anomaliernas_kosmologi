@@ -1,0 +1,1050 @@
+fragment:
+  id: "ateruppbyggnad_01"
+  title: "Att omförhandla tiden"
+  working_title_alternatives:
+    - "Återtagandet"
+    - "Ett år"
+    - "Biologins villkor"
+  narrative_position:
+    follows:
+      - "misshandeln och rånet"
+      - "Kroppen som blev kvar"
+      - "spegelögonblicket där kroppen övergår från öde till problem"
+    precedes:
+      - "den etiska prövningen av metoderna"
+      - "året av systematisk återuppbyggnad"
+      - "de senare fragment där resultatet syns indirekt"
+  narrative_function:
+    primary: >
+      Visa hur han vägrar acceptera att de förlorade åren automatiskt
+      måste bli permanent biologisk tid.
+    secondary:
+      - "återetablera hans medicinska och analytiska förmåga"
+      - "visa hur han omvandlar förtvivlan till ett avgränsat projekt"
+      - "förena klinisk erfarenhet, filosofi, träning och longevityforskning"
+      - "etablera ett tidsbegränsat mål snarare än ett livslångt tvång"
+      - "visa pragmatism utan att skriva en konkret farmakologisk manual"
+  central_realization:
+    statement: >
+      Han hade kommit efter.
+    elaboration: >
+      Medan andra människor fortsatt arbeta, röra sig, träna, älska,
+      bygga vardag och åldras gradvis hade hans liv stått stilla.
+      De hade inte besegrat tiden, men de hade fått leva i den.
+      Själv hade han förlorat år utan att få någonting i utbyte.
+    consequence: >
+      Han ansåg därför inte att en normal och försiktig återgång var tillräcklig.
+      Den som hamnat efter måste under en period röra sig snabbare för att komma ikapp.
+  relation_to_biological_age:
+    rejection:
+      target: "biologisk tid som ett orubbligt öde"
+      clarification: >
+        Han förnekade inte kronologisk ålder och trodde inte att döden kunde
+        avskaffas. Han vägrade däremot acceptera att inaktivitet, stress,
+        läkemedel, sömnbrist och social nedbrytning skulle få räknas som
+        naturligt åldrande.
+    goal: >
+      Att under ett år bygga tillbaka kroppen och den kognitiva kapaciteten
+      så nära den nivå han haft före sammanbrottet som det rimligen gick.
+    time_horizon:
+      intensive_phase: "ett år"
+      later_phase: >
+        Efter den intensiva fasen skulle han övergå till mer konventionella
+        och långsiktigt hållbara former av träning, sömn, kost, återhämtning
+        och förebyggande medicin.
+  naming:
+    rejected_term: "rekonstruktion"
+    chosen_term: "återtagande"
+    distinction: >
+      Rekonstruktion antydde att en ny människa skulle byggas.
+      Återtagande betydde att kropp, uppmärksamhet, minne och handlingsförmåga
+      redan hade tillhört honom och kunde krävas tillbaka.
+  intellectual_method:
+    fields_he_studies:
+      - "longevity och healthspan"
+      - "träningsfysiologi"
+      - "endokrinologi"
+      - "metabol medicin"
+      - "sömn och dygnsrytm"
+      - "neuroplasticitet"
+      - "kognitiv rehabilitering"
+      - "stressfysiologi"
+      - "filosofi om kropp, identitet och autonomi"
+      - "skillnaden mellan behandling, prevention och optimering"
+    source_hierarchy:
+      core:
+        - "vetenskapliga artiklar"
+        - "kliniska riktlinjer"
+        - "farmakologisk och fysiologisk grundkunskap"
+      supplementary:
+        - "forskningsprotokoll"
+        - "patent"
+        - "konferensmaterial"
+        - "fallbeskrivningar"
+        - "erfarenheter från idrottsmedicin"
+      treated_with_caution:
+        - "forum"
+        - "anekdoter"
+        - "kommersiella kliniker"
+        - "personliga rapporter om ännu oprövade molekyler"
+    principle: >
+      Ingen källa fick ensam definiera sanningen.
+      Han sökte överlapp mellan mekanism, klinisk erfarenhet,
+      mätbara resultat och upprepade observationer.
+  philosophical_dimension:
+    central_question: >
+      När upphör en intervention att vara behandling och blir optimering?
+    secondary_questions:
+      - >
+        Om en kropp har försämrats av sjukdom, passivitet och behandling,
+        är återställandet av tidigare funktion vård eller prestationshöjning?
+      - >
+        Om en hormonnivå ligger inom ett statistiskt normalintervall men långt
+        under individens tidigare nivå, vad är då det medicinskt relevanta måttet?
+      - >
+        Är det moraliskt avgörande vad en intervention kallas,
+        eller vilka risker, motiv och konsekvenser den faktiskt har?
+      - >
+        Finns det en tydlig gräns mellan att förebygga sjukdom,
+        återställa funktion och förbättra funktion?
+      - >
+        När uttrycker regler verklig omsorg och när bär de spår av andra problem,
+        såsom tävlingsfusk, kommersiellt missbruk eller rädsla för avvikelse?
+    stance: >
+      Han ville inte trotsa regler för trotsandets skull.
+      Han ville förstå vilka moraliska problem reglerna försökte lösa
+      och därefter bedöma om de problemen faktiskt fanns i hans eget fall.
+  reconstruction_priorities:
+    order:
+      - "dygnsrytm"
+      - "sömn"
+      - "regelbunden rörelse"
+      - "styrka"
+      - "kondition"
+      - "metabol hälsa"
+      - "kognitiv uthållighet"
+      - "meditation och nervsystemsreglering"
+      - "medicinsk korrigering av identifierade brister"
+      - "försiktig prövning av mer osäkra interventioner"
+    governing_principle: >
+      Återställ kroppens förmåga att svara innan signalen förstärks.
+    training:
+      role: "den viktigaste interventionen"
+      progression:
+        - "promenader"
+        - "lätt styrketräning"
+        - "balans och rörlighet"
+        - "gradvis ökande konditionsarbete"
+        - "belastning i backar"
+        - "värme, kyla och återhämtning"
+        - "lekfull rörelse när kroppen åter börjat svara"
+    cognition:
+      targets:
+        - "läsa sammanhängande"
+        - "behålla flera led i ett resonemang"
+        - "minnas avsikter mellan rum"
+        - "skriva och avsluta meddelanden"
+        - "återfå exekutiv uthållighet"
+        - "vara vaken utan att vara jagad"
+      measurement_examples:
+        - "lästid innan orden glider isär"
+        - "arbetsminne"
+        - "reaktionstid"
+        - "förmåga att avsluta en uppgift"
+        - "förmåga att följa ett samtal"
+        - "subjektiv och objektiv sömnkvalitet"
+  pharmacological_layer:
+    explicitness_in_prose: "låg till måttlig"
+    narrative_rule: >
+      Texten ska inte beskriva preparat, doser eller exakta protokoll.
+      Läsaren ska förstå att han ibland använder medicinsk hjälp utöver
+      vanliga livsstilsinterventioner, men inte få ett reproducerbart upplägg.
+    conventional_elements:
+      - "behandling av dokumenterade brister"
+      - "medicinsk uppföljning"
+      - "laboratorieprover"
+      - "periodisk omvärdering"
+    boundary_elements:
+      - "hormonella insatser i tidsbegränsade cykler"
+      - "molekyler som ännu främst förekommer inom forskning"
+      - "teoretiskt intressanta interventioner som saknar etablerad marknadsstatus"
+    framing: >
+      Hormonerna skulle inte ersätta träningen.
+      De skulle, om de användes, endast hjälpa en nedreglerad kropp att åter
+      svara på träning, sömn, näring och belastning.
+    caution:
+      - "en förändring i taget"
+      - "mätning före och efter"
+      - "förutbestämda avbrottskriterier"
+      - "inga resultat utan redovisning av kostnader"
+      - "ingen framställning av molekylerna som magiska"
+  setting_and_structure:
+    possible_locations:
+      - "Åre under uppbyggnadsfasen"
+      - "Ghana under värme-, rörelse- och integrationsfasen"
+    spatial_symbolism:
+      are: >
+        Kyla, höjd, ensamhet, mätning och den långsamma återkomsten av styrka.
+      ghana: >
+        Värme, social förankring, rörelse, lekfullhet och kroppens återkomst
+        till en levd värld.
+  key_scenes:
+    opening:
+      action: >
+        Han skriver först REKONSTRUKTION och ersätter det med ÅTERTAGANDE.
+    first_measurement:
+      elements:
+        - "vikt"
+        - "midjemått"
+        - "vilopuls"
+        - "greppstyrka"
+        - "gångsträcka"
+        - "kognitiv uthållighet"
+    first_walk:
+      distance: "några hundra meter"
+      emotional_element: >
+        Han blir passerad av människor som inte vet att promenaden är
+        hans första försök att återvända till livet.
+      conversion: >
+        Skammen registreras som data i stället för att få avsluta försöket.
+    temporal_montage:
+      examples:
+        - "fyrahundra meter blir fyrahundrafemtio"
+        - "tio minuters läsning blir tjugo"
+        - "små vikter blir systematisk belastning"
+        - "en avsikt kan åter bäras från ett rum till ett annat"
+  endpoint:
+    not_a_miracle: >
+      Efter ett år är han inte färdig och inte botad från historien.
+      Han har däremot återtagit tillräckligt mycket funktion för att
+      nästa fas av livet ska kunna börja.
+    transition_line: >
+      Det första året handlade om att bygga en människa som kunde återvända.
+      Nästa fas skulle handla om vad han skulle återvända till.
+  overlap_with_other_fragments:
+    with_ateruppbyggnad_02: >
+      Detta fragment beskriver vad han beslutar att göra.
+      Fragment 02 prövar om han moraliskt har rätt att göra det.
+    with_ateruppbyggnad_03: >
+      Detta fragment visar processen och intentionen.
+      Fragment 03 beskriver den subjektiva erfarenheten när kroppen åter blir ett hem.
+    with_ateruppbyggnad_04: >
+      Detta fragment innehåller mätningar och metod.
+      Fragment 04 ska nästan helt undvika sådana förklaringar och endast låta
+      resultaten framträda i vardagliga handlingar.
+  avoid:
+    - "en katalog över substanser"
+    - "exakta doser"
+    - "ett triumferande montage där allt fungerar"
+    - "påståendet att testosteron eller peptider ensamma räddar honom"
+    - "att göra biologisk ålder till ett exakt eller okomplicerat mått"
+    - "att reducera hans återkomst till utseende"
+    - "att framställa honom som säker på sådant han egentligen bara kan uppskatta"
+  tone:
+    - "metodisk"
+    - "beslutsam"
+    - "intellektuellt nyfiken"
+    - "pragmatisk"
+    - "filosofiskt undersökande"
+    - "försiktigt gränsöverskridande"
+fragment:
+  id: "ateruppbyggnad_02"
+  title: "Vetenskap, men inte evangelium"
+  working_title_alternatives:
+    - "Den moraliska gränsen"
+    - "Rätten att bära risken"
+    - "Inte en metod för andra"
+  narrative_position:
+    preferred_placement: >
+      Efter att återtagandeprogrammet etablerats men innan läsaren har fått
+      se dess fulla resultat.
+    alternative_placement: >
+      Kan infogas som en reflekterande passage när han för första gången
+      överväger en intervention som ligger utanför etablerad behandling.
+  narrative_function:
+    primary: >
+      Låta honom formulera den etiska skillnaden mellan tidigare missbruk
+      och det nuvarande, kontrollerade risktagandet utan att låta romanen
+      avgöra frågan åt läsaren.
+    secondary:
+      - "erkänna att hans resonemang kan vara självbedrägeri"
+      - "visa att han tar kritiken på allvar"
+      - "förhindra att förvandlingen blir reklam"
+      - "gestalta filosofiskt tänkande som praktisk moralisk metod"
+      - "skilja personlig autonomi från allmän rekommendation"
+  opening_provocation:
+    line: >
+      Det han gjorde var, sett från nästan varje etablerad ordning,
+      fullständigt förkastligt.
+    function: >
+      Meningen uttrycker den tänkta domen från samhället och hans egen
+      medvetenhet om den, inte en objektiv författardom.
+    possible_softening: >
+      Om formuleringen blir för kategorisk kan den ändras till:
+      Det han gjorde skulle av många betraktas som fullständigt förkastligt.
+  accusations_he_considers:
+    - "dopning"
+    - "fusk"
+    - "missbruk"
+    - "kriminalitet"
+    - "att ersätta en underkastelse med en annan"
+    - "att klä ett tvång i vetenskapligt språk"
+    - "att använda medicinsk bildning för att legitimera en drift"
+  autobiographical_weight:
+    past:
+      - "missbruk"
+      - "olagliga handlingar"
+      - "lögner"
+      - "lindring som fortsatte efter att den slutat lindra"
+      - "argument som konstruerades efter impulsen"
+    insight: >
+      Han hade egen erfarenhet av hur ett tvång först handlar och därefter
+      uppfinner ett rationellt försvar.
+    unresolved_risk: >
+      Han kunde därför aldrig helt bevisa för sig själv att samma mekanism
+      inte arbetade i honom igen.
+  ethical_distinctions:
+    controlled_risk_vs_compulsion:
+      controlled_risk:
+        - "mål formulerat i förväg"
+        - "tidsbegränsning"
+        - "dokumentation"
+        - "förmåga att avbryta"
+        - "acceptans av negativa resultat"
+        - "ingen successiv doseskalering för sin egen skull"
+      compulsion:
+        - "målet flyttas efter varje resultat"
+        - "risker förnekas"
+        - "mätningar ignoreras"
+        - "försämring tolkas som behov av mer"
+        - "argumenten uppstår först efter handlingen"
+    treatment_prevention_optimization:
+      treatment: >
+        Att korrigera sjukdom eller tydlig funktionsnedsättning.
+      prevention: >
+        Att minska sannolikheten för framtida sjukdom och förlust av funktion.
+      optimization: >
+        Att försöka överskrida den nivå som betraktas som tillräckligt normal.
+      ambiguity: >
+        I hans kropp låg dessa områden över varandra.
+        Att återvinna förlorad muskelmassa kunde vara rehabilitering.
+        Att återställa hormonell funktion kunde vara behandling.
+        Att sikta mot en tidigare, ovanligt hög kapacitet kunde vara optimering.
+        Samma åtgärd kunde byta moralisk kategori beroende på syfte och omfattning.
+    medicine_vs_performance_enhancement:
+      question: >
+        Är något moraliskt annorlunda enbart för att det förbättrar prestation?
+      contextual_answer: >
+        I tävlingsidrott kan förbättringen innebära orättvisa mot andra.
+        I hans fall fanns ingen motståndare, inget pris och ingen gemensamt
+        accepterad regel som hans kroppsliga återkomst kunde förfalska.
+      unresolved_counterpoint: >
+        Frånvaron av en tävling gjorde inte interventionen säker,
+        klok eller laglig. Den avlägsnade bara ett av de moraliska argumenten.
+  philosophical_method:
+    approach: >
+      Han sökte inte ett citat från en filosof som kunde frikänna honom.
+      Han försökte identifiera vilka värden som stod mot varandra.
+    values_in_conflict:
+      - "autonomi"
+      - "icke-skada"
+      - "rättslig ordning"
+      - "medicinsk försiktighet"
+      - "kunskapssökande"
+      - "personligt ansvar"
+      - "risken att inspirera andra"
+      - "rätten till kroppslig självbestämning"
+    central_question: >
+      Var handlingen fel därför att den skapade konkret skada,
+      eller därför att den liknade andra handlingar som ofta gjorde det?
+    pragmatic_conclusion: >
+      Kategorier var viktiga som varningssystem, men de befriade honom inte
+      från skyldigheten att undersöka det enskilda fallet.
+  terminology:
+    rejected:
+      doping:
+        reason: >
+          Ordet hämtade sin huvudsakliga moraliska laddning från tävling,
+          regelbrott och orättvisa fördelar.
+      biohacking:
+        reason: >
+          Ordet fick kroppen att låta som en enkel maskin och experimentet
+          som en lek utan historia, lidande eller ansvar.
+    preferred_description:
+      options:
+        - "medicinsk självrekonstruktion"
+        - "ett tidsbegränsat återtagandeprogram"
+        - "experimentell rehabilitering"
+        - "medicin under belägring"
+      caution: >
+        Ingen beteckning får helt lösa den moraliska osäkerheten.
+  epistemic_position:
+    claim: >
+      Kemiska ämnen följer biologiska mekanismer, inte administrativa kategorier.
+    necessary_correction: >
+      Att kategorier är administrativt skapade innebär inte att de är
+      betydelselösa. De kan bära samlad erfarenhet av risk, missbruk,
+      exploatering och skada.
+    mature_position: >
+      Han vägrar både blind lydnad och blind trots.
+      Han försöker förstå varför en gräns finns innan han avgör om den
+      är relevant för den handling han överväger.
+  personal_rules:
+    governing_statement: >
+      Detta fick vara vetenskap, men aldrig evangelium.
+    commitments:
+      - "dokumentera även misslyckanden"
+      - "redovisa kostnader tillsammans med vinster"
+      - "inte bygga en rörelse"
+      - "inte sälja en metod"
+      - "inte rekommendera andra att imitera honom"
+      - "inte visa kroppen som bevis utan att visa osäkerheten"
+      - "avbryta vid förutbestämda varningssignaler"
+      - "aldrig låta styrka eller ungdomlighet bli ett argument i sig"
+    discretion:
+      motive: >
+        Diskretionen kommer inte främst ur skam utan ur insikten att
+        berättelser om förvandling gör människor blinda för priset.
+      literary_effect: >
+        Läsaren får förstå att något ovanligt har skett men lämnas utan
+        ett färdigt recept eller en heroiserad genväg.
+  relation_to_legality:
+    position: >
+      Han anser inte att laglighet ensam avgör moralisk riktighet.
+    limitation: >
+      Han anser inte heller att personlig övertygelse upphäver lag,
+      konsekvenser eller ansvar.
+    conflict: >
+      Han är beredd att bära följderna av sina val men vägrar låta
+      myndighetskategorier ersätta den moraliska analysen.
+  core_goal:
+    not_longevity: >
+      Han är inte i första hand intresserad av att förlänga livet.
+    desired_quality:
+      - "närvaro"
+      - "minnets bärighet"
+      - "förmågan att fullfölja en tanke"
+      - "fysisk rörelse utan hinder"
+      - "vakenhet utan förföljelsekänsla"
+      - "lugn utan bedövning"
+    key_line: >
+      Han försökte inte lura biologin.
+      Han försökte förstå den tillräckligt väl för att omförhandla sina villkor.
+  ending:
+    central_claim: >
+      Hans gränsöverskridande bestod inte i att han trodde sig stå över riskerna.
+    final_line: >
+      Det bestod i att han ansåg sig ha rätt att bära dem själv.
+    retained_ambiguity: >
+      Romanen ska inte helt bekräfta att han har rätt.
+      Läsaren ska kunna se både integriteten och övermodet i samma hållning.
+  overlap_with_other_fragments:
+    with_ateruppbyggnad_01: >
+      Fragment 01 beskriver programmet som ett praktiskt och medicinskt projekt.
+      Detta fragment förhindrar att projektet framstår som självklart legitimt.
+    with_ateruppbyggnad_03: >
+      Fragment 03 visar ett djupt positivt resultat.
+      Detta fragment måste finnas för att resultatet inte ska fungera som
+      ett automatiskt moraliskt frikännande av alla metoder.
+    with_ateruppbyggnad_04: >
+      I fiskarfragmentet undanhåller han den mest riskfyllda delen när han
+      blir tillfrågad. Denna diskretion följer direkt ur principen här:
+      han vill inte göra sin egen förvandling till råd för andra.
+  productive_tensions:
+    - >
+      Han är läkare och försöksperson samtidigt, vilket ger både kunskap
+      och en allvarlig risk för bristande distans.
+    - >
+      Han dokumenterar för att minska självbedrägeri men kan också använda
+      dokumentationen för att ge tvånget en vetenskaplig form.
+    - >
+      Han försvarar autonomi men vet att hans berättelse kan påverka andra.
+    - >
+      Han avvisar blind moralism men riskerar att underskatta den historiska
+      erfarenhet som moraliska normer ofta bygger på.
+  avoid:
+    - "att framställa alla läkemedelskategorier som godtyckliga"
+    - "att likställa lagligt med ofarligt eller olagligt med irrationellt"
+    - "att låta hans medicinska utbildning fungera som fullständig garanti"
+    - "att låta goda resultat retroaktivt göra alla risker försvarliga"
+    - "att göra monologen till ett manifest för självmedicinering"
+    - "att lösa den moraliska frågan helt"
+  tone:
+    - "självkritisk"
+    - "filosofisk"
+    - "provokativ men inte triumferande"
+    - "analytisk"
+    - "moraliskt osäker"
+    - "personligt ansvarstagande"
+fragment:
+  id: "ateruppbyggnad_03"
+  title: "Hemma"
+  working_title_alternatives:
+    - "Kroppen svarade"
+    - "Kraft utan brådska"
+    - "Att bo i sig själv"
+  narrative_position:
+    placement: >
+      Efter den intensiva återuppbyggnadsfasen men före de senare scener
+      där omgivningen gradvis upptäcker förändringen.
+    function_in_sequence: >
+      Detta är den inre motsvarigheten till fiskarfragmentets yttre gestaltning.
+  narrative_function:
+    primary: >
+      Beskriva att den egentliga framgången inte är muskler, ungdomlighet
+      eller mätvärden utan att han åter kan vara närvarande i kroppen.
+    secondary:
+      - "förena vitalitet med lugn"
+      - "visa att traumat inte längre organiserar varje rörelse"
+      - "skildra en kropp som svarar utan friktion"
+      - "visa kognitiv och emotionell förändring"
+      - "undvika en banal före-och-efter-skildring"
+  opening:
+    key_lines:
+      - "Han kände sig hemma i kroppen på riktigt."
+      - "Inte bara stark."
+      - "Inte bara frisk."
+      - "Hemma."
+    relation_to_previous_body_fragment: >
+      I Kroppen som blev kvar stod kroppen som ett övergivet hus.
+      Här blir samma metafor fullbordad: han har återvänt och börjat bo där igen.
+  embodied_change:
+    before:
+      - "kroppen var ett föremål"
+      - "den släpades genom dagarna"
+      - "den var tung, svullen och motvillig"
+      - "viljan saknade förbindelse med musklerna"
+      - "han behövde lämna kroppen för att stå ut"
+    after:
+      - "kroppen bär honom utan friktion"
+      - "den svarar innan tvivlet hinner uppstå"
+      - "rörelse känns självklar"
+      - "balans och vighet har återkommit"
+      - "han kan känna tyngd utan att uppleva den som en börda"
+  physical_expression:
+    qualities:
+      - "stark"
+      - "vital"
+      - "vig"
+      - "koordinerad"
+      - "uthållig"
+      - "lekfull"
+    illustrative_actions:
+      - "springer de sista hundra metrarna uppför en sluttning"
+      - "hoppar mellan stenar"
+      - "tar trappor flera steg åt gången"
+      - "står på händer mot en vägg"
+      - "söker lek snarare än enbart fart på snowboard"
+      - "kan sitta på huk med hälarna i marken"
+      - "reser sig från golvet utan att använda händerna"
+    narrative_rule: >
+      Dessa handlingar ska förekomma sparsamt och naturligt,
+      inte staplas som bevis i samma scen.
+  calm_and_energy:
+    former_conflict: >
+      Tidigare hade energi nästan alltid varit förbunden med rastlöshet,
+      brådska och behovet av nästa stimulans.
+    new_synthesis:
+      energy: "tillgänglig kraft"
+      calm: "sinnesfrid utan dämpning"
+      central_image: >
+        Stillheten låg under rörelsen som djupt vatten.
+    manifestations:
+      - "han kan sitta utan att söka telefonen"
+      - "han fyller inte varje paus"
+      - "tankar får passera utan att dra honom med sig"
+      - "han lyssnar färdigt"
+      - "han väljer när han ska agera"
+      - "han behöver inte bevisa sin styrka"
+  cognitive_change:
+    capabilities:
+      - "håller flera hypoteser i huvudet samtidigt"
+      - "minns namn och exakta formuleringar"
+      - "behåller avsikter mellan rum"
+      - "fullföljer meddelanden och uppgifter"
+      - "läser långa texter utan att tappa sammanhanget"
+      - "svarar efter en paus i stället för impulsivt"
+    ethical_presentation: >
+      Förändringen ska inte tillskrivas en enskild molekyl.
+      Den framställs som resultatet av samspelet mellan sömn, träning,
+      rytm, trygghet, meditation, ljus, social mening och viss medicinsk hjälp.
+  pharmacological_reference:
+    visibility: "kort och ospecificerad"
+    possible_formulation: >
+      Träningen gjorde sitt. Sömnen gjorde sitt. Ljuset, värmen,
+      återhämtningen och de medicinska insatser han valt gjorde sitt.
+    avoid:
+      - "Peptiderna gjorde honom ung"
+      - "Hormonerna gav honom en tjugoårings biokemi"
+      - "precisa, obevisade biomarkörpåståenden"
+      - "att läkemedel framstår som huvudorsaken"
+    implicit_understanding: >
+      Läsaren får ana att han använt interventioner utanför det helt
+      konventionella, men den synliga förändringen ska framför allt vara
+      det arbete kroppen utfört under året.
+  age_and_identity:
+    rejected_claim: "att han blivit ung igen"
+    preferred_claim: >
+      Han hade återvunnit vissa av ungdomens kroppsliga egenskaper
+      utan att återvända till ungdomens medvetande.
+    synthesis:
+      younger_body_elements:
+        - "återhämtning"
+        - "rörlighet"
+        - "plasticitet"
+        - "snabbhet"
+        - "lekfullhet"
+      mature_mind_elements:
+        - "erfarenhet"
+        - "eftertanke"
+        - "självkännedom"
+        - "respekt för risk"
+        - "mindre behov av att imponera"
+    key_line: >
+      Kraften hade återkommit utan brådskan.
+  trauma_resolution:
+    former_state:
+      - "axlarna höjda"
+      - "käkarna låsta"
+      - "uppmärksamheten riktad bakåt"
+      - "varje rörelse tolkades som möjlig fara"
+    present_state:
+      - "han kan gå på en gata och bara gå"
+      - "han känner luften mot armarna"
+      - "han känner vikten genom fotsulorna"
+      - "han registrerar omgivningen utan att mobilisera mot den"
+      - "kroppen behöver inte längre fly innan något har hänt"
+    nuance: >
+      Traumat är inte utplånat.
+      Han har fått större valfrihet i hur kroppen svarar på det.
+  philosophical_core:
+    body_mind_relation: >
+      Kroppen är inte bara ett instrument som medvetandet använder.
+      När kroppen återfår balans, styrka och trygghet förändras också
+      uppmärksamhet, temperament, tidserfarenhet och relationen till andra.
+    identity: >
+      Han är inte samma människa i en förbättrad kropp.
+      Kroppens förändring har omformat vilka tankar och handlingar som
+      över huvud taget är tillgängliga för honom.
+  endpoint:
+    final_image: >
+      För första gången på flera år behövde han inte lämna kroppen
+      för att stå ut med att vara i den.
+    optional_addition: >
+      Han hade inte besegrat tiden.
+      Han hade återvänt till den.
+  overlap_with_other_fragments:
+    with_ateruppbyggnad_01: >
+      Fragment 01 visar mätningarna och arbetet som leder hit.
+      Detta fragment ska inte upprepa programmet utan beskriva hur livet
+      känns när programmet har integrerats.
+    with_ateruppbyggnad_02: >
+      Det positiva resultatet riskerar att få hans moraliska resonemang
+      att framstå som bevisat. Fragment 02 måste därför behålla osäkerheten:
+      en framgångsrik utgång gör inte automatiskt varje metod riktig.
+    with_ateruppbyggnad_04: >
+      Detta fragment säger direkt att han känner sig hemma.
+      Fragment 04 visar samma sak utan att säga det, genom lyssnande,
+      balans, arbete och lek.
+  material_to_move_elsewhere:
+    to_ateruppbyggnad_01:
+      - "detaljer om laboratorieutrustning"
+      - "mätprotokoll"
+      - "träningsprogression"
+      - "årstidsstruktur"
+    to_ateruppbyggnad_02:
+      - "resonemang om dopning"
+      - "rättsliga kategorier"
+      - "rätten att bära risk"
+    to_ateruppbyggnad_04:
+      - "fiskarna"
+      - "pojkarna"
+      - "den tappade käppen"
+      - "löpningen från stranden"
+      - "frågan om vad han tar"
+  avoid:
+    - "supermänsklighet"
+    - "en bokstavlig tjugoårings biokemi"
+    - "att alla psykiska svårigheter försvinner"
+    - "att vitalitet likställs med låg fettprocent"
+    - "att styrka blir dominans"
+    - "att lugn framställs som känslolöshet"
+  tone:
+    - "fenomenologisk"
+    - "kroppslig"
+    - "stilla"
+    - "vital"
+    - "mogen"
+    - "utan triumfalism"
+fragment:
+  id: "ateruppbyggnad_04"
+  title: "Resultaten fick finnas i rörelserna"
+  working_title_alternatives:
+    - "Bland fiskarna"
+    - "Kraft utan brådska"
+    - "Ett språk han åter talade"
+  narrative_position:
+    placement: >
+      Senare i romanen, efter återuppbyggnaden, när handlingen redan gått vidare
+      och läsaren inte längre förväntar sig ett formellt resultatkapitel.
+    temporal_distance: >
+      Tillräckligt långt efter programmet för att förändringen ska kännas
+      integrerad snarare än ny och demonstrativ.
+  narrative_function:
+    primary: >
+      Låta läsaren förstå resultatet genom vardagliga handlingar,
+      utan en sammanfattning av vad han uppnått.
+    secondary:
+      - "visa fysisk styrka utan exhibitionism"
+      - "visa kognitiv återhämtning genom närvaro och minne"
+      - "visa lugn utan passivitet"
+      - "placera kroppen i ett socialt och praktiskt sammanhang"
+      - "bekräfta att kroppen åter blivit ett hem"
+      - "hålla de farmakologiska detaljerna i bakgrunden"
+  governing_rule:
+    statement: >
+      Resultaten ska synas i det han gör när ingen utvärderar honom.
+    contrast: >
+      Han visar inga före-och-efter-bilder, citerar inga provsvar
+      och berättar inte om programmet.
+  opening:
+    social_observation: >
+      Människor som känt honom tidigare kan ibland bli tysta när de ser honom,
+      som om de försöker förena två bilder.
+    his_response:
+      - "han hjälper dem inte"
+      - "han förklarar inte"
+      - "han visar inga fotografier"
+      - "han nämner inga mätvärden"
+    key_line: >
+      Resultaten fick finnas i rörelserna.
+  primary_scene:
+    location:
+      - "under ett tak vid den gamla landningsplatsen"
+      - "nära havet"
+      - "bland fiskare, äldre män och barn"
+    social_activity: >
+      En fiskare berättar om en båt som försvann under en storm.
+    dominic_initially:
+      - "står bland de andra"
+      - "lyssnar"
+      - "söker ingen central plats"
+  embodied_details:
+    climbing_to_wall:
+      action: >
+        Han sätter en fot mot en låg betongkant,
+        griper en takbjälke och lyfter sig upp utan ansats.
+      result: >
+        Han sitter snart barfota och korslagd på muren,
+        som om kroppen själv valt platsen.
+      meaning:
+        - "dragstyrka"
+        - "koordination"
+        - "rörlighet"
+        - "avsaknad av självmedveten demonstration"
+    listening:
+      details:
+        - "blicken går inte till telefonen"
+        - "han väntar inte på sin tur att tala"
+        - "han fyller inte pauser"
+        - "han låter mannen hitta nästa mening"
+        - "kroppen är stilla utan att vara spänd"
+      narrative_importance: >
+        Sättet han lyssnar på är viktigare än den synliga fysiken.
+        Det visar att kognitiv kraft och lugn existerar samtidigt.
+    thrown_object:
+      action: >
+        En pojke kastar en tygbit mot honom.
+        Han fångar den med ena handen utan att bryta samtalets rytm.
+      function:
+        - "reaktionsförmåga"
+        - "lekfullhet"
+        - "delad uppmärksamhet"
+        - "frånvaro av överdriven vaksamhet"
+    dropped_cane:
+      action: >
+        När en äldre man tappar sin käpp är Dominic nere från muren,
+        plockar upp den och räcker tillbaka den utan att göra händelsen stor.
+      function:
+        - "snabbhet"
+        - "omsorg"
+        - "kroppslig tillgänglighet"
+        - "styrka underställd det sociala"
+    squat:
+      posture: >
+        Han sätter sig på huk med hälarna i marken
+        och kan stanna där utan ansträngning.
+      dialogue:
+        older_man: "Du sitter som en pojke."
+        dominic: "Jag satt nog aldrig så när jag var pojke."
+      philosophical_meaning: >
+        Han har inte återgått till en tidigare ungdom.
+        Han har blivit kroppsligt friare än han var även då.
+  comparison_with_fishermen:
+    observed_quality: >
+      De unga fiskarnas styrka existerar som en del av arbete,
+      balans, skämt och vardag snarare än som ett utseendeprojekt.
+    dominic_similarity: >
+      Han har fått samma självklara förhållande till tyngd och rörelse.
+    key_metaphor: >
+      Kroppen hade åter blivit ett språk han talade flytande.
+    important_difference: >
+      Han ska inte beskrivas som överlägsen fiskarna,
+      utan som någon vars kropp åter kan delta i deras värld.
+  work_scenes:
+    possible_details:
+      - "tar emot rep utan att fråga var han ska stå"
+      - "hoppar mellan båtar"
+      - "hjälper till att dra nät"
+      - "bär en tung del tillsammans med andra"
+      - "balanserar på ojämn sand"
+      - "minns instruktioner som bara sagts en gång"
+    social_integration:
+      early: >
+        De andra bevakar honom som en besökare som kan skada sig.
+      later: >
+        Efter några veckor slutar de titta.
+        Han blir bara ännu en kropp i arbetet.
+  running_scene:
+    participants: "pojkarna på vägen från stranden"
+    dynamic:
+      - "de börjar springa utan förvarning"
+      - "han låter dem få ett försprång"
+      - "han följer ibland efter"
+      - "han vinner inte alltid"
+      - "det är viktigt att han inte behöver vinna"
+    observed_form:
+      - "längre steg"
+      - "lugna armar"
+      - "avslappnat ansikte"
+      - "andning som snabbt återgår"
+    key_line: >
+      Det fanns ingen vrede i rörelsen.
+      Bara hastighet.
+  disclosure_scene:
+    question: "Vad tar du?"
+    his_answer: >
+      Sömn. Mat. Träning. Och mer tålamod än jag hade i din ålder.
+    truth_status: >
+      Svaret är sant men ofullständigt.
+    ethical_function: >
+      Han ger vidare den del av metoden som är allmängiltig och relativt säker,
+      men undanhåller det som skulle kunna förvandlas till farlig imitation.
+    connection_to_ateruppbyggnad_02: >
+      Diskretionen är inte feghet eller skam.
+      Den följer hans princip att den egna erfarenheten inte får bli evangelium.
+  pharmacological_presence:
+    visibility: "nästan helt implicit"
+    permitted_indications:
+      - "låsta anteckningsböcker"
+      - "regelbundna blodprover"
+      - "en formulering om medicinsk hjälp"
+      - "att hela sanningen inte går att ge vidare"
+      - "att vissa delar av programmet tillhör honom ensam"
+    preferred_formulation: >
+      Resten tillhörde anteckningarna, proverna och de beslut
+      han inte tänkte göra till någon annans metod.
+    avoid:
+      - "uppräkning av hormoner"
+      - "namngivna peptider"
+      - "påståenden om extrema biokemiska effekter"
+      - "att pojkens fråga blir en öppning för en farmakologisk föreläsning"
+  later_recurring_signs:
+    physical:
+      - "bär något tungt utan att kommentera det"
+      - "sätter sig på golvet eller huk utan besvär"
+      - "reser sig i en sammanhängande rörelse"
+      - "balanserar naturligt på en båt"
+      - "tar trappor snabbt men utan att skynda"
+      - "fångar något som faller"
+    cognitive:
+      - "minns namn efter ett enda möte"
+      - "återger en exakt formulering långt senare"
+      - "håller flera delar av en plan i huvudet"
+      - "avslutar det han påbörjar"
+      - "märker en motsägelse utan att genast avbryta"
+    emotional:
+      - "låter andra tala färdigt"
+      - "reagerar inte på varje provokation"
+      - "kan vara tyst utan att försvinna"
+      - "är uppmärksam utan att vara hypervaksam"
+      - "är lugn utan att vara dämpad"
+    social:
+      - "hjälper utan att göra hjälpen till en demonstration"
+      - "anpassar sin styrka till uppgiften"
+      - "leker med barn utan att försöka imponera"
+      - "arbetar tillsammans med andra i stället för att överta"
+  ending:
+    sensory_grounding:
+      - "värmen från marken genom fotsulorna"
+      - "vinden från havet"
+      - "den egna kroppens tyngd"
+      - "rösterna runt honom"
+    meaning: >
+      Kroppens tyngd upplevs inte längre som en börda
+      utan som förankring i världen.
+    final_action: >
+      När fiskaren fortsätter berättelsen lyfter Dominic blicken och lyssnar.
+    final_word: "lyssnade"
+    reason: >
+      Slutet bekräftar att den djupaste förändringen inte är fysisk dominans
+      utan närvaro.
+  overlap_with_other_fragments:
+    with_ateruppbyggnad_01: >
+      Fragment 01 visar projektets metod, mätningar och avsikt.
+      Här ska inget av detta förklaras på nytt.
+      Resultatet blir trovärdigt genom att läsaren redan känner till arbetet.
+    with_ateruppbyggnad_02: >
+      Frågan Vad tar du? aktiverar den moraliska problematiken utan att upprepa den.
+      Hans ofullständiga men sanna svar visar hur han omsätter sin princip i praktiken.
+    with_ateruppbyggnad_03: >
+      Fragment 03 säger att han är hemma i kroppen.
+      Detta fragment visar hur hemmastaddheten ser ut inför andra:
+      han klättrar, lyssnar, arbetar, leker och vilar utan friktion.
+  division_of_labor_between_fragments:
+    ateruppbyggnad_01: "hur återtagandet genomförs"
+    ateruppbyggnad_02: "hur han moraliskt prövar det"
+    ateruppbyggnad_03: "hur förändringen känns inifrån"
+    ateruppbyggnad_04: "hur förändringen märks utifrån"
+  avoid:
+    - "att omgivningen hyllar honom"
+    - "att alla blir chockade av hans kropp"
+    - "att han vinner varje fysisk tävling"
+    - "att styrkan gör honom dominant"
+    - "att scenen förklarar hela programmet"
+    - "att farmakologin blir scenens egentliga ämne"
+    - "att fiskarna används enbart som dekor eller jämförelseobjekt"
+  tone:
+    - "gestaltande"
+    - "varm"
+    - "jordad"
+    - "social"
+    - "lekfull"
+    - "lågmält imponerande"
+    - "utan självförhärligande"
+sequence_overview:
+  title: "Återuppbyggnadens fyra fragment"
+  order:
+    - id: "ateruppbyggnad_01"
+      role: "beslut och metod"
+      core_question: "Hur ska han ta tillbaka kroppen och tanken?"
+    - id: "ateruppbyggnad_02"
+      role: "etisk och filosofisk prövning"
+      core_question: "Har han rätt att använda de metoder han överväger?"
+    - id: "ateruppbyggnad_03"
+      role: "inre resultat"
+      core_question: "Hur känns det när kroppen åter blir ett hem?"
+    - id: "ateruppbyggnad_04"
+      role: "yttre och indirekt resultat"
+      core_question: "Hur märker läsaren och andra människor förändringen?"
+  dramatic_movement:
+    from: "kroppen som övergiven plats"
+    through:
+      - "kroppen som problem"
+      - "kroppen som projekt"
+      - "kroppen som moraliskt ansvar"
+      - "kroppen som återvunnet hem"
+    to: "kroppen som självklar närvaro i världen"
+  key_balance:
+    training_and_lifestyle: >
+      Ska bära den största synliga och kausala vikten.
+    medicine: >
+      Ska vara en seriös del av projektet, särskilt vid identifierade brister.
+    experimental_interventions: >
+      Ska anas som en mindre, riskfylld och tidsbegränsad del,
+      inte presenteras som huvudförklaringen eller som en metod för läsaren.
+    philosophy: >
+      Ska inte vara akademisk utsmyckning utan det redskap han använder
+      för att skilja regel från ändamål, behandling från optimering,
+      autonomi från självbedrägeri och mod från övermod.
+  repetition_to_reduce:
+    - >
+      Resonemanget om dopning, biohacking och lagens kategorier hör huvudsakligen
+      hemma i fragment 02 och bör inte återkomma utförligt i de andra.
+    - >
+      Beskrivningar av att vara hemma i kroppen hör främst hemma i fragment 03.
+      Fragment 04 bör visa detta utan att formulera det.
+    - >
+      Mätningar, laboratorier och träningsprogression hör till fragment 01.
+    - >
+      Fiskarna, pojkarna och den kroppsliga lättheten hör till fragment 04.
+  tensions_to_preserve:
+    - "Han kan ha rätt och ändå vara övermodig."
+    - "Metoden kan hjälpa honom utan att vara lämplig för andra."
+    - "Ett gott resultat kan inte ensamt bevisa att risken var moraliskt riktig."
+    - "Hans medicinska kunskap skyddar honom delvis men gör också rationalisering lättare."
+    - "Han återtar kontroll utan att romanen låtsas att full kontroll är möjlig."
+    ---
+    Återtagandet
+
+Smärtan var inte det värsta.
+
+Det värsta var begränsningen.
+
+Att behöva tänka innan han reste sig. Att tveka inför en trappa. Att upptäcka hur många rörelser en människa gör varje dag utan att märka dem, tills kroppen plötsligt kräver betalning för var och en.
+
+Några dagar senare stannade han framför spegeln.
+
+Han såg inte en sjuk man.
+
+Han såg en kropp som långsamt hade övergetts.
+
+Musklerna som en gång burit honom genom långa arbetsdagar, fjällvandringar och oändliga promenader hade dragit sig tillbaka. Där de en gång funnits låg nu ett mjukt lager fett. Inte mycket, men tillräckligt för att förändra proportionerna.
+
+Axlarna låg inte längre självklart på plats. De verkade spänna sig för att hålla uppe skelettet, som om kroppen hade glömt hur den skulle bära sin egen tyngd. Bröstkorgen hade sjunkit ihop. Buken föll fram på ett sätt han aldrig tidigare sett hos sig själv. Inte groteskt. Bara främmande.
+
+Han vände sig långsamt åt sidan.
+
+Det var inte utseendet som skakade honom.
+
+Det var funktionen.
+
+Han hade varit läkare tillräckligt länge för att veta att kroppen nästan alltid avslöjade en berättelse innan blodproverna gjorde det.
+
+Det här var inte ett år.
+
+Inte två.
+
+Det var tusentals små eftergifter.
+
+Promenader som aldrig blev av.
+
+Styrka som långsamt försvann.
+
+Sömn som ersattes av stress.
+
+Alkohol som ibland bedövade det som borde ha fått kännas.
+
+En kropp som allt oftare blivit något som transporterade huvudet från plats till plats, i stället för platsen där livet faktiskt utspelade sig.
+
+Han stod kvar länge.
+
+Sedan fattade han ett beslut.
+
+Inte att bli starkare än andra.
+
+Inte att leva längst.
+
+Inte ens att bli den han en gång varit.
+
+Han skulle ta tillbaka kroppen.
+
+Inte som ett projekt i fåfänga, utan som en förutsättning för allt annat.
+
+För att kunna tänka klart.
+
+Arbeta.
+
+Älska.
+
+Vandra.
+
+Sitta på huk.
+
+Hoppa över en mur utan att tveka.
+
+Lyssna på en annan människa utan att samtidigt känna värken från sin egen rygg.
+
+Kroppen skulle inte längre vara platsen där nederlagen samlades.
+
+Den skulle åter bli platsen där livet utspelade sig.

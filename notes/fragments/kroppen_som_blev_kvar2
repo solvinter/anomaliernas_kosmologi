@@ -1,0 +1,538 @@
+fragment:
+  title: "Kroppen som blev kvar"
+
+  narrative_function:
+    position_in_arc: >
+      Fragmentet kommer efter skildringen av hans tidigare fysiska kapacitet
+      och före beslutet att börja återvända till kroppen.
+
+    purpose:
+      - "visa hur kroppen gradvis försvinner ur hans medvetande"
+      - "gestalta hur institutionalisering och utanförskap påverkar vanor"
+      - "förklara kroppsligt förfall utan att reducera det till lättja"
+      - "fördjupa hans förståelse av tidigare patienter"
+      - "etablera kroppen som själens första hem"
+
+  hospital:
+    opening: >
+      Först kom sjukhuset.
+
+    temporal_experience:
+      duration: "några veckor"
+      rhythm:
+        - "vakna när någon tände lampan"
+        - "äta när maten ställdes fram"
+        - "ta läkemedel"
+        - "vänta på samtal"
+        - "vänta på rond"
+        - "vänta på nästa måltid"
+
+      core_observation: >
+        Sjukhuset gjorde något märkligt med tiden,
+        inte genom det som hände utan genom allt som inte hände.
+
+    embodiment:
+      description: >
+        Kroppen blev något som transporterades mellan sängen,
+        matsalen och tillbaka igen.
+
+    exercise_bike:
+      location: "längst bort i korridoren"
+
+      action: >
+        Ibland satte han sig på motionscykeln och blundade medan benen trampade.
+
+      remembered_landscape:
+        - "lands­vägarna i Norrland"
+        - "den ljusa sommarkvällen som aldrig riktigt blev mörk"
+        - "doften av gran"
+        - "asfalten som sjöng under däcken"
+        - "pulsen i de långa backarna"
+        - "världen som öppnade sig över nästa krön"
+
+      return_to_reality: >
+        När han öppnade ögonen stod motionscykeln kvar.
+        Den hade inte rört sig en meter.
+
+  after_discharge:
+    expectation: >
+      När han skrevs ut trodde han att livet skulle börja igen.
+
+    reality: >
+      Det gjorde det inte.
+      Det fortsatte bara någon annanstans.
+
+  shelter_life:
+    physical_freedom:
+      - "dörrarna var inte låsta"
+      - "han hade kunnat gå ut"
+      - "han hade kunnat springa"
+      - "han hade kunnat göra armhävningar i en park"
+      - "han hade kunnat göra knäböj på gården"
+
+    paradox: >
+      Ingen hindrade honom.
+      Ändå blev han sittande.
+
+    inherited_rhythm:
+      - "vänta"
+      - "äta"
+      - "vänta"
+      - "sova"
+      - "vänta igen"
+
+    interpretation: >
+      Det var som om kroppen fortfarande levde efter sjukhusets regler.
+
+  loss_of_body_contact:
+    duration: "flera år"
+
+    daily_maintenance:
+      - "han stoppade mat i kroppen"
+      - "han duschade den när det gick"
+      - "han lade den i en säng eller på en madrass"
+      - "han reste den upp igen på morgonen"
+      - "han förde den från en plats till en annan"
+
+    central_realization: >
+      Han hade hållit kroppen vid liv utan att egentligen vara närvarande i den.
+
+    absent_awareness:
+      - "han kände inte fötterna mot marken"
+      - "han kände inte ryggen mot stolen"
+      - "han följde inte andningen i bröstkorgen"
+      - "han märkte inte hur kroppen bar eller inte längre bar honom"
+
+    formulation: >
+      Kroppen gjorde det som krävdes för att hålla honom vid liv,
+      och han lät den göra det utan att lägga märke till den.
+
+  posture:
+    recurring_moment: >
+      Ibland upptäckte han att han satt hopsjunken och drog då
+      reflexmässigt upp axlarna.
+
+    misconception: >
+      Han försökte behandla hållning som om det handlade om att lyfta
+      skelettet på plats.
+
+    former_body:
+      description: >
+        När han varit aktiv hade musklerna hållit skelettet uppe
+        utan att han behövde tänka på det.
+
+      participating_structures:
+        - "ryggen"
+        - "magen"
+        - "sätesmusklerna"
+        - "benen"
+
+      function: >
+        De hade tillsammans utfört den tysta uppgiften att bära honom
+        genom världen.
+
+    present_body:
+      description: >
+        Nu försökte han ersätta hela detta samspel genom att spänna
+        nacke och axlar.
+
+      key_line: >
+        Han höll inte längre upp kroppen.
+        Han hindrade den bara från att falla.
+
+  practical_obstacles:
+    gym:
+      problem: "gymkort kostade pengar"
+
+    laundry:
+      problems:
+        - "tvättmaskinen måste bokas"
+        - "tiderna passade sällan"
+        - "någon hade lämnat kläder i trumman"
+        - "tvättmedlet kunde vara slut"
+
+    shower:
+      problems:
+        - "den gemensamma duschen var upptagen"
+        - "den gemensamma duschen var smutsig"
+        - "han väntade hellre än använde den"
+
+    clothing:
+      progression:
+        - "träningskläder blev liggande otvättade några dagar"
+        - "dagarna blev veckor"
+        - "till slut spelade kläderna ingen roll längre"
+
+    summary: >
+      Det var aldrig ett stort beslut.
+      Bara hundratals små beslut som aldrig fattades.
+
+  social_environment:
+    principle: >
+      Varje kroppslig vana hade ett socialt sammanhang.
+
+    examples:
+      - >
+        På en plats där ingen tränade kunde träning börja likna en föreställning.
+      - >
+        På en gård där människor rökte och väntade blev knäböj något iögonfallande.
+      - >
+        Den som reste sig ur den gemensamma rytmen påminde både sig själv
+        och andra om sådant som gått förlorat.
+
+    mutual_influence:
+      examples:
+        - "en började röka och en annan följde med ut"
+        - "någon köpte folköl och fler samlades runt bordet"
+        - "någon lät bli att duscha och normen flyttades"
+        - "någon satt hela dagen och de andra behövde inte längre förklara varför"
+
+    definition_of_exclusion: >
+      Utanförskapet var inte bara frånvaron av arbete, bostad och pengar.
+      Det var ett eget klimat.
+
+    effects:
+      - "det gick från kropp till kropp"
+      - "det förändrade vanor"
+      - "det förändrade tempo"
+      - "det förändrade språk"
+      - "det förändrade till slut sättet människor rörde sig på"
+
+  physical_decline:
+    temporality: >
+      Förändringen skedde så långsamt att varje dag liknade den föregående.
+
+    accelerated_aging: >
+      Till slut bar han en kropp som hade åldrats snabbare än han själv.
+      En kropp som närmade sig femtio innan han förstått vad som hänt.
+
+  mirror_scene:
+    avoidance:
+      description: >
+        Han hade nästan undvikit speglar sedan han blev sjuk.
+
+      interpretation: >
+        Inte medvetet, utan som om någon del av honom redan visste
+        vad de skulle visa.
+
+    recognition:
+      sequence:
+        - "först kände han inte igen mannen"
+        - "sedan gjorde han det"
+        - "igenkännandet gjorde mer ont"
+
+    observed_changes:
+      - "musklerna över axlarna hade sjunkit undan"
+      - "bröstkorgen såg mindre ut"
+      - "ett mjukt fettlager låg över buken"
+      - "ryggen föll framåt"
+      - "huvudet sköt fram framför kroppen"
+      - "axlarna var ständigt spända"
+
+    interpretation: >
+      Musklerna bar inte längre skelettet.
+      De försökte bara hindra det från att rasa samman.
+
+    estimated_body_composition:
+      muscle_loss: "nästan tio kilo"
+      replacement:
+        - "en del hade ersatts av fett"
+        - "resten hade blivit tomhet"
+
+  revised_clinical_understanding:
+    memory: >
+      Han tänkte på alla patienter han undersökt genom åren.
+
+    realization: >
+      Plötsligt förstod han några av dem bättre än när han hade burit stetoskopet.
+
+    former_question: >
+      Han hade ofta undrat varför människor slutade ta hand om sina kroppar.
+
+    answer: >
+      Det började nästan aldrig med lättja.
+      Det började med att livet krympte.
+
+    conditions_of_shrinking:
+      - "inget arbete att gå till"
+      - "ingen plats där frånvaron märktes"
+      - "ingen människa som väntade"
+      - "ingen dusch som kändes som ens egen"
+      - "ingen tvättmaskin som kunde användas när den behövdes"
+      - "inga rena träningskläder"
+      - "ingen framtid att förbereda kroppen för"
+
+    consequence: >
+      Kroppen blev mindre viktig,
+      inte därför att den betydde mindre,
+      utan därför att den inte längre verkade leda någonstans.
+
+  philosophical_core:
+    primary_metaphor: >
+      Kroppen var själens första hem.
+
+    elaboration:
+      - >
+        Människan bodde inte först i en lägenhet eller ett hus.
+      - >
+        Hon bodde först i sin kropp.
+      - >
+        Därifrån mötte hon världen.
+      - >
+        Därifrån reste hon sig, drog efter andan, sökte en blick
+        och gick ut genom dörren.
+
+    implication: >
+      Om kroppen blev trång, tung eller främmande förändrades också
+      människans relation till världen.
+
+    clinical_contrast:
+      embodied_freedom: >
+        Han hade sett människor vars själar tycktes röra sig fritt
+        därför att kroppen fortfarande kunde bära dem.
+
+      embodied_imprisonment: >
+        Han hade sett andra vars blick verkade försöka nå ut genom ett fängelse.
+
+  ending:
+    action: >
+      Han lade handen mot bröstet.
+
+    clarification: >
+      Inte för att känna hjärtat,
+      utan för att känna om kroppen fortfarande var ett hem.
+
+    response: >
+      Den svarade inte.
+
+    image: >
+      Den stod bara där,
+      som ett hus någon annan en gång hade bott i.
+
+    final_lines:
+      - "Kroppen hade blivit kvar."
+      - "Han själv hade varit någon annanstans."
+
+  themes:
+    - "förkroppsligande"
+    - "institutionalisering"
+    - "utanförskap"
+    - "social smitta"
+    - "förlust av vardagsstruktur"
+    - "kroppsligt åldrande"
+    - "skam utan moralisk dom"
+    - "fenomenologi"
+    - "kroppen som hem"
+
+  tone:
+    - "lågmäld"
+    - "observerande"
+    - "kroppslig"
+    - "melankolisk"
+    - "icke-moraliserande"
+    - "socialt medveten"
+    - "fenomenologisk"
+    ---
+    Kroppen som blev kvar
+
+Först kom sjukhuset.
+
+Han tänkte inte på det då.
+
+Det var ju bara några veckor.
+
+Han hade varit patient förr, men aldrig så länge. Dagarna fick en rytm som inte liknade något han tidigare levt i. Man vaknade när någon tände lampan. Åt när maten ställdes framför en. Väntade. Tog sina läkemedel. Väntade igen. Ibland kom ett samtal. Ibland en rond. Sedan väntade man på nästa måltid.
+
+Kroppen blev något som transporterades mellan sängen, matsalen och tillbaka igen.
+
+Det fanns en motionscykel längst bort i korridoren.
+
+Ibland satte han sig där.
+
+Han blundade medan benen trampade.
+
+För en kort stund kunde han nästan känna landsvägarna i Norrland igen. Den ljusa sommarkvällen som aldrig riktigt blev mörk. Doften av gran. Asfalten som sjöng under däcken. Pulsen som steg genom de långa backarna innan världen öppnade sig över nästa krön.
+
+När han öppnade ögonen stod motionscykeln kvar.
+
+Den hade inte rört sig en meter.
+
+Sedan kom nästa dag.
+
+Och nästa.
+
+Sjukhuset gjorde något märkligt med tiden.
+
+Inte genom det som hände.
+
+Utan genom allt som inte hände.
+
+När han skrevs ut trodde han att livet skulle börja igen.
+
+Det gjorde det inte.
+
+Det fortsatte bara någon annanstans.
+
+Härbärgena hade inga låsta dörrar. Han hade kunnat gå ut. Han hade kunnat springa. Han hade kunnat göra armhävningar i en park, knäböj ute på gården eller bara gå tills kroppen vaknade.
+
+Ingen hindrade honom.
+
+Ändå blev han sittande.
+
+Det var som om kroppen fortfarande levde efter sjukhusets regler.
+
+Vänta.
+
+Äta.
+
+Vänta.
+
+Sova.
+
+Vänta igen.
+
+Han stoppade mat i den. Han duschade den när det gick. Han lade den i en säng eller på en madrass om natten och reste den upp igen på morgonen. Han förde den från en plats till en annan.
+
+Men han var nästan aldrig i den.
+
+Under flera år hade han inte egentligen känt efter hur den mådde. Han hade inte känt fötterna mot marken, ryggen mot stolen eller andningen i bröstkorgen. Kroppen gjorde det som krävdes för att hålla honom vid liv och han lät den göra det utan att lägga märke till den.
+
+Ibland blev han påmind.
+
+Han kunde plötsligt upptäcka att han satt hopsjunken och drog då reflexmässigt upp axlarna, som om hållning var en fråga om att lyfta skelettet på plats. Några minuter senare sjönk han ihop igen.
+
+Det var inte så en levande kropp bar sig själv.
+
+När han varit aktiv hade musklerna hållit skelettet uppe utan att han tänkte på det. Ryggen, magen, sätesmusklerna, benen – allt hade deltagit i den tysta uppgiften att bära honom genom världen. Nu försökte han ersätta detta samspel genom att spänna nacke och axlar.
+
+Han höll inte längre upp kroppen.
+
+Han hindrade den bara från att falla.
+
+Det fanns alltid små hinder.
+
+Gymkort kostade pengar.
+
+Tvättmaskinen skulle bokas, om det över huvud taget fanns någon. Tiderna passade sällan. Någon annan hade glömt sina kläder i trumman. Tvättmedlet var slut. Den gemensamma duschen var upptagen eller så smutsig att han hellre väntade.
+
+Träningskläderna blev liggande otvättade några dagar för länge.
+
+Sedan några veckor.
+
+Till slut spelade de ingen roll längre.
+
+Man kunde förstås träna utan rena kläder. Man kunde springa utan gymkort. Man kunde göra armhävningar bredvid sängen.
+
+Så hade han själv kunnat resonera en gång.
+
+Men varje handling hade ett socialt sammanhang. På en plats där ingen tränade blev träningen en föreställning. På en gård där människor rökte, väntade och försökte få dagen att gå blev en serie knäböj något iögonfallande. Den som reste sig ur den gemensamma rytmen påminde de andra om något de hade förlorat, och sig själv om det liv han inte längre levde.
+
+Människor påverkade varandra också när de nästan inte talade.
+
+En började röka, en annan följde med ut. Någon köpte folköl och snart satt fyra personer runt samma bord. Någon lät bli att duscha och standarden för vad som var normalt flyttades ett litet stycke. Någon blev sittande hela dagen och de andra behövde inte längre förklara varför de gjorde detsamma.
+
+Utanförskapet var inte bara frånvaron av arbete, bostad och pengar.
+
+Det var ett eget klimat.
+
+Det lade sig över människorna. Gick från kropp till kropp. Förändrade deras vanor, deras tempo, deras sätt att tala och till slut också deras sätt att röra sig.
+
+Det var aldrig ett stort beslut.
+
+Bara hundratals små beslut som aldrig fattades.
+
+Månaderna gick.
+
+Sedan åren.
+
+Han märkte knappt att kroppen förändrades. Den gjorde det så långsamt att varje dag liknade den föregående.
+
+Till slut bar han en kropp som åldrats betydligt snabbare än han själv. En kropp som närmade sig femtio innan han hunnit förstå vad som hänt med den.
+
+En morgon stod han framför spegeln.
+
+Han visste inte riktigt varför.
+
+Det slog honom att han nästan hade undvikit speglar ända sedan han blivit sjuk. Inte medvetet. Snarare som om någon del av honom redan visste vad de skulle visa.
+
+Han såg länge.
+
+Först kände han inte igen mannen.
+
+Sedan gjorde han det.
+
+Och det gjorde nästan mer ont.
+
+Musklerna över axlarna hade sjunkit undan. Bröstkorgen såg mindre ut. Över buken låg ett mjukt lager fett som aldrig funnits där tidigare. Ryggen hade börjat falla framåt. Huvudet sköt ut en aning framför kroppen.
+
+Axlarna var ständigt spända, som om musklerna inte längre bar skelettet utan bara försökte hindra det från att rasa samman.
+
+Han uppskattade att nästan tio kilo muskelmassa hade försvunnit.
+
+En del av tomrummet hade fyllts av fett.
+
+Resten hade bara blivit tomhet.
+
+Han stod kvar.
+
+Han tänkte på alla patienter han undersökt genom åren.
+
+Plötsligt förstod han några av dem bättre än han gjort när han burit stetoskopet.
+
+Han hade ofta undrat varför människor slutade ta hand om sina kroppar.
+
+Nu visste han.
+
+Det började nästan aldrig med lättja.
+
+Det började med att livet krympte.
+
+När man inte längre hade ett arbete att gå till.
+
+Ingen plats där ens frånvaro märktes.
+
+Ingen människa som väntade.
+
+Ingen dusch som kändes som ens egen.
+
+Ingen tvättmaskin man kunde använda när man behövde den.
+
+Inga rena träningskläder.
+
+Ingen framtid att förbereda kroppen för.
+
+Då blev också kroppen mindre viktig.
+
+Inte därför att den betydde mindre.
+
+Utan därför att den inte längre verkade leda någonstans.
+
+Han mindes något han många gånger tänkt under åren som läkare.
+
+Att kroppen var själens första hem.
+
+Människan bodde inte först i en lägenhet eller ett hus. Hon bodde först i sin kropp. Därifrån mötte hon världen. Därifrån reste hon sig, drog efter andan, sökte en annan människas blick och gick ut genom dörren.
+
+Om den platsen blev trång, tung eller främmande förändrades också allt annat.
+
+Han hade sett människor vars själar tycktes röra sig fritt därför att kroppen fortfarande kunde bära dem.
+
+Och han hade sett andra vars blick såg ut som om den försökte nå ut genom ett fängelse.
+
+Nu stod han framför spegeln och visste inte längre vilken av dem han själv var.
+
+Han lade handen mot bröstet.
+
+Inte för att känna hjärtat.
+
+För att känna om kroppen fortfarande var ett hem.
+
+Den svarade inte.
+
+Den stod bara där.
+
+Som ett hus någon annan en gång hade bott i.
+
+Kroppen hade blivit kvar.
+
+Han själv hade varit någon annanstans.

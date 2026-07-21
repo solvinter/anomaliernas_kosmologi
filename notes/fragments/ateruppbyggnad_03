@@ -1,0 +1,356 @@
+fragment:
+  id: "ateruppbyggnad_03"
+  title: "Hemma"
+  working_title_alternatives:
+    - "Kroppen svarade"
+    - "Kraft utan brådska"
+    - "Att bo i sig själv"
+
+  narrative_position:
+    placement: >
+      Efter den intensiva återuppbyggnadsfasen men före de senare scener
+      där omgivningen gradvis upptäcker förändringen.
+
+    function_in_sequence: >
+      Detta är den inre motsvarigheten till fiskarfragmentets yttre gestaltning.
+
+  narrative_function:
+    primary: >
+      Beskriva att den egentliga framgången inte är muskler, ungdomlighet
+      eller mätvärden utan att han åter kan vara närvarande i kroppen.
+
+    secondary:
+      - "förena vitalitet med lugn"
+      - "visa att traumat inte längre organiserar varje rörelse"
+      - "skildra en kropp som svarar utan friktion"
+      - "visa kognitiv och emotionell förändring"
+      - "undvika en banal före-och-efter-skildring"
+
+  opening:
+    key_lines:
+      - "Han kände sig hemma i kroppen på riktigt."
+      - "Inte bara stark."
+      - "Inte bara frisk."
+      - "Hemma."
+
+    relation_to_previous_body_fragment: >
+      I Kroppen som blev kvar stod kroppen som ett övergivet hus.
+      Här blir samma metafor fullbordad: han har återvänt och börjat bo där igen.
+
+  embodied_change:
+    before:
+      - "kroppen var ett föremål"
+      - "den släpades genom dagarna"
+      - "den var tung, svullen och motvillig"
+      - "viljan saknade förbindelse med musklerna"
+      - "han behövde lämna kroppen för att stå ut"
+
+    after:
+      - "kroppen bär honom utan friktion"
+      - "den svarar innan tvivlet hinner uppstå"
+      - "rörelse känns självklar"
+      - "balans och vighet har återkommit"
+      - "han kan känna tyngd utan att uppleva den som en börda"
+
+  physical_expression:
+    qualities:
+      - "stark"
+      - "vital"
+      - "vig"
+      - "koordinerad"
+      - "uthållig"
+      - "lekfull"
+
+    illustrative_actions:
+      - "springer de sista hundra metrarna uppför en sluttning"
+      - "hoppar mellan stenar"
+      - "tar trappor flera steg åt gången"
+      - "står på händer mot en vägg"
+      - "söker lek snarare än enbart fart på snowboard"
+      - "kan sitta på huk med hälarna i marken"
+      - "reser sig från golvet utan att använda händerna"
+
+    narrative_rule: >
+      Dessa handlingar ska förekomma sparsamt och naturligt,
+      inte staplas som bevis i samma scen.
+
+  calm_and_energy:
+    former_conflict: >
+      Tidigare hade energi nästan alltid varit förbunden med rastlöshet,
+      brådska och behovet av nästa stimulans.
+
+    new_synthesis:
+      energy: "tillgänglig kraft"
+
+      calm: "sinnesfrid utan dämpning"
+
+      central_image: >
+        Stillheten låg under rörelsen som djupt vatten.
+
+    manifestations:
+      - "han kan sitta utan att söka telefonen"
+      - "han fyller inte varje paus"
+      - "tankar får passera utan att dra honom med sig"
+      - "han lyssnar färdigt"
+      - "han väljer när han ska agera"
+      - "han behöver inte bevisa sin styrka"
+
+  cognitive_change:
+    capabilities:
+      - "håller flera hypoteser i huvudet samtidigt"
+      - "minns namn och exakta formuleringar"
+      - "behåller avsikter mellan rum"
+      - "fullföljer meddelanden och uppgifter"
+      - "läser långa texter utan att tappa sammanhanget"
+      - "svarar efter en paus i stället för impulsivt"
+
+    ethical_presentation: >
+      Förändringen ska inte tillskrivas en enskild molekyl.
+      Den framställs som resultatet av samspelet mellan sömn, träning,
+      rytm, trygghet, meditation, ljus, social mening och viss medicinsk hjälp.
+
+  pharmacological_reference:
+    visibility: "kort och ospecificerad"
+
+    possible_formulation: >
+      Träningen gjorde sitt. Sömnen gjorde sitt. Ljuset, värmen,
+      återhämtningen och de medicinska insatser han valt gjorde sitt.
+
+    avoid:
+      - "Peptiderna gjorde honom ung"
+      - "Hormonerna gav honom en tjugoårings biokemi"
+      - "precisa, obevisade biomarkörpåståenden"
+      - "att läkemedel framstår som huvudorsaken"
+
+    implicit_understanding: >
+      Läsaren får ana att han använt interventioner utanför det helt
+      konventionella, men den synliga förändringen ska framför allt vara
+      det arbete kroppen utfört under året.
+
+  age_and_identity:
+    rejected_claim: "att han blivit ung igen"
+
+    preferred_claim: >
+      Han hade återvunnit vissa av ungdomens kroppsliga egenskaper
+      utan att återvända till ungdomens medvetande.
+
+    synthesis:
+      younger_body_elements:
+        - "återhämtning"
+        - "rörlighet"
+        - "plasticitet"
+        - "snabbhet"
+        - "lekfullhet"
+
+      mature_mind_elements:
+        - "erfarenhet"
+        - "eftertanke"
+        - "självkännedom"
+        - "respekt för risk"
+        - "mindre behov av att imponera"
+
+    key_line: >
+      Kraften hade återkommit utan brådskan.
+
+  trauma_resolution:
+    former_state:
+      - "axlarna höjda"
+      - "käkarna låsta"
+      - "uppmärksamheten riktad bakåt"
+      - "varje rörelse tolkades som möjlig fara"
+
+    present_state:
+      - "han kan gå på en gata och bara gå"
+      - "han känner luften mot armarna"
+      - "han känner vikten genom fotsulorna"
+      - "han registrerar omgivningen utan att mobilisera mot den"
+      - "kroppen behöver inte längre fly innan något har hänt"
+
+    nuance: >
+      Traumat är inte utplånat.
+      Han har fått större valfrihet i hur kroppen svarar på det.
+
+  philosophical_core:
+    body_mind_relation: >
+      Kroppen är inte bara ett instrument som medvetandet använder.
+      När kroppen återfår balans, styrka och trygghet förändras också
+      uppmärksamhet, temperament, tidserfarenhet och relationen till andra.
+
+    identity: >
+      Han är inte samma människa i en förbättrad kropp.
+      Kroppens förändring har omformat vilka tankar och handlingar som
+      över huvud taget är tillgängliga för honom.
+
+  endpoint:
+    final_image: >
+      För första gången på flera år behövde han inte lämna kroppen
+      för att stå ut med att vara i den.
+
+    optional_addition: >
+      Han hade inte besegrat tiden.
+      Han hade återvänt till den.
+
+  overlap_with_other_fragments:
+    with_ateruppbyggnad_01: >
+      Fragment 01 visar mätningarna och arbetet som leder hit.
+      Detta fragment ska inte upprepa programmet utan beskriva hur livet
+      känns när programmet har integrerats.
+
+    with_ateruppbyggnad_02: >
+      Det positiva resultatet riskerar att få hans moraliska resonemang
+      att framstå som bevisat. Fragment 02 måste därför behålla osäkerheten:
+      en framgångsrik utgång gör inte automatiskt varje metod riktig.
+
+    with_ateruppbyggnad_04: >
+      Detta fragment säger direkt att han känner sig hemma.
+      Fragment 04 visar samma sak utan att säga det, genom lyssnande,
+      balans, arbete och lek.
+
+  material_to_move_elsewhere:
+    to_ateruppbyggnad_01:
+      - "detaljer om laboratorieutrustning"
+      - "mätprotokoll"
+      - "träningsprogression"
+      - "årstidsstruktur"
+
+    to_ateruppbyggnad_02:
+      - "resonemang om dopning"
+      - "rättsliga kategorier"
+      - "rätten att bära risk"
+
+    to_ateruppbyggnad_04:
+      - "fiskarna"
+      - "pojkarna"
+      - "den tappade käppen"
+      - "löpningen från stranden"
+      - "frågan om vad han tar"
+
+  avoid:
+    - "supermänsklighet"
+    - "en bokstavlig tjugoårings biokemi"
+    - "att alla psykiska svårigheter försvinner"
+    - "att vitalitet likställs med låg fettprocent"
+    - "att styrka blir dominans"
+    - "att lugn framställs som känslolöshet"
+
+  tone:
+    - "fenomenologisk"
+    - "kroppslig"
+    - "stilla"
+    - "vital"
+    - "mogen"
+    - "utan triumfalism"
+    ---
+    Hemma
+
+Han kände sig hemma i kroppen på riktigt.
+
+Inte bara stark.
+
+Inte bara frisk.
+
+Hemma.
+
+Det tog lång tid innan han förstod att det var just den känslan han hade saknat. Han hade trott att han längtade efter energi, efter muskler, efter koncentration eller bättre blodprover.
+
+Men det var inte det.
+
+Han hade längtat efter att få bo i sin egen kropp igen.
+
+Under flera år hade kroppen varit något han släpade genom dagarna. Den hade varit tung, svullen och motvillig. Viljan och musklerna hade talat olika språk. Han kunde bestämma sig för att göra något och ändå uppleva att kroppen svarade med en fördröjning, som om signalerna måste färdas genom vatten innan de nådde fram.
+
+Det märkliga var att han knappt hade märkt när det började.
+
+Man vänjer sig vid nästan allt.
+
+Man vänjer sig vid att resa sig långsammare.
+
+Vid att välja hissen.
+
+Vid att sätta sig ned för att ta på sig skorna.
+
+Vid att ryggen alltid gör sig påmind.
+
+Till slut tror man att det är så det känns att bli äldre.
+
+Nu var det annorlunda.
+
+Kroppen svarade innan tvivlet hann uppstå.
+
+Han kunde resa sig från golvet utan att tänka på hur. Springa de sista stegen uppför en backe därför att det kändes roligare än att gå. Hoppa mellan stenar utan att först göra en tyst riskkalkyl. Sitta på huk med hälarna mot marken och stanna kvar där medan någon berättade färdigt.
+
+Rörelsen hade åter blivit självklar.
+
+Inte för att han blivit yngre.
+
+Utan därför att kroppen slutat stå i vägen för sig själv.
+
+Han märkte samma förändring i tankarna.
+
+Förr kunde en avsikt försvinna mellan två rum. Ett namn lösas upp mitt i en mening. En tanke brytas av en impuls som plötsligt krävde all uppmärksamhet.
+
+Nu kunde han bära flera resonemang samtidigt utan att de föll ur händerna. Han läste långa texter och kom fortfarande ihåg hur de börjat när han nådde slutet. Han svarade inte längre omedelbart. Pausen hade blivit en del av tänkandet.
+
+Det var som om kroppen och medvetandet åter hade hittat samma rytm.
+
+Han visste att ingen enskild sak kunde ta åt sig äran.
+
+Träningen hade gjort sitt.
+
+Sömnen hade gjort sitt.
+
+Meditationen.
+
+Ljuset.
+
+Människorna.
+
+Arbetet.
+
+Den medicinska hjälp han valt hade gjort sitt.
+
+Ingen del ensam hade räckt.
+
+Tillsammans hade de långsamt förändrat något som var större än muskler eller laboratorievärden.
+
+Det var inte bara kroppen som blivit annorlunda.
+
+Det var världen.
+
+Tidigare hade energi nästan alltid haft samma smak som rastlöshet. Om han kände sig stark måste han göra något genast. Gå vidare. Söka nästa uppgift. Nästa stimulans.
+
+Nu vilade stillheten under rörelsen som djupt vatten.
+
+Han kunde sitta kvar när någon talade.
+
+Han behövde inte fylla varje tystnad.
+
+Tankar fick komma och gå utan att han följde efter dem.
+
+Kraften hade återkommit utan brådskan.
+
+Traumat fanns fortfarande kvar.
+
+Ibland vaknade kroppen före medvetandet.
+
+Ibland höjde sig axlarna utan anledning.
+
+Ibland vände han sig fortfarande om en gång för mycket på gatan.
+
+Skillnaden var inte att rädslan försvunnit.
+
+Skillnaden var att den inte längre styrde varje steg.
+
+Han kunde gå genom en stad och bara gå.
+
+Känna vinden mot underarmarna.
+
+Känna hur fötterna tog emot marken.
+
+Låta blicken vila på människor utan att först bedöma om de utgjorde ett hot.
+
+För första gången på flera år behövde han inte lämna kroppen för att stå ut med att vara i den.
+
+Han hade inte besegrat tiden.
+
+Han hade återvänt till den.

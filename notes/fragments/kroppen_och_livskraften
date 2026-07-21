@@ -1,0 +1,160 @@
+fragment:
+  title: "Kroppen och livskraften"
+
+  setting:
+    profession: "allmänläkare"
+    duration: "många år"
+    scale: >
+      Genom åren hade tusentals människor passerat genom väntrummet.
+
+  clinical_experience:
+    examinations:
+      - "lyssnat på hjärtan och lungor"
+      - "känt på svullna knän"
+      - "undersökt stela axlar"
+      - "bedömt ömmande ryggar"
+      - "böjt leder"
+      - "undersökt senor"
+
+    longitudinal_care:
+      - "följt patienter genom sjukdom"
+      - "följt patienter genom återhämtning"
+      - "sett människor åldras"
+
+    life_stories:
+      - "arbete"
+      - "skilsmässor"
+      - "sömn"
+      - "ensamhet"
+      - "barn"
+      - "alkohol"
+      - "motion"
+      - "allt det som långsamt formar ett liv"
+
+  foundational_insight:
+    statement: >
+      Ingen människa kunde reduceras till sin kropp.
+
+    emphasis: >
+      Det visste han bättre än de flesta.
+
+  emerging_observation:
+    description: >
+      Efter alla dessa år hade han börjat se något som var svårt
+      att sätta ord på.
+
+    first_group:
+      quality: "livskraft"
+
+      appearance: >
+        Det fanns människor som utstrålade en sorts livskraft redan
+        innan de satte sig på britsen.
+
+      not_explained_by:
+        - "ungdom"
+        - "ovanlig skönhet"
+
+      embodied_signs:
+        - "de levde i sina kroppar"
+        - "de reste sig utan ansträngning"
+        - "de satte sig mjukt"
+        - "de bar sin egen tyngd med självklarhet"
+        - "de mötte blicken med närvaro"
+
+      clinical_impression: >
+        Närvaron var svår att mäta men omöjlig att inte lägga märke till.
+
+    second_group:
+      quality: "förlorad kroppslig förankring"
+
+      appearance: >
+        Det fanns också människor vars kroppar verkade ha blivit
+        något de släpade efter sig.
+
+      embodied_signs:
+        - "rörelserna hade blivit försiktigare"
+        - "hållningen hade sjunkit ihop"
+        - "blicken hade tappat lyster"
+
+      rarely_explained_by:
+        - "en enda sjukdom"
+
+      recurring_factors:
+        - "åratal av stillasittande"
+        - "dålig sömn"
+        - "kronisk stress"
+        - "ensamhet"
+        - "en kropp som långsamt hade slutat användas till det den var byggd för"
+
+  epistemic_caution:
+    repetition: >
+      Han såg samma mönster om och om igen.
+
+    limits:
+      - "inte som en regel"
+      - "inte som en moralisk dom"
+      - "bara som en erfarenhet"
+
+  growing_conviction:
+    origin: >
+      Någonstans under alla dessa möten började en övertygelse växa fram.
+
+    propositions:
+      - >
+        Kroppen var inte bara något medvetandet transporterades runt i.
+      - >
+        Kroppen var en del av medvetandet.
+      - >
+        Kroppen påverkade hur en människa tänkte.
+      - >
+        Kroppen påverkade hur hon kände.
+      - >
+        Kroppen påverkade hur hon mötte andra människor.
+      - >
+        Kroppen påverkade hur hon mötte sig själv.
+
+  philosophical_core:
+    body_mind_relation: >
+      Kropp och medvetande var inte två helt skilda saker.
+      Människan tänkte, kände och orienterade sig i världen genom kroppen.
+
+    implication: >
+      Att återvinna kroppen kunde därför också innebära att återvinna
+      närvaro, handlingskraft och en del av det egna medvetandet.
+
+  tone:
+    - "klinisk"
+    - "iakttagande"
+    - "fenomenologisk"
+    - "icke-moraliserande"
+    - "grundad i lång erfarenhet"
+    ---
+    Sedan ska vi skriva yaml för Genom åren som allmänläkare hade tusentals människor passerat genom väntrummet.
+
+Han hade lyssnat på hjärtan och lungor. Känt på svullna knän, stela axlar och ömmande ryggar. Böjt leder, undersökt senor, följt patienter genom sjukdom, återhämtning och åldrande. Han hade hört deras berättelser om arbete, skilsmässor, sömn, ensamhet, barn, alkohol, motion och allt det där som långsamt formar ett liv.
+
+Ingen människa kunde reduceras till sin kropp.
+
+Det visste han bättre än de flesta.
+
+Men efter alla dessa år hade han också börjat se något som var svårt att sätta ord på.
+
+Det fanns människor som utstrålade en sorts livskraft redan innan de satte sig på britsen. Inte därför att de var unga eller ovanligt vackra, utan därför att de levde i sina kroppar. De reste sig utan ansträngning, satte sig mjukt, bar sin egen tyngd med självklarhet och mötte blicken med en närvaro som var svår att mäta men omöjlig att inte lägga märke till.
+
+Och så fanns det människor vars kroppar verkade ha blivit något de släpade efter sig. Rörelserna blev försiktigare. Hållningen sjönk ihop. Blicken tappade lyster. Det var sällan en enskild sjukdom som förklarade skillnaden. Oftare var det åratal av stillasittande, dålig sömn, kronisk stress, ensamhet och en kropp som långsamt hade slutat användas till det den var byggd för.
+
+Han såg samma mönster om och om igen.
+
+Inte som en regel.
+
+Inte som en moralisk dom.
+
+Bara som en erfarenhet.
+
+Och någonstans under alla dessa möten började en övertygelse växa fram.
+
+Kroppen var inte bara något medvetandet transporterades runt i.
+
+Den var en del av medvetandet.
+
+Den påverkade hur en människa tänkte, hur hon kände, hur hon mötte andra människor och hur hon mötte sig själv.

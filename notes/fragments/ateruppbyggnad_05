@@ -1,0 +1,397 @@
+fragment:
+  id: "ateruppbyggnad_05"
+  title: "Mottaglig för världen"
+  working_title_alternatives:
+    - "Vid Black Rocks"
+    - "Kroppen lärde sig platsen"
+    - "Ett liv som bar kroppen"
+    - "Bakom de svarta klipporna"
+
+  narrative_position:
+    placement: >
+      Efter återuppbyggnadsfragmenten, under vistelsen vid Black Rocks,
+      när den fysiska förändringen redan blivit en integrerad del av hans liv.
+
+    relation_to_sequence: >
+      Fragmentet utvecklar den yttre gestaltningen i Resultaten fick finnas
+      i rörelserna, men förskjuter fokus från enskilda prestationer till hur
+      kroppen formas av den sociala och materiella miljö den deltar i.
+
+  narrative_function:
+    primary: >
+      Gestalta hur hans kropp gradvis anpassas till livet vid Black Rocks
+      och åter blir mottaglig för världen omkring honom.
+
+    secondary:
+      - "visa miljön som medskapare av kroppen"
+      - "förankra återuppbyggnaden i vardagligt arbete"
+      - "skildra fysisk styrka som deltagande snarare än prestation"
+      - "förena natur, gemenskap och kroppslig förändring"
+      - "introducera fiskarbyn som en levande social miljö"
+      - "låta Lelo framträda som en figur mellan hav, tanke och verklighet"
+
+  setting:
+    black_rocks:
+      description: >
+        En plats vid kusten präglad av mörka naturliga klippor,
+        hav, sand och en känsla av avskildhet.
+
+      function: >
+        Platsen fungerar både som konkret livsmiljö och som ett område
+        där Dominic kan läsa, meditera, arbeta och återfå kontakt med kroppen.
+
+    fishing_village:
+      location: >
+        Några kilometer längs stranden, bakom en naturlig avgränsning
+        av svarta klippor.
+
+      atmosphere:
+        - "liten"
+        - "självbyggd"
+        - "nära havet"
+        - "socialt sammanhållen"
+        - "formad av lokala material och praktisk kunskap"
+
+      narrative_rule: >
+        Byn ska beskrivas som ett fungerande samhälle, inte som exotisk dekor
+        eller som en romantiserad bild av enkelhet.
+
+  local_materials_and_building:
+    houses:
+      walls: >
+        Husens väggar byggs av lera som grävs upp lokalt.
+
+      roofs: >
+        Taken täcks med strå och andra växtmaterial som finns tillgängliga
+        i området.
+
+    woven_panels:
+      material: "blad från kokospalmer"
+
+      use: >
+        Bladen flätas till paneler och skärmar som avgränsar gårdar,
+        arbetsytor och privata delar av det lilla samhället.
+
+    underlying_principle: >
+      Det som behövs hämtas, bearbetas och byggs i stor utsträckning
+      ur den plats där människorna redan lever.
+
+    key_observation: >
+      När något gick sönder hämtade man sällan ett nytt.
+      Man gjorde ett nytt.
+
+  semihuts:
+    location: "på stranden vid Black Rocks"
+
+    construction:
+      - "fallna grenar som yttre stolpar"
+      - "en kraftigare central stolpe"
+      - "ett tak bundet av palmblad eller strå"
+      - "öppna sidor mot havet"
+
+    builders: >
+      Människor från fiskarbyn hjälper Dominic att bygga dem
+      med samma principer som används i deras egna konstruktioner.
+
+    functions:
+      - "skugga under dagens hetaste timmar"
+      - "plats för meditation"
+      - "plats för läsning"
+      - "plats för vila"
+      - "plats för samtal"
+      - "utsikt över havet"
+
+    symbolic_meaning: >
+      De enkla skydden är varken helt hus eller helt natur.
+      De blir mellanrum där tanke, kropp, hav och samtal kan mötas.
+
+  lelo:
+    appearances: >
+      Lelo kommer ibland gående längs stranden så plötsligt att det tycks
+      som om han uppstått ur havet.
+
+    ambiguity: >
+      Framträdandet får behålla en lätt overklig eller mytisk kvalitet
+      utan att romanen förklarar om detta endast är Dominics upplevelse.
+
+    interaction:
+      - "de sitter tillsammans i skuggan"
+      - "de ser ut över havet"
+      - "de låter tystnaden vara en del av samtalet"
+      - "samtalen får utvecklas utan brådska"
+
+    narrative_function: >
+      Lelo förbinder den kroppsliga återkomsten med romanens filosofiska
+      och mer gåtfulla skikt.
+
+  fishing_boats:
+    initial_role:
+      - "Dominic följer med som observatör"
+      - "han sitter tyst och ser hur arbetet fördelas"
+      - "han hjälper först till med mindre uppgifter"
+      - "han lär sig genom att delta snarare än genom instruktioner"
+
+    progression:
+      - "hjälper till med näten"
+      - "lär sig var tyngden ska placeras"
+      - "får så småningom en paddel"
+      - "börjar arbeta i samma rytm som de andra"
+
+    return_to_shore: >
+      När båtarna återvänder rider de de sista vågorna mot stranden,
+      nästan som om de surfade in med bränningen.
+
+    landing:
+      action: >
+        När fören lyfts av vågen går männen snabbt ur båten,
+        tar emot tyngden och drar den upp på sanden i en gemensam rörelse.
+
+      dominic_participation: >
+        När hans styrka och koordination räcker till deltar Dominic
+        utan att de andra längre behöver anpassa arbetet efter honom.
+
+  embodied_transformation:
+    earlier_environment:
+      location: "Sverige"
+
+      conditions:
+        - "utanförskap"
+        - "stillasittande"
+        - "oro"
+        - "alkohol"
+        - "social isolering"
+        - "ett liv där kroppen sällan behövdes"
+
+      bodily_result: >
+        Kroppen förtvinade gradvis och började bära spåren av ett liv
+        som gjorde honom äldre i hållning och rörelse än han var i år.
+
+      possible_line: >
+        Han hade sett ut som en femtioåring redan innan han hunnit bli det.
+
+    present_environment:
+      conditions:
+        - "dagligt arbete"
+        - "värme"
+        - "hav"
+        - "paddling"
+        - "grävande"
+        - "bärande"
+        - "balans"
+        - "social gemenskap"
+        - "praktisk nödvändighet"
+
+      bodily_result: >
+        Kroppen börjar spegla människorna och livet omkring honom:
+        stark, vital, rörlig och användbar utan att styrkan blir ett självändamål.
+
+    central_hypothesis: >
+      Kroppen formas inte enbart genom avsiktlig träning.
+      Den formas också av vilka handlingar miljön dagligen kräver
+      och vilka liv den får möjlighet att delta i.
+
+  mirroring:
+    social_dimension: >
+      Dominic speglar sig i människorna kring Black Rocks,
+      inte främst genom utseende utan genom rytm, hållning och sättet
+      kroppen används i vardagen.
+
+    transformation: >
+      På ett nästan magiskt men materiellt begripligt sätt börjar han
+      bära samma vitalitet som människorna omkring honom.
+
+    important_limit: >
+      Han blir inte en av dem genom imitation eller genom att romantisera
+      deras liv. Han blir någon vars kropp åter kan delta i deras värld.
+
+  physical_actions:
+    permitted:
+      - "paddlar tillsammans med fiskarna"
+      - "gräver lera eller sand"
+      - "bär virke och material"
+      - "drar båtar upp på stranden"
+      - "hjälper till att bygga enkla strandskydd"
+      - "balanserar på ojämn mark"
+      - "bär lättare föremål på huvudet"
+      - "sitter länge på huk eller korslagd"
+
+    progression_rule: >
+      Handlingarna ska uppstå naturligt över tid.
+      Han ska först vara klumpig eller osäker och sedan gradvis bli en del
+      av arbetets gemensamma rytm.
+
+    carrying_on_head:
+      initial_state: >
+        Han försöker först med stor koncentration och överdriven försiktighet.
+
+      later_state: >
+        Balansen blir så småningom mer självklar, även om han inte når
+        samma invanda skicklighet som de som gjort det sedan barndomen.
+
+      meaning: >
+        Förändringen visar koordination, tillit till kroppen och viljan
+        att lära sig av andra.
+
+  philosophical_core:
+    body_and_environment: >
+      Kroppen är inte ett slutet biologiskt objekt.
+      Den förändras i relation till platsen, arbetet, klimatet,
+      människorna och de rörelser som livet gör nödvändiga.
+
+    reciprocal_relation: >
+      Människor bygger sina miljöer, men miljöerna bygger också människorna.
+
+    identity: >
+      Hans nya kropp är inte bara resultatet av ett återuppbyggnadsprogram.
+      Den är resultatet av att han börjat leva i en värld där kroppen
+      åter har en uppgift.
+
+    phenomenological_claim: >
+      När kroppen åter kan svara på världen förändras också världen
+      från något avlägset och hotande till något som går att röra vid,
+      bära, bygga och delta i.
+
+  central_images:
+    - >
+      Leran ur marken blir husens väggar.
+
+    - >
+      Kokospalmens blad blir gränser, skugga och skydd.
+
+    - >
+      Båten lyfts av vågen och tas emot av kropparna på stranden.
+
+    - >
+      Lelo kommer längs vattenlinjen som om havet skickat honom.
+
+    - >
+      Dominics kropp börjar bära spåren av platsen på samma sätt
+      som den tidigare burit spåren av isoleringen.
+
+  key_lines:
+    - >
+      Nästan allt omkring dem kom från platsen de levde på.
+
+    - >
+      Hans kropp hade blivit en del av arbetet.
+
+    - >
+      Den lärde sig deras rytm innan den lärde sig deras språk.
+
+    - >
+      Styrkan blev inte ett projekt.
+      Den blev en följd av hur dagarna såg ut.
+
+    - >
+      Kroppen hade åter blivit mottaglig för världen omkring den.
+
+  ending:
+    preferred_movement: >
+      Dominic deltar i ett vardagligt arbete och märker först i efterhand
+      att ingen längre bevakar honom som en främmande besökare.
+
+    possible_final_image: >
+      Efter att båten dragits upp står han kvar med fötterna i den våta sanden,
+      andningen lugn och saltvattnet rinnande längs benen,
+      medan de andra redan har vänt sig mot nästa uppgift.
+
+    final_line: >
+      Kroppen hade åter blivit mottaglig för världen omkring den.
+
+  relation_to_other_fragments:
+    with_ateruppbyggnad_03: >
+      Hemma beskriver den inre känslan av att åter kunna bo i kroppen.
+      Detta fragment visar hur kroppen sedan kan börja bo i en konkret plats.
+
+    with_ateruppbyggnad_04: >
+      Resultaten fick finnas i rörelserna visar förändringen genom sociala
+      och kroppsliga handlingar. Detta fragment fördjupar samma idé genom
+      att visa hur handlingarna uppstår ur en särskild miljö och gemenskap.
+
+    with_black_rocks_material: >
+      Fragmentet etablerar Black Rocks som mer än en bakgrund.
+      Platsen blir en aktiv kraft i Dominics fortsatta omvandling.
+
+    with_lelo_fragments: >
+      Semihutsen kan återkomma som en plats för samtal med Lelo,
+      särskilt om kropp, miljö, tid och den sfär människan kan påverka.
+
+  productive_tensions:
+    - >
+      Den fysiska förändringen är delvis resultatet av ett medvetet program,
+      men blir verklig först när den används i ett levt sammanhang.
+
+    - >
+      Han söker sig till en enklare materiell miljö men får inte idealisera
+      fattigdom, hårt arbete eller brist på resurser.
+
+    - >
+      Han speglar människorna omkring sig men förblir samtidigt en besökare
+      med andra erfarenheter och möjligheter.
+
+    - >
+      Förvandlingen kan upplevas som magisk samtidigt som den förankras
+      i arbete, upprepning, värme, näring, gemenskap och rörelse.
+
+  avoid:
+    - "att romantisera materiell fattigdom"
+    - "att beskriva fiskarbyn som primitiv"
+    - "att använda människorna enbart som redskap för Dominics utveckling"
+    - "att framställa honom som fysiskt överlägsen fiskarna"
+    - "att låta honom omedelbart behärska deras arbete"
+    - "att göra byggmetoderna till en teknisk manual"
+    - "att reducera förändringen till träning eller farmakologi"
+    - "att överförklara Lelos förbindelse med havet"
+    - "att kalla kroppens förändring bokstavligt magisk"
+
+  tone:
+    - "varm"
+    - "sinnlig"
+    - "jordad"
+    - "fenomenologisk"
+    - "lågmält mytisk"
+    - "social"
+    - "utan exotisering"
+    - "utan triumfalism"
+    ---
+    När han bodde vid Black Rocks gick han ofta den smala stigen bort till den lilla fiskarbyn några kilometer längre bort. Den låg dold bakom de mörka vulkanklipporna, som om havet själv hade valt att skydda den från resten av kusten.
+
+Nästan allt omkring dem kom från platsen de levde på.
+
+Leran grävdes upp ur marken och blev väggar.
+
+Kokospalmens blad flätades till skärmar som delade av gårdar och skyddade mot solen.
+
+Taken bands av strå.
+
+När något gick sönder hämtade man sällan ett nytt. Man gjorde ett nytt.
+
+De hjälpte honom ibland att bygga enkla skydd ute vid stranden nedanför Black Rocks. Några kraftigare grenar bar upp taket tillsammans med en stam i mitten. Ovanpå lades palmblad i täta lager tills skuggan blev sval även mitt på dagen.
+
+Där satt han ofta.
+
+Han läste.
+
+Meditera var kanske fel ord. Oftare lät han bara blicken vila över havet medan tankarna långsamt ordnade sig. Ibland kom Lelo gående längs stranden, ibland så plötsligt att det nästan såg ut som om han stigit upp ur havet självt. De satte sig i skuggan och lät samtalen ta den tid de behövde.
+
+Efter hand började han följa med fiskarna ut.
+
+Först satt han mest tyst och såg hur de arbetade. Sedan fick han hjälpa till med näten. Så småningom räckte de honom en paddel utan att säga något. En dag märkte han att ingen längre tog hänsyn till honom. När båten närmade sig stranden paddlade han tillsammans med de andra genom de sista vågorna, och när fören lyftes av bränningen kastade de sig i vattnet och drog båten upp på sanden i en enda invand rörelse.
+
+Hans kropp hade blivit en del av arbetet.
+
+Kanske var det inte märkligare än så.
+
+Under åren av isolering hemma i Sverige hade kroppen långsamt anpassat sig till ett liv av stillasittande, oro och instängdhet. Den hade burit spåren av det liv han levde, tills den nästan såg äldre ut än han själv var.
+
+Nu speglade den något annat.
+
+Den formades av människor som bar, grävde, paddlade, skrattade och arbetade tillsammans. Den lärde sig deras rytm innan den lärde sig deras språk. Styrkan blev inte ett projekt. Den blev en följd av hur dagarna såg ut.
+
+Han började bära saker på huvudet, först klumpigt och sedan med samma självklara balans som människorna omkring honom. Han grävde utan att ryggen protesterade. Han paddlade tills axlarna arbetade utan att han tänkte på dem.
+
+Det var inget märkvärdigt.
+
+Det märkvärdiga var att kroppen, efter alla år då den känts som en främling, åter hade blivit mottaglig för världen omkring den.
+---
+Bra vi kan skriva ett litet fragment. När han var vid blackrocks gick han ofta bort till den lilla fiskarbyn som fanns på stranden några kilometer bort bakom en naturlig avgränsning av de svarta klipporna. De gjorts så mycket från naturen. Deras hur var byggda i lera som de grävde upp lokalt. De använde kokosnötsåbladen för att väva liksom paneler så att de kunde avgränsa områden i det lilla samhället. Taken var av strå. De brukade hjälpa honom att bygga semihuts på stranden vid blackrocks: samma princip med taket men bara fallna grenar som stolpar runt om och en kraftigare centralt. Det gav skugga att sitta och meditera eller bara se ut över havet, eller läsa, eller prata med lelo som ibland tyckes komma liksom från havet. Ibland förlade han med ut med båtarna de hade, när de kom in till land igen var det som att de surfade påvågorna. Han hade börjat få vara med och paddla sedan hans fysiska krafter bärgat matcha deras. Kanske var det så, på samma vis som att åren i utanförskap i sverige fått hans kropp att förtvina så att han såg ut som en 50 åring innan återubbyggandet, på samma sätt så speglade han sig i människorna där kring blackrocks och på något magiskt sätt så hade han nu också en vital stark kropp som klarade att paddla och gräva och bära på huvudet som människorna omkring honomg
