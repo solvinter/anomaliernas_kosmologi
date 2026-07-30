@@ -1,0 +1,52 @@
+id: protagonist
+working_names:
+  - Ali
+  - berättaren
+role: "doctor, observer, survivor, builder, later elder narrator"
+
+core_truth: >
+  The protagonist is not interesting because he explains himself.
+  He is interesting because he has lived through conditions that reveal
+  important structures in society, medicine, psychiatry, family, technology
+  and belonging.
+
+must_preserve:
+  - lived_quality_without_self_pity
+  - medical_training
+  - experience_of_psychiatry
+  - Betelskeppet_as_literal_and_symbolic_underworld
+  - cranes_as_recurring_presence
+  - Ghana_as_return_and_building_ground
+  - BlackRocks_as_his_project_and_property
+  - complicated_father_relation
+  - desire_to_build_places_where_people_can_return
+
+development_arc:
+  early:
+    - street
+    - dissolution
+    - Betelskeppet
+    - psychiatric_system
+    - loss_of_name
+  middle:
+    - Fältet
+    - recovery
+    - university
+    - Eira
+    - rediscovery_of_work
+  later:
+    - Cow Lane
+    - BlackRocks
+    - Solvinter
+    - ship
+    - Ghana_nodes
+  future:
+    - elder_narrator
+    - conversations_with_child
+    - world_seen_after_it_has_been_built
+
+rendering_notes:
+  - "Avoid self-pity."
+  - "Let the autobiographical pressure shine through without turning the book into explanation."
+  - "He may think philosophically, but scenes should keep him embodied."
+  - "His intelligence should often appear as delayed perception rather than speeches."

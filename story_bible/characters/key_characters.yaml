@@ -1,0 +1,44 @@
+characters:
+  eira:
+    role: "university figure, intellectual mirror, possibly the earlier surface of Lelo"
+    ambiguity: "May be real, symbolic, future-touched or all at once."
+    rendering_note: "Do not over-explain her."
+
+  lelo:
+    role: "future-adjacent teacher, red-haired presence, bearer of cosmic and ethical calm"
+    relation_to_eira: "Possibly same information in another form."
+    rendering_note: "Her strangeness should feel natural, not magical."
+
+  nora:
+    role: "child on the ship, second explicit anomaly, test of education and care"
+    function: "Makes adult evasions visible through questions."
+
+  abena:
+    role: "systems builder, Sol integrator, practical architect of ethical technology"
+    principle: "Memory without surveillance."
+
+  arvid:
+    role: "childhood friend, burned-out technical anomaly, maker, repair thinker"
+    principle: "Almost everything that lives must be repairable by someone who was not there when it was built."
+
+  skepparen:
+    role: "practical sea knowledge, material truth, refusal of nonsense"
+    principle: "Nothing digital is seaworthy until the sea has failed to destroy it."
+
+  peta:
+    role: "builder, coastal architecture, hands-on knowledge, Ghanaian craft intelligence"
+    principle: "He hears walls and materials before others can describe the fault."
+
+  father:
+    role: "exile, pride, wound, occupation of BlackRocks"
+    must_preserve:
+      - "He did not build BlackRocks."
+      - "He gradually occupied the son's house."
+      - "The conflict is morally complicated, not cartoon villainy."
+
+  cousin:
+    role: "Cow Lane realist, family property, rent, negotiation, hard dignity"
+
+  child_in_future:
+    role: "future listener and Socratic questioner"
+    principle: "She reveals what the future no longer understands from the old world."

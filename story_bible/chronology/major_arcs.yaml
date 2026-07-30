@@ -1,0 +1,54 @@
+arcs:
+  part_1_descent_and_return:
+    sequence:
+      - street
+      - dissolution
+      - Betelskeppet
+      - ward
+      - Fältet
+      - tunnel
+      - return_to_work
+
+  field_and_university:
+    sequence:
+      - Fältet
+      - university
+      - Eira
+      - lecture
+      - lake
+      - archive_room
+
+  ghana_build_sequence:
+    sequence:
+      - Cow Lane remembered
+      - cousin and courtyard
+      - Cow Lane as first node
+      - architecture of air
+      - BlackRocks introduced as father conflict and return
+      - Mumford node emerges near BlackRocks
+
+  ship_sequence:
+    sequence:
+      - second ship
+      - shipyard
+      - Skepparen
+      - Abena integrates Sol
+      - Nora and study place
+      - Arvid and repairable technology
+      - departure
+      - stars
+
+  future_frame:
+    sequence:
+      - child asks about secrets
+      - elder narrator explains through memory
+      - future Ghana as ordinary world
+      - market
+      - embodied education
+      - meal and returned friends
+
+rules:
+  - "Cow Lane before BlackRocks as active node."
+  - "BlackRocks belongs to protagonist; father later occupies it."
+  - "The first explicit anomaly project should not be misplaced before Cow Lane."
+  - "Future retrospection can fill in large Solvinter growth instead of dramatizing every build step in real time."

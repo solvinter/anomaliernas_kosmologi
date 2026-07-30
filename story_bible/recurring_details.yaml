@@ -1,0 +1,59 @@
+motifs:
+  cranes:
+    function: "Gothenburg witnesses, lifting without moving, industrial memory."
+    use: "Return at thresholds, departures and scenes of burden."
+
+  Betelskeppet:
+    function: "Underworld, real place, descent beneath social surface."
+    use: "Never flatten into mere symbol; it must remain literal."
+
+  secrets:
+    function: "Locked rooms in consciousness; ethical danger."
+    use: "Especially in conversations with children."
+
+  anomalies:
+    function: "Signals that the map may be wrong."
+    use: "Let examples appear through people before theory."
+
+  forgotten_treasure:
+    function: "Value that was not hidden but no longer legible."
+    use: "Cow Lane, people, skills, rooms, archives."
+
+  light_to_gold:
+    function: "Solar energy becoming work, payment, infrastructure."
+    use: "Keep alchemical feeling but practical explanation."
+
+  ventilation:
+    function: "Architectural and ethical image."
+    use: "Air, truth, secrets, heat, rooms."
+
+  repairability:
+    function: "Ethical technology principle."
+    use: "Arvid, Skepparen, Peta, Solvinter hardware."
+
+sensory_anchors:
+  gothenburg:
+    - wet metal
+    - river air
+    - cranes
+    - rain on asphalt
+    - fluorescent institutional light
+  ghana:
+    - heat held in walls
+    - shade under courtyards
+    - dust
+    - wood
+    - aluminium
+    - street noise outside quiet rooms
+  ship:
+    - diesel
+    - salt
+    - vibration
+    - rope
+    - cold night air
+    - instrument light
+  future:
+    - sea below market
+    - open shade
+    - bodies moving without hurry
+    - tools that do not announce themselves

@@ -1,0 +1,67 @@
+motto: "Författaren äger idéerna. Verkstaden bygger världen omkring dem."
+
+form:
+  primary_mode: literary_novel
+  secondary_modes:
+    - idea_novel
+    - memoir_transformed_into_fiction
+    - philosophical_fiction
+    - archive
+    - social_observation
+
+style:
+  readable: true
+  commercial_ambition: true
+  literary_ambition: true
+  avoid:
+    - ornamental_description_without_function
+    - heavy_exposition
+    - manifesto_tone
+    - technology_as_spectacle
+    - self_pity
+    - mystical_overclaim
+  prefer:
+    - clear scenes
+    - human stakes
+    - quiet strangeness
+    - ethical precision
+    - concrete rooms
+    - dialogue_with_pressure
+    - recurring motifs
+
+philosophy:
+  rule: "The better educated reader should be able to see the philosophy through the prose, but the ordinary reader should not feel lectured."
+  delivery:
+    - dialogue
+    - conflict
+    - child_questions
+    - retrospective_conversation
+    - practical decisions
+
+detail_policy:
+  detail_is_allowed_when_it:
+    - anchors the scene physically
+    - reveals character
+    - carries a motif
+    - prepares later payoff
+    - makes an idea visible
+  detail_should_be_cut_when_it:
+    - only decorates
+    - slows momentum without deepening anything
+    - competes with the core idea
+
+technology:
+  principle: "Technology should usually be described like electricity: present, useful and almost invisible."
+  solvinter:
+    - aesthetic_first
+    - human_centered
+    - Ghana_fit
+    - repairable
+    - locally_teachable
+
+reader_experience:
+  target:
+    - readable_by_17_year_old
+    - meaningful_to_academic_reader
+    - emotionally_clear
+    - intellectually_unusual

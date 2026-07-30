@@ -1,0 +1,66 @@
+chapter: solvinter_economy
+
+purpose: >
+  Describe the transition from idealistic visions to an economically sustainable
+  model for Solvinter without letting economics become the soul of the book.
+
+core_insight: >
+  The protagonist realizes that beautiful futures require an engine that lets
+  them survive reality. Money is not the opposite of idealism. It is one of the
+  mechanisms that can protect an idea from disappearing.
+
+protagonist_realization:
+  before:
+    - visualized libraries
+    - visualized education
+    - visualized technology
+    - lacked an economic engine
+  turning_point: >
+    He sees that AI adoption will require practical local competence, not just
+    imported expertise and short implementation projects.
+  key_question: "Who will build and maintain the inevitable AI transformation?"
+  answer:
+    - local technicians
+    - teachers
+    - builders
+    - students
+    - universities
+    - hospitals
+    - companies
+    - public institutions
+    - aid organizations
+    - research foundations
+
+economic_model:
+  cow_lane:
+    purpose:
+      - build computers
+      - install operating systems
+      - learn networking
+      - programming
+      - AI engineering
+      - remote digital work
+      - AI data work
+      - earn income from the global AI market
+  mumford:
+    purpose:
+      - build trust
+      - collaborate with teachers
+      - understand community needs
+      - explore educational AI
+      - create long-term local partnerships
+      - support small local businesses
+  gothenburg:
+    purpose:
+      - mixed housing
+      - student stability
+      - return places for people outside systems
+      - workshops
+      - tutoring
+
+narrative_message: >
+  The true asset is not the buildings or the technology. It is the competence
+  and dignity that remain after the project stops being a project.
+
+closing_line: >
+  Economy was not the opposite of idealism. It was the mechanism that allowed an idea to survive reality.

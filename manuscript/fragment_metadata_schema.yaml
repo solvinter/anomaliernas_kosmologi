@@ -1,0 +1,59 @@
+fragment_entry:
+  id: string
+  source_path: string
+  source_type:
+    allowed:
+      - prose_fragment
+      - yaml_fragment
+      - raw_fragment
+      - note
+  status:
+    allowed:
+      - unreviewed
+      - raw
+      - usable
+      - canon
+      - merged
+      - excluded
+  companion_yaml:
+    type: string_or_null
+  arc:
+    examples:
+      - descent
+      - field
+      - university
+      - cow_lane
+      - blackrocks
+      - ship
+      - future
+      - solvinter
+      - unknown
+  scene_potential:
+    allowed:
+      - unknown
+      - low
+      - medium
+      - high
+  characters:
+    type: list
+  places:
+    type: list
+  motifs:
+    type: list
+  production_use:
+    type: list
+    examples:
+      - source_material
+      - expand_physical_world
+      - preserve_core_conflict
+      - render_as_scene
+      - use_as_dialogue_seed
+      - archive_only
+  review_notes:
+    type: string
+
+rules:
+  - "Default status for existing fragments is unreviewed unless already incorporated into a known output."
+  - "Raw folder fragments default to status raw."
+  - "A fragment may have high scene potential even if the prose is rough."
+  - "YAML files may be source material, not only metadata."

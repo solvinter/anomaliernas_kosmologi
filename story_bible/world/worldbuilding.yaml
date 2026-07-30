@@ -1,0 +1,58 @@
+world:
+  mode: "near-future and far-future rendered as lived everyday reality"
+  rule: "The future should not feel spectacular. It should feel like Tuesday."
+
+places:
+  Gothenburg:
+    functions:
+      - street
+      - cranes
+      - Betelskeppet
+      - psychiatric_thresholds
+      - shipyard
+      - future_collective_housing
+
+  Betelskeppet:
+    type: "real place and symbolic underworld"
+    function: "The descent beneath the surface where the return begins."
+
+  Fältet:
+    type: "recovery ground"
+    function: "From wandering to place, rhythm and beginning work."
+
+  Cow_Lane:
+    location: "central Accra"
+    functions:
+      - family_archive
+      - courtyard
+      - first practical node
+      - architecture of shade and repair
+    canon_rule: "Cow Lane comes before BlackRocks in the Ghana build sequence."
+
+  BlackRocks:
+    location: "west of Accra toward Cape Coast, near beach and village outside Mumford"
+    canon_rule: "The protagonist found and built BlackRocks with his own money and labor; the father later occupied it."
+    function: "Paradise, wound, return, second node proximity."
+
+  Mumford:
+    functions:
+      - education node
+      - library-like room
+      - tutoring
+      - AI-supported learning
+      - maker space
+      - gaming and cinema evenings
+      - local business support
+
+future_world:
+  features:
+    - rejuvenation_exists_but_is_not_explained
+    - older_people_may_have_younger_bodies
+    - AI_is_normal
+    - education_is_embodied
+    - technology_is_invisible
+    - architecture_uses_climate_and_craft
+  avoid:
+    - science_fiction_display
+    - exposition_about_demography
+    - utopian_slogans

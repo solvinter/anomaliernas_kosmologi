@@ -1,0 +1,2322 @@
+version: "v0.1"
+generated_on: "2026-07-30"
+purpose: "Index existing notes/fragments material into the production rendering system."
+source_root: "notes/fragments"
+default_rendering_contract: "production/rendering_contract.md"
+entries:
+  - id: "obs_notering_om_del_3"
+    source_path: "notes/fragments/OBS._notering_om_del_3"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "relationen_till_fadern_var_mycket_komple"
+    source_path: "notes/fragments/Relationen till fadern var mycket komple"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: ["father"]
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "untitled_1"
+    source_path: "notes/fragments/Untitled-1"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "abundantia"
+    source_path: "notes/fragments/abundantia"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: "notes/fragments/abundantia.yaml"
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "abundantia_md"
+    source_path: "notes/fragments/abundantia.md"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: "notes/fragments/abundantia.yaml"
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "abundantia_yaml"
+    source_path: "notes/fragments/abundantia.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "abundantia_resonans"
+    source_path: "notes/fragments/abundantia_resonans"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy", "resonance"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "accra_huset"
+    source_path: "notes/fragments/accra_huset"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "cow_lane"
+    scene_potential: "high"
+    characters: []
+    places: ["Cow Lane"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "act2_synthesis"
+    source_path: "notes/fragments/act2_synthesis"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "andra_sidan"
+    source_path: "notes/fragments/andra_sidan"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "arkitektur_som_omsorg"
+    source_path: "notes/fragments/arkitektur_som_omsorg"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "cow_lane"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "arkitekturen_rytmen"
+    source_path: "notes/fragments/arkitekturen_rytmen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "cow_lane"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "arkivarierna"
+    source_path: "notes/fragments/arkivarierna"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["archive"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "ateruppbyggnad_01"
+    source_path: "notes/fragments/ateruppbyggnad_01"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["return"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "ateruppbyggnad_03"
+    source_path: "notes/fragments/ateruppbyggnad_03"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["return"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "ateruppbyggnad_05"
+    source_path: "notes/fragments/ateruppbyggnad_05"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["return"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "ateruppbyggnad_2"
+    source_path: "notes/fragments/ateruppbyggnad_2"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["return"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "ateruppbyggnad_4"
+    source_path: "notes/fragments/ateruppbyggnad_4"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["return"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "avdelningen"
+    source_path: "notes/fragments/avdelningen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "avslutande_reflektion"
+    source_path: "notes/fragments/avslutande_reflektion"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "biliverdin_vagskalet"
+    source_path: "notes/fragments/biliverdin_vagskalet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "biologisk_kartlaggning"
+    source_path: "notes/fragments/biologisk_kartlaggning"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["body"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "blackrocks_md"
+    source_path: "notes/fragments/blackrocks.md"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: "notes/fragments/blackrocks.yaml"
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: []
+    places: ["BlackRocks"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "blackrocks_yaml"
+    source_path: "notes/fragments/blackrocks.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "medium"
+    characters: []
+    places: ["BlackRocks"]
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "blamarken"
+    source_path: "notes/fragments/blamärken"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "bortglomd_vag"
+    source_path: "notes/fragments/bortglomd_vag"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "bron"
+    source_path: "notes/fragments/bron"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "bumbi"
+    source_path: "notes/fragments/bumbi"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: ["bumbi"]
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "bumbi_character"
+    source_path: "notes/fragments/bumbi_character"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: ["bumbi"]
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "cirklar_i_himmel"
+    source_path: "notes/fragments/cirklar_i_himmel"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "cow_lane_rooftops_yaml"
+    source_path: "notes/fragments/cow_lane_rooftops.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "cow_lane"
+    scene_potential: "medium"
+    characters: []
+    places: ["Cow Lane"]
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "de_forsta_anomalierna_md"
+    source_path: "notes/fragments/de_forsta_anomalierna.md"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: "notes/fragments/de_forsta_anomalierna.yaml"
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: ["protagonist"]
+    places: []
+    motifs: ["anomalies"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "de_forsta_anomalierna_yaml"
+    source_path: "notes/fragments/de_forsta_anomalierna.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: ["protagonist"]
+    places: []
+    motifs: ["anomalies"]
+    production_use: ["source_material", "motif_source", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "de_osedda"
+    source_path: "notes/fragments/de_osedda"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "de_tredje_vagen"
+    source_path: "notes/fragments/de_tredje_vagen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "den_bortglomda_skatten"
+    source_path: "notes/fragments/den_bortglomda_skatten"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "cow_lane"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "den_infre_astronomin"
+    source_path: "notes/fragments/den_infre_astronomin"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "den_neurodivergenta_epoken"
+    source_path: "notes/fragments/den_neurodivergenta_epoken"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["anomalies"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "den_osynliga_ekonomin_yaml"
+    source_path: "notes/fragments/den_osynliga_ekonomin.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "den_osynliga_publiken"
+    source_path: "notes/fragments/den_osynliga_publiken"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "den_talmodige_karleken"
+    source_path: "notes/fragments/den_talmodige_karleken"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "den_tunna_linjen"
+    source_path: "notes/fragments/den_tunna_linjen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "diagnosens_grans"
+    source_path: "notes/fragments/diagnosens_grans"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["diagnosis"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "diagnoser_och_information"
+    source_path: "notes/fragments/diagnoser_och_information"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["diagnosis"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "dianostiskt_centrum_2949"
+    source_path: "notes/fragments/dianostiskt_centrum_2949"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: []
+    places: ["Future Ghana"]
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "efterklang"
+    source_path: "notes/fragments/efterklang"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "efterord"
+    source_path: "notes/fragments/efterord"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "eira"
+    source_path: "notes/fragments/eira"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: ["eira_lelo"]
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "epicykler"
+    source_path: "notes/fragments/epicykler"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fadern_blackrocks_yaml"
+    source_path: "notes/fragments/fadern_blackrocks.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "medium"
+    characters: ["father"]
+    places: ["BlackRocks"]
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fageltornet"
+    source_path: "notes/fragments/fageltornet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "falten_tranparens_oc_maiko"
+    source_path: "notes/fragments/falten_tranparens_oc_maiko"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "faltet"
+    source_path: "notes/fragments/faltet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Fältet"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "faltets_valuta"
+    source_path: "notes/fragments/faltets_valuta"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Fältet"]
+    motifs: ["economy"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "faltets_valuta_retrospekt_yaml"
+    source_path: "notes/fragments/faltets_valuta_retrospekt.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "medium"
+    characters: []
+    places: ["Fältet"]
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fastnad_md"
+    source_path: "notes/fragments/fastnad.md"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fathers_presence_blackrocks"
+    source_path: "notes/fragments/fathers_presence_blackrocks"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: ["father"]
+    places: ["BlackRocks"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "forrodet"
+    source_path: "notes/fragments/forrodet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["archive"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "forrodet_som_arkiv"
+    source_path: "notes/fragments/forrodet_som_arkiv"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["archive"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "forradet_2"
+    source_path: "notes/fragments/forrådet_2"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "forslag_inledning_del3"
+    source_path: "notes/fragments/forslag_inledning_del3"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "forvantningarna"
+    source_path: "notes/fragments/forvantningarna"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fotografierna_vid_gotaplatsen"
+    source_path: "notes/fragments/fotografierna_vid_gotaplatsen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: "notes/fragments/fotografierna_vid_gotaplatsen.yaml"
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Gothenburg"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fotografierna_vid_gotaplatsen_yaml"
+    source_path: "notes/fragments/fotografierna_vid_gotaplatsen.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "medium"
+    characters: []
+    places: ["Gothenburg"]
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fragmentarisk_rytm"
+    source_path: "notes/fragments/fragmentarisk_rytm"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "framtidens_psykiatri"
+    source_path: "notes/fragments/framtidens_psykiatri"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: []
+    places: ["Future Ghana"]
+    motifs: ["diagnosis"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fro_for_mumfordnoden"
+    source_path: "notes/fragments/fro_for_mumfordnoden"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: []
+    places: ["Mumford"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "fro_om_laxhjalp"
+    source_path: "notes/fragments/fro_om_laxhjalp"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: []
+    places: ["Mumford"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "future_sailing_dream"
+    source_path: "notes/fragments/future_sailing_dream"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "ship"
+    scene_potential: "high"
+    characters: []
+    places: ["Sea"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "gatran"
+    source_path: "notes/fragments/gatran"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "granslandet_hisingen"
+    source_path: "notes/fragments/granslandet_hisingen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: ["Gothenburg"]
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "hemkomsten"
+    source_path: "notes/fragments/hemkomsten"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["return"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "hemmet_vid_gransen_yaml"
+    source_path: "notes/fragments/hemmet_vid_gransen.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "hemmet_vidgransen"
+    source_path: "notes/fragments/hemmet_vidgränsen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "innan_alllt"
+    source_path: "notes/fragments/innan_alllt"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "intermezzo_vindbukten"
+    source_path: "notes/fragments/intermezzo_vindbukten"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "intuition"
+    source_path: "notes/fragments/intuition"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "jackan"
+    source_path: "notes/fragments/jackan"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "koden_tystnad"
+    source_path: "notes/fragments/koden_tystnad"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["secrets"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "kontext"
+    source_path: "notes/fragments/kontext"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "kranarnas_sjal"
+    source_path: "notes/fragments/kranarnas_själ"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: ["Gothenburg"]
+    motifs: ["cranes"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "kroppen_och_livskraften"
+    source_path: "notes/fragments/kroppen_och_livskraften"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["body"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "kroppen_som_blev_kvar"
+    source_path: "notes/fragments/kroppen_som_blev_kvar"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["body"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "kroppen_som_blev_kvar2"
+    source_path: "notes/fragments/kroppen_som_blev_kvar2"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["body"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "kusinen"
+    source_path: "notes/fragments/kusinen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "cow_lane"
+    scene_potential: "high"
+    characters: ["cousin"]
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "kvinnan_och_vardventralen_1"
+    source_path: "notes/fragments/kvinnan_och_vårdventralen_1"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "lagenheten_i_brus"
+    source_path: "notes/fragments/lägenheten i brus"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "mannen_pa_stranden_ghana"
+    source_path: "notes/fragments/mannen_pa stranden_ghana"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: ["protagonist"]
+    places: ["Sea"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "marcus_pipa"
+    source_path: "notes/fragments/marcus_pipa"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: ["marcus"]
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "mason_peta"
+    source_path: "notes/fragments/mason_peta"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: ["peta"]
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "mellan_olika_verkligheter_2"
+    source_path: "notes/fragments/mellan_olika verkligheter 2"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "mellan_olika_verkligheter"
+    source_path: "notes/fragments/mellan_olika_verkligheter"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "mellanrum"
+    source_path: "notes/fragments/mellanrum"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "mellanvarden"
+    source_path: "notes/fragments/mellanvarden"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "midsommar_namn_och_horisonten_md"
+    source_path: "notes/fragments/midsommar_namn_och_horisonten.md"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "midsommar_portalen"
+    source_path: "notes/fragments/midsommar_portalen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "minnestunden"
+    source_path: "notes/fragments/minnestunden"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "moljiga_varldar"
+    source_path: "notes/fragments/moljiga_varldar"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "morgonljuset"
+    source_path: "notes/fragments/morgonljuset"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "morgonljusets_folk"
+    source_path: "notes/fragments/morgonljusets_folk"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "mot_havet"
+    source_path: "notes/fragments/mot_havet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "ship"
+    scene_potential: "high"
+    characters: []
+    places: ["Sea"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "namnet"
+    source_path: "notes/fragments/namnet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "narrative_shift_adventurous"
+    source_path: "notes/fragments/narrative_shift_adventurous"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "natten_och_den_andra_berattelsen"
+    source_path: "notes/fragments/natten_och_den_andra_berattelsen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "natten_over_faltet"
+    source_path: "notes/fragments/natten_over_faltet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Fältet"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "natverken"
+    source_path: "notes/fragments/natverken"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "norr_om_tunnlarna"
+    source_path: "notes/fragments/norr_om_tunnlarna"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "om_arkitekten"
+    source_path: "notes/fragments/om_arkitekten"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "ordningen"
+    source_path: "notes/fragments/ordningen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "overgangsstallet"
+    source_path: "notes/fragments/overgangsstallet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "paradigmskiftet_psykiatrin"
+    source_path: "notes/fragments/paradigmskiftet_psykiatrin"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: ["diagnosis"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "parken"
+    source_path: "notes/fragments/parken"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "periferin"
+    source_path: "notes/fragments/periferin"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: "notes/fragments/periferin.yaml"
+    arc: "future"
+    scene_potential: "medium"
+    characters: []
+    places: ["Future Ghana"]
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "periferin_yaml"
+    source_path: "notes/fragments/periferin.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: []
+    places: ["Future Ghana"]
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "platsen"
+    source_path: "notes/fragments/platsen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "proof_of_vitality"
+    source_path: "notes/fragments/proof_of_vitality"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: ["protagonist"]
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "psykos_och_de_andra"
+    source_path: "notes/fragments/psykos_och_de_andra"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["diagnosis"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_abundantia2"
+    source_path: "notes/fragments/raw/abundantia2"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_arkitekten_och_rytmen"
+    source_path: "notes/fragments/raw/arkitekten_och_rytmen"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_aterkomstens_ritualer"
+    source_path: "notes/fragments/raw/aterkomstens_ritualer"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_atriumet"
+    source_path: "notes/fragments/raw/atriumet"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: ["University"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_cirklarna_i_himlen"
+    source_path: "notes/fragments/raw/cirklarna_i_himlen"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_den_inre_astronomin"
+    source_path: "notes/fragments/raw/den_inre_astronomin"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_den_levande_kedjan"
+    source_path: "notes/fragments/raw/den_levande_kedjan"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_det_som_ingen_sade"
+    source_path: "notes/fragments/raw/det_som_ingen_sade"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_dygd"
+    source_path: "notes/fragments/raw/dygd"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_epicykler1"
+    source_path: "notes/fragments/raw/epicykler1"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_fageltornet2"
+    source_path: "notes/fragments/raw/fageltornet2"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_faltets_valuta2"
+    source_path: "notes/fragments/raw/faltets_valuta2"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Fältet"]
+    motifs: ["economy"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_faltets_valuta_ursprung"
+    source_path: "notes/fragments/raw/faltets_valuta_ursprung"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Fältet"]
+    motifs: ["economy"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_filantropen"
+    source_path: "notes/fragments/raw/filantropen"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_forelasningen"
+    source_path: "notes/fragments/raw/forelasningen"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: ["University"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_forrodet_med_henne"
+    source_path: "notes/fragments/raw/forrodet_med_henne"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["archive"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_i_vaxthusets_skymning_2"
+    source_path: "notes/fragments/raw/i_vaxthusets_skymning_2"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_kartor"
+    source_path: "notes/fragments/raw/kartor"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_levd_framtid"
+    source_path: "notes/fragments/raw/levd_framtid"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: []
+    places: ["Future Ghana"]
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_likviditet"
+    source_path: "notes/fragments/raw/likviditet"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_matematkprofessorn"
+    source_path: "notes/fragments/raw/matematkprofessorn"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_medvetandets_konstruktivitet"
+    source_path: "notes/fragments/raw/medvetandets_konstruktivitet"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_monolit"
+    source_path: "notes/fragments/raw/monolit"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_morgonljuset_perongen"
+    source_path: "notes/fragments/raw/morgonljuset_perongen"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_narverkens_varld"
+    source_path: "notes/fragments/raw/narverkens_varld"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_noder_i_natten"
+    source_path: "notes/fragments/raw/noder_i_natten"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_periferin2"
+    source_path: "notes/fragments/raw/periferin2"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: []
+    places: ["Future Ghana"]
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_periferin_ar_framtiden"
+    source_path: "notes/fragments/raw/periferin_ar_framtiden"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: []
+    places: ["Future Ghana"]
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_psykos_aterkomst"
+    source_path: "notes/fragments/raw/psykos_aterkomst"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["diagnosis"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_resonans"
+    source_path: "notes/fragments/raw/resonans"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["resonance"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_rytmen_i_manniskorna"
+    source_path: "notes/fragments/raw/rytmen_i_manniskorna"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_samtal_efter_forelasningen"
+    source_path: "notes/fragments/raw/samtal_efter_forelasningen"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: ["University"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_tinget_i_sig"
+    source_path: "notes/fragments/raw/tinget_i_sig"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_tinget_i_sig2"
+    source_path: "notes/fragments/raw/tinget_i_sig2"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_windeybay_3"
+    source_path: "notes/fragments/raw/windeybay_3"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "raw_yaml_del_faltet_raw_notion"
+    source_path: "notes/fragments/raw/yaml_del_faltet_raw_notion"
+    source_type: "raw_fragment"
+    status: "raw"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Fältet"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "renderingar"
+    source_path: "notes/fragments/renderingar"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "resonansen"
+    source_path: "notes/fragments/resonansen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["resonance"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "resonansens_etik"
+    source_path: "notes/fragments/resonansens_etik"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["resonance"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "restaurangen"
+    source_path: "notes/fragments/restaurangen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "ringen"
+    source_path: "notes/fragments/ringen"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "rytmen_i_manniskorna"
+    source_path: "notes/fragments/rytmen_i_människorna"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "rytmen_manniskorna"
+    source_path: "notes/fragments/rytmen_människorna"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "samtal_med_dotter"
+    source_path: "notes/fragments/samtal_med_dotter"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: ["daughter"]
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "samtal_med_dottern_om_sjukdom"
+    source_path: "notes/fragments/samtal_med_dottern_om_sjukdom"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: ["daughter"]
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "samtal_med_dottern_pa_klippan"
+    source_path: "notes/fragments/samtal_med_dottern_pa_klippan"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "future"
+    scene_potential: "medium"
+    characters: ["daughter"]
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "samtalet_om_gud"
+    source_path: "notes/fragments/samtalet_om_gud"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "samvaro"
+    source_path: "notes/fragments/samvaro"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "sjalvets_karna"
+    source_path: "notes/fragments/sjalvets_karna"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "sjon"
+    source_path: "notes/fragments/sjon"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "sjon"
+    source_path: "notes/fragments/sjön"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "skeppets_buk"
+    source_path: "notes/fragments/skeppets_buk"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "ship"
+    scene_potential: "high"
+    characters: []
+    places: ["Betelskeppet", "Sea"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "skorna"
+    source_path: "notes/fragments/skorna"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "solv_md"
+    source_path: "notes/fragments/solv.md"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: "notes/fragments/solv.yaml"
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "solv_yaml"
+    source_path: "notes/fragments/solv.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "spegaln_i_rummet"
+    source_path: "notes/fragments/spegaln_i_rummet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "stjarnonas_sprak"
+    source_path: "notes/fragments/stjärnonas_sprak"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "stranden"
+    source_path: "notes/fragments/stranden"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "blackrocks"
+    scene_potential: "high"
+    characters: []
+    places: ["Sea"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "tankens_kraft"
+    source_path: "notes/fragments/tankens_kraft"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "tobaksfaltet"
+    source_path: "notes/fragments/tobaksfaltet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: ["Fältet"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "tokens_i_natten"
+    source_path: "notes/fragments/tokens_i_natten"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "solvinter"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["economy"]
+    production_use: ["source_material", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "tunneln"
+    source_path: "notes/fragments/tunneln"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "tva_exponeringar"
+    source_path: "notes/fragments/tva_exponeringar"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "undomskarleken_och_morgonljuset"
+    source_path: "notes/fragments/undomskärleken_och morgonljuset"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "universitetet"
+    source_path: "notes/fragments/universitetet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "university"
+    scene_potential: "high"
+    characters: []
+    places: ["University"]
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "upplosning"
+    source_path: "notes/fragments/upplosning"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "vagen_norrut"
+    source_path: "notes/fragments/vagen_norrut"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "vantrummet"
+    source_path: "notes/fragments/vantrummet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "descent"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "render_as_scene"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "vaxthuset"
+    source_path: "notes/fragments/vaxthuset"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "vaxthuset_i_skymmning"
+    source_path: "notes/fragments/vaxthuset_i_skymmning"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "vaxthuset_i_skymning_2"
+    source_path: "notes/fragments/vaxthuset_i_skymning_2"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "high"
+    characters: []
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "render_as_scene", "motif_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "vaxthusets_skymning_1_yaml"
+    source_path: "notes/fragments/vaxthusets_skymning_1.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "field"
+    scene_potential: "medium"
+    characters: []
+    places: []
+    motifs: ["architecture"]
+    production_use: ["source_material", "motif_source", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "visionen_vid_vagskalet"
+    source_path: "notes/fragments/visionen_vid_vagskalet"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "windey_bay"
+    source_path: "notes/fragments/windey_bay"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "windey_bay_ii_yaml"
+    source_path: "notes/fragments/windey_bay_ii.yaml"
+    source_type: "yaml_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material", "metadata_source"]
+    review_notes: "Automatically indexed; refine when promoted to scene."
+  - id: "windey_bay_tva"
+    source_path: "notes/fragments/windey_bay_tva"
+    source_type: "prose_fragment"
+    status: "unreviewed"
+    companion_yaml: null
+    arc: "unknown"
+    scene_potential: "unknown"
+    characters: []
+    places: []
+    motifs: []
+    production_use: ["source_material"]
+    review_notes: "Automatically indexed; refine when promoted to scene."

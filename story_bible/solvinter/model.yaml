@@ -1,0 +1,47 @@
+solvinter:
+  type: "human-centered infrastructure model"
+  narrative_role: "The world that grows from the protagonist's return, not a manifesto."
+
+principles:
+  - human_first
+  - technology_as_tool
+  - beauty_as_function
+  - repairability
+  - local_training
+  - local_material_fit
+  - Ghanaian_builder_knowledge
+  - invisible_AI
+
+technology:
+  rule: "Describe technology like electricity: useful, integrated and rarely spectacular."
+  sol:
+    role: "AI tool, memory, tutor and organizer"
+    constraints:
+      - limited_memory_where_needed
+      - no_surveillance_aesthetic
+      - supports_humans_without_replacing_them
+
+architecture:
+  principles:
+    - passive_cooling
+    - courtyards
+    - shade
+    - solar_chimneys
+    - thickened_walls
+    - acoustic_care
+    - local_wood
+    - aluminium
+    - repairable_chassis
+    - craft_quality
+
+nodes:
+  cow_lane:
+    role: "first practical node in Accra"
+  mumford:
+    role: "education, tutoring, maker and community node"
+  gothenburg:
+    role: "future mixed housing and workspace model"
+
+rendering_note: >
+  Solvinter should grow through people, rooms, repairs, lessons, meals,
+  buildings and small decisions. Avoid manifesto voice.

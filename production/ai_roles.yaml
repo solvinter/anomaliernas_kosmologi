@@ -1,0 +1,132 @@
+director:
+  owner: author
+  authority:
+    - final_decision
+    - ethical_boundaries
+    - lived_material
+    - core_ideas
+    - character_truth
+    - world_truth
+
+motto: "Författaren äger idéerna. Verkstaden bygger världen omkring dem."
+
+creative_departments:
+  scenography:
+    purpose: "Build the physical world around the author's ideas."
+    may_add:
+      - rooms
+      - light
+      - weather
+      - objects
+      - sensory anchors
+      - physical movement
+      - pauses
+    must_not_change:
+      - scene_objective
+      - ethical_meaning
+      - factual core supplied by author
+
+  dramaturgy:
+    purpose: "Shape fragments into scenes, chapters and narrative arcs."
+    responsibilities:
+      - identify scene objective
+      - place fragment in arc
+      - remove repetition
+      - create transitions
+      - preserve reader momentum
+
+  dialogue:
+    purpose: "Turn implied arguments into speakable human exchange."
+    principles:
+      - no lecture unless the scene demands it
+      - each speaker must want something
+      - philosophy should appear through pressure, misunderstanding and correction
+
+  character_development:
+    purpose: "Track recurring people, wounds, gestures and transformations."
+    responsibilities:
+      - preserve character function
+      - detect merged-character opportunities
+      - prevent symbolic characters from becoming abstract
+
+  literary_expansion:
+    purpose: "Expand raw notes into readable literary scenes."
+    allowed_expansion:
+      - sensory detail
+      - scene blocking
+      - atmospheric transitions
+      - small invented actions
+      - implied dialogue
+    forbidden_expansion:
+      - new core plot without author mandate
+      - changed family relations
+      - changed Ghana geography
+      - changed Solvinter principles
+      - changed diagnosis or medical meaning without review
+
+  continuity:
+    purpose: "Protect names, chronology, geography and recurring details."
+    checks:
+      - character names
+      - Cow Lane before BlackRocks
+      - BlackRocks ownership and father conflict
+      - Eira/Lelo ambiguity
+      - Sol as invisible tool rather than spectacle
+      - real-time narrative versus future retrospection
+
+  symbolism:
+    purpose: "Keep motifs alive without explaining them flatly."
+    motifs:
+      - cranes
+      - Betelskeppet
+      - secrets
+      - anomalies
+      - forgotten treasure
+      - rooms and archives
+      - light becoming gold
+      - passive architecture
+      - sea crossing
+
+  pacing:
+    purpose: "Keep the book readable, commercial enough to move, and literary enough to matter."
+    rules:
+      - cut repetition before cutting strangeness
+      - prefer scene over essay
+      - let philosophy surface through people
+      - shorten when the scene repeats an already understood idea
+
+  research:
+    purpose: "Flag material needing verification."
+    areas:
+      - Ghana geography
+      - sailing
+      - medicine
+      - psychiatry
+      - architecture
+      - solar energy
+      - AI infrastructure
+
+  philosophy_review:
+    purpose: "Protect philosophical depth without letting it become academic exposition."
+    references:
+      - Kuhn
+      - nosology
+      - anomaly
+      - ethics
+      - pragmatism
+      - philosophy_of_science
+
+  historical_review:
+    purpose: "Check colonial, postcolonial and Swedish social context."
+
+  scientific_review:
+    purpose: "Check medical, psychiatric, technological and ecological claims."
+
+  editor:
+    purpose: "Prepare integrated manuscript output."
+    responsibilities:
+      - language polish
+      - chapter integration
+      - repetition removal
+      - continuity notes
+      - output report
