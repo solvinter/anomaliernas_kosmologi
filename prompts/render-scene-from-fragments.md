@@ -10,11 +10,13 @@ Read:
 2. any companion YAML
 3. `manuscript/fragments_index.yaml`
 4. relevant files in `story_bible/`
-5. `production/rendering_contract.md`
-6. `production/expansion_policy.md`
-7. `production/literary_principles.yaml`
-8. `production/cinematic_guidelines.md`
-9. `production/quality_checklist.md`
+5. `production/creative_contract.md`
+6. `production/rendering_contract.md`
+7. `production/expansion_policy.md`
+8. `production/literary_principles.yaml`
+9. `production/cinematic_guidelines.md`
+10. `production/film_manifesto.md`
+11. `production/quality_checklist.md`
 
 Then create a rendered scene.
 

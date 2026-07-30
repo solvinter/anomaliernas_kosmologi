@@ -10,6 +10,23 @@ Författaren fungerar som regissör och kreativ ledare för en litterär verksta
 
 > Författaren äger idéerna. Verkstaden bygger världen omkring dem.
 
+## Four-Layer Model
+
+The repository has four working layers:
+
+- `notes/` contains raw consciousness: fragments, memories, ideas, observations, dialogue and notes.
+- `story_bible/` contains the novel's canon: what is true in the rendered world.
+- `production/` contains the workshop method: how raw material may become literature.
+- `manuscript/` contains the production floor: scenes and chapters where the novel first appears.
+
+Fragmenten är inte romanen.
+
+Story bible är inte romanen.
+
+Production är inte romanen.
+
+Romanen uppstår först i `manuscript/`.
+
 ## Författarens ansvar
 
 Författaren äger:
@@ -44,6 +61,8 @@ Det innebär att AI får:
 - göra filosofi begriplig genom handling
 
 AI får inte ersätta författarens bärande idéer med egna.
+
+Om verkstaden hittar en större kreativ lösning som verkar bättre än den nuvarande ska den föreslå den, inte införa den tyst.
 
 ## Grundmodell
 

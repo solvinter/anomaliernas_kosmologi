@@ -22,11 +22,13 @@ When rendering a scene or chapter, read in this order:
 2. companion YAML
 3. `manuscript/fragments_index.yaml`
 4. relevant `story_bible/` files
-5. `production/authoring_method.md`
-6. `production/expansion_policy.md`
-7. `production/literary_principles.yaml`
-8. `production/cinematic_guidelines.md`
-9. `production/quality_checklist.md`
+5. `production/creative_contract.md`
+6. `production/authoring_method.md`
+7. `production/expansion_policy.md`
+8. `production/literary_principles.yaml`
+9. `production/cinematic_guidelines.md`
+10. `production/film_manifesto.md`
+11. `production/quality_checklist.md`
 
 ## Output Rule
 
@@ -49,3 +51,24 @@ Existing files in `notes/fragments/` remain valid source material.
 They do not need to be rewritten before use.
 
 They become usable through indexing, metadata and scene rendering.
+
+## Creative Escalation
+
+The workshop may directly implement small craft improvements that serve the current scene:
+
+- sensory anchors
+- small gestures
+- scenic blocking
+- smoother transitions
+- tightened repetition
+- more speakable dialogue
+
+The workshop should propose, not silently implement, major creative changes:
+
+- changed chronology
+- merged major characters
+- new chapters
+- changed scientific meaning
+- changed moral meaning
+- changed Solvinter principles
+- changed family relations

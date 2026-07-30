@@ -29,8 +29,10 @@ Det innebär att AI får bygga fysisk värld, dialog, rytm, övergångar och sce
 ## Viktiga filer
 
 - `production/authoring_method.md`
+- `production/creative_contract.md`
 - `production/rendering_contract.md`
 - `production/expansion_policy.md`
+- `production/film_manifesto.md`
 - `production/quality_checklist.md`
 - `manuscript/fragments_index.yaml`
 - `story_bible/recurring_details.yaml`
