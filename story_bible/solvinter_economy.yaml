@@ -1,0 +1,84 @@
+chapter: solvinter_economy
+
+purpose: >
+  Describe the intellectual transition from idealistic visions to an
+  economically sustainable model for Solvinter.
+
+core_insight: >
+  The protagonist realizes that his visions have always been technically
+  possible but economically undefined. He understands that AI adoption
+  will inevitably be financed by governments, universities, companies,
+  philanthropists and NGOs, creating a long-term demand for local
+  technical competence.
+
+mentor:
+
+  person: brother
+
+  lesson:
+    - ideas require sustainable economics
+    - capital enables long-term impact
+    - funding is not the goal but the enabler
+    - entrepreneurship requires financial reality
+
+protagonist_realization:
+
+  before:
+    - visualized libraries
+    - visualized education
+    - visualized technology
+    - lacked an economic engine
+
+  turning_point: >
+    He realizes he had been imagining beautiful futures without asking
+    who would actually build them or how they would continue to exist.
+
+  key_question: >
+    Who will finance the inevitable AI transformation?
+
+  answer:
+    - governments
+    - universities
+    - hospitals
+    - companies
+    - aid organizations
+    - philanthropists
+    - research foundations
+
+economic_model:
+
+  mumford:
+    purpose:
+      - build trust
+      - collaborate with teachers
+      - collaborate with local council
+      - collaborate with local politicians
+      - understand community needs
+      - explore educational AI
+      - create long-term local partnerships
+
+  cow_lane:
+    purpose:
+      - build computers
+      - install operating systems
+      - learn networking
+      - programming
+      - AI engineering
+      - remote digital work
+      - AI data work
+      - language model development
+      - earn income from the global AI market
+
+  innovation: >
+    Instead of repeatedly importing foreign experts to Ghana for short
+    implementation projects, Solvinter develops permanent local
+    competence capable of designing, deploying, maintaining and improving
+    AI systems long after international projects have ended.
+
+narrative_message: >
+  The true asset is not the buildings or the technology. It is the
+  people whose competence remains after the education has ended.
+
+closing_line: >
+  Economy was not the opposite of idealism. It was the mechanism that
+  allowed an idea to survive reality.
