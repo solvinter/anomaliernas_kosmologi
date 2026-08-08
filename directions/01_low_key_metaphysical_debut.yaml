@@ -1,0 +1,188 @@
+id: low_key_metaphysical_debut
+
+title: "Den lågmälda metafysiska debutromanen"
+
+status: candidate_direction
+
+priority: high
+
+core_premise: >
+  Romanen behöver inte utvecklas till en äventyrsroman eller berättelse
+  om hur protagonisten bygger en organisation eller förändrar världen.
+  Det kan räcka att följa en människa genom sammanbrott, psykiatri,
+  utanförskap och återkomst till ett intellektuellt liv.
+
+  Efter erfarenheterna fortsätter protagonisten sina studier och sitt
+  skrivande om nosologi och medvetandet.
+
+  Den yttre handlingen kan vara relativt lågmäld medan romanens
+  intellektuella och metafysiska dimension blir mycket stor.
+
+primary_arc:
+  - livet_före_sammanbrottet
+  - förlust_av_identitet_och_funktion
+  - psykiatrin
+  - betelskeppet
+  - utanförskap
+  - fältet
+  - återkomst
+  - studier
+  - nosologi
+  - medvetandet
+  - åldrande
+  - personlig_identitet
+  - år_2100
+
+protagonist_destination: >
+  Protagonistens destination behöver inte vara entreprenörskap eller
+  samhällsbyggande. Han återvänder till tänkandet.
+
+  Erfarenheterna blir material för hans fortsatta undersökningar av
+  sjukdomsbegrepp, nosologi, medvetande och personlig identitet.
+
+solvinter:
+  role: reserve_material
+
+  instruction: >
+    Solvinter ska tills vidare inte behandlas som romanens destination
+    eller huvudsakliga berättelsebåge.
+
+    Befintliga Solvinterfragment ska inte raderas. De är råmaterial som
+    kan återanvändas i en annan direction, en annan bok eller i mindre
+    omfattning i denna roman.
+
+lelo:
+  identity:
+    - eira
+    - lelo
+
+  future_status:
+    - protagonistens_hustru
+    - professor_emeritus
+
+  function: >
+    Lelo bär romanens metafysiska framtidslager.
+
+    När hon talar tidigare i romanen kan det ibland kännas som om hennes
+    perspektiv kommer från en civilisation som redan har passerat vissa
+    av samtidens kategorier.
+
+    Romanen behöver inte förklara hur Eira och Lelo hänger samman.
+
+  rule: >
+    Förklara inte metafysiken när den inträffar.
+
+brother:
+  function: >
+    Brodern representerar en annan sorts framtid: den högteknologiska.
+
+    Silicon Valley, bioteknik, longevity, anti-ageing, kapital,
+    laboratorier och föreställningen att åldrande kan betraktas som
+    ett tekniskt problem.
+
+  conversation_themes:
+    - vad_är_åldrande
+    - är_åldrande_en_sjukdom
+    - hur_länge_vill_vi_leva
+    - varför_vill_vi_leva
+    - vad_bevarar_longevity
+    - kroppen_genom_tiden
+    - dödens_tekniska_status
+
+  metaphysical_layer: >
+    Under vissa samtal kan protagonisten ana ett lager hos brodern som
+    tycks komma från hans framtida jag.
+
+    Detta ska inte förklaras.
+
+metaphysical_motifs:
+
+  child_portrait: >
+    Ett fotografi från protagonistens tidiga barndom visar honom sittande
+    framifrån i en svart soffa. Fotografen har lagt en andra bild av samma
+    barn i profil över fotografiet.
+
+    Ingen i romanen behöver kommentera att detta är märkligt.
+
+  name_change: >
+    När protagonisten byter namn uppstår ett brott mellan namn och
+    autobiografisk kontinuitet.
+
+    Romanen får implicit lämna möjligheten öppen att något av hans
+    temporala sammanhang samtidigt går förlorat.
+
+  tram_body: >
+    På en spårvagn upplever protagonisten plötsligt att han har en mycket
+    större kropp än den kropp han faktiskt ser.
+
+    Upplevelsen kan långt senare få resonans med en framtida odlad,
+    klonad eller på annat sätt förändrad kropp.
+
+    Den tidiga scenen får inte förklara detta.
+
+  eira_lelo: >
+    Kontinuiteten mellan Eira och Lelo är ett centralt ontologiskt motiv
+    men behöver aldrig reduceras till en explicit mekanism.
+
+central_questions:
+  - "Vad är sjukdom?"
+  - "Vad är normalitet?"
+  - "Vad är ett medvetande?"
+  - "Vad gör en människa till samma människa genom tiden?"
+  - "Vad händer med identiteten när minne, namn, kropp och social roll förändras?"
+  - "Vad är åldrande?"
+  - "Vad innebär det egentligen att förlänga ett liv?"
+  - "Vad är en människa när hennes arbete inte behövs?"
+
+year_2100: >
+  År 2100 är protagonisten gammal och gift med Lelo, som är professor
+  emeritus.
+
+  Framtiden ska inte främst fungera som science-fiction-spektakel.
+  Den ska vara vardag för människorna som lever där.
+
+  Teknologiska och biologiska förändringar framgår genom konkreta
+  detaljer snarare än exposition.
+
+  Samtalen med en yngre generation kan göra det tydligt hur främmande
+  protagonistens ungdom har blivit.
+
+  Romanen behöver inte ge ett slutgiltigt svar på nosologin,
+  medvetandet, identiteten eller döden.
+
+literary_mode:
+  scale: intimate
+  intellectual_ambition: high
+  plot_intensity: low_to_moderate
+  metaphysical_explicitness: low
+  reader_trust: very_high
+
+  description: >
+    Romanen får vara krävande.
+
+    Den behöver inte säkerställa att varje läsare förstår varje lager.
+
+    Intellektuell komplexitet ska inte främst skapas genom svåra ord
+    eller filosofisk exposition, utan genom att romanens ontologi är
+    större än vad berättaren uttryckligen förklarar.
+
+avoid:
+  - äventyrsroman
+  - protagonist_saves_the_world
+  - överförklarad_metafysik
+  - exposition_som_förklarar_alla_symboler
+  - krav_på_att_varje_läsare_förstår_allt
+  - solvinter_som_obligatorisk_destination
+  - science_fiction_spektakel
+
+working_thesis: >
+  En läkare faller ur den värld som tidigare definierat honom.
+  När han återvänder försöker han förstå de kategorier genom vilka
+  människor beskriver sjukdom, normalitet och identitet.
+
+  Under berättelsen finns samtidigt tecken på att människan kanske inte
+  är så enkelt avgränsad i tid, kropp, namn och medvetande som dessa
+  kategorier förutsätter.
+
+possible_final_question: >
+  Vad är det som gör en människa till samma människa genom tiden?

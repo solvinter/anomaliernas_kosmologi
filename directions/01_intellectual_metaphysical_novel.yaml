@@ -1,0 +1,509 @@
+---
+id: intellectual_metaphysical_novel
+
+title: "Den intellektuella metafysiska romanen"
+
+status: candidate_direction
+priority: very_high
+
+core_concept: >
+  Anomaliernas kosmologi är en lågmäld, intellektuell och metafysisk roman
+  om en läkare som förlorar nästan allt som tidigare definierat honom och
+  därefter ägnar sitt liv åt att förstå vad sjukdom, normalitet, identitet,
+  åldrande och medvetande egentligen är.
+
+  Den yttre handlingen behöver inte vara stor. Romanens rörelse sker lika
+  mycket genom förändringar i protagonistens sätt att förstå världen som
+  genom yttre händelser.
+
+  Solvinter och det större teknologiska samhällsbyggarspåret är inte
+  nödvändigt för denna version av romanen.
+
+literary_identity:
+  form:
+    - debutroman
+    - ideeroman
+    - metafysisk_roman
+    - autobiografiskt_fargad_roman
+
+  tone:
+    - low_key
+    - intellectually_ambitious
+    - restrained
+    - observational
+    - melancholic
+    - occasionally_playful
+
+  scale:
+    external_plot: low_to_moderate
+    intellectual_scope: very_high
+    metaphysical_scope: very_high
+
+  principle: >
+    Romanen behöver inte göra sig fullständigt begriplig för varje läsare.
+    Den får kräva omläsning, eftertanke och tolerans för olösta frågor.
+
+  intellectual_method: >
+    Intellektuell komplexitet ska inte skapas genom onödigt svåra ord.
+    Den ska uppstå genom att romanens ontologi och filosofiska problem är
+    större än vad berättaren explicit förklarar.
+
+primary_arc:
+
+  beginning:
+    - physician_identity
+    - professional_status
+    - social_belonging
+
+  collapse:
+    - psychiatric_illness
+    - loss_of_function
+    - loss_of_professional_identity
+    - name_change
+    - social_dislocation
+    - homelessness
+    - psychiatric_inpatient_care
+
+  outside:
+    - betelskeppet
+    - marginalised_world
+    - worklessness
+    - alternative_social_rules
+    - identity_disruption
+
+  field:
+    - recovery_of_thought
+    - melancholia
+    - work_and_human_value
+    - responsibility
+    - rituals
+    - reconstruction_of_self
+
+  intellectual_return:
+    - studies
+    - writing
+    - nosology
+    - philosophy_of_medicine
+    - consciousness
+    - personal_identity
+    - ageing
+
+  distant_future:
+    - year_2100
+    - protagonist_and_lelo
+    - continuing_questions
+    - no_final_solution
+
+external_story_summary: >
+  En läkare förlorar sin yrkesidentitet, sitt sociala sammanhang och under
+  perioder även sin självklara känsla av personlig kontinuitet.
+
+  Han hamnar i psykiatrin, hemlöshet och miljöer han tidigare befunnit sig
+  långt ifrån.
+
+  När tänkandet gradvis återkommer försöker han inte främst återta den
+  gamla karriären. Han återvänder till studier och skrivande och börjar
+  undersöka de kategorier genom vilka medicinen och samhället försöker
+  beskriva människor.
+
+  Decennier senare fortsätter samma frågor.
+
+three_reading_levels:
+
+  biographical:
+    description: >
+      Berättelsen om en läkare som faller ur sitt tidigare liv, lever i
+      utanförskap och gradvis återvänder till ett fungerande och
+      intellektuellt liv.
+
+  philosophical:
+    description: >
+      En undersökning av arbete, psykiatri, sjukdomsbegrepp, normalitet,
+      åldrande, social status och de kategorier genom vilka samhället
+      sorterar människor.
+
+  metaphysical:
+    description: >
+      En underliggande fråga om vad som gör en människa till samma människa
+      genom tid när kropp, namn, minne, social roll och medvetandetillstånd
+      förändras.
+
+central_question: >
+  Vad är det som gör en människa till samma människa genom tiden?
+
+secondary_questions:
+  - "Vad är sjukdom?"
+  - "Vad är normalitet?"
+  - "Vad beskriver en diagnos egentligen?"
+  - "Vad är ett medvetande?"
+  - "Vad är relationen mellan kropp och person?"
+  - "Vad händer med identiteten när minnet förändras?"
+  - "Vilken funktion har ett namn i personlig kontinuitet?"
+  - "Vad är åldrande?"
+  - "Är åldrande en sjukdom, en process eller en samling processer?"
+  - "Hur länge vill människan leva?"
+  - "Varför vill människan leva längre?"
+  - "Vad är det longevity egentligen försöker bevara?"
+  - "Vad är människan när hennes yrke inte längre definierar henne?"
+
+anomalies_as_structure:
+
+  principle: >
+    Romanens anomalier är människor, tillstånd och erfarenheter som inte
+    passar ordentligt i de rådande förklaringsmodellerna.
+
+  examples:
+
+    protagonist:
+      anomaly: >
+        Läkaren blir patient och faller därmed ur den kategori genom vilken
+        både han själv och omgivningen tidigare förstått honom.
+
+    betelskeppet:
+      anomaly: >
+        Människor lever utanför ett samhälle där arbete betraktas som en
+        central källa till legitimitet, struktur och status.
+
+    psychiatry:
+      anomaly: >
+        Patientens levda medvetandetillstånd passar inte alltid rent in i
+        diagnosernas avgränsningar.
+
+    unemployment:
+      anomaly: >
+        Arbetslöshet betraktas som individuell avvikelse tills tillräckligt
+        många saknar arbete för att själva normen måste förändras.
+
+    ageing:
+      anomaly: >
+        Processer som en generation betraktar som naturligt åldrande kan
+        av en senare generation delas upp i behandlingsbara patologier.
+
+    identity:
+      anomaly: >
+        Juridiskt namn, autobiografiskt minne, kropp och subjektiv identitet
+        behöver inte förändras synkront.
+
+lelo_eira:
+
+  role: metaphysical_future
+
+  identity_relation:
+    eira: earlier_manifestation
+    lelo: later_manifestation
+
+  ontology: unresolved
+
+  rule: >
+    Romanen får aldrig ge en enkel förklaring till relationen mellan Eira
+    och Lelo.
+
+  possible_readings:
+    - same_person
+    - same_consciousness
+    - temporal_continuity
+    - psychological_projection
+    - metaphysical_identity
+    - something_not_captured_by_these_categories
+
+  narrative_effect: >
+    När Lelo talar tidigare i berättelsen kan hennes perspektiv ibland
+    kännas som om det kommer från en civilisation som redan passerat vissa
+    av protagonistens samtida problem.
+
+  future:
+    relationship_to_protagonist: wife
+    profession: professor_emeritus
+
+  important_quality: >
+    Lelo ska inte tala som en science-fiction-profet. Det märkliga ligger
+    snarare i vilka distinktioner hon inte längre betraktar som självklara.
+
+brother:
+
+  role: technological_future
+
+  world:
+    - silicon_valley
+    - biotechnology
+    - longevity
+    - anti_ageing
+    - laboratories
+    - entrepreneurship
+    - scientific_capital
+
+  thematic_function: >
+    Brodern representerar försöket att angripa åldrande och död som
+    biologiska och tekniska problem.
+
+  metaphysical_hint: >
+    Under vissa samtal kan protagonisten få känslan av att brodern innehåller
+    ett lager av en framtida version av sig själv.
+
+    Detta behöver aldrig förklaras.
+
+  central_dialogue_problem:
+    protagonist_question: "Hur länge vill du leva?"
+    brother_counterquestion: "Hur sjuk vill du bli?"
+
+  development:
+    - cancer
+    - cardiovascular_disease
+    - neurodegeneration
+    - ageing
+    - death
+    - identity
+
+  deeper_problem: >
+    Om kroppen kan hållas fungerande under mycket lång tid, vad är det då
+    som teknologin egentligen bevarar?
+
+protagonist:
+
+  role: classifier_who_becomes_anomaly
+
+  intellectual_destination:
+    - nosology
+    - consciousness
+    - philosophy_of_medicine
+    - personal_identity
+
+  function: >
+    Protagonisten försöker förstå varför människor hela tiden skapar
+    kategorier för processer och sedan börjar behandla kategorierna som
+    om de vore själva verkligheten.
+
+name_change:
+
+  old_name: Dominic
+  new_name: Noa
+
+  literal_status: biographical_event
+
+  metaphysical_function: >
+    Namnbytet sammanfaller med en period då protagonistens autobiografiska,
+    sociala och professionella kontinuitet bryts.
+
+    Noa är ett namn som inte har protagonistens barndom.
+
+  important_image: >
+    Ingen hade ropat det namnet över skolgården.
+    Det stod inte på hans första läkarlegitimation.
+    Hans bror hade inte kallat honom det när de var barn.
+    Hans mor hade inte använt det när hon böjde sig över hans säng.
+
+  rule: >
+    Romanen ska inte slå fast att namnbytet metafysiskt orsakar någon
+    förändring. Kopplingen får förbli möjlig snarare än förklarad.
+
+child_portrait:
+
+  status: recurring_identity_motif
+
+  description: >
+    Ett porträtt som hängt först i barndomshemmet och senare i moderns hem.
+
+    Protagonisten är omkring ett till två år gammal och sitter i en svart
+    soffa fotograferad framifrån.
+
+    Fotografen har lagt in ytterligare en bild av samma barn i profil med
+    något annorlunda ansiktsuttryck.
+
+  ordinary_explanation: >
+    Fotografens konstnärliga val.
+
+  metaphysical_resonance: >
+    Två representationer av samma människa existerar samtidigt i samma
+    bild långt innan protagonisten själv har autobiografiska minnen.
+
+  rule: >
+    Ingen behöver kommentera att fotografiet är märkligt.
+
+tram_body:
+
+  status: temporal_body_anomaly
+
+  scene: >
+    På en spårvagn känner protagonisten plötsligt att hans kropp är mycket
+    större än den kropp han faktiskt kan se.
+
+  phenomenology: >
+    Upplevelsen känns inte som en önskan om en större kropp och inte som
+    en fråga om hans faktiska kroppsstorlek.
+
+    Den andra kroppen upplevs med en egendomlig självklarhet.
+
+  possible_future_resonance: >
+    Upplevelsen kan långt senare motsvara protagonistens framtida kropp.
+
+  rule: >
+    Den tidiga scenen får inte nämna kloning, framtid eller kroppsteknologi.
+
+year_2100:
+
+  protagonist:
+    chronological_age: very_old
+
+    visible_biological_age:
+      approximate: "25-30"
+
+    body:
+      appearance: >
+        Trots protagonistens mycket höga kronologiska ålder har kroppen
+        explicit utseendet och den fysiska vitaliteten hos en människa
+        omkring 25–30 år.
+
+      narrative_treatment: >
+        Detta ska vara tydligt för läsaren men behöver inte presenteras
+        som ett spektakulärt avslöjande.
+
+        Människor i framtidsvärlden behöver inte kommentera detta eftersom
+        biologisk ålder inte längre behöver följa kronologisk ålder på det
+        sätt som protagonistens generation betraktade som självklart.
+
+      implicit_metaphysical_connection: >
+        Kroppen kan ge retrospektiv resonans åt den tidiga scenen på
+        spårvagnen där protagonisten upplevde en större kropp än den han
+        faktiskt hade.
+
+      possible_origin:
+        status: intentionally_unresolved
+
+        possibilities:
+          - rejuvenated_original_body
+          - regenerated_body
+          - cloned_body
+          - progressively_replaced_biology
+          - another_continuity_model
+
+        rule: >
+          Romanen behöver inte avgöra eller tekniskt redogöra för vilken
+          modell som gäller.
+
+    identity_question: >
+      Om en människa har ett mycket gammalt autobiografiskt medvetande men
+      en kropp motsvarande en 25-årings, i vilken mening är hon gammal?
+
+  lelo:
+    relation: wife
+    academic_status: professor_emeritus
+
+  world:
+    principle: >
+      Framtiden ska vara vardag, inte spektakel.
+
+    technology: >
+      Teknologi och biologi har vuxit samman så långt att många funktioner
+      inte längre uppfattas som separata teknologiska objekt.
+
+    exposition_rule: >
+      Läsaren ska upptäcka framtiden genom konkreta anomalier och vardagliga
+      detaljer snarare än informationsdumpningar.
+
+  conversations:
+    function: >
+      En yngre människa kan ställa enkla frågor om protagonistens historiska
+      värld och därigenom exponera hur märkliga tidigare självklara
+      föreställningar har blivit.
+
+    possible_topics:
+      - work
+      - unemployment
+      - money
+      - ageing
+      - death
+      - diagnosis
+      - identity
+      - bodies
+      - consciousness
+
+    protagonist_answer_mode: >
+      Protagonisten har studerat frågorna i ett helt liv men får fortfarande
+      svara "Jag vet inte."
+
+anomaly_archive:
+
+  function: >
+    Återkommande neutrala interludier som beskriver historiska förändringar
+    på avstånd.
+
+  contrast: >
+    Huvudberättelsen visar anomalierna som levda erfarenheter.
+    Anomaliearkivet visar hur samma fenomen senare kan förstås som förändrade
+    normer och kategorier.
+
+work_theme:
+
+  function: >
+    Protagonistens förlust av arbete visar hur yrket fungerat som identitet,
+    struktur, status och relation till andra människor.
+
+  field: >
+    På Fältet uppstår frågan varför man ska stiga upp, laga mat, duscha eller
+    vårda sig själv när ingen väntar.
+
+  later_insight: >
+    Han lär sig så småningom skapa ritualer och mening utan att hela
+    identiteten måste organiseras av lönearbete.
+
+  metaphysical_extension: >
+    Frågan om arbete blir därför en del av den större frågan om huruvida
+    människans existens behöver legitimeras av något utanför henne själv.
+
+religious_motif:
+
+  question: >
+    Kan en människa leva för sig själv och ändå vara fullständigt verklig?
+
+  jesus_reference: >
+    Protagonisten tänker på formuleringen om att två eller tre som samlas
+    i Jesu namn innebär närvaro.
+
+  protagonist_question: >
+    Vad händer om det bara är en?
+
+  possible_line: >
+    Tänk om en människa kunde samlas.
+
+  function: >
+    Motivet öppnar frågan om en människas liv behöver en extern betraktare,
+    arbetsgivare, institution eller annan människa för att ha mening.
+
+solvinter:
+
+  status: reserve_material
+
+  canonical_role_in_this_direction: none_required
+
+  instruction: >
+    Solvinter, Cow Lane, Mumford och samhällsbyggarspåret ska inte driva
+    denna version av romanen.
+
+    Materialet ska bevaras i repot men betraktas som reservmaterial eller
+    material för en annan berättelse.
+
+    Enskilda idéer får endast användas om de tjänar denna romans centrala
+    frågor utan att skapa ett nytt entreprenörs- eller äventyrsspår.
+
+ending_principle: >
+  Romanen ska inte avsluta sina viktigaste filosofiska frågor.
+
+  År 2100 kan protagonisten ha levt mycket länge, ha en ung kropp och ha
+  ägnat decennier åt nosologi och medvetandefilosofi utan att därför ha
+  löst problemet med personlig identitet.
+
+possible_final_effect: >
+  Läsaren ska efter sista sidan kunna tänka tillbaka på Eira, Lelo,
+  namnbytet, barnfotografiet, spårvagnen, broderns repliker och den unga
+  kroppen år 2100 och fråga:
+
+  "Vad var det egentligen som var samma person genom allt detta?"
+
+core_summary: >
+  En människa faller ur de kategorier som tidigare definierat henne och
+  ägnar resten av sitt liv åt att förstå vad kategorierna egentligen
+  beskriver.
+
+  Samtidigt antyder romanen att människan själv kanske är större än den
+  tidsbundna individ som dessa kategorier försöker fånga.
+---

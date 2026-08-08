@@ -1,0 +1,36 @@
+---
+id: familjen_flyttar_till_usa
+
+status: metadata
+
+type: historical_context
+
+timeline:
+  - covid19_pandemic
+
+themes:
+  - family
+  - distance
+  - abandonment
+  - belonging
+
+facts:
+  - protagonist's brother had already settled in the United States
+  - protagonist's mother moved to the United States shortly before the pandemic
+  - the last close family member left Sweden just before society entered the pandemic
+  - protagonist remained in Sweden while moving between psychiatric care, shelters and unstable housing
+
+purpose:
+  - explain why the protagonist experienced losing both his former social world and his family almost simultaneously
+  - reinforce the emotional context without assigning blame
+
+render_guidance:
+  use_only_when_relevant
+  integrate_into_reflections
+
+author_intent:
+  preserve:
+    - avoid portraying family as abandoning the protagonist
+    - emphasize circumstance rather than intention
+    - focus on the protagonist's lived experience
+---

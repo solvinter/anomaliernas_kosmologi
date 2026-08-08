@@ -1,0 +1,1449 @@
+meta:
+  created: "2026-08-07"
+  status: "thematic_map"
+  scope:
+    - "notes/fragments/"
+    - "manus/"
+    - "output/manus/"
+    - "manuscript/"
+    - "story_bible/"
+    - "production/"
+  method: >
+    Kartan bygger på sökning och närläsning av fragment, romanversioner,
+    läsutgåvor, story bible och produktionsdokument. Den ska inte bevisa en
+    tes, utan visa vilket befintligt material som redan kan bära ett större
+    tema om arbete, status, passivitet, närvaro, teknologi och människovärde.
+  cautions:
+    - "Skilj mellan romanens material och produktionens meta-material."
+    - "Bevara motsägelser: arbete framträder både som autonomi, exploatering, identitet och frånvaro."
+    - "Passiv inkomst finns som tydligt motiv först genom Solvinter, pengar, valuta och värdecirkulation; det är inte lika etablerat som arbete/utanförskap."
+  audit:
+    notes_fragment_files_seen: 198
+    candidate_files_with_theme_keywords_seen: 231
+    connected_fragment_entries: 66
+
+core_theme:
+  name: "Arbete, status, närvaro och människovärde i automationens tid"
+  formulation: >
+    Materialet rör sig mellan ett samhälle där arbete ger namn, kropp, rytm,
+    status och social legitimitet, och en möjlig framtid där mänskligt värde
+    inte längre kan bindas till lönearbete eller produktivitetsmått. Romanens
+    starkaste material visar vad som händer när en människa faller ur arbetets
+    ordning, och vad som kan uppstå när närvaro, hantverk, omsorg och lärande
+    börjar räknas som verkliga former av värde.
+  evidence_quality: "starkt men ojämnt"
+  notes: >
+    Temat finns starkast i Betelskeppet, sjukhuset, Fältet, återgången till
+    arbete, Cow Lane, Mumford och Solvinter-ekonomin. Det är ännu inte fullt
+    sammanfogat till en medveten filosofisk linje i romanen, men materialet
+    pekar tydligt dit.
+
+possible_underlying_message:
+  - claim: >
+      En människa förlorar inte sitt värde när hon förlorar sitt arbete, men
+      samhället saknar ofta språk, platser och ekonomiska modeller för att se
+      henne då.
+    confidence: "high"
+  - claim: >
+      Arbete kan vara en form av stolthet och autonomi när det bygger kompetens,
+      ansvar och verkligt sammanhang, men en form av våld när det reducerar
+      människan till prestation, status eller nyttokropp.
+    confidence: "high"
+  - claim: >
+      AI och automation gör inte människan överflödig i materialet; de tvingar
+      snarare fram frågan om vilka mänskliga handlingar som borde räknas när
+      lönearbete inte längre är den enda värdebäraren.
+    confidence: "medium"
+  - claim: >
+      Närvaro, lärande, reparerande, odling, samtal och omsorg kan bli en
+      ny värdeform, men samma mätning kan också bli övervakning om den görs
+      utan etik.
+    confidence: "medium"
+
+historical_movement:
+  status: "latent snarare än färdigformulerad"
+  summary: >
+    Den föreslagna historiska rörelsen finns delvis i materialet, men inte som
+    en explicit essä. Romanen har redan de konkreta scenerna: kroppen i arbete,
+    yrket som namn, arbetslöshet som skam, bidrag som passiviserande kategori,
+    pengar som frihet, och Solvinter som möjlig post-work-struktur.
+  steps:
+    - step: 1
+      movement: "arbete som fysisk nödvändighet"
+      material_status: "explicit i Ghana-, Peta- och kustfragmenten; implicit i kranarna"
+      supporting_material:
+        - file: "notes/fragments/ateruppbyggnad_05"
+          fragment_id: "ateruppbyggnad_05"
+          connection_type: "explicit"
+          contribution: "Kroppsligt arbete i fiskeby, båtar, nät, material och vardagens fysiska villkor."
+        - file: "notes/fragments/mason_peta"
+          fragment_id: "peta"
+          connection_type: "explicit"
+          contribution: "Muraryrket och hantverkets precision som kunskap och stolthet."
+        - file: "notes/fragments/kranarnas_själ"
+          fragment_id: "kranarnas_sjal"
+          connection_type: "implicit"
+          contribution: "Industrins kropp finns kvar som former när arbetet har försvunnit."
+    - step: 2
+      movement: "arbetarrörelsens omvandling av arbete till stolthet och rättighet"
+      material_status: "svagt explicit, starkt möjligt genom skepparen, facket och hantverkarna"
+      supporting_material:
+        - file: "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+          fragment_id: null
+          connection_type: "implicit"
+          contribution: "Skepparen får värdighet genom kunnande, facklig erfarenhet och praktisk heder snarare än status."
+    - step: 3
+      movement: "yrket som modern identitet och status"
+      material_status: "explicit"
+      supporting_material:
+        - file: "notes/fragments/upplosning"
+          fragment_id: "upplosning"
+          connection_type: "explicit"
+          contribution: "När arbetet försvinner försvinner också namn, hem, ekonomi och social position."
+        - file: "notes/fragments/vantrummet"
+          fragment_id: "vantrummet"
+          connection_type: "explicit"
+          contribution: "Läkarrollen återkommer som både yrke, etik och riskfylld identitet."
+    - step: 4
+      movement: "arbetslöshet som socialt stigma"
+      material_status: "explicit i gatan/Fältet, implicit i sjukhuspassiviteten"
+      supporting_material:
+        - file: "notes/fragments/gatran"
+          fragment_id: "gatan"
+          connection_type: "implicit"
+          contribution: "Människan utan plats rör sig utanför stadens ekonomi och framtid."
+        - file: "notes/fragments/resonansen"
+          fragment_id: "resonansen"
+          connection_type: "explicit"
+          contribution: "Diagnoser, journaler och försörjningsstöd samlar människor i en social efterklang."
+    - step: 5
+      movement: "förmögenhet som rätt till fritid"
+      material_status: "svagt direkt, starkare genom faderns status och BlackRocks"
+      supporting_material:
+        - file: "notes/fragments/fadern_blackrocks.yaml"
+          fragment_id: "fadern_blackrocks"
+          connection_type: "implicit"
+          contribution: "Fadern bär en äldre klassordning där status, hushåll, mark och rätt att bli betjänad hänger samman."
+        - file: "notes/fragments/blackrocks.md"
+          fragment_id: "blackrocks"
+          connection_type: "implicit"
+          contribution: "Mark, hus och kust blir både frukt av arbete och arena för statuskonflikt."
+    - step: 6
+      movement: "passiv inkomst som högstatusversion av icke-arbete"
+      material_status: "ännu mest antytt"
+      supporting_material:
+        - file: "notes/fragments/raw/likviditet"
+          fragment_id: "likviditet"
+          connection_type: "explicit"
+          contribution: "Frihet definieras som hur långt in i framtiden en människa har råd att tänka."
+        - file: "notes/fragments/visionen_vid_vagskalet"
+          fragment_id: "visionen_vid_vagskalet"
+          connection_type: "implicit"
+          contribution: "Pengar börjar framträda som infrastruktur för arbete som ännu inte blivit färdigt."
+    - step: 7
+      movement: "AI och automation gör mänskligt arbete mindre självklart"
+      material_status: "explicit i Solvinter-filerna"
+      supporting_material:
+        - file: "story_bible/solvinter/economy.yaml"
+          fragment_id: null
+          connection_type: "explicit"
+          contribution: "AI-transformationen behöver lokal kompetens; människor bygger, underhåller och vidareutvecklar systemen."
+        - file: "manuscript/fragments/solvinter-brodern-ekonomi.md"
+          fragment_id: "solvinter-brodern-ekonomi"
+          connection_type: "explicit"
+          contribution: "Cow Lane kopplas till globalt AI-arbete, utbildning och självständig teknisk kompetens."
+    - step: 8
+      movement: "post-work-konflikten: människovärde efter produktivitet"
+      material_status: "tydligt men litterärt ofärdigt"
+      supporting_material:
+        - file: "notes/fragments/raw/faltets_valuta2"
+          fragment_id: "faltets_valuta2"
+          connection_type: "explicit"
+          contribution: "Bidrag omformas till rytm, deltagande och värde i ett system där närvaro räknas."
+        - file: "notes/fragments/proof_of_vitality"
+          fragment_id: "proof_of_vitality"
+          connection_type: "explicit"
+          contribution: "Vitalitet och deltagande blir mätbara, men riskerar samtidigt att bli kontroll."
+
+major_contrasts:
+  - contrast: "arbete - fattig"
+    summary: "Arbete framträder inte alltid som väg ut ur fattigdom; ibland är det bara överlevnad under hårda villkor."
+    examples:
+      - file: "notes/fragments/ateruppbyggnad_05"
+        connection_type: "explicit"
+        contribution: "Kustens arbete är kroppsligt, lokalt och nödvändigt."
+      - file: "notes/fragments/vaxthuset"
+        connection_type: "explicit"
+        contribution: "Omsorgsarbete förbrukar kroppen utan att garantera trygghet."
+  - contrast: "arbete - framgångsrik"
+    summary: "Yrket kan ge återkomst, status och namn, men också skapa beroende av prestation."
+    examples:
+      - file: "notes/fragments/vantrummet"
+        connection_type: "explicit"
+        contribution: "Läkaryrket ger handlingskraft och etisk auktoritet."
+      - file: "notes/fragments/innan_alllt"
+        connection_type: "explicit"
+        contribution: "Arbete och träning liknar socialt godkända beroenden."
+  - contrast: "fritid - förmögen"
+    summary: "Fritid som självvald frihet är kopplad till pengar, mark, rörlighet och tidshorisont."
+    examples:
+      - file: "notes/fragments/raw/likviditet"
+        connection_type: "explicit"
+        contribution: "Likviditet gör framtiden tänkbar."
+      - file: "notes/fragments/blackrocks.yaml"
+        connection_type: "implicit"
+        contribution: "Mark och hus blir frihetsobjekt men också familjekonflikt."
+  - contrast: "fritid - arbetslös"
+    summary: "Fritid utan ekonomisk och social legitimitet blir inte frihet utan skam, väntan och osynlighet."
+    examples:
+      - file: "notes/fragments/kroppen_som_blev_kvar2"
+        connection_type: "explicit"
+        contribution: "Utskrivningen lämnar kroppen i en väntansrytm utan låsta dörrar."
+      - file: "notes/fragments/gatran"
+        connection_type: "implicit"
+        contribution: "Gatans tid saknar produktiv riktning."
+  - contrast: "bidrag - beroende"
+    summary: "Bidrag och försörjningsstöd visar både nödvändig omsorg och en kategori som kan passivisera."
+    examples:
+      - file: "notes/fragments/resonansen"
+        connection_type: "explicit"
+        contribution: "Människor ordnas genom diagnoser, journaler och försörjningsstöd."
+      - file: "notes/fragments/raw/den_levande_kedjan"
+        connection_type: "explicit"
+        contribution: "Socialbidrag omformas till basvärde i en levande kedja."
+  - contrast: "passiv inkomst - frihet"
+    summary: "Pengar kan befria arbete från akut överlevnad, men temat behöver utvecklas försiktigt för att inte bli manifest."
+    examples:
+      - file: "notes/fragments/visionen_vid_vagskalet"
+        connection_type: "implicit"
+        contribution: "Värde börjar synas i hur människor tar i pengar och arbete som ännu inte är färdigt."
+      - file: "notes/fragments/raw/likviditet"
+        connection_type: "explicit"
+        contribution: "Pengar skapar förmågan att tänka längre än nästa dag."
+  - contrast: "Betelskeppet - utanförskap"
+    summary: "Skeppet är platsen där människor står utanför samhällets produktiva ordning men ännu är levande bärare av erfarenhet."
+    examples:
+      - file: "notes/fragments/skeppets_buk"
+        connection_type: "explicit"
+        contribution: "Skeppet fungerar som underjordiskt socialt rum och symbolisk buk."
+      - file: "notes/fragments/kranarnas_själ"
+        connection_type: "implicit"
+        contribution: "Kranarna binder utanförskapet till ett försvunnet industriellt arbete."
+  - contrast: "Fältet - närvaro"
+    summary: "Fältet föreslår en mänsklig ordning där närvaro, rutiner och relationer ersätter krav på prestation."
+    examples:
+      - file: "notes/fragments/ordningen"
+        connection_type: "explicit"
+        contribution: "Frivillig ordning blir motsats till institutionsdisciplin."
+      - file: "notes/fragments/faltet"
+        connection_type: "explicit"
+        contribution: "Arbete utan lönearbete blir ett sätt att återvinna värdighet."
+  - contrast: "sjukhuset - passivitet"
+    summary: "Sjukhuset arbetar intensivt som institution, men patienten placeras i väntan och kroppslig stillhet."
+    examples:
+      - file: "notes/fragments/avdelningen"
+        connection_type: "explicit"
+        contribution: "Vårdavdelningens ritualer ger både skydd och passivitet."
+      - file: "notes/fragments/kroppen_som_blev_kvar2"
+        connection_type: "explicit"
+        contribution: "Kroppen fortsätter följa institutionens rytm efter utskrivning."
+  - contrast: "Cow Lane - arbete som kompetens och autonomi"
+    summary: "Cow Lane förvandlar arbete från anställning/status till reparerbar kompetens, lärande och lokal kontroll."
+    examples:
+      - file: "notes/fragments/cow_lane_rooftops.yaml"
+        connection_type: "explicit"
+        contribution: "Varnar för passiva takuthyrare och prioriterar lokal kompetens."
+      - file: "notes/fragments/fro_for_mumfordnoden"
+        connection_type: "explicit"
+        contribution: "AI-stöd kopplas till utbildning, livsval, arbete och småföretag."
+  - contrast: "Solvinter - automation och post-work"
+    summary: "Solvinter antyder ett system där produktivitet kan skiljas från individuellt lönearbete utan att människan blir irrelevant."
+    examples:
+      - file: "story_bible/solvinter/economy.yaml"
+        connection_type: "explicit"
+        contribution: "Ekonomi byggs kring kompetens som blir kvar lokalt."
+      - file: "notes/fragments/proof_of_vitality"
+        connection_type: "explicit"
+        contribution: "Närvaro och vitalitet kan mätas, men etiskt riskabelt."
+
+locations_and_their_symbolic_functions:
+  - location: "Betelskeppet"
+    symbolic_function: >
+      Underjord, buk, tillfällig fristad och slutpunkt för den människa som
+      fallit ur namn, yrke, bostad och ekonomi. Det är inte bara misär utan
+      också ett arkiv av människor som systemet inte längre läser.
+    connections:
+      - file: "notes/fragments/skeppets_buk"
+        fragment_id: "skeppets_buk"
+        connection_type: "explicit"
+      - file: "notes/fragments/kranarnas_själ"
+        fragment_id: "kranarnas_sjal"
+        connection_type: "implicit"
+      - file: "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+        fragment_id: null
+        connection_type: "explicit"
+  - location: "kranarna och hamnen"
+    symbolic_function: >
+      Kvarlämnad arbetarkropp i stadens landskap. Maskinerna har fortfarande
+      form, riktning och själ, men deras arbete har blivit historiskt minne.
+    connections:
+      - file: "notes/fragments/kranarnas_själ"
+        fragment_id: "kranarnas_sjal"
+        connection_type: "explicit"
+      - file: "notes/fragments/morgonljusets_folk"
+        fragment_id: "morgonljusets_folk"
+        connection_type: "implicit"
+  - location: "sjukhuset"
+    symbolic_function: >
+      Institutionell aktivitet som producerar passivitet i patienten: rond,
+      medicin, måltider, väntan och kroppslig avlämning.
+    connections:
+      - file: "notes/fragments/avdelningen"
+        fragment_id: "avdelningen"
+        connection_type: "explicit"
+      - file: "notes/fragments/kroppen_som_blev_kvar2"
+        fragment_id: "kroppen_som_blev_kvar"
+        connection_type: "explicit"
+  - location: "Fältet"
+    symbolic_function: >
+      Plats där värde inte först uppstår genom anställning utan genom rytm,
+      rutiner, odling, samtal och förmågan att bli kvar utan att försvinna.
+    connections:
+      - file: "notes/fragments/platsen"
+        fragment_id: "platsen"
+        connection_type: "explicit"
+      - file: "notes/fragments/faltet"
+        fragment_id: "marcus_pipa"
+        connection_type: "explicit"
+      - file: "notes/fragments/vaxthuset"
+        fragment_id: "vaxt_huset"
+        connection_type: "explicit"
+  - location: "vårdcentralen"
+    symbolic_function: >
+      Återgång till yrkesidentitet, men också etiskt gränsland: läkaren har
+      varit patient, den hjälpande kroppen har själv varit hjälplös.
+    connections:
+      - file: "notes/fragments/vantrummet"
+        fragment_id: "vantrummet"
+        connection_type: "explicit"
+      - file: "notes/fragments/mellan_olika verkligheter 2"
+        fragment_id: null
+        connection_type: "explicit"
+  - location: "Cow Lane"
+    symbolic_function: >
+      Första praktiska noden där arbete blir kompetens, autonomi och byggbar
+      framtid snarare än bara anställning.
+    connections:
+      - file: "notes/fragments/cow_lane_rooftops.yaml"
+        fragment_id: "cow_lane_rooftops"
+        connection_type: "explicit"
+      - file: "notes/fragments/den_bortglomda_skatten"
+        fragment_id: "den_bortglomda_skatten"
+        connection_type: "implicit"
+      - file: "manuscript/fragments/solvinter-brodern-ekonomi.md"
+        fragment_id: "solvinter-brodern-ekonomi"
+        connection_type: "explicit"
+  - location: "Mumford"
+    symbolic_function: >
+      Platsen där läxhjälp, AI-stöd, lokala företag, maker space och social
+      infrastruktur kan visa värde före status.
+    connections:
+      - file: "notes/fragments/fro_for_mumfordnoden"
+        fragment_id: null
+        connection_type: "explicit"
+      - file: "notes/fragments/fro_om_laxhjalp"
+        fragment_id: null
+        connection_type: "explicit"
+  - location: "BlackRocks"
+    symbolic_function: >
+      Paradis, egendom, arbete och konflikt: huvudpersonen har arbetat fram
+      platsen, men faderns statusordning hotar att göra sonens arbete osynligt.
+    connections:
+      - file: "notes/fragments/blackrocks.md"
+        fragment_id: "blackrocks"
+        connection_type: "explicit"
+      - file: "notes/fragments/fadern_blackrocks.yaml"
+        fragment_id: "fadern_blackrocks"
+        connection_type: "implicit"
+  - location: "framtida Ghana/Solvinter"
+    symbolic_function: >
+      Möjlig post-work-miljö där AI, energi, utbildning och ekonomiska flöden
+      är vardagliga och människovärde inte måste bevisas genom lönearbete.
+    connections:
+      - file: "notes/fragments/windey_bay_ii.yaml"
+        fragment_id: "windey_bay_ii"
+        connection_type: "explicit"
+      - file: "story_bible/world/worldbuilding.yaml"
+        fragment_id: null
+        connection_type: "explicit"
+
+characters_connected_to_theme:
+  - character: "protagonisten"
+    thematic_role: >
+      Bär huvudbågen från yrkesidentitet till namnlöshet, institutionell
+      passivisering, återkomst till arbete och senare skapandet av en modell
+      där andra kan få värde före status.
+    files:
+      - "notes/fragments/upplosning"
+      - "notes/fragments/vantrummet"
+      - "story_bible/characters/protagonist.yaml"
+  - character: "Marcus"
+    thematic_role: >
+      Representerar handens arbete, jord, tobak, frivillig ordning och en
+      värdighet som inte behöver översättas till karriär.
+    files:
+      - "notes/fragments/faltet"
+      - "notes/fragments/marcus_pipa"
+  - character: "kvinnan i parken / vårdkvinnan"
+    thematic_role: >
+      Visar hur arbete, omsorg och social tillit kan förstöras när kropp,
+      smärta, vård och försörjning faller isär.
+    files:
+      - "notes/fragments/parken"
+      - "notes/fragments/vaxthuset"
+  - character: "skepparen"
+    thematic_role: >
+      Praktiskt kunnande utan akademisk status; arbete som heder, tyst precision
+      och social nytta.
+    files:
+      - "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+      - "story_bible/recurring_details.yaml"
+  - character: "Peta"
+    thematic_role: >
+      Hantverkets exakthet, ärlighet och byggmästarens lokala kunskap; en nod
+      mellan estetisk funktion och ekonomiskt möjlig framtid.
+    files:
+      - "notes/fragments/mason_peta"
+      - "notes/fragments/fathers_presence_blackrocks"
+  - character: "Arvid"
+    thematic_role: >
+      Teknisk anomali: IT-kompetens, spel, musik, 3D-skrivare och utbrändhet.
+      Visar både digital produktivitet och hur systemen kan förbruka den.
+    files:
+      - "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+      - "notes/fragments/raw/i_vaxthusets_skymning_2"
+  - character: "Eira/Lelo"
+    thematic_role: >
+      Bär universitet, kosmologi, anomalier, AI och framtidsblick; kan låta
+      filosofin bli samtal snarare än essä.
+    files:
+      - "notes/fragments/eira"
+      - "notes/fragments/raw/matematkprofessorn"
+      - "notes/fragments/windey_bay_ii.yaml"
+  - character: "fadern"
+    thematic_role: >
+      Status, egendom, äldre klassordning och konflikt kring vem som äger frukten
+      av arbete.
+    files:
+      - "notes/fragments/fadern_blackrocks.yaml"
+      - "notes/fragments/fathers_presence_blackrocks"
+      - "notes/fragments/Relationen till fadern var mycket komple"
+  - character: "brodern"
+    thematic_role: >
+      Ekonomins nödvändighet: idéer behöver kapital, institutioner och en modell
+      som låter arbete fortsätta tillräckligt länge för att skapa verkligt värde.
+    files:
+      - "manuscript/fragments/solvinter-brodern-ekonomi.md"
+      - "notes/fragments/solvinter_ekonomi_brodern.md"
+  - character: "dottern / dotterns dotter"
+    thematic_role: >
+      Framtidens sokratiska mottagare: kan bära frågan om hemligheter, värde,
+      sjukdom, arbete och varför tidigare epoker organiserade värdighet kring
+      produktivitet.
+    files:
+      - "notes/fragments/samtal_med_dotter"
+      - "notes/fragments/samtal_med_dottern_om_sjukdom"
+
+fragment_connections:
+  - file: "notes/fragments/gatran"
+    fragment_id: "gatan"
+    connection_type: "implicit"
+    thematic_support:
+      - "arbetslöshet"
+      - "utanförskap"
+      - "statusförlust"
+    contribution: "Gatan visar människan som fallit ut ur stadens ekonomi, framtid och igenkänningssystem."
+  - file: "notes/fragments/upplosning"
+    fragment_id: "upplosning"
+    connection_type: "explicit"
+    thematic_support:
+      - "förlust av arbete"
+      - "förlust av yrkesidentitet"
+      - "ekonomiskt sammanbrott"
+    contribution: "Namnet, arbetet, hemmet och ekonomin försvinner som en sammanhängande social kropp."
+  - file: "notes/fragments/skeppets_buk"
+    fragment_id: "skeppets_buk"
+    connection_type: "explicit"
+    thematic_support:
+      - "Betelskeppet"
+      - "utanförskap"
+      - "social underjord"
+    contribution: "Betelskeppet fungerar som konkret plats och symbol för människor utanför produktiv ordning."
+  - file: "notes/fragments/kranarnas_själ"
+    fragment_id: "kranarnas_sjal"
+    connection_type: "implicit"
+    thematic_support:
+      - "arbete"
+      - "industriellt minne"
+      - "förlorad funktion"
+    contribution: "Kranarna bevarar formen av arbete när arbetet självt har dragit sig tillbaka."
+  - file: "notes/fragments/morgonljusets_folk"
+    fragment_id: "morgonljusets_folk"
+    connection_type: "explicit"
+    thematic_support:
+      - "arbete som normal rytm"
+      - "klass"
+      - "utanförskap"
+    contribution: "Morgonljusets människor går till arbete och skola medan berättaren rör sig i en annan puls."
+  - file: "notes/fragments/minnestunden"
+    fragment_id: "minnestunden"
+    connection_type: "implicit"
+    thematic_support:
+      - "status"
+      - "social tillhörighet"
+      - "värde efter död"
+    contribution: "Minnet av en människa visar vad en social värld väljer att erkänna som värdefullt."
+  - file: "notes/fragments/den_tunna_linjen"
+    fragment_id: "den_tunna_linjen"
+    connection_type: "implicit"
+    thematic_support:
+      - "gräns mellan innanför och utanför"
+      - "social sårbarhet"
+    contribution: "Visar hur liten marginalen är mellan ordnad identitet och socialt fall."
+  - file: "notes/fragments/avdelningen"
+    fragment_id: "avdelningen"
+    connection_type: "explicit"
+    thematic_support:
+      - "sjukhus"
+      - "institutionell passivitet"
+      - "omsorg och kontroll"
+    contribution: "Avdelningen har rytm och ritualer som skyddar men också gör patienten passiv."
+  - file: "notes/fragments/kroppen_som_blev_kvar"
+    fragment_id: "kroppen_som_blev_kvar"
+    connection_type: "explicit"
+    thematic_support:
+      - "institutionell passivitet"
+      - "professionell identitet"
+      - "autonomi"
+    contribution: "Kropp, kognition och yrkesförmåga måste återerövras efter administrativ och institutionell upplösning."
+  - file: "notes/fragments/kroppen_som_blev_kvar2"
+    fragment_id: "kroppen_som_blev_kvar"
+    connection_type: "explicit"
+    thematic_support:
+      - "sjukhusrytm"
+      - "passivitet"
+      - "utskrivning"
+    contribution: "Patienten lämnar sjukhuset men bär kvar väntans rytm i kroppen."
+  - file: "notes/fragments/blamärken"
+    fragment_id: "blamarkena"
+    connection_type: "explicit"
+    thematic_support:
+      - "kroppsligt sammanbrott"
+      - "system som inte ser dubbel kompetens"
+      - "tredje väg"
+    contribution: "Systemet kan inte hålla ihop att samma människa är sjuk och kompetent, läkare och hjälpsökande."
+  - file: "notes/fragments/platsen"
+    fragment_id: "platsen"
+    connection_type: "explicit"
+    thematic_support:
+      - "Fältet"
+      - "återhämtning"
+      - "vardaglig närvaro"
+    contribution: "Fältet börjar som en praktisk plats snarare än idé: nyckel, adress, låga byggnader, jord."
+  - file: "notes/fragments/ordningen"
+    fragment_id: "ordningen"
+    connection_type: "explicit"
+    thematic_support:
+      - "närvaro"
+      - "frivillig ordning"
+      - "post-institutionell autonomi"
+    contribution: "Att diska en kopp blir en liten form av återvunnen handlingsförmåga."
+  - file: "notes/fragments/faltet"
+    fragment_id: "marcus_pipa"
+    connection_type: "explicit"
+    thematic_support:
+      - "arbete utan lönearbete"
+      - "frihet"
+      - "värdighet"
+    contribution: "Marcus och Fältet visar arbete med händerna utan krav, klocka eller karriär."
+  - file: "notes/fragments/marcus_pipa"
+    fragment_id: "marcus_pipa"
+    connection_type: "explicit"
+    thematic_support:
+      - "hantverk"
+      - "tyst kunskap"
+      - "närvaro"
+    contribution: "Pipan, tobaken och rutinen låter arbetets mening överleva utan institutionell status."
+  - file: "notes/fragments/vaxthuset"
+    fragment_id: "vaxt_huset"
+    connection_type: "explicit"
+    thematic_support:
+      - "arbete"
+      - "omsorgsarbete"
+      - "arbete efter kroppens sammanbrott"
+    contribution: "En kvinna har arbetat hela sitt liv i omsorgen men lämnas utan skydd när kroppen inte längre håller."
+  - file: "notes/fragments/de_osedda"
+    fragment_id: "de_osedda"
+    connection_type: "implicit"
+    thematic_support:
+      - "utanförskap"
+      - "närvaro utan produktivitetskrav"
+      - "social blindhet"
+    contribution: "Fältets människor blir synliga genom odling, samtal och lågmälda handlingar snarare än meritlistor."
+  - file: "notes/fragments/resonansen"
+    fragment_id: "resonansen"
+    connection_type: "explicit"
+    thematic_support:
+      - "försörjningsstöd"
+      - "diagnoser"
+      - "efterklang"
+    contribution: "Diagnoser, journaler och bidrag bildar en administrativ kategori för människor som ändå fortsätter leva."
+  - file: "notes/fragments/raw/resonans"
+    fragment_id: "resonans"
+    connection_type: "explicit"
+    thematic_support:
+      - "försörjningsstöd"
+      - "resonans"
+      - "utanförskap"
+    contribution: "Råversionen förstärker hur socialt värde kan finnas i efterklang, inte i prestation."
+  - file: "notes/fragments/parken"
+    fragment_id: "parken"
+    connection_type: "explicit"
+    thematic_support:
+      - "arbete som förlorad social ordning"
+      - "smärta"
+      - "vårdmisslyckande"
+    contribution: "Kvinnan hade arbete, vårdnad och tillit innan allt försvann."
+  - file: "notes/fragments/vantrummet"
+    fragment_id: "vantrummet"
+    connection_type: "explicit"
+    thematic_support:
+      - "läkaryrket"
+      - "yrkesidentitet"
+      - "institutionell etik"
+    contribution: "Vårdcentralen låter huvudpersonen återträda i yrkesrollen men med förändrad blick."
+  - file: "notes/fragments/mellan_olika verkligheter 2"
+    fragment_id: null
+    connection_type: "explicit"
+    thematic_support:
+      - "återgång till arbete"
+      - "social klass"
+      - "institutioner"
+    contribution: "Vägen från kommunalt boende till läkararbete formuleras som nästan osannolik social rörelse."
+  - file: "notes/fragments/restaurangen"
+    fragment_id: "restaurangen"
+    connection_type: "implicit"
+    thematic_support:
+      - "vardag efter arbete"
+      - "återkomst"
+      - "social rytm"
+    contribution: "Efter arbetet finns en enkel offentlig vardag som kroppen åter lär sig."
+  - file: "notes/fragments/innan_alllt"
+    fragment_id: "innan_alllt"
+    connection_type: "explicit"
+    thematic_support:
+      - "arbete som prestation"
+      - "socialt godkänt beroende"
+      - "yrkesidentitet"
+    contribution: "Före sammanbrottet framträder arbete, studier och träning som legitimt tvång och drivkraft."
+  - file: "notes/fragments/ateruppbyggnad_01"
+    fragment_id: "ateruppbyggnad_01"
+    connection_type: "explicit"
+    thematic_support:
+      - "återuppbyggnad"
+      - "kropp"
+      - "autonomi"
+    contribution: "Återkomsten börjar som praktisk återerövring snarare än idé."
+  - file: "notes/fragments/ateruppbyggnad_2"
+    fragment_id: "ateruppbyggnad_2"
+    connection_type: "implicit"
+    thematic_support:
+      - "disciplin"
+      - "kroppslig återkomst"
+    contribution: "Bygger vidare på hur handling och kropp kan föregå självkänsla."
+  - file: "notes/fragments/ateruppbyggnad_03"
+    fragment_id: "ateruppbyggnad_03"
+    connection_type: "implicit"
+    thematic_support:
+      - "återhämtning"
+      - "praktisk struktur"
+    contribution: "Återhämtning beskrivs som återuppbyggnad av rytm och vardagsförmåga."
+  - file: "notes/fragments/ateruppbyggnad_4"
+    fragment_id: "ateruppbyggnad_4"
+    connection_type: "implicit"
+    thematic_support:
+      - "autonomi"
+      - "framtida handlingskraft"
+    contribution: "Rör huvudpersonen från passiv mottagare till aktör."
+  - file: "notes/fragments/ateruppbyggnad_05"
+    fragment_id: "ateruppbyggnad_05"
+    connection_type: "explicit"
+    thematic_support:
+      - "kroppsligt arbete"
+      - "fiskeby"
+      - "lokal ekonomi"
+    contribution: "Kustsamhällets arbete formar kroppen och bär lokala kunskaper."
+  - file: "notes/fragments/cow_lane_rooftops.yaml"
+    fragment_id: "cow_lane_rooftops"
+    connection_type: "explicit"
+    thematic_support:
+      - "Cow Lane"
+      - "kompetens"
+      - "autonomi"
+      - "passiv inkomst som risk"
+    contribution: "Motivet med passiva takuthyrare visar att projektet inte bara ska skapa hyresintäkter utan lokal förmåga."
+  - file: "notes/fragments/den_bortglomda_skatten"
+    fragment_id: "den_bortglomda_skatten"
+    connection_type: "implicit"
+    thematic_support:
+      - "latent värde"
+      - "klass"
+      - "Cow Lane"
+    contribution: "Skatten är inte bara pengar utan människor, rum, kompetens och outnyttjad möjlighet."
+  - file: "notes/fragments/fro_for_mumfordnoden"
+    fragment_id: null
+    connection_type: "explicit"
+    thematic_support:
+      - "utbildning"
+      - "arbete"
+      - "AI-stöd"
+      - "livsval"
+    contribution: "Mumfordnoden gör arbete till orientering, småföretagande och framtidsförmåga snarare än status."
+  - file: "notes/fragments/fro_om_laxhjalp"
+    fragment_id: null
+    connection_type: "explicit"
+    thematic_support:
+      - "läxhjälp"
+      - "maker space"
+      - "AI-handledning"
+      - "kreativitet"
+    contribution: "Visar hur lärande, lek, gaming, företagande och lokal infrastruktur kan rymmas i samma nod."
+  - file: "notes/fragments/solv.md"
+    fragment_id: "solv"
+    connection_type: "explicit"
+    thematic_support:
+      - "värde"
+      - "ekonomi"
+      - "bidrag/cirkulation"
+    contribution: "Pengar omtolkas som något som kan glömma mänsklig relation och bidrag."
+  - file: "notes/fragments/solv.yaml"
+    fragment_id: "solv"
+    connection_type: "explicit"
+    thematic_support:
+      - "Solv"
+      - "värde"
+      - "ekonomisk cirkulation"
+    contribution: "YAML-versionen gör värdeprinciperna mer arkiviska och strukturerade."
+  - file: "notes/fragments/faltets_valuta"
+    fragment_id: "faltets_valuta"
+    connection_type: "explicit"
+    thematic_support:
+      - "bidrag"
+      - "fältets valuta"
+      - "arbete utan lön"
+    contribution: "Bidrag och närvaro börjar bli en alternativ valuta för deltagande."
+  - file: "notes/fragments/faltets_valuta_retrospekt.yaml"
+    fragment_id: "faltets_valuta_retrospekt"
+    connection_type: "explicit"
+    thematic_support:
+      - "retrospektiv ekonomi"
+      - "värde"
+      - "närvaro"
+    contribution: "Framtidsblicken låter Fältets valuta förstås som början på en senare värdemodell."
+  - file: "notes/fragments/den_osynliga_ekonomin.yaml"
+    fragment_id: "den_osynliga_ekonomin"
+    connection_type: "explicit"
+    thematic_support:
+      - "osynligt arbete"
+      - "värde som inte registreras"
+      - "ekonomi"
+    contribution: "Samhället kan se kostnader men missar bidrag, omsorg och socialt värde."
+  - file: "notes/fragments/vaxthusets_skymning_1.yaml"
+    fragment_id: "vaxthusets_skymning_1"
+    connection_type: "explicit"
+    thematic_support:
+      - "växthuset"
+      - "resonant ekonomi"
+      - "närvaro"
+    contribution: "Närvaro, energi och mänsklig vitalitet börjar länkas till ekonomiska former."
+  - file: "notes/fragments/vaxthuset_i_skymmning"
+    fragment_id: "vaxthuset_i_skymmning"
+    connection_type: "explicit"
+    thematic_support:
+      - "växthus"
+      - "AI"
+      - "värdemätning"
+    contribution: "Växthuset blir plats för samtal om ekonomi, biologi, AI och mänskligt deltagande."
+  - file: "notes/fragments/proof_of_vitality"
+    fragment_id: "proof_of_vitality"
+    connection_type: "explicit"
+    thematic_support:
+      - "närvaro som värde"
+      - "AI"
+      - "övervakningsrisk"
+    contribution: "Utvecklar idén att värde kan mätas genom vitalitet, men öppnar en etisk konflikt."
+  - file: "notes/fragments/raw/faltets_valuta2"
+    fragment_id: "faltets_valuta2"
+    connection_type: "explicit"
+    thematic_support:
+      - "socialt basvärde"
+      - "post-lönearbete"
+      - "resonant ekonomi"
+    contribution: "Råfragmentet omformar bidrag till rytm, bränsle, puls och deltagande."
+  - file: "notes/fragments/raw/den_levande_kedjan"
+    fragment_id: "den_levande_kedjan"
+    connection_type: "explicit"
+    thematic_support:
+      - "socialbidrag som basvärde"
+      - "levande ekonomi"
+    contribution: "Sociala utbetalningar kan tänkas som grundflöde i stället för ren kostnad."
+  - file: "notes/fragments/raw/rytmen_i_manniskorna"
+    fragment_id: "rytmen_i_manniskorna"
+    connection_type: "explicit"
+    thematic_support:
+      - "roll utan lönearbete"
+      - "institution"
+      - "passiv omsorg"
+    contribution: "Rytm blir en social form där människor kan hitta funktion utan anställning."
+  - file: "notes/fragments/raw/levd_framtid"
+    fragment_id: "levd_framtid"
+    connection_type: "explicit"
+    thematic_support:
+      - "AI och frihet"
+      - "framtid som vardag"
+      - "automation"
+    contribution: "Frågar om AI kan skapa mänsklig frihet snarare än bara billigare arbete."
+  - file: "notes/fragments/raw/likviditet"
+    fragment_id: "likviditet"
+    connection_type: "explicit"
+    thematic_support:
+      - "ekonomiskt oberoende"
+      - "fritid"
+      - "framtidshorisont"
+    contribution: "Likviditet definieras som förmågan att tänka långt framåt; frihet blir tid."
+  - file: "notes/fragments/raw/i_vaxthusets_skymning_2"
+    fragment_id: "i_vaxthusets_skymning_2"
+    connection_type: "explicit"
+    thematic_support:
+      - "tokeniserat basvärde"
+      - "AI"
+      - "resonant ekonomi"
+    contribution: "Råversion med tekniskt överlastad men tydlig modell för socialt basvärde, aktivitet och vitalitet."
+  - file: "notes/fragments/raw/matematkprofessorn"
+    fragment_id: "matematikprofessorn"
+    connection_type: "explicit"
+    thematic_support:
+      - "nätverk"
+      - "klass genom algoritmer"
+      - "människovärde"
+    contribution: "Föreläsningen binder ekonomi, algoritmer, periferier och människovärde till matematisk humanism."
+  - file: "notes/fragments/mason_peta"
+    fragment_id: "peta"
+    connection_type: "explicit"
+    thematic_support:
+      - "arbete som stolthet"
+      - "hantverkskunskap"
+      - "lokal kompetens"
+    contribution: "Peta lär genom arbete; kvalitet är moralisk och praktisk, inte dekorativ."
+  - file: "notes/fragments/fathers_presence_blackrocks"
+    fragment_id: "blackrocks"
+    connection_type: "explicit"
+    thematic_support:
+      - "klass"
+      - "hantverk"
+      - "statuskonflikt"
+    contribution: "Fadern störs av relationer där rang inte är tydlig, medan Peta representerar arbetets precision."
+  - file: "notes/fragments/fadern_blackrocks.yaml"
+    fragment_id: "fadern_blackrocks"
+    connection_type: "explicit"
+    thematic_support:
+      - "status"
+      - "klass"
+      - "egendom"
+    contribution: "Fadern bär en statusordning med tjänare, hushåll och egendom som står i konflikt med sonens arbete."
+  - file: "notes/fragments/de_forsta_anomalierna.md"
+    fragment_id: "de_forsta_anomalierna"
+    connection_type: "explicit"
+    thematic_support:
+      - "dolda kompetenser"
+      - "utanförskap"
+      - "arbete utan meritförteckning"
+    contribution: "De första anomalierna har färdigheter som systemet inte kan läsa som arbetsmarknadsvärde."
+  - file: "notes/fragments/de_forsta_anomalierna.yaml"
+    fragment_id: "de_forsta_anomalierna"
+    connection_type: "explicit"
+    thematic_support:
+      - "dolda kompetenser"
+      - "rekrytering ur marginalen"
+    contribution: "Strukturerar samma motiv: människor från boenden och möten med verkliga förmågor."
+  - file: "notes/fragments/raw/forrodet_med_henne"
+    fragment_id: "forrodet_med_henne"
+    connection_type: "implicit"
+    thematic_support:
+      - "exploatering"
+      - "kriminalitet som alternativ arbetsmarknad"
+      - "tillhörighet"
+    contribution: "Gängens rekrytering framträder som marknad för begåvning, lojalitet och tillhörighet."
+  - file: "notes/fragments/visionen_vid_vagskalet"
+    fragment_id: "visionen_vid_vagskalet"
+    connection_type: "explicit"
+    thematic_support:
+      - "pengar"
+      - "värde"
+      - "arbete som ofärdig framtid"
+    contribution: "Förändringen syns i hur människor tar i pengar; arbete är något som ännu inte hunnit bli färdigt."
+  - file: "notes/fragments/blackrocks.md"
+    fragment_id: "blackrocks"
+    connection_type: "explicit"
+    thematic_support:
+      - "egendom"
+      - "arbete över tid"
+      - "familjekonflikt"
+    contribution: "Huset är resultat av huvudpersonens arbete, pengar och närvaro men blir senare ockuperat symboliskt."
+  - file: "notes/fragments/blackrocks.yaml"
+    fragment_id: "blackrocks"
+    connection_type: "explicit"
+    thematic_support:
+      - "egendom"
+      - "BlackRocks"
+      - "status"
+    contribution: "YAML-versionen gör BlackRocks till struktur i berättelsens ekonomi och familjekonflikt."
+  - file: "notes/fragments/act2_synthesis"
+    fragment_id: "act2_synthesis"
+    connection_type: "implicit"
+    thematic_support:
+      - "Ghana"
+      - "Solvinter"
+      - "återkomst"
+    contribution: "Sammanfattar rörelsen från personlig återkomst till praktisk samhällsbyggnad."
+  - file: "notes/fragments/dianostiskt_centrum_2949"
+    fragment_id: "diagnostiskt_centrum_2949"
+    connection_type: "implicit"
+    thematic_support:
+      - "framtidens psykiatri"
+      - "institutioner"
+      - "klassificering"
+    contribution: "Framtida diagnostik riskerar att klassificera värde och avvikelse på nya sätt."
+  - file: "notes/fragments/biologisk_kartlaggning"
+    fragment_id: "biologisk_kartlaggning"
+    connection_type: "implicit"
+    thematic_support:
+      - "människovärde"
+      - "medicin"
+      - "framtida system"
+    contribution: "Biologisk kartläggning flyttar frågan om arbete/värde mot kropp, data och institutioner."
+  - file: "notes/fragments/samtal_med_dotter"
+    fragment_id: "samtal_med_dotter"
+    connection_type: "implicit"
+    thematic_support:
+      - "framtidsdialog"
+      - "barnens frihet"
+      - "arbete som bakgrund"
+    contribution: "Framtidens samtal kan bära frågan om vad tidigare epoker krävde av människor."
+  - file: "notes/fragments/windey_bay_ii.yaml"
+    fragment_id: "windey_bay_ii"
+    connection_type: "explicit"
+    thematic_support:
+      - "resonant ekonomi"
+      - "närvaro"
+      - "Solvinterhistoria"
+    contribution: "Framtida arkivmaterial kopplar Solvinter till rytmisk ekonomi, närvaro och värde bortom skuld."
+  - file: "notes/fragments/natverken"
+    fragment_id: "natverken"
+    connection_type: "explicit"
+    thematic_support:
+      - "nätverk"
+      - "ekonomiskt värde"
+      - "periferi"
+    contribution: "Värde förankras i relationer och nätverk snarare än materia."
+  - file: "notes/fragments/raw/atriumet"
+    fragment_id: "atriumet"
+    connection_type: "explicit"
+    thematic_support:
+      - "utanförskap som anomali"
+      - "institutionell blindhet"
+      - "klassificering"
+    contribution: "Utanförskap förstås som något systemet ser som fel i bilden, inte som möjlig kunskap."
+  - file: "notes/fragments/raw/fageltornet2"
+    fragment_id: "fageltornet2"
+    connection_type: "explicit"
+    thematic_support:
+      - "anomalier"
+      - "människor som hålls hanterliga"
+      - "outnyttjat värde"
+    contribution: "Systemet bevarar avvikande människor som undantag i stället för att låta dem förändra modellen."
+  - file: "notes/fragments/jackan"
+    fragment_id: "jackan"
+    connection_type: "implicit"
+    thematic_support:
+      - "AI som samtalspartner"
+      - "återkomst efter arbete"
+      - "identitet"
+    contribution: "AI:n fungerar som lågmäld kognitiv spegel i en vardag efter återgång till arbete."
+
+manuscript_connections:
+  - file: "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+    version_or_role: "kortroman/läsutgåva v0.8"
+    connection_type: "explicit"
+    thematic_support:
+      - "förlust av arbete och namn"
+      - "Betelskeppet"
+      - "återkomst"
+      - "Cow Lane"
+      - "Solvinter och pengar"
+    contribution: >
+      Den tydligaste romanversionen för temat. Den innehåller nedstigningen,
+      kranarna, sjukhuspassiviteten, arbete som återkomst, Cow Lane som praktisk
+      nod, Arvid/Skepparen/Peta som kompetensfigurer och framtida samtal där
+      pengar, arbete och värde kan omtolkas.
+  - file: "manus/anomaliernas_kosmologi_v0_1.md"
+    version_or_role: "tidigare komplett manusversion"
+    connection_type: "explicit"
+    thematic_support:
+      - "Fältet"
+      - "återgång till arbete"
+      - "framtidsidéer"
+    contribution: >
+      Innehåller mer explicit essä- och framtidsmaterial än v0.8. Viktig för
+      teman som arbete efter sammanbrott, läkaryrkets robusthet och Fältet som
+      social prototyp.
+  - file: "manus/anomaliernas_kosmologi_lopande_version.md"
+    version_or_role: "löpande version"
+    connection_type: "explicit"
+    thematic_support:
+      - "sammanhängande fragmentrygg"
+      - "Betelskeppet"
+      - "kranarna"
+      - "Fältet"
+    contribution: >
+      En tidigare löpande bearbetning där temats äldre lager finns kvar, särskilt
+      Betelskeppet, kranarna, psykiatrin och rörelsen mot tillhörighet.
+  - file: "manus/arbetsmanus/anomaliernas_kosmologi_arbetsmanus_enligt_ny_synopsis_v0_1.md"
+    version_or_role: "arbetsmanus enligt ny synopsis"
+    connection_type: "explicit"
+    thematic_support:
+      - "äventyrsstruktur"
+      - "Ghana"
+      - "arbete och revansch"
+    contribution: >
+      Visar hur materialet kan röra sig mot en mer läsvänlig båge där arbete,
+      pengar och återkomst blir del av romanens yttre handling.
+  - file: "manus/redaktorsrapport_v0_1.md"
+    version_or_role: "redaktörsrapport"
+    connection_type: "explicit"
+    thematic_support:
+      - "återgång till arbete"
+      - "Fältet"
+      - "Solvinter"
+    contribution: "Rapporten identifierar flera kapitel där arbete, vård, framtid och vardag bör bära romanen."
+  - file: "output/manus/redaktorsnot_lasutgava_v0_8.md"
+    version_or_role: "redaktörsnot v0.8"
+    connection_type: "implicit"
+    thematic_support:
+      - "teknologi nedtonad"
+      - "beräkningsarbete"
+    contribution: "Noterar att teknikord har dämpats för att låta romanen bära temat mänskligt."
+  - file: "manuscript/fragments/solvinter-brodern-ekonomi.md"
+    version_or_role: "manuscript fragment"
+    connection_type: "explicit"
+    thematic_support:
+      - "Solvinter-ekonomi"
+      - "AI-arbete"
+      - "lokal kompetens"
+    contribution: "Nyckeltext för ekonomin: AI-transformationen kräver människor som bygger och underhåller systemen."
+  - file: "manuscript/scenes/blackrocks_return.scene.md"
+    version_or_role: "scene setup"
+    connection_type: "implicit"
+    thematic_support:
+      - "egendom"
+      - "återkomst"
+      - "familjekonflikt"
+    contribution: "Kan bära spänningen mellan arbete som lagt grunden och status som försöker äga resultatet."
+  - file: "story_bible/chronology/major_arcs.yaml"
+    version_or_role: "chronology"
+    connection_type: "explicit"
+    thematic_support:
+      - "Betelskeppet till återkomst"
+      - "Cow Lane före BlackRocks"
+      - "framtida retrospektion"
+    contribution: "Bekräftar att temats rörelse redan ligger i övergripande kronologi."
+  - file: "story_bible/world/worldbuilding.yaml"
+    version_or_role: "worldbuilding"
+    connection_type: "explicit"
+    thematic_support:
+      - "Cow Lane"
+      - "Mumford"
+      - "AI som vardag"
+    contribution: "Kodifierar platser där arbete, lärande och teknik blir vardaglig infrastruktur."
+  - file: "story_bible/solvinter/economy.yaml"
+    version_or_role: "Solvinter story bible"
+    connection_type: "explicit"
+    thematic_support:
+      - "ekonomisk modell"
+      - "AI"
+      - "kompetens som tillgång"
+    contribution: "Tydligaste kanontexten för Solvinter som ekonomi byggd kring lokal förmåga."
+  - file: "story_bible/solvinter/model.yaml"
+    version_or_role: "Solvinter model"
+    connection_type: "explicit"
+    thematic_support:
+      - "osynlig AI"
+      - "människocentrerad teknologi"
+      - "reparerbarhet"
+    contribution: "Gör teknologin till bakgrund och tjänare för människor, rum, lärande och reparationer."
+  - file: "story_bible/recurring_details.yaml"
+    version_or_role: "motif registry"
+    connection_type: "explicit"
+    thematic_support:
+      - "Betelskeppet"
+      - "glömd skatt"
+      - "ljus till guld"
+      - "reparerbarhet"
+    contribution: "Samlar återkommande bilder som redan stödjer temat."
+  - file: "production/authoring_method.md"
+    version_or_role: "production meta"
+    connection_type: "implicit"
+    thematic_support:
+      - "AI och arbete"
+      - "litterär verkstad"
+    contribution: "Inte in-world-material, men visar att även skrivprocessen är organiserad som arbetsdelning mellan människa och AI."
+  - file: "production/creative_contract.md"
+    version_or_role: "production contract"
+    connection_type: "implicit"
+    thematic_support:
+      - "mänskligt ägarskap"
+      - "AI som verkstad"
+    contribution: "Meta-lager: AI ersätter inte författarens kärna utan fungerar som produktionsapparat."
+  - file: "production/expansion_policy.md"
+    version_or_role: "rendering instruction"
+    connection_type: "explicit"
+    thematic_support:
+      - "teknik som fysisk verklighet"
+      - "Solvinter som mänskligt"
+    contribution: "Hjälper framtida renderingar att inte göra temat till teknikmanifest."
+
+recurring_images:
+  - image: "kranarna"
+    thematic_function: "Arbetets monument efter att arbetet lämnat platsen; maskiner med form, syfte och förlorad själ."
+    files:
+      - "notes/fragments/kranarnas_själ"
+      - "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+  - image: "morgonljuset i andras fönster"
+    thematic_function: "Arbetsdagens normala rytm sedd utifrån av den som saknar plats vid bordet."
+    files:
+      - "notes/fragments/morgonljusets_folk"
+      - "notes/fragments/morgonljuset"
+  - image: "sjukhusets lysrör, rond och måltider"
+    thematic_function: "Institutionell rytm som både vårdar och passiviserar."
+    files:
+      - "notes/fragments/avdelningen"
+      - "notes/fragments/kroppen_som_blev_kvar2"
+  - image: "koppen som diskas"
+    thematic_function: "Minimal autonom handling efter institutionell passivitet."
+    files:
+      - "notes/fragments/ordningen"
+  - image: "jorden, tobaken och växthuset"
+    thematic_function: "Arbete som närvaro, odling och återcirkulation snarare än lönearbete."
+    files:
+      - "notes/fragments/faltet"
+      - "notes/fragments/marcus_pipa"
+      - "notes/fragments/vaxthuset"
+  - image: "tak, solpaneler och batterier"
+    thematic_function: "Solen som blir el, arbete, betalningar, lärande och framtid."
+    files:
+      - "notes/fragments/cow_lane_rooftops.yaml"
+      - "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+  - image: "murade väggar, raka linjer och passiv kylning"
+    thematic_function: "Teknik som hantverkskunskap, klimatförståelse och estetisk funktion."
+    files:
+      - "notes/fragments/mason_peta"
+      - "notes/fragments/arkitektur_som_omsorg"
+      - "story_bible/solvinter/model.yaml"
+  - image: "pengar som ljus, vägg, skuld eller rytm"
+    thematic_function: "Ekonomi som både befrielse, skam, kontroll och möjlighet."
+    files:
+      - "notes/fragments/visionen_vid_vagskalet"
+      - "notes/fragments/raw/likviditet"
+      - "notes/fragments/faltets_valuta"
+  - image: "noder och nätverk"
+    thematic_function: "Människor, rum och relationer som ekonomiska och sociala strukturer."
+    files:
+      - "notes/fragments/natverken"
+      - "notes/fragments/raw/matematkprofessorn"
+      - "story_bible/solvinter/economy.yaml"
+
+recurring_phrases_or_ideas:
+  - phrase_or_idea: "förlusten av namn, arbete, hem och ekonomi"
+    function: "Binder yrkesidentitet till social existens."
+    files:
+      - "notes/fragments/upplosning"
+      - "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+  - phrase_or_idea: "arbete utan lönearbete"
+    function: "Öppnar Fältet som alternativ till arbetslinjens människosyn."
+    files:
+      - "notes/fragments/faltet"
+      - "notes/fragments/raw/rytmen_i_manniskorna"
+  - phrase_or_idea: "bidraget som rytm eller basvärde"
+    function: "Vänder bidrag från stigma till möjlig grundström i en social ekonomi."
+    files:
+      - "notes/fragments/faltets_valuta"
+      - "notes/fragments/raw/faltets_valuta2"
+      - "notes/fragments/raw/den_levande_kedjan"
+  - phrase_or_idea: "värde som relation snarare än materia"
+    function: "Binder ekonomi, nätverk, AI och människovärde."
+    files:
+      - "notes/fragments/natverken"
+      - "notes/fragments/raw/matematkprofessorn"
+  - phrase_or_idea: "människor som systemet hellre bevarar som undantag"
+    function: "Kopplar anomalier till outnyttjad kompetens och institutionell rädsla."
+    files:
+      - "notes/fragments/raw/fageltornet2"
+      - "notes/fragments/raw/atriumet"
+  - phrase_or_idea: "AI bygger inte sig själv"
+    function: "Central motrörelse mot förenklad automation: människor och lokal kompetens behövs."
+    files:
+      - "manuscript/fragments/solvinter-brodern-ekonomi.md"
+      - "story_bible/solvinter/economy.yaml"
+  - phrase_or_idea: "frihet är hur långt in i framtiden man har råd att tänka"
+    function: "Gör ekonomi till tidshorisont snarare än konsumtion."
+    files:
+      - "notes/fragments/raw/likviditet"
+
+tensions:
+  - tension: "arbete som räddning kontra arbete som förbrukning"
+    material: "Återgången till läkararbete ger värdighet, men vårdkvinnans liv visar arbete som kroppslig förbrukning."
+  - tension: "närvaro som värde kontra närvaro som övervakning"
+    material: "Fältets valuta och proof of vitality vill se det osedda men riskerar att mäta människan för hårt."
+  - tension: "AI som frigörelse kontra AI som ny arbetsmarknad"
+    material: "Solvinter vill skapa frihet och lokal kompetens men är också beroende av globalt AI-arbete och ekonomiska beställare."
+  - tension: "bidrag som stigma kontra bidrag som socialt basvärde"
+    material: "Försörjningsstöd markerar marginalitet i Fältet, men omformas i senare fragment till grundflöde."
+  - tension: "status genom yrke kontra värde genom praktisk kunskap"
+    material: "Läkaren har formell status; Skepparen, Peta och Arvid har kompetens som ofta saknar social översättning."
+  - tension: "förmögen fritid kontra arbetslös fritid"
+    material: "Likviditet ger framtidshorisont, medan arbetslöshetens tid på gatan och efter sjukhuset blir skam och väntan."
+  - tension: "ekonomisk framgång kontra romanens lågmälda etik"
+    material: "Solvinter kan bli mycket framgångsrikt, men berättelsen fungerar bäst när pengar blir möjliggörare och inte triumftal."
+
+contradictions:
+  - contradiction: "Fältet är både plats för frihet och plats för människor som placerats utanför."
+    significance: "Gör Fältet litterärt starkare: det är inte idyll, utan en dubbel plats."
+  - contradiction: "Institutionen skadar genom passivitet men räddar genom struktur."
+    significance: "Sjukhuset kan inte reduceras till fiende; vården ger skydd, men också förlust av autonomi."
+  - contradiction: "Yrket är både en falsk identitet och en nödvändig återkomst."
+    significance: "Läkaryrket bör inte strykas ned till statuskritik; det är också ansvar och etisk praktik."
+  - contradiction: "Pengar kritiseras men behövs."
+    significance: "Broderfragmentet och Solvinter-ekonomin visar att idéer dör utan ekonomi."
+  - contradiction: "Automation kan minska mänsklig nödvändighet men kräver mer mänsklig kompetens i början."
+    significance: "Materialet motsäger enkla post-work-slutsatser."
+  - contradiction: "Att mäta närvaro kan synliggöra värde men också skapa ett nytt kontrollsystem."
+    significance: "Proof of vitality bör bära en etisk skugga om det används."
+
+possible_foreshadowing:
+  - seed: "kranarna som kvarlämnade arbetskroppar"
+    later_use: "Kan förebåda automationens kvarlämnade strukturer och människors nya relation till arbete."
+    files:
+      - "notes/fragments/kranarnas_själ"
+  - seed: "morgonljusets människor på väg till arbete och skola"
+    later_use: "Kan kontrasteras mot framtida barn som lär sig i noder, trädgårdar, workshops och genom AI."
+    files:
+      - "notes/fragments/morgonljusets_folk"
+      - "notes/fragments/fro_om_laxhjalp"
+  - seed: "sjukhusets väntan"
+    later_use: "Kan betala av i Solvinter som system byggt för handling, deltagande och reparation."
+    files:
+      - "notes/fragments/avdelningen"
+      - "notes/fragments/proof_of_vitality"
+  - seed: "Marcus arbetar utan klocka"
+    later_use: "Kan bli första antydan om värde bortom lönearbete."
+    files:
+      - "notes/fragments/faltet"
+  - seed: "Peta och Skepparen talar genom saker som håller"
+    later_use: "Kan bli modell för Solvinters estetiska och tekniska etik."
+    files:
+      - "notes/fragments/mason_peta"
+      - "output/manus/anomaliernas_kosmologi_kortroman_lasutgava_v0_8.md"
+  - seed: "flickan/dotterns dotter frågar från framtiden"
+    later_use: "Kan låta arbetssamhället förklaras som något historiskt märkligt utan tung essä."
+    files:
+      - "notes/fragments/samtal_med_dotter"
+      - "notes/fragments/windey_bay_ii.yaml"
+
+possible_later_payoffs:
+  - payoff: "Betelskeppet som första arkiv över människor utanför arbetslinjen"
+    source_material:
+      - "notes/fragments/skeppets_buk"
+      - "notes/fragments/raw/fageltornet2"
+  - payoff: "Fältets vardag blir prototyp för en ekonomi där närvaro och små handlingar räknas"
+    source_material:
+      - "notes/fragments/faltet"
+      - "notes/fragments/faltets_valuta"
+      - "notes/fragments/raw/faltets_valuta2"
+  - payoff: "Cow Lane visar att automation inte börjar med maskiner utan med lokal kompetens"
+    source_material:
+      - "notes/fragments/cow_lane_rooftops.yaml"
+      - "story_bible/solvinter/economy.yaml"
+  - payoff: "Mumfordnoden låter barn och småföretagare få framtidshorisont utan att lämna platsen"
+    source_material:
+      - "notes/fragments/fro_for_mumfordnoden"
+      - "notes/fragments/fro_om_laxhjalp"
+  - payoff: "Framtida samtal kan vända produktivitetsmoralen till historiskt fenomen"
+    source_material:
+      - "notes/fragments/samtal_med_dotter"
+      - "notes/fragments/windey_bay_ii.yaml"
+
+links_to_solvinter:
+  - link: "Solvinter som kompetensmodell"
+    files:
+      - "story_bible/solvinter/economy.yaml"
+      - "manuscript/fragments/solvinter-brodern-ekonomi.md"
+    summary: "Solvinter skapar lokal kompetens som finns kvar efter projekt, pengar och externa aktörer."
+  - link: "Solvinter som estetisk och osynlig teknologi"
+    files:
+      - "story_bible/solvinter/model.yaml"
+      - "production/expansion_policy.md"
+    summary: "Teknologin ska vara integrerad i rum, hantverk, lärande och funktion."
+  - link: "Solvinter som ekonomisk omtolkning av närvaro"
+    files:
+      - "notes/fragments/faltets_valuta"
+      - "notes/fragments/proof_of_vitality"
+      - "notes/fragments/windey_bay_ii.yaml"
+    summary: "Framtidsfragmenten gör Solvinter till resonant ekonomi där värde kan ligga i deltagande."
+
+links_to_ai:
+  - link: "AI som handledare och infrastruktur"
+    files:
+      - "notes/fragments/fro_for_mumfordnoden"
+      - "notes/fragments/fro_om_laxhjalp"
+      - "story_bible/solvinter/model.yaml"
+    summary: "AI är tutor, minne och organisatör snarare än spektakulär maskin."
+  - link: "AI som ny arbetsmarknad"
+    files:
+      - "manuscript/fragments/solvinter-brodern-ekonomi.md"
+      - "story_bible/solvinter/economy.yaml"
+    summary: "AI-arbete skapar inkomster och kompetens, men måste byggas lokalt för att inte bli kolonial outsourcing."
+  - link: "AI som risk för mätning och kontroll"
+    files:
+      - "notes/fragments/proof_of_vitality"
+      - "notes/fragments/raw/i_vaxthusets_skymning_2"
+    summary: "När vitalitet mäts uppstår frågan om vem som kontrollerar mätningen."
+  - link: "AI som produktionsmetod utanför romanen"
+    files:
+      - "production/authoring_method.md"
+      - "production/creative_contract.md"
+    summary: "Meta-lagret gör AI till litterär verkstad, inte författarens ersättare."
+
+links_to_identity:
+  - link: "namn och yrke"
+    files:
+      - "notes/fragments/upplosning"
+      - "notes/fragments/namnet"
+    summary: "Identitetens sociala läsbarhet är knuten till arbete, namn, roll och rytm."
+  - link: "diagnos och yrkeskapacitet"
+    files:
+      - "notes/fragments/blamärken"
+      - "notes/fragments/vantrummet"
+      - "story_bible/philosophy/core_philosophy.yaml"
+    summary: "Diagnosen kan dölja förmåga lika mycket som den beskriver risk."
+  - link: "anomalier som människor med överbliven kompetens"
+    files:
+      - "notes/fragments/de_forsta_anomalierna.md"
+      - "notes/fragments/raw/fageltornet2"
+    summary: "Utanförskap blir inte bara brist utan felmatchning mellan människa och modell."
+
+links_to_class:
+  - link: "klass och faderns statusordning"
+    files:
+      - "notes/fragments/fadern_blackrocks.yaml"
+      - "notes/fragments/Relationen till fadern var mycket komple"
+      - "notes/fragments/fathers_presence_blackrocks"
+    summary: "Fadern bär en äldre hierarki där egendom, tjänster och rang definierar social verklighet."
+  - link: "klass och vårdens/boendets gränser"
+    files:
+      - "notes/fragments/mellan_olika verkligheter 2"
+      - "notes/fragments/resonansen"
+    summary: "Romanen visar hur långt det är mellan kommunalt boende och professionell medelklass."
+  - link: "algoritmisk klass"
+    files:
+      - "notes/fragments/raw/matematkprofessorn"
+      - "notes/fragments/natverken"
+    summary: "Digitala nätverk kan reproducera klass som uppmärksamhet, data och centralitet."
+
+links_to_psychiatry:
+  - link: "institutionell passivisering"
+    files:
+      - "notes/fragments/avdelningen"
+      - "notes/fragments/kroppen_som_blev_kvar2"
+    summary: "Psykiatrin ger skydd men kan också göra patienten till väntande kropp."
+  - link: "diagnos som karta som döljer människan"
+    files:
+      - "notes/fragments/blamärken"
+      - "notes/fragments/raw/atriumet"
+      - "story_bible/philosophy/core_philosophy.yaml"
+    summary: "Diagnoser kan fungera som hjälp men också som felaktig modell för människovärde."
+  - link: "utanförskap som anomali"
+    files:
+      - "notes/fragments/raw/fageltornet2"
+      - "notes/fragments/raw/atriumet"
+    summary: "Människor i marginalen kan förstås som avvikelser som utmanar systemets kategorier."
+
+links_to_economics:
+  - link: "pengar som syre"
+    files:
+      - "manuscript/fragments/solvinter-brodern-ekonomi.md"
+      - "notes/fragments/solvinter_ekonomi_brodern.md"
+    summary: "Ekonomi är inte själ utan syre: idéer behöver flöde för att överleva."
+  - link: "värde före pengar"
+    files:
+      - "notes/fragments/visionen_vid_vagskalet"
+      - "notes/fragments/den_osynliga_ekonomin.yaml"
+    summary: "Materialet skiljer mellan monetär registrering och verkligt socialt värde."
+  - link: "bidrag som basvärde"
+    files:
+      - "notes/fragments/faltets_valuta"
+      - "notes/fragments/raw/faltets_valuta2"
+      - "notes/fragments/raw/den_levande_kedjan"
+    summary: "Ekonomiska stöd kan tänkas om från passiv kostnad till grundflöde för deltagande."
+  - link: "passiv inkomst och frihet"
+    files:
+      - "notes/fragments/raw/likviditet"
+      - "notes/fragments/blackrocks.md"
+    summary: "Frihet är tidshorisont och förmåga att planera, men materialet är ännu inte fullt utvecklat."
+
+material_that_does_not_fit_cleanly:
+  - material: "production/authoring_method.md och production/creative_contract.md"
+    reason: >
+      De berör AI och arbete, men som produktionens arbetsdelning snarare än
+      romanens värld. Bör inte blandas ihop med Solvinter-temat utan märkning.
+  - material: "notes/fragments/raw/i_vaxthusets_skymning_2"
+    reason: >
+      Har stark tematisk relevans men är tekniskt tungt och riskerar att dra
+      romanen mot kryptomanifest om det används för direkt.
+  - material: "notes/fragments/windey_bay_ii.yaml"
+    reason: >
+      Innehåller tydlig resonant ekonomi, men formen är mycket framtidsarkivisk
+      och kan dominera om den läses som facit.
+  - material: "notes/fragments/blackrocks.md och fadern_blackrocks.yaml"
+    reason: >
+      Har stark koppling till egendom, arbete och status, men handlar också om
+      familjerelation och platsens poesi. Bör inte reduceras till ekonomiskt tema.
+  - material: "notes/fragments/de_forsta_anomalierna.md/.yaml"
+    reason: >
+      Dolda kompetenser och arbetsvärde är tydliga, men fragmentet kan störa
+      den realistiska bågen om anomalierna kommer för tidigt i romanen.
+  - material: "passiv inkomst"
+    reason: >
+      Temat är viktigt i frågeställningen men finns ännu mer som ekonomisk
+      horisont, likviditet, ägande och Solvinterflöde än som konkret scenmaterial.
+
+open_questions:
+  - "Ska romanen låta arbetslinjen kritiseras explicit, eller ska läsaren själv dra slutsatsen genom Betelskeppet, sjukhuset och Fältet?"
+  - "Hur mycket av Solvinters post-work-ekonomi ska gestaltas i realtid och hur mycket ska bara skymta i framtida samtal?"
+  - "Ska passiv inkomst behandlas som moralisk frihet, klassprivilegium, ekonomisk teknik eller allt på en gång?"
+  - "Kan bidragets stigma omformas litterärt utan att romanen blir politisk pamflett?"
+  - "Hur undviker man att proof of vitality blir övervakningsutopi?"
+  - "Vilken scen visar bäst skillnaden mellan arbetslös fritid och förmögen fritid?"
+  - "Behöver protagonistens återgång till läkararbete få en tydligare första arbetsdag som visar både kompetens och skörhet?"
+  - "Ska Skepparen, Peta och Arvid fungera som tre praktiska anomalier: sjö, byggnad, digital teknik?"
+  - "Hur synlig ska klasskonflikten med fadern vara i BlackRocks-bågen?"
+  - "Kan dottern/dotterns dotter bära en enkel framtidsfråga: varför trodde ni att människor måste arbeta för att få vara värda något?"

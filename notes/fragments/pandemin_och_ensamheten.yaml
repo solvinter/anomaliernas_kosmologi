@@ -1,0 +1,42 @@
+---
+id: pandemin_och_ensamheten
+
+status: metadata
+
+type: historical_context
+
+timeline:
+  - covid19_pandemic
+  - psychiatric_inpatient_care
+  - shelters
+  - unstable_housing
+
+themes:
+  - isolation
+  - parallel_worlds
+  - abandonment
+  - social_contrast
+
+facts:
+  - protagonist was admitted to psychiatric inpatient care when the COVID-19 pandemic began
+  - afterwards lived in shelters and unstable housing
+  - most former colleagues and friends isolated with their families during the pandemic
+  - protagonist experienced the period as profound abandonment
+  - in the environments where protagonist later lived the pandemic was rarely the dominant concern
+  - two different realities existed simultaneously
+
+purpose:
+  - explain why the protagonist experienced extreme loneliness
+  - provide historical context without interrupting the narrative
+  - contrast mainstream society with life on the margins
+
+render_guidance:
+  use_only_when_relevant: true
+  reveal_gradually: true
+
+author_intent:
+  preserve:
+    - this is not social criticism
+    - the focus is the protagonist's subjective experience
+    - loneliness is amplified by historical circumstances
+---

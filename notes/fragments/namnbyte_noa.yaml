@@ -1,0 +1,34 @@
+---
+id: namnbyte_noa
+
+status: metadata
+
+type: character_history
+
+timeline:
+  - before_recovery
+
+themes:
+  - identity
+  - self
+  - transformation
+
+facts:
+  - protagonist legally changed his first name from Dominic to Noa
+  - during this period neither name felt entirely like his own
+  - the name change should primarily function as an expression of an identity crisis rather than its explanation
+
+purpose:
+  - support later scenes concerning identity
+  - explain why the protagonist questions who he is
+  - strengthen the novel's recurring exploration of identity
+
+render_guidance:
+  reveal_late: true
+  use_only_when_it_deepens_character
+
+author_intent:
+  preserve:
+    - avoid overexplaining
+    - allow the reader to discover the significance gradually
+---
